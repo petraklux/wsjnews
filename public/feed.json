@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "fefde9d474b3f745",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/nike-falls-out-of-stride-hitting-12-year-low-d0To0oWYno963oaTfaPf",
+      "title": "Nike Falls Out of Stride, Hitting 12-Year Low",
+      "content_text": "Nike Falls Out of Stride, Hitting 12-Year Low",
+      "summary": "",
+      "date_published": "2026-08-17T21:00:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "94b722f6363374b2",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/what-did-brian-moynihan-just-say--OHOQYwwkQxFRdlUa8rDh",
+      "title": "What Did Brian Moynihan Just Say?",
+      "content_text": "What Did Brian Moynihan Just Say?",
+      "summary": "",
+      "date_published": "2026-08-17T20:45:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "34471482aacf1499",
+      "url": "https://www.wsj.com/finance/investing/oil-prices-treasury-yields-rise-with-mideast-concerns-cecc3e36",
+      "title": "Oil Prices, Treasury Yields Rise With Mideast Concerns",
+      "content_text": "Oil Prices, Treasury Yields Rise With Mideast Concerns",
+      "summary": "",
+      "date_published": "2026-08-17T20:42:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "17dd05d086decf1a",
+      "url": "https://www.wsj.com/arts-culture/theater/2026-glimmerglass-festival-review-soaring-highs-brash-lows-2b90ac47",
+      "title": "2026 Glimmerglass Festival Review: Soaring Highs, Brash Lows",
+      "content_text": "2026 Glimmerglass Festival Review: Soaring Highs, Brash Lows",
+      "summary": "",
+      "date_published": "2026-08-17T20:37:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
       "id": "6f3878cdd425632a",
       "url": "https://www.wsj.com/finance/stocks/oil-rises-bond-yields-climb-on-iran-tensions-ba2bb60b",
       "title": "Oil Rises, Bond Yields Climb on Iran Tensions",
@@ -28,17 +72,6 @@
       ]
     },
     {
-      "id": "ed54dcd5d7b22b62",
-      "url": "https://www.wsj.com/opinion/ai-makes-me-a-better-writer-00768b0f",
-      "title": "AI Makes Me a Better Writer",
-      "content_text": "AI Makes Me a Better Writer",
-      "summary": "",
-      "date_published": "2026-08-17T20:20:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
       "id": "14bf7b8f636e20b3",
       "url": "https://www.wsj.com/finance/stocks/u-s-stocks-slip-as-oil-impasse-weighs-on-sentiment-2ad6f70c",
       "title": "U.S. Stocks Slip as Oil Impasse Weighs on Sentiment",
@@ -47,6 +80,17 @@
       "date_published": "2026-08-17T20:20:00+00:00",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "ed54dcd5d7b22b62",
+      "url": "https://www.wsj.com/opinion/ai-makes-me-a-better-writer-00768b0f",
+      "title": "AI Makes Me a Better Writer",
+      "content_text": "AI Makes Me a Better Writer",
+      "summary": "",
+      "date_published": "2026-08-17T20:20:00+00:00",
+      "tags": [
+        "Opinion"
       ]
     },
     {
