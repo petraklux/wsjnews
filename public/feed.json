@@ -1,0 +1,449 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "WSJ 最新（非官方镜像）",
+  "description": "自动聚合 wsj.com 公开的标题与官方导语,并附 AI 生成摘要。全文版权归 Dow Jones & Co. 所有,请点击链接阅读原文。",
+  "home_page_url": "https://www.wsj.com/",
+  "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
+  "items": [
+    {
+      "id": "dfaca1c30c5c8db8",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-strengthen-amid-reduced-fed-rate-hike-expectations-e1f5bdf2",
+      "title": "Asian Currencies Strengthen Amid Reduced Fed Rate-Hike Expectations",
+      "content_text": "Asian Currencies Strengthen Amid Reduced Fed Rate-Hike Expectations",
+      "summary": "",
+      "date_published": "2026-08-17T01:01:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
+      "summary": "",
+      "date_published": "2026-08-17T01:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-08-17T01:00:19+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-08-17T01:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
+      "summary": "",
+      "date_published": "2026-08-17T01:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "5a885d497fa8a917",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview",
+      "title": "The saturday interview",
+      "content_text": "The saturday interview",
+      "summary": "",
+      "date_published": "2026-08-17T01:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "dea6ec2569a2d42b",
+      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
+      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "summary": "",
+      "date_published": "2026-08-17T01:00:19+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
+      "summary": "",
+      "date_published": "2026-08-17T01:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "67a229f9726f9141",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial",
+      "title": "Real estate commercial",
+      "content_text": "Real estate commercial",
+      "summary": "",
+      "date_published": "2026-08-17T01:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "eac8a6b519430b29",
+      "url": "https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2",
+      "title": "Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems",
+      "content_text": "Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems",
+      "summary": "",
+      "date_published": "2026-08-17T01:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "0840d3e3069e0841",
+      "url": "https://www.wsj.com/world/middle-east/iran-plan-escalate-war-cc657664",
+      "title": "Iran’s Secret Plan to Escalate the War",
+      "content_text": "Iran’s Secret Plan to Escalate the War",
+      "summary": "",
+      "date_published": "2026-08-17T01:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "0564492f7de656a9",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-116a91ab",
+      "title": "Gold Rises Amid Risk-On Sentiment",
+      "content_text": "Gold Rises Amid Risk-On Sentiment",
+      "summary": "",
+      "date_published": "2026-08-17T00:58:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "497b255a40000aba",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-5-weaker-2q-gdp-growth-could-prompt-a-boj-hold-0871a0ea",
+      "title": "Nikkei Rises 0.5%; Weaker 2Q GDP Growth Could Prompt a BOJ Hold",
+      "content_text": "Nikkei Rises 0.5%; Weaker 2Q GDP Growth Could Prompt a BOJ Hold",
+      "summary": "",
+      "date_published": "2026-08-17T00:55:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "ca630e7e5febee58",
+      "url": "https://www.wsj.com/articles/corrections-amplifications-1eb7131b",
+      "title": "Corrections & Amplifications",
+      "content_text": "Corrections & Amplifications",
+      "summary": "",
+      "date_published": "2026-08-17T00:51:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "61f9a36b478158dd",
+      "url": "https://www.wsj.com/economy/japans-economy-stays-on-growth-path-but-headwinds-loom-6abb9a34",
+      "title": "Japan’s Economy Stays on Growth Path, But Headwinds Loom",
+      "content_text": "Japan’s Economy Stays on Growth Path, But Headwinds Loom",
+      "summary": "",
+      "date_published": "2026-08-17T00:33:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "0375988c392aaf6a",
+      "url": "https://www.wsj.com/real-estate/commercial/a-flyover-map-of-manhattans-office-to-residential-conversions-3b40b83c",
+      "title": "A Flyover Map of Manhattan’s Office-to-Residential Conversions",
+      "content_text": "A Flyover Map of Manhattan’s Office-to-Residential Conversions",
+      "summary": "",
+      "date_published": "2026-08-17T00:10:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "680894b59551878f",
+      "url": "https://www.wsj.com/economy/housing/abandoned-homes-in-baltimore-are-now-being-fought-over-in-bidding-wars-eee1961e",
+      "title": "Abandoned Homes in Baltimore Are Now Being Fought Over in Bidding Wars",
+      "content_text": "Abandoned Homes in Baltimore Are Now Being Fought Over in Bidding Wars",
+      "summary": "",
+      "date_published": "2026-08-17T00:00:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "205296549e2b009f",
+      "url": "https://www.wsj.com/business/hospitality/how-burger-king-revamped-its-whopper-and-overtook-wendys-cb53596f",
+      "title": "How Burger King Revamped Its Whopper and Overtook Wendy’s",
+      "content_text": "How Burger King Revamped Its Whopper and Overtook Wendy’s",
+      "summary": "",
+      "date_published": "2026-08-17T00:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "bad506320143fd24",
+      "url": "https://www.wsj.com/politics/national-security/trump-orders-cuts-to-u-s-south-korea-military-drills-2bc63cec",
+      "title": "Trump Orders Cuts to U.S.-South Korea Military Drills",
+      "content_text": "Trump Orders Cuts to U.S.-South Korea Military Drills",
+      "summary": "",
+      "date_published": "2026-08-16T23:36:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "6e6a175a36bf8694",
+      "url": "https://www.wsj.com/opinion/the-1-4-trillion-state-tort-raid-on-meta-b2839896",
+      "title": "The $1.4 Trillion State Tort Raid on Meta",
+      "content_text": "The $1.4 Trillion State Tort Raid on Meta",
+      "summary": "",
+      "date_published": "2026-08-16T21:07:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "6c46d19a107ec05b",
+      "url": "https://www.wsj.com/opinion/judge-lee-rudofsky-eighth-circuit-donald-trump-originalism-2619a89a",
+      "title": "Judge Lee Rudofsky to the Eighth Circuit",
+      "content_text": "Judge Lee Rudofsky to the Eighth Circuit",
+      "summary": "",
+      "date_published": "2026-08-16T21:06:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "b9278276398da354",
+      "url": "https://www.wsj.com/opinion/art-laffer-inflation-capital-gains-taxes-republicans-52f6ac64",
+      "title": "Republicans Can End an Inflation Tax",
+      "content_text": "Republicans Can End an Inflation Tax",
+      "summary": "",
+      "date_published": "2026-08-16T21:05:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "d2e66834ea2bef9c",
+      "url": "https://www.wsj.com/opinion/wnba-enes-kanter-royce-white-basketball-910b5953",
+      "title": "Boys Will Be Boys—but in the WNBA?",
+      "content_text": "Boys Will Be Boys—but in the WNBA?",
+      "summary": "",
+      "date_published": "2026-08-16T21:04:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "56c93179f44fcd61",
+      "url": "https://www.wsj.com/finance/prosecutors-focus-on-four-businesses-tied-to-dodgers-owner-mark-walter-965e382b",
+      "title": "Prosecutors Focus on Four Businesses Tied to Dodgers Owner Mark Walter",
+      "content_text": "Prosecutors Focus on Four Businesses Tied to Dodgers Owner Mark Walter",
+      "summary": "",
+      "date_published": "2026-08-16T20:14:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "ff028861285b4dca",
+      "url": "https://www.wsj.com/opinion/warsh-is-wise-to-ditch-the-dots-77ebb5ab",
+      "title": "Warsh Is Wise to Ditch the Dots",
+      "content_text": "Warsh Is Wise to Ditch the Dots",
+      "summary": "",
+      "date_published": "2026-08-16T19:54:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "e856454345714286",
+      "url": "https://www.wsj.com/opinion/this-nursing-home-is-for-the-birds-50dc66d0",
+      "title": "This Nursing Home Is for the Birds",
+      "content_text": "This Nursing Home Is for the Birds",
+      "summary": "",
+      "date_published": "2026-08-16T19:52:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "df05d92d9161ce11",
+      "url": "https://www.wsj.com/opinion/lessons-from-a-sociable-life-b215d024",
+      "title": "Lessons From a Sociable Life",
+      "content_text": "Lessons From a Sociable Life",
+      "summary": "",
+      "date_published": "2026-08-16T19:42:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "17b3bd7926e47c74",
+      "url": "https://www.wsj.com/opinion/sheinbaum-moves-to-gag-mexicos-media-f1cf2202",
+      "title": "Sheinbaum Moves to Gag Mexico’s Media",
+      "content_text": "Sheinbaum Moves to Gag Mexico’s Media",
+      "summary": "",
+      "date_published": "2026-08-16T19:40:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "f1864dccfeed1487",
+      "url": "https://www.wsj.com/opinion/the-new-syria-the-enemy-of-israels-enemy-94a6d076",
+      "title": "The New Syria: The Enemy of Israel’s Enemy",
+      "content_text": "The New Syria: The Enemy of Israel’s Enemy",
+      "summary": "",
+      "date_published": "2026-08-16T19:39:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "856a2d0023ab12f3",
+      "url": "https://www.wsj.com/us-news/climate-environment/historic-floods-hit-indiana-where-death-toll-rises-to-at-least-six-f3d6a74b",
+      "title": "Historic Floods Hit Indiana, Where Death Toll Rises to at Least Six",
+      "content_text": "Historic Floods Hit Indiana, Where Death Toll Rises to at Least Six",
+      "summary": "",
+      "date_published": "2026-08-16T17:40:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "2b26788c4bc662ed",
+      "url": "https://www.wsj.com/opinion/luigi-mangione-and-democrats-obamacare-deflection-809aaab6",
+      "title": "Luigi Mangione and Democrats’ ObamaCare Deflection",
+      "content_text": "Luigi Mangione and Democrats’ ObamaCare Deflection",
+      "summary": "",
+      "date_published": "2026-08-16T16:59:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "149bbac2a02dc4fa",
+      "url": "https://www.wsj.com/opinion/uss-lincoln-performance-for-the-ages-0bd6300d",
+      "title": "USS Lincoln: Performance For the Ages",
+      "content_text": "USS Lincoln: Performance For the Ages",
+      "summary": "",
+      "date_published": "2026-08-16T16:58:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "a50ad68e930ee45b",
+      "url": "https://www.wsj.com/world/americas/brazils-right-has-a-new-bolsonaro-60488a0f",
+      "title": "Brazil’s Right Has a New Bolsonaro",
+      "content_text": "Brazil’s Right Has a New Bolsonaro",
+      "summary": "",
+      "date_published": "2026-08-16T16:22:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "cebced250cb9e4ac",
+      "url": "https://www.wsj.com/personal-finance/a-breakdown-of-the-financial-advice-thats-flying-all-over-tiktok-2c466e70",
+      "title": "A Breakdown of the Financial Advice That’s Flying All Over TikTok",
+      "content_text": "A Breakdown of the Financial Advice That’s Flying All Over TikTok",
+      "summary": "",
+      "date_published": "2026-08-16T16:16:00+00:00",
+      "tags": [
+        "Personal Finance"
+      ]
+    },
+    {
+      "id": "706c6662b98b03c2",
+      "url": "https://www.wsj.com/opinion/disenchantment-with-israel-began-long-ago-1f91f2c5",
+      "title": "Disenchantment With Israel Began Long Ago",
+      "content_text": "Disenchantment With Israel Began Long Ago",
+      "summary": "",
+      "date_published": "2026-08-16T16:06:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "23be4ec40d6c757e",
+      "url": "https://www.wsj.com/opinion/mayor-mamdanis-corporation-blame-game-cad9f59e",
+      "title": "Mayor Mamdani’s Corporation Blame Game",
+      "content_text": "Mayor Mamdani’s Corporation Blame Game",
+      "summary": "",
+      "date_published": "2026-08-16T16:05:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "907885ce7f8d6ee6",
+      "url": "https://www.wsj.com/tech/ai/how-ai-models-from-openai-and-anthropic-went-rogue-a28e29ee",
+      "title": "How AI Models From OpenAI and Anthropic Went Rogue",
+      "content_text": "How AI Models From OpenAI and Anthropic Went Rogue",
+      "summary": "",
+      "date_published": "2026-08-16T16:03:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "33250a565710b479",
+      "url": "https://www.wsj.com/opinion/the-economy-and-midterm-miscalculations-f6628f9d",
+      "title": "The Economy and Midterm Miscalculations",
+      "content_text": "The Economy and Midterm Miscalculations",
+      "summary": "",
+      "date_published": "2026-08-16T15:59:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "d3ddf3274d6e1fb6",
+      "url": "https://www.wsj.com/opinion/geoengineering-will-save-us-9e53a46d",
+      "title": "Geoengineering Will Save Us",
+      "content_text": "Geoengineering Will Save Us",
+      "summary": "",
+      "date_published": "2026-08-16T15:55:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "073ac467cbf3a2c6",
+      "url": "https://www.wsj.com/opinion/dont-rush-codifying-crypto-d8aea286",
+      "title": "Don’t Rush Codifying Crypto",
+      "content_text": "Don’t Rush Codifying Crypto",
+      "summary": "",
+      "date_published": "2026-08-16T15:54:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    }
+  ]
+}

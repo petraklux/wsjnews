@@ -1,1 +1,525 @@
-{"items": {}, "updated": null}
+{
+  "items": {
+    "0038b06dd019061e": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "0038b06dd019061e",
+      "published": "2026-08-17T01:00:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Elizabeth anne bernstein",
+      "title": "Elizabeth anne bernstein",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein"
+    },
+    "0375988c392aaf6a": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "0375988c392aaf6a",
+      "published": "2026-08-17T00:10:00+00:00",
+      "section": "Real Estate",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "A Flyover Map of Manhattan’s Office-to-Residential Conversions",
+      "title": "A Flyover Map of Manhattan’s Office-to-Residential Conversions",
+      "url": "https://www.wsj.com/real-estate/commercial/a-flyover-map-of-manhattans-office-to-residential-conversions-3b40b83c"
+    },
+    "0564492f7de656a9": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "0564492f7de656a9",
+      "published": "2026-08-17T00:58:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Gold Rises Amid Risk-On Sentiment",
+      "title": "Gold Rises Amid Risk-On Sentiment",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-116a91ab"
+    },
+    "073ac467cbf3a2c6": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "073ac467cbf3a2c6",
+      "published": "2026-08-16T15:54:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Don’t Rush Codifying Crypto",
+      "title": "Don’t Rush Codifying Crypto",
+      "url": "https://www.wsj.com/opinion/dont-rush-codifying-crypto-d8aea286"
+    },
+    "0840d3e3069e0841": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "0840d3e3069e0841",
+      "published": "2026-08-17T01:00:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Iran’s Secret Plan to Escalate the War",
+      "title": "Iran’s Secret Plan to Escalate the War",
+      "url": "https://www.wsj.com/world/middle-east/iran-plan-escalate-war-cc657664"
+    },
+    "149bbac2a02dc4fa": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "149bbac2a02dc4fa",
+      "published": "2026-08-16T16:58:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "USS Lincoln: Performance For the Ages",
+      "title": "USS Lincoln: Performance For the Ages",
+      "url": "https://www.wsj.com/opinion/uss-lincoln-performance-for-the-ages-0bd6300d"
+    },
+    "17b3bd7926e47c74": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "17b3bd7926e47c74",
+      "published": "2026-08-16T19:40:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Sheinbaum Moves to Gag Mexico’s Media",
+      "title": "Sheinbaum Moves to Gag Mexico’s Media",
+      "url": "https://www.wsj.com/opinion/sheinbaum-moves-to-gag-mexicos-media-f1cf2202"
+    },
+    "205296549e2b009f": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "205296549e2b009f",
+      "published": "2026-08-17T00:00:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "How Burger King Revamped Its Whopper and Overtook Wendy’s",
+      "title": "How Burger King Revamped Its Whopper and Overtook Wendy’s",
+      "url": "https://www.wsj.com/business/hospitality/how-burger-king-revamped-its-whopper-and-overtook-wendys-cb53596f"
+    },
+    "23be4ec40d6c757e": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "23be4ec40d6c757e",
+      "published": "2026-08-16T16:05:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Mayor Mamdani’s Corporation Blame Game",
+      "title": "Mayor Mamdani’s Corporation Blame Game",
+      "url": "https://www.wsj.com/opinion/mayor-mamdanis-corporation-blame-game-cad9f59e"
+    },
+    "2b26788c4bc662ed": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "2b26788c4bc662ed",
+      "published": "2026-08-16T16:59:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Luigi Mangione and Democrats’ ObamaCare Deflection",
+      "title": "Luigi Mangione and Democrats’ ObamaCare Deflection",
+      "url": "https://www.wsj.com/opinion/luigi-mangione-and-democrats-obamacare-deflection-809aaab6"
+    },
+    "33250a565710b479": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "33250a565710b479",
+      "published": "2026-08-16T15:59:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Economy and Midterm Miscalculations",
+      "title": "The Economy and Midterm Miscalculations",
+      "url": "https://www.wsj.com/opinion/the-economy-and-midterm-miscalculations-f6628f9d"
+    },
+    "497b255a40000aba": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "497b255a40000aba",
+      "published": "2026-08-17T00:55:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Nikkei Rises 0.5%; Weaker 2Q GDP Growth Could Prompt a BOJ Hold",
+      "title": "Nikkei Rises 0.5%; Weaker 2Q GDP Growth Could Prompt a BOJ Hold",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-5-weaker-2q-gdp-growth-could-prompt-a-boj-hold-0871a0ea"
+    },
+    "56c93179f44fcd61": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "56c93179f44fcd61",
+      "published": "2026-08-16T20:14:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Prosecutors Focus on Four Businesses Tied to Dodgers Owner Mark Walter",
+      "title": "Prosecutors Focus on Four Businesses Tied to Dodgers Owner Mark Walter",
+      "url": "https://www.wsj.com/finance/prosecutors-focus-on-four-businesses-tied-to-dodgers-owner-mark-walter-965e382b"
+    },
+    "5a885d497fa8a917": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "5a885d497fa8a917",
+      "published": "2026-08-17T01:00:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The saturday interview",
+      "title": "The saturday interview",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview"
+    },
+    "5bde10fa9f9b2a36": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "5bde10fa9f9b2a36",
+      "published": "2026-08-17T01:00:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Kimberley a strassel",
+      "title": "Kimberley a strassel",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel"
+    },
+    "61f9a36b478158dd": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "61f9a36b478158dd",
+      "published": "2026-08-17T00:33:00+00:00",
+      "section": "Economy",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Japan’s Economy Stays on Growth Path, But Headwinds Loom",
+      "title": "Japan’s Economy Stays on Growth Path, But Headwinds Loom",
+      "url": "https://www.wsj.com/economy/japans-economy-stays-on-growth-path-but-headwinds-loom-6abb9a34"
+    },
+    "67a229f9726f9141": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "67a229f9726f9141",
+      "published": "2026-08-17T01:00:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Real estate commercial",
+      "title": "Real estate commercial",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial"
+    },
+    "680894b59551878f": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "680894b59551878f",
+      "published": "2026-08-17T00:00:00+00:00",
+      "section": "Economy",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Abandoned Homes in Baltimore Are Now Being Fought Over in Bidding Wars",
+      "title": "Abandoned Homes in Baltimore Are Now Being Fought Over in Bidding Wars",
+      "url": "https://www.wsj.com/economy/housing/abandoned-homes-in-baltimore-are-now-being-fought-over-in-bidding-wars-eee1961e"
+    },
+    "6c46d19a107ec05b": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "6c46d19a107ec05b",
+      "published": "2026-08-16T21:06:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Judge Lee Rudofsky to the Eighth Circuit",
+      "title": "Judge Lee Rudofsky to the Eighth Circuit",
+      "url": "https://www.wsj.com/opinion/judge-lee-rudofsky-eighth-circuit-donald-trump-originalism-2619a89a"
+    },
+    "6e6a175a36bf8694": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "6e6a175a36bf8694",
+      "published": "2026-08-16T21:07:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The $1.4 Trillion State Tort Raid on Meta",
+      "title": "The $1.4 Trillion State Tort Raid on Meta",
+      "url": "https://www.wsj.com/opinion/the-1-4-trillion-state-tort-raid-on-meta-b2839896"
+    },
+    "706c6662b98b03c2": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "706c6662b98b03c2",
+      "published": "2026-08-16T16:06:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Disenchantment With Israel Began Long Ago",
+      "title": "Disenchantment With Israel Began Long Ago",
+      "url": "https://www.wsj.com/opinion/disenchantment-with-israel-began-long-ago-1f91f2c5"
+    },
+    "7edb4c1b3acfcc8a": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "7edb4c1b3acfcc8a",
+      "published": "2026-08-17T01:00:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Mary anastasia ogrady",
+      "title": "Mary anastasia ogrady",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady"
+    },
+    "856a2d0023ab12f3": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "856a2d0023ab12f3",
+      "published": "2026-08-16T17:40:00+00:00",
+      "section": "Us News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Historic Floods Hit Indiana, Where Death Toll Rises to at Least Six",
+      "title": "Historic Floods Hit Indiana, Where Death Toll Rises to at Least Six",
+      "url": "https://www.wsj.com/us-news/climate-environment/historic-floods-hit-indiana-where-death-toll-rises-to-at-least-six-f3d6a74b"
+    },
+    "907885ce7f8d6ee6": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "907885ce7f8d6ee6",
+      "published": "2026-08-16T16:03:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "How AI Models From OpenAI and Anthropic Went Rogue",
+      "title": "How AI Models From OpenAI and Anthropic Went Rogue",
+      "url": "https://www.wsj.com/tech/ai/how-ai-models-from-openai-and-anthropic-went-rogue-a28e29ee"
+    },
+    "a2c51ea641c8e80c": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "a2c51ea641c8e80c",
+      "published": "2026-08-17T01:00:19+00:00",
+      "section": "Economy",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Economic forecasting survey archive",
+      "title": "Economic forecasting survey archive",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998"
+    },
+    "a50ad68e930ee45b": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "a50ad68e930ee45b",
+      "published": "2026-08-16T16:22:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Brazil’s Right Has a New Bolsonaro",
+      "title": "Brazil’s Right Has a New Bolsonaro",
+      "url": "https://www.wsj.com/world/americas/brazils-right-has-a-new-bolsonaro-60488a0f"
+    },
+    "b9278276398da354": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "b9278276398da354",
+      "published": "2026-08-16T21:05:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Republicans Can End an Inflation Tax",
+      "title": "Republicans Can End an Inflation Tax",
+      "url": "https://www.wsj.com/opinion/art-laffer-inflation-capital-gains-taxes-republicans-52f6ac64"
+    },
+    "bad506320143fd24": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "bad506320143fd24",
+      "published": "2026-08-16T23:36:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Trump Orders Cuts to U.S.-South Korea Military Drills",
+      "title": "Trump Orders Cuts to U.S.-South Korea Military Drills",
+      "url": "https://www.wsj.com/politics/national-security/trump-orders-cuts-to-u-s-south-korea-military-drills-2bc63cec"
+    },
+    "c7e480583f8ad0fd": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "c7e480583f8ad0fd",
+      "published": "2026-08-17T01:00:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Small business marketing",
+      "title": "Small business marketing",
+      "url": "https://www.wsj.com/news/business/small-business-marketing"
+    },
+    "ca630e7e5febee58": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "ca630e7e5febee58",
+      "published": "2026-08-17T00:51:00+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Corrections & Amplifications",
+      "title": "Corrections & Amplifications",
+      "url": "https://www.wsj.com/articles/corrections-amplifications-1eb7131b"
+    },
+    "cebced250cb9e4ac": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "cebced250cb9e4ac",
+      "published": "2026-08-16T16:16:00+00:00",
+      "section": "Personal Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "A Breakdown of the Financial Advice That’s Flying All Over TikTok",
+      "title": "A Breakdown of the Financial Advice That’s Flying All Over TikTok",
+      "url": "https://www.wsj.com/personal-finance/a-breakdown-of-the-financial-advice-thats-flying-all-over-tiktok-2c466e70"
+    },
+    "d2e66834ea2bef9c": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "d2e66834ea2bef9c",
+      "published": "2026-08-16T21:04:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Boys Will Be Boys—but in the WNBA?",
+      "title": "Boys Will Be Boys—but in the WNBA?",
+      "url": "https://www.wsj.com/opinion/wnba-enes-kanter-royce-white-basketball-910b5953"
+    },
+    "d3ddf3274d6e1fb6": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "d3ddf3274d6e1fb6",
+      "published": "2026-08-16T15:55:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Geoengineering Will Save Us",
+      "title": "Geoengineering Will Save Us",
+      "url": "https://www.wsj.com/opinion/geoengineering-will-save-us-9e53a46d"
+    },
+    "dea6ec2569a2d42b": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "dea6ec2569a2d42b",
+      "published": "2026-08-17T01:00:19+00:00",
+      "section": "Arts Culture",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23"
+    },
+    "df05d92d9161ce11": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "df05d92d9161ce11",
+      "published": "2026-08-16T19:42:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Lessons From a Sociable Life",
+      "title": "Lessons From a Sociable Life",
+      "url": "https://www.wsj.com/opinion/lessons-from-a-sociable-life-b215d024"
+    },
+    "dfaca1c30c5c8db8": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "dfaca1c30c5c8db8",
+      "published": "2026-08-17T01:01:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Asian Currencies Strengthen Amid Reduced Fed Rate-Hike Expectations",
+      "title": "Asian Currencies Strengthen Amid Reduced Fed Rate-Hike Expectations",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-strengthen-amid-reduced-fed-rate-hike-expectations-e1f5bdf2"
+    },
+    "e856454345714286": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "e856454345714286",
+      "published": "2026-08-16T19:52:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "This Nursing Home Is for the Birds",
+      "title": "This Nursing Home Is for the Birds",
+      "url": "https://www.wsj.com/opinion/this-nursing-home-is-for-the-birds-50dc66d0"
+    },
+    "eac8a6b519430b29": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "eac8a6b519430b29",
+      "published": "2026-08-17T01:00:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems",
+      "title": "Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems",
+      "url": "https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2"
+    },
+    "f1864dccfeed1487": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "f1864dccfeed1487",
+      "published": "2026-08-16T19:39:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The New Syria: The Enemy of Israel’s Enemy",
+      "title": "The New Syria: The Enemy of Israel’s Enemy",
+      "url": "https://www.wsj.com/opinion/the-new-syria-the-enemy-of-israels-enemy-94a6d076"
+    },
+    "ff028861285b4dca": {
+      "dek": "",
+      "first_seen": "2026-08-17T01:10:38.903267+00:00",
+      "guid": "ff028861285b4dca",
+      "published": "2026-08-16T19:54:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Warsh Is Wise to Ditch the Dots",
+      "title": "Warsh Is Wise to Ditch the Dots",
+      "url": "https://www.wsj.com/opinion/warsh-is-wise-to-ditch-the-dots-77ebb5ab"
+    }
+  },
+  "updated": "2026-08-17T01:10:38.909138+00:00"
+}
