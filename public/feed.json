@@ -6,6 +6,39 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "7e142861ef141057",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/fed-minutes-retailer-earnings-what-to-watch-this-week-TJdKx1SfsxmQRP7Q9ZHs",
+      "title": "Fed Minutes, Retailer Earnings: What to Watch This Week",
+      "content_text": "Fed Minutes, Retailer Earnings: What to Watch This Week",
+      "summary": "",
+      "date_published": "2026-08-17T08:03:46+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "ee22b0308e677bd1",
+      "url": "https://www.wsj.com/finance/growing-rate-hike-bets-push-10-year-jgb-yield-to-three-decade-high-6a247e97",
+      "title": "Growing Rate-Hike Bets Push 10-Year JGB Yield to Three-Decade High",
+      "content_text": "Growing Rate-Hike Bets Push 10-Year JGB Yield to Three-Decade High",
+      "summary": "",
+      "date_published": "2026-08-17T07:53:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "db4e8d95c4b8b3b5",
+      "url": "https://www.wsj.com/economy/chinas-economic-activity-weakened-in-july-0ce9bde7",
+      "title": "China’s Economic Activity Weakened in July",
+      "content_text": "China’s Economic Activity Weakened in July",
+      "summary": "",
+      "date_published": "2026-08-17T07:20:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
       "id": "033862f3efedc58a",
       "url": "https://www.wsj.com/health/pharma/astrazeneca-ends-phase-three-lung-cancer-drug-trial-after-review-0b63c1d3",
       "title": "AstraZeneca Ends Phase Three Lung Cancer Drug Trial After Review",
@@ -421,6 +454,17 @@
       "date_published": "2026-08-16T17:40:00+00:00",
       "tags": [
         "Us News"
+      ]
+    },
+    {
+      "id": "264963ef34cc35a7",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026",
+      "title": "Stock Market Today: Tech Stocks Set to Gain, Oil Holds Steady",
+      "content_text": "Stock Market Today: Tech Stocks Set to Gain, Oil Holds Steady",
+      "summary": "",
+      "date_published": "2026-08-16T17:15:03+00:00",
+      "tags": [
+        "Front Page"
       ]
     },
     {
