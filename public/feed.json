@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "4920215679d6a46d",
+      "url": "https://www.wsj.com/politics/elections/rural-economic-pain-tests-the-gops-grip-on-a-trump-stronghold-a4cdbe12",
+      "title": "Rural Economic Pain Tests the GOP’s Grip on a Trump Stronghold",
+      "content_text": "Rural Economic Pain Tests the GOP’s Grip on a Trump Stronghold",
+      "summary": "",
+      "date_published": "2026-08-17T02:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "70fe83791668976d",
+      "url": "https://www.wsj.com/business/retail/k-beauty-has-conquered-the-world-chinas-proya-wants-c-beauty-to-be-next-74c43e98",
+      "title": "K-Beauty Has Conquered the World. China’s Proya Wants C-Beauty to Be Next.",
+      "content_text": "K-Beauty Has Conquered the World. China’s Proya Wants C-Beauty to Be Next.",
+      "summary": "",
+      "date_published": "2026-08-17T01:41:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "d09349a626cf8e32",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-mixed-may-be-buoyed-amid-deadlock-in-u-s-iran-talks-384320a7",
+      "title": "Oil Prices Mixed; May Be Buoyed Amid Deadlock in U.S.-Iran Talks",
+      "content_text": "Oil Prices Mixed; May Be Buoyed Amid Deadlock in U.S.-Iran Talks",
+      "summary": "",
+      "date_published": "2026-08-17T01:15:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "b90daab2a50456c9",
+      "url": "https://www.wsj.com/finance/jgb-yield-curve-steepens-slightly-tracking-treasury-yield-curves-steepening-419f9803",
+      "title": "JGBs Fall on Prospects of Faster Pace of BOJ Rate Increases",
+      "content_text": "JGBs Fall on Prospects of Faster Pace of BOJ Rate Increases",
+      "summary": "",
+      "date_published": "2026-08-17T01:12:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "dfaca1c30c5c8db8",
       "url": "https://www.wsj.com/finance/currencies/asian-currencies-strengthen-amid-reduced-fed-rate-hike-expectations-e1f5bdf2",
       "title": "Asian Currencies Strengthen Amid Reduced Fed Rate-Hike Expectations",
@@ -17,43 +61,10 @@
       ]
     },
     {
-      "id": "c7e480583f8ad0fd",
-      "url": "https://www.wsj.com/news/business/small-business-marketing",
-      "title": "Small business marketing",
-      "content_text": "Small business marketing",
-      "summary": "",
-      "date_published": "2026-08-17T01:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "a2c51ea641c8e80c",
-      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
-      "title": "Economic forecasting survey archive",
-      "content_text": "Economic forecasting survey archive",
-      "summary": "",
-      "date_published": "2026-08-17T01:00:19+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
-      "summary": "",
-      "date_published": "2026-08-17T01:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
       "summary": "",
       "date_published": "2026-08-17T01:00:19+00:00",
       "tags": [
@@ -72,21 +83,10 @@
       ]
     },
     {
-      "id": "dea6ec2569a2d42b",
-      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
-      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "summary": "",
-      "date_published": "2026-08-17T01:00:19+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
       "summary": "",
       "date_published": "2026-08-17T01:00:19+00:00",
       "tags": [
@@ -105,14 +105,47 @@
       ]
     },
     {
-      "id": "eac8a6b519430b29",
-      "url": "https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2",
-      "title": "Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems",
-      "content_text": "Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems",
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
       "summary": "",
-      "date_published": "2026-08-17T01:00:00+00:00",
+      "date_published": "2026-08-17T01:00:19+00:00",
       "tags": [
-        "Tech"
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-08-17T01:00:19+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
+      "summary": "",
+      "date_published": "2026-08-17T01:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "dea6ec2569a2d42b",
+      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
+      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "summary": "",
+      "date_published": "2026-08-17T01:00:19+00:00",
+      "tags": [
+        "Arts Culture"
       ]
     },
     {
@@ -124,6 +157,17 @@
       "date_published": "2026-08-17T01:00:00+00:00",
       "tags": [
         "World"
+      ]
+    },
+    {
+      "id": "eac8a6b519430b29",
+      "url": "https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2",
+      "title": "Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems",
+      "content_text": "Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems",
+      "summary": "",
+      "date_published": "2026-08-17T01:00:00+00:00",
+      "tags": [
+        "Tech"
       ]
     },
     {
@@ -182,17 +226,6 @@
       ]
     },
     {
-      "id": "680894b59551878f",
-      "url": "https://www.wsj.com/economy/housing/abandoned-homes-in-baltimore-are-now-being-fought-over-in-bidding-wars-eee1961e",
-      "title": "Abandoned Homes in Baltimore Are Now Being Fought Over in Bidding Wars",
-      "content_text": "Abandoned Homes in Baltimore Are Now Being Fought Over in Bidding Wars",
-      "summary": "",
-      "date_published": "2026-08-17T00:00:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
       "id": "205296549e2b009f",
       "url": "https://www.wsj.com/business/hospitality/how-burger-king-revamped-its-whopper-and-overtook-wendys-cb53596f",
       "title": "How Burger King Revamped Its Whopper and Overtook Wendy’s",
@@ -201,6 +234,17 @@
       "date_published": "2026-08-17T00:00:00+00:00",
       "tags": [
         "Business"
+      ]
+    },
+    {
+      "id": "680894b59551878f",
+      "url": "https://www.wsj.com/economy/housing/abandoned-homes-in-baltimore-are-now-being-fought-over-in-bidding-wars-eee1961e",
+      "title": "Abandoned Homes in Baltimore Are Now Being Fought Over in Bidding Wars",
+      "content_text": "Abandoned Homes in Baltimore Are Now Being Fought Over in Bidding Wars",
+      "summary": "",
+      "date_published": "2026-08-17T00:00:00+00:00",
+      "tags": [
+        "Economy"
       ]
     },
     {
@@ -443,6 +487,402 @@
       "date_published": "2026-08-16T15:54:00+00:00",
       "tags": [
         "Opinion"
+      ]
+    },
+    {
+      "id": "2dde677113f6d2ff",
+      "url": "https://www.wsj.com/articles/how-trumps-ballroom-became-a-military-complex-ff8c5148",
+      "title": "How Trump’s Ballroom Became a ‘Military Complex’",
+      "content_text": "How Trump’s Ballroom Became a ‘Military Complex’",
+      "summary": "",
+      "date_published": "2026-08-16T15:54:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "b0195fc5dcf592a1",
+      "url": "https://www.wsj.com/opinion/aocs-ideological-baggage-af040983",
+      "title": "AOC’s Ideological Baggage",
+      "content_text": "AOC’s Ideological Baggage",
+      "summary": "",
+      "date_published": "2026-08-16T15:53:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "3614bba63baf760d",
+      "url": "https://www.wsj.com/politics/policy/trumps-ballroom-was-his-dream-of-beauty-and-space-now-its-a-military-complex-89a7e230",
+      "title": "Trump’s Ballroom Was His Dream of Beauty and Space. Now It’s a ‘Military Complex.’",
+      "content_text": "Trump’s Ballroom Was His Dream of Beauty and Space. Now It’s a ‘Military Complex.’",
+      "summary": "",
+      "date_published": "2026-08-16T15:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "684df11917c51c10",
+      "url": "https://www.wsj.com/tech/ai/the-bank-of-nvidia-407f5a7a",
+      "title": "The Bank of Nvidia",
+      "content_text": "The Bank of Nvidia",
+      "summary": "",
+      "date_published": "2026-08-16T14:48:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "9781248b1ef59171",
+      "url": "https://www.wsj.com/arts-culture/books/hotel-exile-review-occupiers-and-survivors-3e724b65",
+      "title": "‘Hotel Exile’ Review: Occupiers and Survivors",
+      "content_text": "‘Hotel Exile’ Review: Occupiers and Survivors",
+      "summary": "",
+      "date_published": "2026-08-16T14:30:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "3f070ee673ec82e0",
+      "url": "https://www.wsj.com/world/europe/workers-unearth-10-million-in-gold-under-homeless-shelter-site-in-belgium-ec858009",
+      "title": "Workers Unearth $10 Million in Gold Under Homeless Shelter Site in Belgium",
+      "content_text": "Workers Unearth $10 Million in Gold Under Homeless Shelter Site in Belgium",
+      "summary": "",
+      "date_published": "2026-08-16T14:13:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "adb7a95ba2ef0e97",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/arlington-virginia-home-renovation-29cdf4f1",
+      "title": "A $2.8 Million Home Where Teens Want to Hang With Their Friends—and Parents",
+      "content_text": "A $2.8 Million Home Where Teens Want to Hang With Their Friends—and Parents",
+      "summary": "",
+      "date_published": "2026-08-16T14:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "bcaea7121715843f",
+      "url": "https://www.wsj.com/tech/ai/why-i-told-my-chatbot-to-stop-kissing-up-to-me-62cea3fa",
+      "title": "Why I Told My Chatbot to Stop Kissing Up to Me",
+      "content_text": "Why I Told My Chatbot to Stop Kissing Up to Me",
+      "summary": "",
+      "date_published": "2026-08-16T13:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "44aaeceb0933bd34",
+      "url": "https://www.wsj.com/sports/baseball/joshua-baez-cardinals-mlb-debut-91f2744c",
+      "title": "Three at-Bats, Three Home Runs, and the Greatest Debut in MLB History",
+      "content_text": "Three at-Bats, Three Home Runs, and the Greatest Debut in MLB History",
+      "summary": "",
+      "date_published": "2026-08-16T13:00:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "e33984d1d9f1faa4",
+      "url": "https://www.wsj.com/lifestyle/travel/evs-are-transforming-safarisand-bringing-guests-closer-to-animals-03297fca",
+      "title": "EVs Are Transforming Safaris—And Bringing Guests Closer to Animals",
+      "content_text": "EVs Are Transforming Safaris—And Bringing Guests Closer to Animals",
+      "summary": "",
+      "date_published": "2026-08-16T11:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "797b7f162a308e61",
+      "url": "https://www.wsj.com/world/iran-says-pilots-missing-after-a-brazen-bombing-run-are-prisoners-in-qatar-9095fac0",
+      "title": "Iran Says Pilots Missing After a Brazen Bombing Run Are Prisoners in Qatar",
+      "content_text": "Iran Says Pilots Missing After a Brazen Bombing Run Are Prisoners in Qatar",
+      "summary": "",
+      "date_published": "2026-08-16T11:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "6f58e71dfd73e763",
+      "url": "https://www.wsj.com/articles/how-these-farmers-became-the-face-of-the-data-center-resistance-4da102c5",
+      "title": "How These Farmers Became the Face of the Data-Center Resistance",
+      "content_text": "How These Farmers Became the Face of the Data-Center Resistance",
+      "summary": "",
+      "date_published": "2026-08-16T10:58:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "483dac5b9b08786b",
+      "url": "https://www.wsj.com/world/europe/nato-jets-down-suspected-russian-drone-over-romania-19d66e3d",
+      "title": "NATO Jets Down Suspected Russian Drone Over Romania",
+      "content_text": "NATO Jets Down Suspected Russian Drone Over Romania",
+      "summary": "",
+      "date_published": "2026-08-16T09:52:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "c4032c956bc238dc",
+      "url": "https://www.wsj.com/arts-culture/food-cooking/two-guys-are-eating-their-way-around-the-worldwithout-leaving-new-york-db644769",
+      "title": "Two Guys Are Eating Their Way Around the World—Without Leaving New York",
+      "content_text": "Two Guys Are Eating Their Way Around the World—Without Leaving New York",
+      "summary": "",
+      "date_published": "2026-08-16T09:30:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "2d6563a30a403690",
+      "url": "https://www.wsj.com/us-news/climate-environment/the-colorado-river-is-shrinking-see-how-authorities-are-trying-to-save-it-d43ff9fa",
+      "title": "The Colorado River Is Shrinking. See How Authorities Are Trying to Save It.",
+      "content_text": "The Colorado River Is Shrinking. See How Authorities Are Trying to Save It.",
+      "summary": "",
+      "date_published": "2026-08-16T09:30:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "40ba5d57426bc3d1",
+      "url": "https://www.wsj.com/lifestyle/careers/college-dropouts-diy-mba-90fc5fec",
+      "title": "The DIY M.B.A.: How Four Dropouts Built Companies Without a Degree",
+      "content_text": "The DIY M.B.A.: How Four Dropouts Built Companies Without a Degree",
+      "summary": "",
+      "date_published": "2026-08-16T09:30:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "d07bfe4280d796ad",
+      "url": "https://www.wsj.com/lifestyle/cars/from-piece-of-junk-to-prize-showpiece-the-rise-of-the-everyday-classic-car-3d8b7ad7",
+      "title": "From ‘Piece of Junk’ to Prize Showpiece: The Rise of the Everyday Classic Car",
+      "content_text": "From ‘Piece of Junk’ to Prize Showpiece: The Rise of the Everyday Classic Car",
+      "summary": "",
+      "date_published": "2026-08-16T09:30:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "71745dda1cd26b84",
+      "url": "https://www.wsj.com/tech/ai/open-weight-ai-wont-crimp-demand-for-picks-and-shovels-523e6410",
+      "title": "Open-Weight AI Won’t Crimp Demand for Picks and Shovels",
+      "content_text": "Open-Weight AI Won’t Crimp Demand for Picks and Shovels",
+      "summary": "",
+      "date_published": "2026-08-16T09:30:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "69481fa156ecc959",
+      "url": "https://www.wsj.com/arts-culture/fine-art/arts-calendar-happenings-for-the-week-of-august-16-airdigital-334fbf27",
+      "title": "Arts Calendar: Happenings for the Week of August 16",
+      "content_text": "Arts Calendar: Happenings for the Week of August 16",
+      "summary": "",
+      "date_published": "2026-08-16T09:00:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "a1feb9bf64d7cda8",
+      "url": "https://www.wsj.com/world/china/hengli-china-oil-company-iran-c802475a",
+      "title": "This Sprawling Chinese Refinery Is Bankrolling Tehran",
+      "content_text": "This Sprawling Chinese Refinery Is Bankrolling Tehran",
+      "summary": "",
+      "date_published": "2026-08-16T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "71aae6c5064fd98d",
+      "url": "https://www.wsj.com/economy/central-banking/central-banks-are-stuck-in-a-rinse-and-repeat-cycle-of-crises-47da47e9",
+      "title": "Central Banks Are Stuck in a Rinse-and-Repeat Cycle of Crises",
+      "content_text": "Central Banks Are Stuck in a Rinse-and-Repeat Cycle of Crises",
+      "summary": "",
+      "date_published": "2026-08-16T02:00:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "ce34eea1c4f6b258",
+      "url": "https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16",
+      "title": "The ‘Country Hicks’ Who Refused $26 Million from an AI Data Center",
+      "content_text": "The ‘Country Hicks’ Who Refused $26 Million from an AI Data Center",
+      "summary": "",
+      "date_published": "2026-08-16T01:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "a76ecc293c07ed17",
+      "url": "https://www.wsj.com/finance/investing/stock-picking-funds-are-performing-as-poorly-as-ever-fee28e30",
+      "title": "Stock-Picking Funds Are Performing as Poorly as Ever",
+      "content_text": "Stock-Picking Funds Are Performing as Poorly as Ever",
+      "summary": "",
+      "date_published": "2026-08-16T01:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "bab7795ccc86cc28",
+      "url": "https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25",
+      "title": "AI Is Helping Patients Solve Medical Mysteries",
+      "content_text": "AI Is Helping Patients Solve Medical Mysteries",
+      "summary": "",
+      "date_published": "2026-08-15T23:55:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "451d0189a406e5e0",
+      "url": "https://www.wsj.com/world/middle-east/iran-war-commander-visits-the-uss-abraham-lincoln-ece7a4da",
+      "title": "Iran War Commander Visits the USS Abraham Lincoln",
+      "content_text": "Iran War Commander Visits the USS Abraham Lincoln",
+      "summary": "",
+      "date_published": "2026-08-15T23:02:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "ff18037144ed3d5a",
+      "url": "https://www.wsj.com/world/ukraine-fire-point-ceo-iryna-terekh-drones-d93ec97b",
+      "title": "A Millennial Furniture Designer Is Behind the Drones Battering Russia",
+      "content_text": "A Millennial Furniture Designer Is Behind the Drones Battering Russia",
+      "summary": "",
+      "date_published": "2026-08-15T23:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "d4e07bf5d0e1c293",
+      "url": "https://www.wsj.com/politics/elections/democrats-turn-focus-to-winning-after-months-of-internal-fights-29c49635",
+      "title": "Divided Democrats Urge End to Internal Squabbling",
+      "content_text": "Divided Democrats Urge End to Internal Squabbling",
+      "summary": "",
+      "date_published": "2026-08-15T20:06:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "67a75d17db9127d7",
+      "url": "https://www.wsj.com/business/big-manufacturers-find-new-demand-in-equipping-ai-data-centers-14e869ee",
+      "title": "Big Manufacturers Find New Demand in Equipping AI Data Centers",
+      "content_text": "Big Manufacturers Find New Demand in Equipping AI Data Centers",
+      "summary": "",
+      "date_published": "2026-08-15T18:12:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "6bffa98d281d03db",
+      "url": "https://www.wsj.com/tech/why-buy-it-when-you-can-print-it-a-diy-nation-has-a-fix-for-broken-doodads-d0821b7d",
+      "title": "Why Buy It When You Can Print It? A DIY Nation Has a Fix for Broken Doodads",
+      "content_text": "Why Buy It When You Can Print It? A DIY Nation Has a Fix for Broken Doodads",
+      "summary": "",
+      "date_published": "2026-08-15T17:45:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "677ae23a6d40c8de",
+      "url": "https://www.wsj.com/personal-finance/what-i-learned-from-my-conversations-with-the-superrich-61508304",
+      "title": "What I Learned From My Conversations With the Superrich",
+      "content_text": "What I Learned From My Conversations With the Superrich",
+      "summary": "",
+      "date_published": "2026-08-15T16:06:00+00:00",
+      "tags": [
+        "Personal Finance"
+      ]
+    },
+    {
+      "id": "3b8d6a4cc2650bc8",
+      "url": "https://www.wsj.com/finance/investing/the-risk-amplifying-strategy-that-led-to-big-losses-at-situational-awareness-9e033786",
+      "title": "How a ‘Texas Hedge’ Amplified the Losses at Situational Awareness",
+      "content_text": "How a ‘Texas Hedge’ Amplified the Losses at Situational Awareness",
+      "summary": "",
+      "date_published": "2026-08-15T16:03:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "5acc5303b416a3ef",
+      "url": "https://www.wsj.com/finance/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-dd518a2b",
+      "title": "Trump familys world liberty financial gets preliminary approval to launch a bank",
+      "content_text": "Trump familys world liberty financial gets preliminary approval to launch a bank",
+      "summary": "",
+      "date_published": "2026-08-15T15:39:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "0167612619cdcd5d",
+      "url": "https://www.wsj.com/lifestyle/travel/boomers-are-wealthy-healthy-and-driving-a-global-travel-boom-8dac2ffb",
+      "title": "Boomers Are Wealthy, Healthy and Driving a Global Travel Boom",
+      "content_text": "Boomers Are Wealthy, Healthy and Driving a Global Travel Boom",
+      "summary": "",
+      "date_published": "2026-08-15T15:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "1677a00c68580095",
+      "url": "https://www.wsj.com/arts-culture/food-cooking/new-bar-drinks-zero-proof-db9a48c0",
+      "title": "Bar Menus Are Changing. Here’s What You Should Stock at Home.",
+      "content_text": "Bar Menus Are Changing. Here’s What You Should Stock at Home.",
+      "summary": "",
+      "date_published": "2026-08-15T14:00:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "9abe61cd0acfe222",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/south-windsor-connecticut-home-american-revolution-fa6ac5c8",
+      "title": "Historic Homes: A Connecticut Property That Housed a Revolutionary War Prisoner",
+      "content_text": "Historic Homes: A Connecticut Property That Housed a Revolutionary War Prisoner",
+      "summary": "",
+      "date_published": "2026-08-15T13:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "90f36c63e188ed17",
+      "url": "https://www.wsj.com/style/has-society-reached-peak-pickle-ecf3dab7",
+      "title": "Has Society Reached Peak Pickle?",
+      "content_text": "Has Society Reached Peak Pickle?",
+      "summary": "",
+      "date_published": "2026-08-15T12:25:00+00:00",
+      "tags": [
+        "Style"
       ]
     }
   ]
