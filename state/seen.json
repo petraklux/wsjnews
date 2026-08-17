@@ -1,5 +1,18 @@
 {
   "items": {
+    "0038a6392b041715": {
+      "dek": "",
+      "first_seen": "2026-08-17T19:35:49.540145+00:00",
+      "guid": "0038a6392b041715",
+      "published": "2026-08-17T19:00:00+00:00",
+      "section": "Us News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Tupac Shakur’s Murder Trial: What to Know About the Man Charged in the Shooting",
+      "title": "Tupac Shakur’s Murder Trial: What to Know About the Man Charged in the Shooting",
+      "url": "https://www.wsj.com/us-news/tupac-shakur-duane-davis-trial-468c4882"
+    },
     "0038b06dd019061e": {
       "dek": "",
       "first_seen": "2026-08-17T01:10:38.903267+00:00",
@@ -896,6 +909,19 @@
       "summary": "New York Manufacturing Activity Accelerates in August",
       "title": "New York Manufacturing Activity Accelerates in August",
       "url": "https://www.wsj.com/economy/central-banking/new-york-manufacturing-activity-accelerates-in-august-88911983"
+    },
+    "612a7aad4fa7e465": {
+      "dek": "",
+      "first_seen": "2026-08-17T19:35:49.540145+00:00",
+      "guid": "612a7aad4fa7e465",
+      "published": "2026-08-17T19:27:54+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Stellantis Stock Drops to Multiyear Low After Recall",
+      "title": "Stellantis Stock Drops to Multiyear Low After Recall",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/stellantis-stock-drops-to-multiyear-low-after-recall-N0XnTlw5TMBFEnzSc5q3"
     },
     "61f9a36b478158dd": {
       "dek": "",
@@ -1794,6 +1820,19 @@
       "title": "Small business marketing",
       "url": "https://www.wsj.com/news/business/small-business-marketing"
     },
+    "c808fcd5a55e390b": {
+      "dek": "",
+      "first_seen": "2026-08-17T19:35:49.540145+00:00",
+      "guid": "c808fcd5a55e390b",
+      "published": "2026-08-17T19:05:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "How Space Force Is Fighting Wars Today—and Preparing for the Future",
+      "title": "How Space Force Is Fighting Wars Today—and Preparing for the Future",
+      "url": "https://www.wsj.com/politics/national-security/how-space-force-is-fighting-wars-todayand-preparing-for-the-future-afefedb7"
+    },
     "c8b49721437cfeb2": {
       "dek": "",
       "first_seen": "2026-08-17T16:39:05.680172+00:00",
@@ -2224,5 +2263,5 @@
       "url": "https://www.wsj.com/world/ukraine-fire-point-ceo-iryna-terekh-drones-d93ec97b"
     }
   },
-  "updated": "2026-08-17T18:52:54.842204+00:00"
+  "updated": "2026-08-17T19:35:49.556757+00:00"
 }
