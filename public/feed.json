@@ -6,6 +6,94 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "eb8c690cf0117ca8",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/brighthouse-stock-falls-after-regulator-details-plan-to-scrutinize-deal-6ItANFRWsngMmgv6ua91",
+      "title": "Brighthouse Stock Falls After Regulator Details Plan to Scrutinize Deal",
+      "content_text": "Brighthouse Stock Falls After Regulator Details Plan to Scrutinize Deal",
+      "summary": "",
+      "date_published": "2026-08-17T17:23:24+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "21f2996c98dacf31",
+      "url": "https://www.wsj.com/arts-culture/books/empire-and-frontier-review-king-williams-war-in-america-e9e63a27",
+      "title": "‘Empire and Frontier’ Review: King William’s War in America",
+      "content_text": "‘Empire and Frontier’ Review: King William’s War in America",
+      "summary": "",
+      "date_published": "2026-08-17T17:22:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "c31cc19835c3f0db",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/printed-bed-sheets-9476c41f",
+      "title": "Americans Are Breaking Up With White Bed Sheets",
+      "content_text": "Americans Are Breaking Up With White Bed Sheets",
+      "summary": "",
+      "date_published": "2026-08-17T17:17:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "8c75f6ebf7ebaf3d",
+      "url": "https://www.wsj.com/opinion/trumps-iran-war-gordian-knot-da889c3d",
+      "title": "Trump’s Iran War Gordian Knot",
+      "content_text": "Trump’s Iran War Gordian Knot",
+      "summary": "",
+      "date_published": "2026-08-17T16:44:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "515500b58e7b8cae",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/here-are-big-tech-s-big-spacex-investors-zTtV70jGWpcxqvGCSc0Z",
+      "title": "Here Are Big Tech’s Big SpaceX Investors",
+      "content_text": "Here Are Big Tech’s Big SpaceX Investors",
+      "summary": "",
+      "date_published": "2026-08-17T16:40:25+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "3862d5456b466c29",
+      "url": "https://www.wsj.com/opinion/how-to-cure-what-ails-american-capitalism-52d97161",
+      "title": "How to Cure What Ails American Capitalism",
+      "content_text": "How to Cure What Ails American Capitalism",
+      "summary": "",
+      "date_published": "2026-08-17T16:39:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "3d026080433d39b0",
+      "url": "https://www.wsj.com/health/pharma/health-care-roundup-market-talk-d3182f53",
+      "title": "Health Care Roundup: Market Talk",
+      "content_text": "Health Care Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-17T16:37:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "472a4c45c5025d61",
+      "url": "https://www.wsj.com/politics/policy/trump-administration-moves-to-restore-felons-gun-rights-f6eef4a2",
+      "title": "Trump Administration Moves to Restore Felons’ Gun Rights",
+      "content_text": "Trump Administration Moves to Restore Felons’ Gun Rights",
+      "summary": "",
+      "date_published": "2026-08-17T16:36:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "8e38766afda5841d",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/canada-inflation-heats-up-VLD6dRqAHEcOIxezmwgv",
       "title": "Canada Inflation Heats Up",
@@ -17,17 +105,6 @@
       ]
     },
     {
-      "id": "c8b49721437cfeb2",
-      "url": "https://www.wsj.com/lifestyle/travel/comporta-portugal-trip-itinerary-b6029d79",
-      "title": "Plan Your Trip to This Portugal Beach Town Before Everyone Else Does",
-      "content_text": "Plan Your Trip to This Portugal Beach Town Before Everyone Else Does",
-      "summary": "",
-      "date_published": "2026-08-17T16:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
       "id": "3ece1caaa36b38b1",
       "url": "https://www.wsj.com/sports/football/trinidad-chambliss-ole-miss-ac8c81f4",
       "title": "The Sixth-Year College Quarterback Who Sued to Stay in School",
@@ -36,6 +113,17 @@
       "date_published": "2026-08-17T16:00:00+00:00",
       "tags": [
         "Sports"
+      ]
+    },
+    {
+      "id": "c8b49721437cfeb2",
+      "url": "https://www.wsj.com/lifestyle/travel/comporta-portugal-trip-itinerary-b6029d79",
+      "title": "Plan Your Trip to This Portugal Beach Town Before Everyone Else Does",
+      "content_text": "Plan Your Trip to This Portugal Beach Town Before Everyone Else Does",
+      "summary": "",
+      "date_published": "2026-08-17T16:00:00+00:00",
+      "tags": [
+        "Lifestyle"
       ]
     },
     {
