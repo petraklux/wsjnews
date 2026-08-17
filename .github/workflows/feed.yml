@@ -1,0 +1,79 @@
+name: WSJ RSS
+
+on:
+  schedule:
+    - cron: "7,37 * * * *"      # 每半小时;GitHub cron 有 5~20 分钟漂移属正常
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: wsj-rss
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Build feed
+        env:
+          PYTHONPATH: src
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL || 'https://api.openai.com/v1' }}
+          SUMMARY_MODEL: ${{ vars.SUMMARY_MODEL || 'gpt-4o-mini' }}
+          SUMMARY_LANG: zh
+          SUMMARY_MAX_ITEMS: "25"
+          MAX_CHANNEL_AGE_H: "12"
+          MAX_ITEM_AGE_DAYS: "14"
+          FAIL_ON_STALE: "true"
+          RESPECT_ROBOTS: "true"
+          FETCH_META: "true"
+          PROXY_URL: ${{ secrets.PROXY_URL }}     # 可选
+        run: python src/main.py
+
+      - name: Show status
+        if: always()
+        run: cat public/status.json || echo "(无 status.json)"
+
+      - name: Commit state & output
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state public
+          if git diff --cached --quiet; then
+            echo "无变更,跳过提交"; exit 0
+          fi
+          git commit -m "chore(feed): update $(date -u +%FT%TZ)"
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin "${{ github.ref_name }}" \
+              && git push && exit 0
+            sleep 5
+          done
+          exit 1
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
