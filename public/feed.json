@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "c16e19aa510487fe",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-2467a79b",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-08-18T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "663fcad007b867eb",
+      "url": "https://www.wsj.com/articles/whats-news-worldwide-36d2aa5b",
+      "title": "What’s News: Worldwide",
+      "content_text": "What’s News: Worldwide",
+      "summary": "",
+      "date_published": "2026-08-18T03:15:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "1608b51d45f7c703",
       "url": "https://www.wsj.com/world/uk/crackdown-on-sidewalk-drinking-pits-british-pubgoers-against-the-fun-police-5206b403",
       "title": "Crackdown on Sidewalk Drinking Pits British Pubgoers Against the ‘Fun Police’",
@@ -157,6 +179,17 @@
       "date_published": "2026-08-17T23:24:00+00:00",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "ac220ec436a99afb",
+      "url": "https://www.wsj.com/articles/whats-news-business-finance-24066f50",
+      "title": "What’s News: Business & Finance",
+      "content_text": "What’s News: Business & Finance",
+      "summary": "",
+      "date_published": "2026-08-17T22:34:00+00:00",
+      "tags": [
+        "Front Page"
       ]
     },
     {
@@ -2170,39 +2203,6 @@
       "date_published": "2026-08-15T14:00:00+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "9abe61cd0acfe222",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/south-windsor-connecticut-home-american-revolution-fa6ac5c8",
-      "title": "Historic Homes: A Connecticut Property That Housed a Revolutionary War Prisoner",
-      "content_text": "Historic Homes: A Connecticut Property That Housed a Revolutionary War Prisoner",
-      "summary": "",
-      "date_published": "2026-08-15T13:00:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "90f36c63e188ed17",
-      "url": "https://www.wsj.com/style/has-society-reached-peak-pickle-ecf3dab7",
-      "title": "Has Society Reached Peak Pickle?",
-      "content_text": "Has Society Reached Peak Pickle?",
-      "summary": "",
-      "date_published": "2026-08-15T12:25:00+00:00",
-      "tags": [
-        "Style"
-      ]
-    },
-    {
-      "id": "a5838e931a8250da",
-      "url": "https://www.wsj.com/cmo-today/whats-next-for-mark-walters-sports-empire-f7beb3df",
-      "title": "What’s Next for Mark Walter’s Sports Empire?",
-      "content_text": "What’s Next for Mark Walter’s Sports Empire?",
-      "summary": "",
-      "date_published": "2026-08-15T11:55:00+00:00",
-      "tags": [
-        "Cmo Today"
       ]
     }
   ]

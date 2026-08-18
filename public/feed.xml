@@ -8,8 +8,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 18 Aug 2026 03:53:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 04:45:32 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Pepper…and Salt</title>
+      <link>https://www.wsj.com/opinion/pepperand-salt-2467a79b</link>
+      <description>&lt;p&gt;Pepper…and Salt&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/opinion/pepperand-salt-2467a79b"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">c16e19aa510487fe</guid>
+      <category>Opinion</category>
+      <pubDate>Tue, 18 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s News: Worldwide</title>
+      <link>https://www.wsj.com/articles/whats-news-worldwide-36d2aa5b</link>
+      <description>&lt;p&gt;What’s News: Worldwide&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/articles/whats-news-worldwide-36d2aa5b"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">663fcad007b867eb</guid>
+      <category>Front Page</category>
+      <pubDate>Tue, 18 Aug 2026 03:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>Crackdown on Sidewalk Drinking Pits British Pubgoers Against the ‘Fun Police’</title>
       <link>https://www.wsj.com/world/uk/crackdown-on-sidewalk-drinking-pits-british-pubgoers-against-the-fun-police-5206b403</link>
@@ -121,6 +137,14 @@
       <guid isPermaLink="false">aa0fe1bff7d2218d</guid>
       <category>Finance</category>
       <pubDate>Mon, 17 Aug 2026 23:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s News: Business &amp; Finance</title>
+      <link>https://www.wsj.com/articles/whats-news-business-finance-24066f50</link>
+      <description>&lt;p&gt;What’s News: Business &amp; Finance&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/articles/whats-news-business-finance-24066f50"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">ac220ec436a99afb</guid>
+      <category>Front Page</category>
+      <pubDate>Mon, 17 Aug 2026 22:34:00 +0000</pubDate>
     </item>
     <item>
       <title>Trump Romances Kim Jong Un Again</title>
@@ -1585,30 +1609,6 @@
       <guid isPermaLink="false">1677a00c68580095</guid>
       <category>Arts Culture</category>
       <pubDate>Sat, 15 Aug 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Historic Homes: A Connecticut Property That Housed a Revolutionary War Prisoner</title>
-      <link>https://www.wsj.com/real-estate/luxury-homes/south-windsor-connecticut-home-american-revolution-fa6ac5c8</link>
-      <description>&lt;p&gt;Historic Homes: A Connecticut Property That Housed a Revolutionary War Prisoner&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/real-estate/luxury-homes/south-windsor-connecticut-home-american-revolution-fa6ac5c8"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">9abe61cd0acfe222</guid>
-      <category>Real Estate</category>
-      <pubDate>Sat, 15 Aug 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Has Society Reached Peak Pickle?</title>
-      <link>https://www.wsj.com/style/has-society-reached-peak-pickle-ecf3dab7</link>
-      <description>&lt;p&gt;Has Society Reached Peak Pickle?&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/style/has-society-reached-peak-pickle-ecf3dab7"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">90f36c63e188ed17</guid>
-      <category>Style</category>
-      <pubDate>Sat, 15 Aug 2026 12:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What’s Next for Mark Walter’s Sports Empire?</title>
-      <link>https://www.wsj.com/cmo-today/whats-next-for-mark-walters-sports-empire-f7beb3df</link>
-      <description>&lt;p&gt;What’s Next for Mark Walter’s Sports Empire?&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/cmo-today/whats-next-for-mark-walters-sports-empire-f7beb3df"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">a5838e931a8250da</guid>
-      <category>Cmo Today</category>
-      <pubDate>Sat, 15 Aug 2026 11:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
