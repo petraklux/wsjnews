@@ -6,6 +6,61 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "4bd3ea6a6e4a15d6",
+      "url": "https://www.wsj.com/world/middle-east/syria-takes-major-step-to-come-clean-on-past-nuclear-program-e41b6754",
+      "title": "Syria Takes Major Step to Come Clean on Past Nuclear Program",
+      "content_text": "Syria Takes Major Step to Come Clean on Past Nuclear Program",
+      "summary": "",
+      "date_published": "2026-08-18T20:24:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "2372b49a874536b8",
+      "url": "https://www.wsj.com/finance/investing/bond-rout-sends-tech-stocks-lower-f8b4c8f6",
+      "title": "Bond Rout Sends Tech Stocks Lower",
+      "content_text": "Bond Rout Sends Tech Stocks Lower",
+      "summary": "",
+      "date_published": "2026-08-18T20:22:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "3f224d871d856578",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/chip-stocks-and-data-center-plays-just-got-clobbered-5f5jfbygHPiLMaWHTCV9",
+      "title": "Chip Stocks and Data Center Plays Just Got Clobbered",
+      "content_text": "Chip Stocks and Data Center Plays Just Got Clobbered",
+      "summary": "",
+      "date_published": "2026-08-18T20:20:15+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "c696a507f7f7d57e",
+      "url": "https://www.wsj.com/finance/stocks/u-s-tech-stocks-slip-as-bond-yields-hit-decade-highs-iran-truce-expires-122be523",
+      "title": "U.S. Tech Stocks Slip as Bond Yields Hit Decade Highs; Iran Truce Expires",
+      "content_text": "U.S. Tech Stocks Slip as Bond Yields Hit Decade Highs; Iran Truce Expires",
+      "summary": "",
+      "date_published": "2026-08-18T20:19:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "9ef1ef6523fdece0",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/-money-quote-the-bond-deluge-driving-today-s-selloff-l3BYSkm4kAPHWvZ6ApyL",
+      "title": "💬 Money Quote: The Bond Deluge Driving Today’s Selloff",
+      "content_text": "💬 Money Quote: The Bond Deluge Driving Today’s Selloff",
+      "summary": "",
+      "date_published": "2026-08-18T20:04:13+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "8c8b38fc07813a6b",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/carvana-stock-falls-amid-concerns-about-walter-probe-ayJnjRuMoSuxwjiZsop4",
       "title": "Carvana Stock Falls Amid Concerns About Walter Probe",
@@ -2148,61 +2203,6 @@
       "date_published": "2026-08-17T11:14:00+00:00",
       "tags": [
         "Politics"
-      ]
-    },
-    {
-      "id": "69c5b6b1eabd8c4b",
-      "url": "https://www.wsj.com/politics/pentagon-rotates-aircraft-carriers-showing-toll-of-the-iran-war-4fe8a57e",
-      "title": "Pentagon Rotates Aircraft Carriers, Showing Toll of the Iran War",
-      "content_text": "Pentagon Rotates Aircraft Carriers, Showing Toll of the Iran War",
-      "summary": "",
-      "date_published": "2026-08-17T11:03:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "51efba43de89b6c9",
-      "url": "https://www.wsj.com/logistics-report/warehouse-operators-accelerate-automation-750f055b",
-      "title": "Warehouse Operators Accelerate Automation",
-      "content_text": "Warehouse Operators Accelerate Automation",
-      "summary": "",
-      "date_published": "2026-08-17T10:55:00+00:00",
-      "tags": [
-        "Logistics Report"
-      ]
-    },
-    {
-      "id": "150d2c257fe2b9d6",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-0d4fbb15",
-      "title": "Basic Materials Roundup: Market Talk",
-      "content_text": "Basic Materials Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-17T10:45:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "402e12d2d0d973db",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-13394e4d",
-      "title": "Auto & Transport Roundup: Market Talk",
-      "content_text": "Auto & Transport Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-17T10:42:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "0b03388edd05a0f7",
-      "url": "https://www.wsj.com/world/asia/trump-tries-old-move-to-woo-a-more-powerful-kim-jong-un-3e7a3bde",
-      "title": "Trump Tries Old Move to Woo a More Powerful Kim Jong Un",
-      "content_text": "Trump Tries Old Move to Woo a More Powerful Kim Jong Un",
-      "summary": "",
-      "date_published": "2026-08-17T10:41:00+00:00",
-      "tags": [
-        "World"
       ]
     }
   ]
