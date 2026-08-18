@@ -6,6 +6,61 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "322ed881c9d824a8",
+      "url": "https://www.wsj.com/economy/housing/new-housing-law-boosts-prospects-for-factory-built-homes-3ae6bece",
+      "title": "New Housing Law Boosts Prospects for Factory-Built Homes",
+      "content_text": "New Housing Law Boosts Prospects for Factory-Built Homes",
+      "summary": "",
+      "date_published": "2026-08-18T14:40:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "25132c92398000d0",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-edges-up-in-range-bound-trade-ef2a1d58",
+      "title": "U.S. Natural Gas Edges Up in Range-Bound Trade",
+      "content_text": "U.S. Natural Gas Edges Up in Range-Bound Trade",
+      "summary": "",
+      "date_published": "2026-08-18T14:34:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "32c506fb03cd8fd5",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/buy-now-discount-later-klarna-heads-for-second-worst-daily-drop-4pfeP3FjPPSy2a1NmJRO",
+      "title": "Buy Now, Discount Later: Klarna Heads for Second-Worst Daily Drop",
+      "content_text": "Buy Now, Discount Later: Klarna Heads for Second-Worst Daily Drop",
+      "summary": "",
+      "date_published": "2026-08-18T14:33:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "bd0d84e939d710e8",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/spencer-jakab-how-to-spend-it-big-oil-edition-qilb28y5oNHT3qgBdPD7",
+      "title": "Spencer Jakab | How to Spend It, Big Oil Edition",
+      "content_text": "Spencer Jakab | How to Spend It, Big Oil Edition",
+      "summary": "",
+      "date_published": "2026-08-18T14:09:10+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "be9f342332e20912",
+      "url": "https://www.wsj.com/arts-culture/books/fiction-the-song-of-stork-and-dromedary-by-anjet-daanje-3cc288fb",
+      "title": "Fiction: ‘The Song of Stork and Dromedary’ by Anjet Daanje",
+      "content_text": "Fiction: ‘The Song of Stork and Dromedary’ by Anjet Daanje",
+      "summary": "",
+      "date_published": "2026-08-18T14:09:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
       "id": "1e0f6426586a2233",
       "url": "https://www.wsj.com/economy/housing/u-s-housing-starts-dropped-in-july-96b4f96a",
       "title": "U.S. Housing Starts Dropped in July",
@@ -2148,61 +2203,6 @@
       "date_published": "2026-08-17T00:33:00+00:00",
       "tags": [
         "Economy"
-      ]
-    },
-    {
-      "id": "0375988c392aaf6a",
-      "url": "https://www.wsj.com/real-estate/commercial/a-flyover-map-of-manhattans-office-to-residential-conversions-3b40b83c",
-      "title": "A Flyover Map of Manhattan’s Office-to-Residential Conversions",
-      "content_text": "A Flyover Map of Manhattan’s Office-to-Residential Conversions",
-      "summary": "",
-      "date_published": "2026-08-17T00:10:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "205296549e2b009f",
-      "url": "https://www.wsj.com/business/hospitality/how-burger-king-revamped-its-whopper-and-overtook-wendys-cb53596f",
-      "title": "How Burger King Revamped Its Whopper and Overtook Wendy’s",
-      "content_text": "How Burger King Revamped Its Whopper and Overtook Wendy’s",
-      "summary": "",
-      "date_published": "2026-08-17T00:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "680894b59551878f",
-      "url": "https://www.wsj.com/economy/housing/abandoned-homes-in-baltimore-are-now-being-fought-over-in-bidding-wars-eee1961e",
-      "title": "Abandoned Homes in Baltimore Are Now Being Fought Over in Bidding Wars",
-      "content_text": "Abandoned Homes in Baltimore Are Now Being Fought Over in Bidding Wars",
-      "summary": "",
-      "date_published": "2026-08-17T00:00:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "bad506320143fd24",
-      "url": "https://www.wsj.com/politics/national-security/trump-orders-cuts-to-u-s-south-korea-military-drills-2bc63cec",
-      "title": "Trump Orders Cuts to U.S.-South Korea Military Drills",
-      "content_text": "Trump Orders Cuts to U.S.-South Korea Military Drills",
-      "summary": "",
-      "date_published": "2026-08-16T23:36:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "6e6a175a36bf8694",
-      "url": "https://www.wsj.com/opinion/the-1-4-trillion-state-tort-raid-on-meta-b2839896",
-      "title": "The $1.4 Trillion State Tort Raid on Meta",
-      "content_text": "The $1.4 Trillion State Tort Raid on Meta",
-      "summary": "",
-      "date_published": "2026-08-16T21:07:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
