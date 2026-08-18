@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "f1f804817904b895",
+      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-5a01ffeb",
+      "title": "Health Care Roundup: Market Talk",
+      "content_text": "Health Care Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-18T11:43:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "8cf640c1b03f0bc1",
+      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-062b9cbe",
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "content_text": "Energy & Utilities Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-18T11:37:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "1a62c22eb88c9509",
       "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-f65308ca",
       "title": "Auto & Transport Roundup: Market Talk",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-16T16:06:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "23be4ec40d6c757e",
-      "url": "https://www.wsj.com/opinion/mayor-mamdanis-corporation-blame-game-cad9f59e",
-      "title": "Mayor Mamdani’s Corporation Blame Game",
-      "content_text": "Mayor Mamdani’s Corporation Blame Game",
-      "summary": "",
-      "date_published": "2026-08-16T16:05:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "907885ce7f8d6ee6",
-      "url": "https://www.wsj.com/tech/ai/how-ai-models-from-openai-and-anthropic-went-rogue-a28e29ee",
-      "title": "How AI Models From OpenAI and Anthropic Went Rogue",
-      "content_text": "How AI Models From OpenAI and Anthropic Went Rogue",
-      "summary": "",
-      "date_published": "2026-08-16T16:03:00+00:00",
-      "tags": [
-        "Tech"
       ]
     }
   ]

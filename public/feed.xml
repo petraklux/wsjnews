@@ -8,8 +8,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 18 Aug 2026 11:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:56:53 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Health Care Roundup: Market Talk</title>
+      <link>https://www.wsj.com/business/health-care-roundup-market-talk-5a01ffeb</link>
+      <description>&lt;p&gt;Health Care Roundup: Market Talk&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/business/health-care-roundup-market-talk-5a01ffeb"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">f1f804817904b895</guid>
+      <category>Business</category>
+      <pubDate>Tue, 18 Aug 2026 11:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Energy &amp; Utilities Roundup: Market Talk</title>
+      <link>https://www.wsj.com/business/energy-utilities-roundup-market-talk-062b9cbe</link>
+      <description>&lt;p&gt;Energy &amp; Utilities Roundup: Market Talk&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/business/energy-utilities-roundup-market-talk-062b9cbe"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">8cf640c1b03f0bc1</guid>
+      <category>Business</category>
+      <pubDate>Tue, 18 Aug 2026 11:37:00 +0000</pubDate>
+    </item>
     <item>
       <title>Auto &amp; Transport Roundup: Market Talk</title>
       <link>https://www.wsj.com/business/auto-transport-roundup-market-talk-f65308ca</link>
@@ -1593,22 +1609,6 @@
       <guid isPermaLink="false">706c6662b98b03c2</guid>
       <category>Opinion</category>
       <pubDate>Sun, 16 Aug 2026 16:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mayor Mamdani’s Corporation Blame Game</title>
-      <link>https://www.wsj.com/opinion/mayor-mamdanis-corporation-blame-game-cad9f59e</link>
-      <description>&lt;p&gt;Mayor Mamdani’s Corporation Blame Game&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/opinion/mayor-mamdanis-corporation-blame-game-cad9f59e"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">23be4ec40d6c757e</guid>
-      <category>Opinion</category>
-      <pubDate>Sun, 16 Aug 2026 16:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How AI Models From OpenAI and Anthropic Went Rogue</title>
-      <link>https://www.wsj.com/tech/ai/how-ai-models-from-openai-and-anthropic-went-rogue-a28e29ee</link>
-      <description>&lt;p&gt;How AI Models From OpenAI and Anthropic Went Rogue&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/tech/ai/how-ai-models-from-openai-and-anthropic-went-rogue-a28e29ee"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">907885ce7f8d6ee6</guid>
-      <category>Tech</category>
-      <pubDate>Sun, 16 Aug 2026 16:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
