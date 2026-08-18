@@ -6,6 +6,39 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "1608b51d45f7c703",
+      "url": "https://www.wsj.com/world/uk/crackdown-on-sidewalk-drinking-pits-british-pubgoers-against-the-fun-police-5206b403",
+      "title": "Crackdown on Sidewalk Drinking Pits British Pubgoers Against the ‘Fun Police’",
+      "content_text": "Crackdown on Sidewalk Drinking Pits British Pubgoers Against the ‘Fun Police’",
+      "summary": "",
+      "date_published": "2026-08-18T03:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "1afb1821ef47d501",
+      "url": "https://www.wsj.com/world/middle-east/iran-backed-houthis-threaten-coast-along-red-sea-chokepoint-01fba4cf",
+      "title": "Iran-Backed Houthis Threaten Coast Along Red Sea Chokepoint",
+      "content_text": "Iran-Backed Houthis Threaten Coast Along Red Sea Chokepoint",
+      "summary": "",
+      "date_published": "2026-08-18T03:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "81e007a341266259",
+      "url": "https://www.wsj.com/world/europe/see-how-europes-rivers-are-drying-up-and-threatening-its-economy-8447228a",
+      "title": "See How Europe’s Rivers Are Drying Up and Threatening Its Economy",
+      "content_text": "See How Europe’s Rivers Are Drying Up and Threatening Its Economy",
+      "summary": "",
+      "date_published": "2026-08-18T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "3a8ad35c9bb61362",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-gains-as-easing-fed-hike-expectations-pressure-dollar-a99082c0",
       "title": "Gold Gains as Easing Fed Hike Expectations Pressure Dollar",
@@ -94,10 +127,10 @@
       ]
     },
     {
-      "id": "a767ddb05315fa4f",
-      "url": "https://www.wsj.com/world/uk/cambridge-professors-death-sparks-soul-searching-over-where-to-lay-the-blame-6e25cf2f",
-      "title": "Cambridge Professor’s Death Sparks Soul-Searching Over Where to Lay the Blame",
-      "content_text": "Cambridge Professor’s Death Sparks Soul-Searching Over Where to Lay the Blame",
+      "id": "5463581cf20dc1ab",
+      "url": "https://www.wsj.com/world/middle-east/why-trump-oman-threats-5db5ab5f",
+      "title": "Why Trump Is Threatening Again to Bomb Oman",
+      "content_text": "Why Trump Is Threatening Again to Bomb Oman",
       "summary": "",
       "date_published": "2026-08-18T00:00:00+00:00",
       "tags": [
@@ -105,10 +138,10 @@
       ]
     },
     {
-      "id": "5463581cf20dc1ab",
-      "url": "https://www.wsj.com/world/middle-east/why-trump-oman-threats-5db5ab5f",
-      "title": "Why Trump Is Threatening Again to Bomb Oman",
-      "content_text": "Why Trump Is Threatening Again to Bomb Oman",
+      "id": "a767ddb05315fa4f",
+      "url": "https://www.wsj.com/world/uk/cambridge-professors-death-sparks-soul-searching-over-where-to-lay-the-blame-6e25cf2f",
+      "title": "Cambridge Professor’s Death Sparks Soul-Searching Over Where to Lay the Blame",
+      "content_text": "Cambridge Professor’s Death Sparks Soul-Searching Over Where to Lay the Blame",
       "summary": "",
       "date_published": "2026-08-18T00:00:00+00:00",
       "tags": [
@@ -2170,39 +2203,6 @@
       "date_published": "2026-08-15T11:55:00+00:00",
       "tags": [
         "Cmo Today"
-      ]
-    },
-    {
-      "id": "a78301ab1df07f12",
-      "url": "https://www.wsj.com/lifestyle/fiction-reality-check-conspiracy-theories-77b89101",
-      "title": "Fiction Offers a Reality Check for Conspiracy Theories",
-      "content_text": "Fiction Offers a Reality Check for Conspiracy Theories",
-      "summary": "",
-      "date_published": "2026-08-15T11:50:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "4fba9412ac94774d",
-      "url": "https://www.wsj.com/arts-culture/fine-art/musical-bodies-review-a-human-symphony-at-the-met-museum-a3e2a885",
-      "title": "‘Musical Bodies’ Review: A Human Symphony at the Met Museum",
-      "content_text": "‘Musical Bodies’ Review: A Human Symphony at the Met Museum",
-      "summary": "",
-      "date_published": "2026-08-15T11:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "7372e35a3843dfff",
-      "url": "https://www.wsj.com/arts-culture/music/boston-a-potent-rock-band-debut-turns-50-729c40f3",
-      "title": "‘Boston,’ a Potent Rock-Band Debut, Turns 50",
-      "content_text": "‘Boston,’ a Potent Rock-Band Debut, Turns 50",
-      "summary": "",
-      "date_published": "2026-08-15T11:00:00+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]
