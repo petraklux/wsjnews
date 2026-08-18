@@ -6,6 +6,39 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "cc2ba566f0d9db7f",
+      "url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998",
+      "title": "OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic",
+      "content_text": "OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic",
+      "summary": "",
+      "date_published": "2026-08-18T22:29:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "ca710144144b6782",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/bond-yields-are-moving-in-lock-step-with-term-premiums-3ETYNlOf6cQbogeDFBAD",
+      "title": "Bond Yields Are Moving in Lock-Step With Term Premiums",
+      "content_text": "Bond Yields Are Moving in Lock-Step With Term Premiums",
+      "summary": "",
+      "date_published": "2026-08-18T22:19:24+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "14776ffbed69e567",
+      "url": "https://www.wsj.com/opinion/transgender-surgeries-minors-taxpayers-cms-rule-mehmet-oz-ba7fc264",
+      "title": "Medicaid and Transgender Treatments for Kids",
+      "content_text": "Medicaid and Transgender Treatments for Kids",
+      "summary": "",
+      "date_published": "2026-08-18T21:50:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
       "id": "90a957dc3c4c3138",
       "url": "https://www.wsj.com/world/americas/why-canadas-booze-ban-is-such-a-sore-point-in-trade-talks-c6677014",
       "title": "Why Canada’s Booze Ban Is Such a Sore Point in Trade Talks",
@@ -28,17 +61,6 @@
       ]
     },
     {
-      "id": "83353ac7354e009f",
-      "url": "https://www.wsj.com/opinion/bond-market-interest-rates-investing-economy-59c092c1",
-      "title": "High Anxiety in the Bond Market",
-      "content_text": "High Anxiety in the Bond Market",
-      "summary": "",
-      "date_published": "2026-08-18T21:32:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
       "id": "4f02a5160b7eaf45",
       "url": "https://www.wsj.com/politics/elections/florida-primary-election-results-ee13ff09",
       "title": "Trump Ally Tries to Make History in Florida Election",
@@ -47,6 +69,17 @@
       "date_published": "2026-08-18T21:32:00+00:00",
       "tags": [
         "Politics"
+      ]
+    },
+    {
+      "id": "83353ac7354e009f",
+      "url": "https://www.wsj.com/opinion/bond-market-interest-rates-investing-economy-59c092c1",
+      "title": "High Anxiety in the Bond Market",
+      "content_text": "High Anxiety in the Bond Market",
+      "summary": "",
+      "date_published": "2026-08-18T21:32:00+00:00",
+      "tags": [
+        "Opinion"
       ]
     },
     {
@@ -2168,39 +2201,6 @@
       "content_text": "📹 Watch: How to Make Inflation Work for Your Portfolio",
       "summary": "",
       "date_published": "2026-08-17T15:34:52+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "302206aa6ed45ab7",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026",
-      "title": "Stock Market Today: Bond Rout Deepens",
-      "content_text": "Stock Market Today: Bond Rout Deepens",
-      "summary": "",
-      "date_published": "2026-08-17T15:06:26+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "bafcfcc1de7325f5",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-with-losses-f508041f",
-      "title": "U.S. Natural Gas Futures Start Week With Losses",
-      "content_text": "U.S. Natural Gas Futures Start Week With Losses",
-      "summary": "",
-      "date_published": "2026-08-17T14:35:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "dc40a52b3042a85a",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/-ai-related-stocks-are-advancing-wLelgavTbvIxvypETQTQ",
-      "title": "🤖 AI-Related Stocks Are Advancing",
-      "content_text": "🤖 AI-Related Stocks Are Advancing",
-      "summary": "",
-      "date_published": "2026-08-17T14:29:26+00:00",
       "tags": [
         "Front Page"
       ]
