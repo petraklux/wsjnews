@@ -6,6 +6,116 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "3a8ad35c9bb61362",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-gains-as-easing-fed-hike-expectations-pressure-dollar-a99082c0",
+      "title": "Gold Gains as Easing Fed Hike Expectations Pressure Dollar",
+      "content_text": "Gold Gains as Easing Fed Hike Expectations Pressure Dollar",
+      "summary": "",
+      "date_published": "2026-08-18T01:03:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "32134beba4a15e2a",
+      "url": "https://www.wsj.com/finance/walter-dodgers-lakers-investigation-3e114ef9",
+      "title": "The Web of Hidden Deals That Snared the Dodgers Owner in a Federal Probe",
+      "content_text": "The Web of Hidden Deals That Snared the Dodgers Owner in a Federal Probe",
+      "summary": "",
+      "date_published": "2026-08-18T01:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "02fc935e7ea66faa",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-rising-oil-prices-may-weigh-47795bc1",
+      "title": "South Korean Won’s Strength Could Weigh on GDP, GDI Growth",
+      "content_text": "South Korean Won’s Strength Could Weigh on GDP, GDI Growth",
+      "summary": "",
+      "date_published": "2026-08-18T00:55:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "09ce6dc9bc84a90a",
+      "url": "https://www.wsj.com/politics/policy/trump-allies-flood-iowa-to-shore-up-shaky-republicans-c6a9510d",
+      "title": "Trump Allies Flood Iowa to Shore Up Shaky Republicans",
+      "content_text": "Trump Allies Flood Iowa to Shore Up Shaky Republicans",
+      "summary": "",
+      "date_published": "2026-08-18T00:52:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "3f80ff8edbc5bb1f",
+      "url": "https://www.wsj.com/finance/jgbs-fall-amid-expectations-for-faster-pace-of-boj-rate-increases-1895b06c",
+      "title": "JGBs Fall Amid Expectations for Faster Pace of BOJ Rate Increases",
+      "content_text": "JGBs Fall Amid Expectations for Faster Pace of BOJ Rate Increases",
+      "summary": "",
+      "date_published": "2026-08-18T00:39:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "18ecd846be2f8428",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-lack-of-progress-in-u-s-iran-talks-to-reopen-strait-of-hormuz-df55d861",
+      "title": "Oil Rises Amid Lack of Progress in U.S.-Iran Talks to Reopen Strait of Hormuz",
+      "content_text": "Oil Rises Amid Lack of Progress in U.S.-Iran Talks to Reopen Strait of Hormuz",
+      "summary": "",
+      "date_published": "2026-08-18T00:22:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "f93a213e8cc6ba00",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-7-tracking-wall-streets-losses-4f0d7ddd",
+      "title": "Nikkei Falls 0.7%, Tracking Wall Street’s Losses",
+      "content_text": "Nikkei Falls 0.7%, Tracking Wall Street’s Losses",
+      "summary": "",
+      "date_published": "2026-08-18T00:18:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "188fc434fb68d589",
+      "url": "https://www.wsj.com/business/earnings/bhp-annual-profit-rises-on-record-high-copper-prices-9a833258",
+      "title": "BHP Annual Profit Rises On Record-High Copper Prices",
+      "content_text": "BHP Annual Profit Rises On Record-High Copper Prices",
+      "summary": "",
+      "date_published": "2026-08-18T00:11:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "a767ddb05315fa4f",
+      "url": "https://www.wsj.com/world/uk/cambridge-professors-death-sparks-soul-searching-over-where-to-lay-the-blame-6e25cf2f",
+      "title": "Cambridge Professor’s Death Sparks Soul-Searching Over Where to Lay the Blame",
+      "content_text": "Cambridge Professor’s Death Sparks Soul-Searching Over Where to Lay the Blame",
+      "summary": "",
+      "date_published": "2026-08-18T00:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "5463581cf20dc1ab",
+      "url": "https://www.wsj.com/world/middle-east/why-trump-oman-threats-5db5ab5f",
+      "title": "Why Trump Is Threatening Again to Bomb Oman",
+      "content_text": "Why Trump Is Threatening Again to Bomb Oman",
+      "summary": "",
+      "date_published": "2026-08-18T00:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "aa0fe1bff7d2218d",
       "url": "https://www.wsj.com/finance/investing/how-wall-street-sussed-out-that-situational-awareness-was-on-the-ropes-6aa8b39d",
       "title": "How Wall Street Sussed Out That Situational Awareness Was On the Ropes",
@@ -2093,116 +2203,6 @@
       "date_published": "2026-08-15T11:00:00+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "3903d0ebbee7095f",
-      "url": "https://www.wsj.com/tech/personal-tech/on-billionaire-bunker-buying-a-mansion-is-easy-getting-into-the-club-isnt-f1bda8be",
-      "title": "On ‘Billionaire Bunker,’ Buying a Mansion Is Easy. Getting Into the Club Isn’t.",
-      "content_text": "On ‘Billionaire Bunker,’ Buying a Mansion Is Easy. Getting Into the Club Isn’t.",
-      "summary": "",
-      "date_published": "2026-08-15T10:55:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "6e894fad877235b9",
-      "url": "https://www.wsj.com/business/media/news-quiz-for-august-15-2026-3ed888a1",
-      "title": "News Quiz for August 15, 2026",
-      "content_text": "News Quiz for August 15, 2026",
-      "summary": "",
-      "date_published": "2026-08-15T10:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "3d34d5ea77862632",
-      "url": "https://www.wsj.com/lifestyle/relationships/the-drama-filled-finale-of-a-girls-trip-to-ibiza-planned-via-group-chat-9debc10b",
-      "title": "The Drama-Filled Finale of a Girls’ Trip to Ibiza, Planned Via Group Chat",
-      "content_text": "The Drama-Filled Finale of a Girls’ Trip to Ibiza, Planned Via Group Chat",
-      "summary": "",
-      "date_published": "2026-08-15T09:30:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "622dfc43c61f2940",
-      "url": "https://www.wsj.com/lifestyle/cars/ford-maverick-xl-review-8fc9f828",
-      "title": "Ford’s Maverick XL Is a Low-Tech Nostalgia Trap",
-      "content_text": "Ford’s Maverick XL Is a Low-Tech Nostalgia Trap",
-      "summary": "",
-      "date_published": "2026-08-15T09:30:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "69cc17a988707555",
-      "url": "https://www.wsj.com/tech/ai/the-summer-that-america-became-a-nation-of-luddites-5e6dc3e7",
-      "title": "The Summer That America Became a Nation of Luddites",
-      "content_text": "The Summer That America Became a Nation of Luddites",
-      "summary": "",
-      "date_published": "2026-08-15T09:30:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "ca633361563a349c",
-      "url": "https://www.wsj.com/business/autos/gm-ford-tariffs-87b02b95",
-      "title": "Ford and GM Are Locked in a New Battle Over Who’s the Most American Carmaker",
-      "content_text": "Ford and GM Are Locked in a New Battle Over Who’s the Most American Carmaker",
-      "summary": "",
-      "date_published": "2026-08-15T09:30:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "cda7f49479109ec1",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/miami-florida-indian-creek-country-club-9f8b4f01",
-      "title": "Miami florida indian creek country club",
-      "content_text": "Miami florida indian creek country club",
-      "summary": "",
-      "date_published": "2026-08-15T08:51:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "1709b4f2790d599c",
-      "url": "https://www.wsj.com/opinion/pepperand-salt-fc7e6dc8",
-      "title": "Pepper…and Salt",
-      "content_text": "Pepper…and Salt",
-      "summary": "",
-      "date_published": "2026-08-15T04:01:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "c76e400d2ad4805d",
-      "url": "https://www.wsj.com/articles/whats-news-worldwide-31288019",
-      "title": "What’s News: Worldwide",
-      "content_text": "What’s News: Worldwide",
-      "summary": "",
-      "date_published": "2026-08-15T01:38:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "d74b95884ac6ebbb",
-      "url": "https://www.wsj.com/articles/whats-news-business-finance-ad3d8349",
-      "title": "What’s News: Business & Finance",
-      "content_text": "What’s News: Business & Finance",
-      "summary": "",
-      "date_published": "2026-08-15T01:29:00+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
