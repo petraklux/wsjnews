@@ -6,6 +6,127 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "1a62c22eb88c9509",
+      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-f65308ca",
+      "title": "Auto & Transport Roundup: Market Talk",
+      "content_text": "Auto & Transport Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-18T11:33:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "ee1c1eb3ec767817",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/hot-commodity-the-ai-buildout-is-supercharging-copper-XzIBe0NLXV0wswoaqegx",
+      "title": "Hot Commodity: The AI Buildout Is Supercharging Copper",
+      "content_text": "Hot Commodity: The AI Buildout Is Supercharging Copper",
+      "summary": "",
+      "date_published": "2026-08-18T11:30:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "091e3f342ed5f79f",
+      "url": "https://www.wsj.com/cfo-journal/sharkninja-is-building-an-ai-tool-to-monitor-profitability-in-real-time-9106e5c8",
+      "title": "SharkNinja Is Building an AI Tool to Monitor Profitability in Real Time",
+      "content_text": "SharkNinja Is Building an AI Tool to Monitor Profitability in Real Time",
+      "summary": "",
+      "date_published": "2026-08-18T11:27:00+00:00",
+      "tags": [
+        "Cfo Journal"
+      ]
+    },
+    {
+      "id": "4d1930ec9256a61f",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-38252cec",
+      "title": "Basic Materials Roundup: Market Talk",
+      "content_text": "Basic Materials Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-18T11:27:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "be9ad4bedbfdfca5",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-51b3510f",
+      "title": "Financial Services Roundup: Market Talk",
+      "content_text": "Financial Services Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-18T11:22:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "9086947701ff1620",
+      "url": "https://www.wsj.com/world/middle-east/the-morning-risk-report-l3harris-ousts-ceo-after-investigation-into-conduct-d65739d6",
+      "title": "The Morning Risk Report: L3Harris Ousts CEO After Investigation Into Conduct",
+      "content_text": "The Morning Risk Report: L3Harris Ousts CEO After Investigation Into Conduct",
+      "summary": "",
+      "date_published": "2026-08-18T11:14:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "fb66ef5fae3e3c46",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-73284ee7",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-18T11:07:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "45376a23b08a6fcd",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/homeowners-are-holding-off-on-big-projects-home-depot-says-bohasvQmc2h7wsv7N77v",
+      "title": "Homeowners Are Holding Off on Big Projects, Home Depot Says",
+      "content_text": "Homeowners Are Holding Off on Big Projects, Home Depot Says",
+      "summary": "",
+      "date_published": "2026-08-18T11:06:31+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "9eb225da650c0c20",
+      "url": "https://www.wsj.com/tech/personal-tech/openai-chatgpt-for-teens-bc0e9d39",
+      "title": "What Parents Need to Know About OpenAI’s New ChatGPT for Teens",
+      "content_text": "What Parents Need to Know About OpenAI’s New ChatGPT for Teens",
+      "summary": "",
+      "date_published": "2026-08-18T11:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "72a45ac357660df9",
+      "url": "https://www.wsj.com/logistics-report/houthi-threat-to-red-sea-shipping-rises-161d2def",
+      "title": "Houthi Threat to Red Sea Shipping Rises",
+      "content_text": "Houthi Threat to Red Sea Shipping Rises",
+      "summary": "",
+      "date_published": "2026-08-18T10:55:00+00:00",
+      "tags": [
+        "Logistics Report"
+      ]
+    },
+    {
+      "id": "ad66461899b98269",
+      "url": "https://www.wsj.com/politics/policy/white-house-aide-natalie-harp-is-at-center-of-messy-brawl-7277a0fd",
+      "title": "White House Aide Natalie Harp Is at Center of Messy Brawl",
+      "content_text": "White House Aide Natalie Harp Is at Center of Messy Brawl",
+      "summary": "",
+      "date_published": "2026-08-18T10:39:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "35e10e4908add492",
       "url": "https://www.wsj.com/finance/stocks/big-oils-liabilities-are-shrinking-whats-next-c2242dbf",
       "title": "Big Oil’s Liabilities Are Shrinking. What’s Next?",
@@ -61,17 +182,6 @@
       ]
     },
     {
-      "id": "e7ec6064b739c7a9",
-      "url": "https://www.wsj.com/finance/investing/the-hidden-financial-deals-that-put-the-dodgers-owner-in-the-crosshairs-of-the-feds-3a54ebc1",
-      "title": "The Hidden Financial Deals That Put the Dodgers Owner in the Crosshairs of the Feds",
-      "content_text": "The Hidden Financial Deals That Put the Dodgers Owner in the Crosshairs of the Feds",
-      "summary": "",
-      "date_published": "2026-08-18T10:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "9976f37aafa9740e",
       "url": "https://www.wsj.com/sports/soccer/mourinho-real-madrid-9907e636",
       "title": "The Most Devious Chaos Agent in Sports Is Back—and He’s Plotting One Final Coup",
@@ -83,14 +193,14 @@
       ]
     },
     {
-      "id": "110a8e3fa4d2f4fc",
-      "url": "https://www.wsj.com/business/the-crucial-moment-that-companies-miss-after-they-oust-a-ceo-fd9483cc",
-      "title": "The Crucial Moment That Companies Miss After They Oust a CEO",
-      "content_text": "The Crucial Moment That Companies Miss After They Oust a CEO",
+      "id": "e7ec6064b739c7a9",
+      "url": "https://www.wsj.com/finance/investing/the-hidden-financial-deals-that-put-the-dodgers-owner-in-the-crosshairs-of-the-feds-3a54ebc1",
+      "title": "The Hidden Financial Deals That Put the Dodgers Owner in the Crosshairs of the Feds",
+      "content_text": "The Hidden Financial Deals That Put the Dodgers Owner in the Crosshairs of the Feds",
       "summary": "",
-      "date_published": "2026-08-18T09:50:00+00:00",
+      "date_published": "2026-08-18T10:00:00+00:00",
       "tags": [
-        "Business"
+        "Finance"
       ]
     },
     {
@@ -98,6 +208,17 @@
       "url": "https://www.wsj.com/business/earnings/baidus-profit-revenue-continue-to-fall-as-it-pivots-to-ai-509fd2e1",
       "title": "Baidu’s Profit, Revenue Continue to Fall as It Pivots to AI",
       "content_text": "Baidu’s Profit, Revenue Continue to Fall as It Pivots to AI",
+      "summary": "",
+      "date_published": "2026-08-18T09:50:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "110a8e3fa4d2f4fc",
+      "url": "https://www.wsj.com/business/the-crucial-moment-that-companies-miss-after-they-oust-a-ceo-fd9483cc",
+      "title": "The Crucial Moment That Companies Miss After They Oust a CEO",
+      "content_text": "The Crucial Moment That Companies Miss After They Oust a CEO",
       "summary": "",
       "date_published": "2026-08-18T09:50:00+00:00",
       "tags": [
@@ -2082,127 +2203,6 @@
       "date_published": "2026-08-16T16:03:00+00:00",
       "tags": [
         "Tech"
-      ]
-    },
-    {
-      "id": "33250a565710b479",
-      "url": "https://www.wsj.com/opinion/the-economy-and-midterm-miscalculations-f6628f9d",
-      "title": "The Economy and Midterm Miscalculations",
-      "content_text": "The Economy and Midterm Miscalculations",
-      "summary": "",
-      "date_published": "2026-08-16T15:59:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "d3ddf3274d6e1fb6",
-      "url": "https://www.wsj.com/opinion/geoengineering-will-save-us-9e53a46d",
-      "title": "Geoengineering Will Save Us",
-      "content_text": "Geoengineering Will Save Us",
-      "summary": "",
-      "date_published": "2026-08-16T15:55:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "073ac467cbf3a2c6",
-      "url": "https://www.wsj.com/opinion/dont-rush-codifying-crypto-d8aea286",
-      "title": "Don’t Rush Codifying Crypto",
-      "content_text": "Don’t Rush Codifying Crypto",
-      "summary": "",
-      "date_published": "2026-08-16T15:54:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "2dde677113f6d2ff",
-      "url": "https://www.wsj.com/articles/how-trumps-ballroom-became-a-military-complex-ff8c5148",
-      "title": "How Trump’s Ballroom Became a ‘Military Complex’",
-      "content_text": "How Trump’s Ballroom Became a ‘Military Complex’",
-      "summary": "",
-      "date_published": "2026-08-16T15:54:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "b0195fc5dcf592a1",
-      "url": "https://www.wsj.com/opinion/aocs-ideological-baggage-af040983",
-      "title": "AOC’s Ideological Baggage",
-      "content_text": "AOC’s Ideological Baggage",
-      "summary": "",
-      "date_published": "2026-08-16T15:53:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "3614bba63baf760d",
-      "url": "https://www.wsj.com/politics/policy/trumps-ballroom-was-his-dream-of-beauty-and-space-now-its-a-military-complex-89a7e230",
-      "title": "Trump’s Ballroom Was His Dream of Beauty and Space. Now It’s a ‘Military Complex.’",
-      "content_text": "Trump’s Ballroom Was His Dream of Beauty and Space. Now It’s a ‘Military Complex.’",
-      "summary": "",
-      "date_published": "2026-08-16T15:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "684df11917c51c10",
-      "url": "https://www.wsj.com/tech/ai/the-bank-of-nvidia-407f5a7a",
-      "title": "The Bank of Nvidia",
-      "content_text": "The Bank of Nvidia",
-      "summary": "",
-      "date_published": "2026-08-16T14:48:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "9781248b1ef59171",
-      "url": "https://www.wsj.com/arts-culture/books/hotel-exile-review-occupiers-and-survivors-3e724b65",
-      "title": "‘Hotel Exile’ Review: Occupiers and Survivors",
-      "content_text": "‘Hotel Exile’ Review: Occupiers and Survivors",
-      "summary": "",
-      "date_published": "2026-08-16T14:30:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "3f070ee673ec82e0",
-      "url": "https://www.wsj.com/world/europe/workers-unearth-10-million-in-gold-under-homeless-shelter-site-in-belgium-ec858009",
-      "title": "Workers Unearth $10 Million in Gold Under Homeless Shelter Site in Belgium",
-      "content_text": "Workers Unearth $10 Million in Gold Under Homeless Shelter Site in Belgium",
-      "summary": "",
-      "date_published": "2026-08-16T14:13:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "adb7a95ba2ef0e97",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/arlington-virginia-home-renovation-29cdf4f1",
-      "title": "A $2.8 Million Home Where Teens Want to Hang With Their Friends—and Parents",
-      "content_text": "A $2.8 Million Home Where Teens Want to Hang With Their Friends—and Parents",
-      "summary": "",
-      "date_published": "2026-08-16T14:00:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "44aaeceb0933bd34",
-      "url": "https://www.wsj.com/sports/baseball/joshua-baez-cardinals-mlb-debut-91f2744c",
-      "title": "Three at-Bats, Three Home Runs, and the Greatest Debut in MLB History",
-      "content_text": "Three at-Bats, Three Home Runs, and the Greatest Debut in MLB History",
-      "summary": "",
-      "date_published": "2026-08-16T13:00:00+00:00",
-      "tags": [
-        "Sports"
       ]
     }
   ]
