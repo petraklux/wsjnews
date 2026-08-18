@@ -6,6 +6,72 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "82eb8f02f8318898",
+      "url": "https://www.wsj.com/us-news/climate-environment/trump-administration-moves-to-open-millions-of-national-forest-acres-to-logging-c9067e1a",
+      "title": "Trump Administration Moves to Open Millions of National-Forest Acres to Logging",
+      "content_text": "Trump Administration Moves to Open Millions of National-Forest Acres to Logging",
+      "summary": "",
+      "date_published": "2026-08-18T19:23:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "b4eac7f9a46a608a",
+      "url": "https://www.wsj.com/us-news/pennsylvania-becomes-latest-state-to-restrict-data-center-construction-dd421307",
+      "title": "Pennsylvania Becomes Latest State to Restrict Data-Center Construction",
+      "content_text": "Pennsylvania Becomes Latest State to Restrict Data-Center Construction",
+      "summary": "",
+      "date_published": "2026-08-18T19:15:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "29433e4912f90a69",
+      "url": "https://www.wsj.com/opinion/if-el-sayed-and-sanders-kill-private-health-plans-da2303f0",
+      "title": "If El-Sayed and Sanders Kill Private Health Plans",
+      "content_text": "If El-Sayed and Sanders Kill Private Health Plans",
+      "summary": "",
+      "date_published": "2026-08-18T19:07:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "86f9b910ab506e75",
+      "url": "https://www.wsj.com/lifestyle/survivor-host-jeff-probst-on-work-life-balance-and-being-an-introvert-97f5f730",
+      "title": "‘Survivor’ Host Jeff Probst on Work-Life Balance and Being an Introvert",
+      "content_text": "‘Survivor’ Host Jeff Probst on Work-Life Balance and Being an Introvert",
+      "summary": "",
+      "date_published": "2026-08-18T19:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "ec593c0bbce147b5",
+      "url": "https://www.wsj.com/finance/investing/inside-the-race-to-build-americas-first-nuclear-reactor-in-a-generation-b17ea0c2",
+      "title": "Inside the Race to Build America’s First Nuclear Reactor in a Generation",
+      "content_text": "Inside the Race to Build America’s First Nuclear Reactor in a Generation",
+      "summary": "",
+      "date_published": "2026-08-18T18:56:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "b3c5fabb5def6949",
+      "url": "https://www.wsj.com/politics/sexual-misconduct-scandals-pile-up-in-midterms-c48dcb87",
+      "title": "Sexual Misconduct Scandals Pile Up in Midterms",
+      "content_text": "Sexual Misconduct Scandals Pile Up in Midterms",
+      "summary": "",
+      "date_published": "2026-08-18T18:53:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "6dbf03e148f91182",
       "url": "https://www.wsj.com/us-news/minnesota-suit-alleges-texas-governor-refuses-to-extradite-ice-officer-62aff875",
       "title": "Minnesota Suit Alleges Texas Governor Refuses to Extradite ICE Officer",
@@ -28,17 +94,6 @@
       ]
     },
     {
-      "id": "607e1de8edbd9fbe",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/arthur-creator-marc-brown-marthas-vineyard-home-e1b3c9fc",
-      "title": "‘Arthur’ Creator Marc Brown Sells Martha’s Vineyard Home for $6.4 Million",
-      "content_text": "‘Arthur’ Creator Marc Brown Sells Martha’s Vineyard Home for $6.4 Million",
-      "summary": "",
-      "date_published": "2026-08-18T18:05:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
       "id": "5d5da7560886aee5",
       "url": "https://www.wsj.com/cio-journal/harvey-remakes-its-ai-legal-platform-by-adding-memory-cf3f6563",
       "title": "Harvey Remakes Its AI Legal Platform by Adding Memory",
@@ -47,6 +102,17 @@
       "date_published": "2026-08-18T18:05:00+00:00",
       "tags": [
         "Cio Journal"
+      ]
+    },
+    {
+      "id": "607e1de8edbd9fbe",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/arthur-creator-marc-brown-marthas-vineyard-home-e1b3c9fc",
+      "title": "‘Arthur’ Creator Marc Brown Sells Martha’s Vineyard Home for $6.4 Million",
+      "content_text": "‘Arthur’ Creator Marc Brown Sells Martha’s Vineyard Home for $6.4 Million",
+      "summary": "",
+      "date_published": "2026-08-18T18:05:00+00:00",
+      "tags": [
+        "Real Estate"
       ]
     },
     {
@@ -2137,72 +2203,6 @@
       "date_published": "2026-08-17T10:38:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "32c39f35a7b3f5b9",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-56efa474",
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-17T10:34:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "b66e3aaca6dd6bf6",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/the-ai-spending-iceberg-EyfMYTUrLnfqXP3KRlGN",
-      "title": "The AI Spending Iceberg",
-      "content_text": "The AI Spending Iceberg",
-      "summary": "",
-      "date_published": "2026-08-17T10:24:57+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "f7f16923b2cf26c7",
-      "url": "https://www.wsj.com/world/europe/arcelormittal-says-two-killed-in-missile-strike-on-ukraine-facility-98bfb001",
-      "title": "ArcelorMittal Says Two Killed in Missile Strike on Ukraine Facility",
-      "content_text": "ArcelorMittal Says Two Killed in Missile Strike on Ukraine Facility",
-      "summary": "",
-      "date_published": "2026-08-17T10:19:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "1dee91912bdbb08d",
-      "url": "https://www.wsj.com/finance/stocks/home-improvements-hangover-could-last-90cb961d",
-      "title": "Home Improvement’s Hangover Could Last",
-      "content_text": "Home Improvement’s Hangover Could Last",
-      "summary": "",
-      "date_published": "2026-08-17T10:17:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "0a9132484ab51215",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/japanese-bond-yield-hits-30-year-high-gU5eZ5mYr8xUDVvpkley",
-      "title": "Japanese Bond Yield Hits 30-Year High",
-      "content_text": "Japanese Bond Yield Hits 30-Year High",
-      "summary": "",
-      "date_published": "2026-08-17T10:04:13+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "082c437ff06ab270",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/exclusive-rubik-s-cube-maker-is-buying-an-ai-company-DLgHZhHg9j9OQKhuwDyl",
-      "title": "Exclusive: Rubik’s Cube Maker Is Buying an AI Company",
-      "content_text": "Exclusive: Rubik’s Cube Maker Is Buying an AI Company",
-      "summary": "",
-      "date_published": "2026-08-17T10:00:02+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
