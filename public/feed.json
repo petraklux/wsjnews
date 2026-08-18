@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "1e0f6426586a2233",
+      "url": "https://www.wsj.com/economy/housing/u-s-housing-starts-dropped-in-july-96b4f96a",
+      "title": "U.S. Housing Starts Dropped in July",
+      "content_text": "U.S. Housing Starts Dropped in July",
+      "summary": "",
+      "date_published": "2026-08-18T13:32:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "6d6fd09582d1c64d",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/housing-starts-disappoint-JZXvBxYe0w1VhVfuC9ib",
+      "title": "Housing Starts Disappoint",
+      "content_text": "Housing Starts Disappoint",
+      "summary": "",
+      "date_published": "2026-08-18T13:23:21+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "3aa643b8098746c8",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/global-fund-managers-ultra-bullish-on-stocks-survey-finds-PTwijiE649bWgcdNKdg0",
+      "title": "Global Fund Managers Ultra-Bullish on Stocks, Survey Finds",
+      "content_text": "Global Fund Managers Ultra-Bullish on Stocks, Survey Finds",
+      "summary": "",
+      "date_published": "2026-08-18T13:15:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "8666716d6ad55501",
+      "url": "https://www.wsj.com/economy/housing/canada-housing-starts-drop-in-july-even-as-home-sales-continue-to-rise-bd99aaa9",
+      "title": "Canada Housing Starts Drop in July Even as Home Sales Continue to Rise",
+      "content_text": "Canada Housing Starts Drop in July Even as Home Sales Continue to Rise",
+      "summary": "",
+      "date_published": "2026-08-18T13:08:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
       "id": "51d7f94a8ee6430f",
       "url": "https://www.wsj.com/business/airlines/american-is-adding-seat-back-screens-to-more-than-800-planes-14088607",
       "title": "American Is Adding Seat-Back Screens to More Than 800 Planes",
@@ -2159,50 +2203,6 @@
       "date_published": "2026-08-16T21:07:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "6c46d19a107ec05b",
-      "url": "https://www.wsj.com/opinion/judge-lee-rudofsky-eighth-circuit-donald-trump-originalism-2619a89a",
-      "title": "Judge Lee Rudofsky to the Eighth Circuit",
-      "content_text": "Judge Lee Rudofsky to the Eighth Circuit",
-      "summary": "",
-      "date_published": "2026-08-16T21:06:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "b9278276398da354",
-      "url": "https://www.wsj.com/opinion/art-laffer-inflation-capital-gains-taxes-republicans-52f6ac64",
-      "title": "Republicans Can End an Inflation Tax",
-      "content_text": "Republicans Can End an Inflation Tax",
-      "summary": "",
-      "date_published": "2026-08-16T21:05:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "d2e66834ea2bef9c",
-      "url": "https://www.wsj.com/opinion/wnba-enes-kanter-royce-white-basketball-910b5953",
-      "title": "Boys Will Be Boys—but in the WNBA?",
-      "content_text": "Boys Will Be Boys—but in the WNBA?",
-      "summary": "",
-      "date_published": "2026-08-16T21:04:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "56c93179f44fcd61",
-      "url": "https://www.wsj.com/finance/prosecutors-focus-on-four-businesses-tied-to-dodgers-owner-mark-walter-965e382b",
-      "title": "Prosecutors Focus on Four Businesses Tied to Dodgers Owner Mark Walter",
-      "content_text": "Prosecutors Focus on Four Businesses Tied to Dodgers Owner Mark Walter",
-      "summary": "",
-      "date_published": "2026-08-16T20:14:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]
