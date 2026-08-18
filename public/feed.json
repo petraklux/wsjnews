@@ -6,6 +6,83 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "4c9c379634e0c9aa",
+      "url": "https://www.wsj.com/arts-culture/television/freefall-a-reckoning-for-boeing-review-the-cost-of-cutting-corners-on-netflix-ea5a8edf",
+      "title": "‘Freefall: A Reckoning for Boeing’ Review: The Cost of Cutting Corners on Netflix",
+      "content_text": "‘Freefall: A Reckoning for Boeing’ Review: The Cost of Cutting Corners on Netflix",
+      "summary": "",
+      "date_published": "2026-08-18T20:48:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "afdfa9ef90aebc21",
+      "url": "https://www.wsj.com/finance/investing/bonds-are-getting-hammered-and-wall-street-says-the-rout-wont-end-anytime-soon-895e0ad8",
+      "title": "Bonds Are Getting Hammered, and Wall Street Says the Rout Won’t End Anytime Soon",
+      "content_text": "Bonds Are Getting Hammered, and Wall Street Says the Rout Won’t End Anytime Soon",
+      "summary": "",
+      "date_published": "2026-08-18T20:45:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "1321627f1b86dc61",
+      "url": "https://www.wsj.com/arts-culture/television/lion-review-a-feline-coming-of-age-on-national-geographic-6a0ab2b2",
+      "title": "‘Lion’ Review: A Feline Coming of Age on National Geographic",
+      "content_text": "‘Lion’ Review: A Feline Coming of Age on National Geographic",
+      "summary": "",
+      "date_published": "2026-08-18T20:45:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "3fb964b55b9b9f61",
+      "url": "https://www.wsj.com/business/earnings/la-z-boy-swings-to-loss-from-declining-sales-71b5009d",
+      "title": "La-Z-Boy Swings to Loss From Declining Sales",
+      "content_text": "La-Z-Boy Swings to Loss From Declining Sales",
+      "summary": "",
+      "date_published": "2026-08-18T20:41:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "20a1bd25965a6d6e",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/traders-are-looking-for-cover-in-energy-stocks-l4lsZK0iaVlTAa1YoU9A",
+      "title": "Traders Are Looking for Cover in Energy Stocks",
+      "content_text": "Traders Are Looking for Cover in Energy Stocks",
+      "summary": "",
+      "date_published": "2026-08-18T20:40:21+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "65b8411ef2777e53",
+      "url": "https://www.wsj.com/arts-culture/music/still-coming-down-by-wild-pink-review-finding-depth-in-the-details-dac4bbdd",
+      "title": "‘Still Coming Down’ by Wild Pink Review: Depth in the Details",
+      "content_text": "‘Still Coming Down’ by Wild Pink Review: Depth in the Details",
+      "summary": "",
+      "date_published": "2026-08-18T20:36:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "6245496758f34d76",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/why-higher-bond-yields-matter-0EBJbFUnl8lc7ohs2S8Q",
+      "title": "Why Higher Bond Yields Matter",
+      "content_text": "Why Higher Bond Yields Matter",
+      "summary": "",
+      "date_published": "2026-08-18T20:34:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "4bd3ea6a6e4a15d6",
       "url": "https://www.wsj.com/world/middle-east/syria-takes-major-step-to-come-clean-on-past-nuclear-program-e41b6754",
       "title": "Syria Takes Major Step to Come Clean on Past Nuclear Program",
@@ -2126,83 +2203,6 @@
       "date_published": "2026-08-17T12:29:00+00:00",
       "tags": [
         "Tech"
-      ]
-    },
-    {
-      "id": "fb88506fe45dda5a",
-      "url": "https://www.wsj.com/cio-journal/albertsons-says-its-shoppers-are-buying-morethanks-to-ai-81793975",
-      "title": "Albertsons Says Its Shoppers Are Buying More—Thanks to AI",
-      "content_text": "Albertsons Says Its Shoppers Are Buying More—Thanks to AI",
-      "summary": "",
-      "date_published": "2026-08-17T12:20:00+00:00",
-      "tags": [
-        "Cio Journal"
-      ]
-    },
-    {
-      "id": "f8c504c4218b5f99",
-      "url": "https://www.wsj.com/business/l3harris-parts-ways-with-chairman-ceo-kubasik-over-conduct-bb651136",
-      "title": "L3Harris Ousts Christopher Kubasik as Chairman, CEO After Investigation Into His Conduct",
-      "content_text": "L3Harris Ousts Christopher Kubasik as Chairman, CEO After Investigation Into His Conduct",
-      "summary": "",
-      "date_published": "2026-08-17T12:04:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "bc3e604caf36f276",
-      "url": "https://www.wsj.com/style/gillian-anderson-teenage-sex-and-death-3f0c4cf0",
-      "title": "Gillian Anderson Functions Better Without Breakfast",
-      "content_text": "Gillian Anderson Functions Better Without Breakfast",
-      "summary": "",
-      "date_published": "2026-08-17T12:00:00+00:00",
-      "tags": [
-        "Style"
-      ]
-    },
-    {
-      "id": "0e4e25da96157f73",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/spencer-jakab-not-the-time-for-home-improvement-iHkyBGA0eo9xXEyoerVJ",
-      "title": "Spencer Jakab | Not the Time for Home Improvement",
-      "content_text": "Spencer Jakab | Not the Time for Home Improvement",
-      "summary": "",
-      "date_published": "2026-08-17T11:54:45+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "2d50133f7e8d8876",
-      "url": "https://www.wsj.com/business/deals/madison-air-to-buy-airflow-technologies-company-for-5-4-billon-56adf8e2",
-      "title": "Madison Air to Buy Airflow-Technologies Company for $5.4 Billon",
-      "content_text": "Madison Air to Buy Airflow-Technologies Company for $5.4 Billon",
-      "summary": "",
-      "date_published": "2026-08-17T11:34:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "657637a367e280d6",
-      "url": "https://www.wsj.com/cfo-journal/how-might-companies-alter-financial-reporting-due-to-sec-rule-kpmg-survey-offers-clues-7ddec7fc",
-      "title": "How Might Companies Alter Financial Reporting Due to SEC Rule? KPMG Survey Offers Clues",
-      "content_text": "How Might Companies Alter Financial Reporting Due to SEC Rule? KPMG Survey Offers Clues",
-      "summary": "",
-      "date_published": "2026-08-17T11:27:00+00:00",
-      "tags": [
-        "Cfo Journal"
-      ]
-    },
-    {
-      "id": "3963366b6a5e9550",
-      "url": "https://www.wsj.com/politics/national-security/the-morning-risk-report-trumps-fraud-squad-is-hobbled-by-internal-strife-f9430bbe",
-      "title": "The Morning Risk Report: Trump’s Fraud Squad Is Hobbled by Internal Strife",
-      "content_text": "The Morning Risk Report: Trump’s Fraud Squad Is Hobbled by Internal Strife",
-      "summary": "",
-      "date_published": "2026-08-17T11:14:00+00:00",
-      "tags": [
-        "Politics"
       ]
     }
   ]
