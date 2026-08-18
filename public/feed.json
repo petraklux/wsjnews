@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "8c8b38fc07813a6b",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/carvana-stock-falls-amid-concerns-about-walter-probe-ayJnjRuMoSuxwjiZsop4",
+      "title": "Carvana Stock Falls Amid Concerns About Walter Probe",
+      "content_text": "Carvana Stock Falls Amid Concerns About Walter Probe",
+      "summary": "",
+      "date_published": "2026-08-18T19:34:52+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "82eb8f02f8318898",
       "url": "https://www.wsj.com/us-news/climate-environment/trump-administration-moves-to-open-millions-of-national-forest-acres-to-logging-c9067e1a",
       "title": "Trump Administration Moves to Open Millions of National-Forest Acres to Logging",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-08-17T10:41:00+00:00",
       "tags": [
         "World"
-      ]
-    },
-    {
-      "id": "25b5affac7aa7471",
-      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-8ad7a7da",
-      "title": "Financial Services Roundup: Market Talk",
-      "content_text": "Financial Services Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-17T10:38:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
