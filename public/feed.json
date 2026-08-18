@@ -6,6 +6,39 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "8e748a52b45698de",
+      "url": "https://www.wsj.com/business/jbs-proposes-to-acquire-remaining-stake-in-pilgrims-pride-9c10d478",
+      "title": "JBS Proposes to Acquire Remaining Stake in Pilgrim’s Pride",
+      "content_text": "JBS Proposes to Acquire Remaining Stake in Pilgrim’s Pride",
+      "summary": "",
+      "date_published": "2026-08-18T23:19:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "064c88b1abe85b72",
+      "url": "https://www.wsj.com/world/asia/trump-pushes-for-kim-jong-un-meeting-this-year-2a9f9ae0",
+      "title": "Trump Pushes for Kim Jong Un Meeting This Year",
+      "content_text": "Trump Pushes for Kim Jong Un Meeting This Year",
+      "summary": "",
+      "date_published": "2026-08-18T23:05:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "61d63d84f13a6b6c",
+      "url": "https://www.wsj.com/style/fashion/your-favorite-old-t-shirt-might-now-be-worth-a-fortune-a11255d6",
+      "title": "Your Favorite Old T-Shirt Might Now Be Worth a Fortune",
+      "content_text": "Your Favorite Old T-Shirt Might Now Be Worth a Fortune",
+      "summary": "",
+      "date_published": "2026-08-18T23:00:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
       "id": "cc2ba566f0d9db7f",
       "url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998",
       "title": "OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic",
@@ -2168,39 +2201,6 @@
       "content_text": "Canada Inflation Heats Up",
       "summary": "",
       "date_published": "2026-08-17T16:03:15+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "3ece1caaa36b38b1",
-      "url": "https://www.wsj.com/sports/football/trinidad-chambliss-ole-miss-ac8c81f4",
-      "title": "The Sixth-Year College Quarterback Who Sued to Stay in School",
-      "content_text": "The Sixth-Year College Quarterback Who Sued to Stay in School",
-      "summary": "",
-      "date_published": "2026-08-17T16:00:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "c8b49721437cfeb2",
-      "url": "https://www.wsj.com/lifestyle/travel/comporta-portugal-trip-itinerary-b6029d79",
-      "title": "Plan Your Trip to This Portugal Beach Town Before Everyone Else Does",
-      "content_text": "Plan Your Trip to This Portugal Beach Town Before Everyone Else Does",
-      "summary": "",
-      "date_published": "2026-08-17T16:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "d4f26605bf36837d",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/-watch-how-to-make-inflation-work-for-your-portfolio-jj0cK8J6Rcam0E7vpkA4",
-      "title": "📹 Watch: How to Make Inflation Work for Your Portfolio",
-      "content_text": "📹 Watch: How to Make Inflation Work for Your Portfolio",
-      "summary": "",
-      "date_published": "2026-08-17T15:34:52+00:00",
       "tags": [
         "Front Page"
       ]
