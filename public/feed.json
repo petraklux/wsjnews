@@ -6,6 +6,61 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "21cb4a7cf0d31570",
+      "url": "https://www.wsj.com/business/deals/kkr-makes-9-billion-takeover-bid-for-natural-gas-and-electricity-distributor-94d47760",
+      "title": "KKR Makes $9 Billion Takeover Bid for Natural-Gas and Electricity Distributor",
+      "content_text": "KKR Makes $9 Billion Takeover Bid for Natural-Gas and Electricity Distributor",
+      "summary": "",
+      "date_published": "2026-08-18T15:18:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "ba4763811cd70e95",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/what-s-moving-the-market-today--ID3Y1e7s0Tk58hrEt7hf",
+      "title": "What’s Moving the Market Today?",
+      "content_text": "What’s Moving the Market Today?",
+      "summary": "",
+      "date_published": "2026-08-18T15:15:34+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "8745801490fc0610",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/jared-harris-brink-of-war-4667c4ca",
+      "title": "Free Beer Lured ‘Mad Men’ Actor Jared Harris Out of His Shell and Onto the Stage",
+      "content_text": "Free Beer Lured ‘Mad Men’ Actor Jared Harris Out of His Shell and Onto the Stage",
+      "summary": "",
+      "date_published": "2026-08-18T15:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "a43ac2ede6495e55",
+      "url": "https://www.wsj.com/style/samoyed-taylor-swift-travis-kelce-e7c3bf69",
+      "title": "Can Taylor Swift Turn This Breed of Dog Into the Next Frenchie?",
+      "content_text": "Can Taylor Swift Turn This Breed of Dog Into the Next Frenchie?",
+      "summary": "",
+      "date_published": "2026-08-18T14:53:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
+      "id": "1e4b2b99767166a6",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/fallout-from-mark-walter-probe-hits-texas-conglomerate-sammons-0E7i5sv9BeFNm2uGbgQI",
+      "title": "Fallout From Mark Walter Probe Hits Texas Conglomerate Sammons",
+      "content_text": "Fallout From Mark Walter Probe Hits Texas Conglomerate Sammons",
+      "summary": "",
+      "date_published": "2026-08-18T14:47:36+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "322ed881c9d824a8",
       "url": "https://www.wsj.com/economy/housing/new-housing-law-boosts-prospects-for-factory-built-homes-3ae6bece",
       "title": "New Housing Law Boosts Prospects for Factory-Built Homes",
@@ -14,6 +69,17 @@
       "date_published": "2026-08-18T14:40:00+00:00",
       "tags": [
         "Economy"
+      ]
+    },
+    {
+      "id": "0de01182fa8c1925",
+      "url": "https://www.wsj.com/real-estate/new-housing-law-boosts-prospects-for-factory-built-homes-3ae6bece",
+      "title": "New Housing Law Boosts Prospects for Factory-Built Homes",
+      "content_text": "New Housing Law Boosts Prospects for Factory-Built Homes",
+      "summary": "",
+      "date_published": "2026-08-18T14:40:00+00:00",
+      "tags": [
+        "Real Estate"
       ]
     },
     {
@@ -2137,72 +2203,6 @@
       "date_published": "2026-08-17T01:00:19+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "0840d3e3069e0841",
-      "url": "https://www.wsj.com/world/middle-east/iran-plan-escalate-war-cc657664",
-      "title": "Iran’s Secret Plan to Escalate the War",
-      "content_text": "Iran’s Secret Plan to Escalate the War",
-      "summary": "",
-      "date_published": "2026-08-17T01:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "eac8a6b519430b29",
-      "url": "https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2",
-      "title": "Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems",
-      "content_text": "Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems",
-      "summary": "",
-      "date_published": "2026-08-17T01:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "0564492f7de656a9",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-116a91ab",
-      "title": "Gold Rises Amid Risk-On Sentiment",
-      "content_text": "Gold Rises Amid Risk-On Sentiment",
-      "summary": "",
-      "date_published": "2026-08-17T00:58:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "497b255a40000aba",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-5-weaker-2q-gdp-growth-could-prompt-a-boj-hold-0871a0ea",
-      "title": "Nikkei Rises 0.5%; Weaker 2Q GDP Growth Could Prompt a BOJ Hold",
-      "content_text": "Nikkei Rises 0.5%; Weaker 2Q GDP Growth Could Prompt a BOJ Hold",
-      "summary": "",
-      "date_published": "2026-08-17T00:55:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "ca630e7e5febee58",
-      "url": "https://www.wsj.com/articles/corrections-amplifications-1eb7131b",
-      "title": "Corrections & Amplifications",
-      "content_text": "Corrections & Amplifications",
-      "summary": "",
-      "date_published": "2026-08-17T00:51:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "61f9a36b478158dd",
-      "url": "https://www.wsj.com/economy/japans-economy-stays-on-growth-path-but-headwinds-loom-6abb9a34",
-      "title": "Japan’s Economy Stays on Growth Path, But Headwinds Loom",
-      "content_text": "Japan’s Economy Stays on Growth Path, But Headwinds Loom",
-      "summary": "",
-      "date_published": "2026-08-17T00:33:00+00:00",
-      "tags": [
-        "Economy"
       ]
     }
   ]
