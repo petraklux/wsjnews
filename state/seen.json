@@ -1040,19 +1040,6 @@
       "title": "The saturday interview",
       "url": "https://www.wsj.com/news/types/the-saturday-interview"
     },
-    "5acc5303b416a3ef": {
-      "dek": "",
-      "first_seen": "2026-08-17T02:45:27.434234+00:00",
-      "guid": "5acc5303b416a3ef",
-      "published": "2026-08-15T15:39:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Trump familys world liberty financial gets preliminary approval to launch a bank",
-      "title": "Trump familys world liberty financial gets preliminary approval to launch a bank",
-      "url": "https://www.wsj.com/finance/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-dd518a2b"
-    },
     "5b353e21698fbd25": {
       "dek": "",
       "first_seen": "2026-08-17T21:35:06.747393+00:00",
@@ -1546,6 +1533,19 @@
       "summary": "Trump Says Israel Should Stop Striking Gaza",
       "title": "Trump Says Israel Should Stop Striking Gaza",
       "url": "https://www.wsj.com/world/middle-east/trump-says-israel-should-stop-striking-gaza-47c2efbf"
+    },
+    "81a857434b4cd803": {
+      "dek": "",
+      "first_seen": "2026-08-18T07:48:25.647950+00:00",
+      "guid": "81a857434b4cd803",
+      "published": "2026-08-18T07:09:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Unitree IPO Could Mark New Era for China’s Robotics Sector",
+      "title": "Unitree IPO Could Mark New Era for China’s Robotics Sector",
+      "url": "https://www.wsj.com/tech/ai/unitree-ipo-could-mark-new-era-for-chinas-robotics-sector-d99e1a8a"
     },
     "81e007a341266259": {
       "dek": "",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/world/ukraine-fire-point-ceo-iryna-terekh-drones-d93ec97b"
     }
   },
-  "updated": "2026-08-18T06:59:11.692680+00:00"
+  "updated": "2026-08-18T07:48:25.664286+00:00"
 }
