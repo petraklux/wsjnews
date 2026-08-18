@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "4bf068ac2c07d47e",
+      "url": "https://www.wsj.com/business/frasers-group-increases-hugo-boss-stake-to-48-after-offer-period-823e05eb",
+      "title": "Frasers Group Increases Hugo Boss Stake to 48% After Offer Period",
+      "content_text": "Frasers Group Increases Hugo Boss Stake to 48% After Offer Period",
+      "summary": "",
+      "date_published": "2026-08-18T06:33:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "abe8fd6ba4390d23",
+      "url": "https://www.wsj.com/economy/central-banking/u-k-s-jobless-rate-holds-steady-1c5a9048",
+      "title": "U.K.’s Jobless Rate Holds Steady",
+      "content_text": "U.K.’s Jobless Rate Holds Steady",
+      "summary": "",
+      "date_published": "2026-08-18T06:28:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
       "id": "c16e19aa510487fe",
       "url": "https://www.wsj.com/opinion/pepperand-salt-2467a79b",
       "title": "Pepper…and Salt",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-15T15:39:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "0167612619cdcd5d",
-      "url": "https://www.wsj.com/lifestyle/travel/boomers-are-wealthy-healthy-and-driving-a-global-travel-boom-8dac2ffb",
-      "title": "Boomers Are Wealthy, Healthy and Driving a Global Travel Boom",
-      "content_text": "Boomers Are Wealthy, Healthy and Driving a Global Travel Boom",
-      "summary": "",
-      "date_published": "2026-08-15T15:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "1677a00c68580095",
-      "url": "https://www.wsj.com/arts-culture/food-cooking/new-bar-drinks-zero-proof-db9a48c0",
-      "title": "Bar Menus Are Changing. Here’s What You Should Stock at Home.",
-      "content_text": "Bar Menus Are Changing. Here’s What You Should Stock at Home.",
-      "summary": "",
-      "date_published": "2026-08-15T14:00:00+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]
