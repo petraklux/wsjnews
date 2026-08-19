@@ -403,19 +403,6 @@
       "title": "How Harvey Builds AI Around Domain Expertise",
       "url": "https://www.wsj.com/cio-journal/how-harvey-builds-ai-around-domain-expertise-9c5bd91a"
     },
-    "1e0f6426586a2233": {
-      "dek": "",
-      "first_seen": "2026-08-18T13:51:52.044958+00:00",
-      "guid": "1e0f6426586a2233",
-      "published": "2026-08-18T13:32:00+00:00",
-      "section": "Economy",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "U.S. Housing Starts Dropped in July",
-      "title": "U.S. Housing Starts Dropped in July",
-      "url": "https://www.wsj.com/economy/housing/u-s-housing-starts-dropped-in-july-96b4f96a"
-    },
     "1e4b2b99767166a6": {
       "dek": "",
       "first_seen": "2026-08-18T15:40:31.882234+00:00",
@@ -988,6 +975,19 @@
       "title": "Trump Ally Tries to Make History in Florida Election",
       "url": "https://www.wsj.com/politics/elections/florida-primary-election-results-ee13ff09"
     },
+    "4f6893a39158a2a9": {
+      "dek": "",
+      "first_seen": "2026-08-19T19:54:48.523047+00:00",
+      "guid": "4f6893a39158a2a9",
+      "published": "2026-08-19T19:40:32+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Trump Urges Congress to Pass Clarity Act During Meeting With Crypto Executives",
+      "title": "Trump Urges Congress to Pass Clarity Act During Meeting With Crypto Executives",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/trump-urges-congress-to-pass-clarity-act-during-meeting-with-crypto-executives-VWBffjRYIIHVaqam8e4s"
+    },
     "4fa837eeba6d96c0": {
       "dek": "",
       "first_seen": "2026-08-19T18:48:37.594233+00:00",
@@ -1169,6 +1169,19 @@
       "summary": "Harvey Remakes Its AI Legal Platform by Adding Memory",
       "title": "Harvey Remakes Its AI Legal Platform by Adding Memory",
       "url": "https://www.wsj.com/cio-journal/harvey-remakes-its-ai-legal-platform-by-adding-memory-cf3f6563"
+    },
+    "5e2eefa210ae9d69": {
+      "dek": "",
+      "first_seen": "2026-08-19T19:54:48.523047+00:00",
+      "guid": "5e2eefa210ae9d69",
+      "published": "2026-08-19T19:48:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "5 Americans Killed in Kenya Helicopter Crash",
+      "title": "5 Americans Killed in Kenya Helicopter Crash",
+      "url": "https://www.wsj.com/world/kenya-helicopter-crash-deaths-3d37996d"
     },
     "6065535eacdfd492": {
       "dek": "",
@@ -2119,19 +2132,6 @@
       "title": "The Great Bipartisan Data Center Smackdown Has Begun",
       "url": "https://www.wsj.com/politics/policy/the-great-bipartisan-data-center-smackdown-has-begun-ea650bdd"
     },
-    "be9f342332e20912": {
-      "dek": "",
-      "first_seen": "2026-08-18T14:44:59.965472+00:00",
-      "guid": "be9f342332e20912",
-      "published": "2026-08-18T14:09:00+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Fiction: ‘The Song of Stork and Dromedary’ by Anjet Daanje",
-      "title": "Fiction: ‘The Song of Stork and Dromedary’ by Anjet Daanje",
-      "url": "https://www.wsj.com/arts-culture/books/fiction-the-song-of-stork-and-dromedary-by-anjet-daanje-3cc288fb"
-    },
     "bedc12d1a068fd8b": {
       "dek": "",
       "first_seen": "2026-08-19T08:49:50.391136+00:00",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/opinion/iranians-admit-trumps-blockade-is-working-af626c7e"
     }
   },
-  "updated": "2026-08-19T19:33:45.763998+00:00"
+  "updated": "2026-08-19T19:54:48.542031+00:00"
 }

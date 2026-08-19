@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "5e2eefa210ae9d69",
+      "url": "https://www.wsj.com/world/kenya-helicopter-crash-deaths-3d37996d",
+      "title": "5 Americans Killed in Kenya Helicopter Crash",
+      "content_text": "5 Americans Killed in Kenya Helicopter Crash",
+      "summary": "",
+      "date_published": "2026-08-19T19:48:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "4f6893a39158a2a9",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/trump-urges-congress-to-pass-clarity-act-during-meeting-with-crypto-executives-VWBffjRYIIHVaqam8e4s",
+      "title": "Trump Urges Congress to Pass Clarity Act During Meeting With Crypto Executives",
+      "content_text": "Trump Urges Congress to Pass Clarity Act During Meeting With Crypto Executives",
+      "summary": "",
+      "date_published": "2026-08-19T19:40:32+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "121b9809ac4fa79f",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/-money-quote-a-treasury-buyback-skeptic-D6hul9JPOIRe0jLGg4xf",
       "title": "💬 Money Quote: A Treasury-Buyback Skeptic",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-18T14:09:10+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "be9f342332e20912",
-      "url": "https://www.wsj.com/arts-culture/books/fiction-the-song-of-stork-and-dromedary-by-anjet-daanje-3cc288fb",
-      "title": "Fiction: ‘The Song of Stork and Dromedary’ by Anjet Daanje",
-      "content_text": "Fiction: ‘The Song of Stork and Dromedary’ by Anjet Daanje",
-      "summary": "",
-      "date_published": "2026-08-18T14:09:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "1e0f6426586a2233",
-      "url": "https://www.wsj.com/economy/housing/u-s-housing-starts-dropped-in-july-96b4f96a",
-      "title": "U.S. Housing Starts Dropped in July",
-      "content_text": "U.S. Housing Starts Dropped in July",
-      "summary": "",
-      "date_published": "2026-08-18T13:32:00+00:00",
-      "tags": [
-        "Economy"
       ]
     }
   ]
