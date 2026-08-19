@@ -6,6 +6,83 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "50a9f5f57c2b4b21",
+      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-cceac432",
+      "title": "Health Care Roundup: Market Talk",
+      "content_text": "Health Care Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-19T10:36:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "ee98e68c1d8846e5",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-35c3a440",
+      "title": "Basic Materials Roundup: Market Talk",
+      "content_text": "Basic Materials Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-19T10:32:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "268408b299c7015b",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-5bdfa597",
+      "title": "Financial Services Roundup: Market Talk",
+      "content_text": "Financial Services Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-19T10:28:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "1f37a4d666c6e558",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-07f5c6c2",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-19T10:25:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "b2e2f8ad210b2043",
+      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-1eeef783",
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "content_text": "Energy & Utilities Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-19T10:19:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "b59536e338afee44",
+      "url": "https://www.wsj.com/world/why-wall-street-thinks-the-brutal-bond-rout-is-just-getting-started-c84e9131",
+      "title": "Why Wall Street Thinks the Brutal Bond Rout Is Just Getting Started",
+      "content_text": "Why Wall Street Thinks the Brutal Bond Rout Is Just Getting Started",
+      "summary": "",
+      "date_published": "2026-08-19T10:04:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "c6b6fe74c7781b53",
+      "url": "https://www.wsj.com/business/what-matt-navarro-ceo-of-stanley-1913-has-learned-from-his-personal-board-of-advisers-1ae617cf",
+      "title": "What Matt Navarro, CEO of Stanley 1913, Has Learned From His Personal Board of Advisers",
+      "content_text": "What Matt Navarro, CEO of Stanley 1913, Has Learned From His Personal Board of Advisers",
+      "summary": "",
+      "date_published": "2026-08-19T09:55:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "b190dd38d4ca8c50",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/stocks-to-watch-sk-hynix-la-z-boy-unitree-target-c8MMp4MagwjHSq0QEOSU",
       "title": "Stocks to Watch: SK Hynix, La-Z-Boy, Unitree, Target",
@@ -2124,83 +2201,6 @@
       "content_text": "Michigan Prosecutes Five Noncitizen Voters",
       "summary": "",
       "date_published": "2026-08-17T21:46:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "2d861a7c05b0d3ec",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/-watch-inflation-cooled-last-month-but-remains-above-fed-target-74lsqJkH5OFXwJ3J3rND",
-      "title": "📹 Watch: Inflation Cooled Last Month, but Remains Above Fed Target",
-      "content_text": "📹 Watch: Inflation Cooled Last Month, but Remains Above Fed Target",
-      "summary": "",
-      "date_published": "2026-08-17T21:45:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "145fb1e83e425731",
-      "url": "https://www.wsj.com/us-news/trump-administration-pauses-construction-in-texas-big-bend-national-park-04b4b24a",
-      "title": "Trump Administration Pauses Construction in Texas’ Big Bend National Park",
-      "content_text": "Trump Administration Pauses Construction in Texas’ Big Bend National Park",
-      "summary": "",
-      "date_published": "2026-08-17T21:40:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "d7f10d3defcbb01a",
-      "url": "https://www.wsj.com/opinion/constantines-example-for-china-981aa064",
-      "title": "Constantine’s Example for China",
-      "content_text": "Constantine’s Example for China",
-      "summary": "",
-      "date_published": "2026-08-17T21:25:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "52615d1e82b9a3af",
-      "url": "https://www.wsj.com/articles/corrections-amplifications-b2cd80ad",
-      "title": "Corrections & Amplifications",
-      "content_text": "Corrections & Amplifications",
-      "summary": "",
-      "date_published": "2026-08-17T21:22:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "5b353e21698fbd25",
-      "url": "https://www.wsj.com/opinion/bean-counting-antisemitism-and-the-eeoc-3b1531d5",
-      "title": "Bean Counting, Antisemitism and the EEOC",
-      "content_text": "Bean Counting, Antisemitism and the EEOC",
-      "summary": "",
-      "date_published": "2026-08-17T21:18:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "999168cdff646aba",
-      "url": "https://www.wsj.com/opinion/dont-write-plymouths-history-by-ancestry-4f4baede",
-      "title": "Don’t Write Plymouth’s History by Ancestry",
-      "content_text": "Don’t Write Plymouth’s History by Ancestry",
-      "summary": "",
-      "date_published": "2026-08-17T21:16:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "76e75ca7bc245af8",
-      "url": "https://www.wsj.com/opinion/a-deep-state-of-mind-on-nbc-017f95b3",
-      "title": "A Deep State of Mind on NBC",
-      "content_text": "A Deep State of Mind on NBC",
-      "summary": "",
-      "date_published": "2026-08-17T21:14:00+00:00",
       "tags": [
         "Opinion"
       ]
