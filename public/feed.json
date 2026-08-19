@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "ad75277b558645c8",
+      "url": "https://www.wsj.com/economy/central-banking/bank-indonesia-holds-rates-steady-as-rupiah-pressure-eases-402e9fc0",
+      "title": "Bank Indonesia Holds Rates Steady as Rupiah Pressure Eases",
+      "content_text": "Bank Indonesia Holds Rates Steady as Rupiah Pressure Eases",
+      "summary": "",
+      "date_published": "2026-08-19T07:38:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "13e3a1d4bf73af43",
+      "url": "https://www.wsj.com/business/earnings/carlsberg-lifts-lower-end-of-guidance-books-strong-growth-in-soft-drinks-alcohol-free-brews-0ca981ff",
+      "title": "Carlsberg Lifts Lower End of Guidance, Books Strong Growth in Soft Drinks, Alcohol-Free Brews",
+      "content_text": "Carlsberg Lifts Lower End of Guidance, Books Strong Growth in Soft Drinks, Alcohol-Free Brews",
+      "summary": "",
+      "date_published": "2026-08-19T06:57:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "4ae5eca83f712497",
       "url": "https://www.wsj.com/economy/global/u-k-inflation-picked-up-in-july-15b2b0be",
       "title": "U.K. Inflation Picked Up in July",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-17T20:11:00+00:00",
       "tags": [
         "Us News"
-      ]
-    },
-    {
-      "id": "495f3bf80de8727b",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/-money-quote-finfluencer-wisdom-GgiUDoAjLWmQefNODxNn",
-      "title": "💬 Money Quote: Finfluencer Wisdom",
-      "content_text": "💬 Money Quote: Finfluencer Wisdom",
-      "summary": "",
-      "date_published": "2026-08-17T20:00:03+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "58b9974d9dbb1f2d",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/strategic-petroleum-reserve-drawn-down-to-lowest-since-1982-lDvHg6mo9tdxPQawTCGb",
-      "title": "Strategic Petroleum Reserve Drawn Down to Lowest Since 1982",
-      "content_text": "Strategic Petroleum Reserve Drawn Down to Lowest Since 1982",
-      "summary": "",
-      "date_published": "2026-08-17T19:45:02+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
