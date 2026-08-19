@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "24327bbc21ee43fe",
+      "url": "https://www.wsj.com/opinion/donald-trump-usmca-trade-agreement-mexico-canada-69d2b4d3",
+      "title": "Trump, Canada Tariffs and USMCA",
+      "content_text": "Trump, Canada Tariffs and USMCA",
+      "summary": "",
+      "date_published": "2026-08-19T21:49:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "6e27552dd2579e6e",
+      "url": "https://www.wsj.com/articles/moderna-stock-soars-on-cancer-vaccine-success-8424a90e",
+      "title": "Moderna Stock Soars on Cancer Vaccine Success",
+      "content_text": "Moderna Stock Soars on Cancer Vaccine Success",
+      "summary": "",
+      "date_published": "2026-08-19T21:49:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "625d04c1601089b0",
+      "url": "https://www.wsj.com/opinion/moderna-mrna-vaccine-melanoma-cancer-53c74c37",
+      "title": "Moderna’s Road to a Cancer Vaccine",
+      "content_text": "Moderna’s Road to a Cancer Vaccine",
+      "summary": "",
+      "date_published": "2026-08-19T21:45:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "52df2c5443fe9633",
+      "url": "https://www.wsj.com/opinion/syria-nuclear-iaea-rafael-grossi-uranium-ahmed-al-sharaa-2713e877",
+      "title": "Ending the Syrian Nuclear Saga",
+      "content_text": "Ending the Syrian Nuclear Saga",
+      "summary": "",
+      "date_published": "2026-08-19T21:42:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
       "id": "4aad797d7af2f4cf",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/one-great-chart-moderna-surge-makes-s-p-history-CEc14EJKY0rerwRsQ4CB",
       "title": "One Great Chart: Moderna Surge Makes S&P History",
@@ -50,10 +94,10 @@
       ]
     },
     {
-      "id": "99a33a76fcccc2b7",
-      "url": "https://www.wsj.com/opinion/midterm-lessons-from-bush-to-trump-b2d964cb",
-      "title": "Midterm Lessons From Bush to Trump",
-      "content_text": "Midterm Lessons From Bush to Trump",
+      "id": "810723cb581418e1",
+      "url": "https://www.wsj.com/opinion/trump-and-the-campuses-part-2-47edd542",
+      "title": "Trump and the Campuses, Part 2",
+      "content_text": "Trump and the Campuses, Part 2",
       "summary": "",
       "date_published": "2026-08-19T20:57:00+00:00",
       "tags": [
@@ -61,10 +105,10 @@
       ]
     },
     {
-      "id": "810723cb581418e1",
-      "url": "https://www.wsj.com/opinion/trump-and-the-campuses-part-2-47edd542",
-      "title": "Trump and the Campuses, Part 2",
-      "content_text": "Trump and the Campuses, Part 2",
+      "id": "99a33a76fcccc2b7",
+      "url": "https://www.wsj.com/opinion/midterm-lessons-from-bush-to-trump-b2d964cb",
+      "title": "Midterm Lessons From Bush to Trump",
+      "content_text": "Midterm Lessons From Bush to Trump",
       "summary": "",
       "date_published": "2026-08-19T20:57:00+00:00",
       "tags": [
@@ -2159,50 +2203,6 @@
       "date_published": "2026-08-18T16:55:00+00:00",
       "tags": [
         "Tech"
-      ]
-    },
-    {
-      "id": "441374626a0f8d91",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/permian-gas-is-pouring-into-the-market-and-more-is-on-the-way-v2TyC4h9HpN2IDuHUl7Y",
-      "title": "Permian Gas Is Pouring Into the Market and More Is On the Way",
-      "content_text": "Permian Gas Is Pouring Into the Market and More Is On the Way",
-      "summary": "",
-      "date_published": "2026-08-18T16:36:25+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "29a27a2e05d371b3",
-      "url": "https://www.wsj.com/finance/regulation/investors-slam-sec-plan-to-remove-best-price-rule-8f2c1cc3",
-      "title": "Investors Slam SEC Plan to Remove Best-Price Rule",
-      "content_text": "Investors Slam SEC Plan to Remove Best-Price Rule",
-      "summary": "",
-      "date_published": "2026-08-18T16:30:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "0ace88efa1106b5f",
-      "url": "https://www.wsj.com/world/africa/pro-business-leader-wins-re-election-in-zambia-vote-marred-by-fraud-allegations-9712ff98",
-      "title": "Pro-Business Leader Wins Re-Election in Zambia Vote Marred by Fraud Allegations",
-      "content_text": "Pro-Business Leader Wins Re-Election in Zambia Vote Marred by Fraud Allegations",
-      "summary": "",
-      "date_published": "2026-08-18T16:28:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "4af4a2fa454288f9",
-      "url": "https://www.wsj.com/business/media/disney-trump-fcc-timeline-c7c1c663",
-      "title": "See How the Disney-FCC Fight Has Unfolded",
-      "content_text": "See How the Disney-FCC Fight Has Unfolded",
-      "summary": "",
-      "date_published": "2026-08-18T16:21:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
