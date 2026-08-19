@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "dea6ec2569a2d42b",
+      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
+      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "summary": "",
+      "date_published": "2026-08-19T23:30:19+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
       "id": "8dac1629e1bf6f27",
       "url": "https://www.wsj.com/politics/national-security/new-drone-unit-to-be-phased-out-as-hegseths-army-pick-makes-his-mark-ff5f5fc8",
       "title": "New Drone Unit to Be Phased Out as Hegseth’s Army Pick Makes His Mark",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-08-18T17:30:19+00:00",
       "tags": [
         "Economy"
-      ]
-    },
-    {
-      "id": "c7e480583f8ad0fd",
-      "url": "https://www.wsj.com/news/business/small-business-marketing",
-      "title": "Small business marketing",
-      "content_text": "Small business marketing",
-      "summary": "",
-      "date_published": "2026-08-18T17:30:19+00:00",
-      "tags": [
-        "News"
       ]
     }
   ]
