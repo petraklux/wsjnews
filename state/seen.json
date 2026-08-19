@@ -806,6 +806,19 @@
       "title": "💬 Money Quote: Finfluencer Wisdom",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/-money-quote-finfluencer-wisdom-GgiUDoAjLWmQefNODxNn"
     },
+    "4ae5eca83f712497": {
+      "dek": "",
+      "first_seen": "2026-08-19T07:00:13.354259+00:00",
+      "guid": "4ae5eca83f712497",
+      "published": "2026-08-19T06:39:00+00:00",
+      "section": "Economy",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "U.K. Inflation Picked Up in July",
+      "title": "U.K. Inflation Picked Up in July",
+      "url": "https://www.wsj.com/economy/global/u-k-inflation-picked-up-in-july-15b2b0be"
+    },
     "4af4a2fa454288f9": {
       "dek": "",
       "first_seen": "2026-08-18T16:42:49.658075+00:00",
@@ -1091,19 +1104,6 @@
       "summary": "Disney’s ABC Sues FCC Over Challenge to Its Broadcast Licenses",
       "title": "Disney’s ABC Sues FCC Over Challenge to Its Broadcast Licenses",
       "url": "https://www.wsj.com/business/media/disneys-abc-sues-fcc-over-challenge-to-its-broadcast-licenses-64e8f794"
-    },
-    "612a7aad4fa7e465": {
-      "dek": "",
-      "first_seen": "2026-08-17T19:35:49.540145+00:00",
-      "guid": "612a7aad4fa7e465",
-      "published": "2026-08-17T19:27:54+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Stellantis Stock Drops to Multiyear Low After Recall",
-      "title": "Stellantis Stock Drops to Multiyear Low After Recall",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/stellantis-stock-drops-to-multiyear-low-after-recall-N0XnTlw5TMBFEnzSc5q3"
     },
     "61c87ed7b37f40ac": {
       "dek": "",
@@ -2210,19 +2210,6 @@
       "title": "Small business marketing",
       "url": "https://www.wsj.com/news/business/small-business-marketing"
     },
-    "c808fcd5a55e390b": {
-      "dek": "",
-      "first_seen": "2026-08-17T19:35:49.540145+00:00",
-      "guid": "c808fcd5a55e390b",
-      "published": "2026-08-17T19:05:00+00:00",
-      "section": "Politics",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "How Space Force Is Fighting Wars Today—and Preparing for the Future",
-      "title": "How Space Force Is Fighting Wars Today—and Preparing for the Future",
-      "url": "https://www.wsj.com/politics/national-security/how-space-force-is-fighting-wars-todayand-preparing-for-the-future-afefedb7"
-    },
     "c83ed9436c7051a6": {
       "dek": "",
       "first_seen": "2026-08-18T21:33:17.991868+00:00",
@@ -2326,6 +2313,19 @@
       "summary": "Democrats Can Learn From AOC",
       "title": "Democrats Can Learn From AOC",
       "url": "https://www.wsj.com/opinion/democrats-can-learn-from-aoc-ca7dd731"
+    },
+    "d7b3b7051af55bac": {
+      "dek": "",
+      "first_seen": "2026-08-19T07:00:13.354259+00:00",
+      "guid": "d7b3b7051af55bac",
+      "published": "2026-08-19T05:49:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "China’s Unitree Soars in Debut as Investors Bet Big on Robotics",
+      "title": "China’s Unitree Soars in Debut as Investors Bet Big on Robotics",
+      "url": "https://www.wsj.com/tech/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-d2d73c08"
     },
     "d7f10d3defcbb01a": {
       "dek": "",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/nike-falls-out-of-stride-hitting-12-year-low-d0To0oWYno963oaTfaPf"
     }
   },
-  "updated": "2026-08-19T05:39:39.206241+00:00"
+  "updated": "2026-08-19T07:00:13.373442+00:00"
 }
