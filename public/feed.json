@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "0285104d44c18396",
+      "url": "https://www.wsj.com/lifestyle/cars/a-florida-billionaire-pays-40-million-for-ferrari-ev-everyone-mocked-30625b1c",
+      "title": "A Florida Billionaire Pays $40 Million for Ferrari EV Everyone Mocked",
+      "content_text": "A Florida Billionaire Pays $40 Million for Ferrari EV Everyone Mocked",
+      "summary": "",
+      "date_published": "2026-08-19T03:47:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "b389ff10a7e57a07",
+      "url": "https://www.wsj.com/politics/elections/key-florida-takeaways-a-socialist-upset-and-far-right-flops-51c25c75",
+      "title": "Key Florida Takeaways: A Socialist Upset and Far-Right Flops",
+      "content_text": "Key Florida Takeaways: A Socialist Upset and Far-Right Flops",
+      "summary": "",
+      "date_published": "2026-08-19T03:13:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "842f537ee842c1a3",
       "url": "https://www.wsj.com/economy/trade/trump-pauses-50-tariff-on-some-canadian-products-2b3fd404",
       "title": "Trump Pauses 50% Tariff On Some Canadian Products",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-17T18:35:52+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "bb7153cf985c1045",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/yield-on-30-year-treasury-bond-tops-5-3--M0NRLAxWZyK8aTtVuSve",
-      "title": "Yield on 30-year Treasury Bond Tops 5.3%",
-      "content_text": "Yield on 30-year Treasury Bond Tops 5.3%",
-      "summary": "",
-      "date_published": "2026-08-17T18:03:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "264d4cbd888a4ed2",
-      "url": "https://www.wsj.com/opinion/universities-should-prove-theyre-playing-fair-f8b2ee81",
-      "title": "Universities Should Prove They’re Playing Fair",
-      "content_text": "Universities Should Prove They’re Playing Fair",
-      "summary": "",
-      "date_published": "2026-08-17T18:00:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
