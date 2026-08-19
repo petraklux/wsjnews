@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "842f537ee842c1a3",
+      "url": "https://www.wsj.com/economy/trade/trump-pauses-50-tariff-on-some-canadian-products-2b3fd404",
+      "title": "Trump Pauses 50% Tariff On Some Canadian Products",
+      "content_text": "Trump Pauses 50% Tariff On Some Canadian Products",
+      "summary": "",
+      "date_published": "2026-08-19T02:37:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "af14f1616c16733b",
+      "url": "https://www.wsj.com/world/europe/the-tiny-spanish-territory-of-ceuta-is-grappling-with-a-new-migrant-crisis-5762ebb9",
+      "title": "The Tiny Spanish Territory of Ceuta Is Grappling With a New Migrant Crisis",
+      "content_text": "The Tiny Spanish Territory of Ceuta Is Grappling With a New Migrant Crisis",
+      "summary": "",
+      "date_published": "2026-08-19T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "1355e875f32a1f12",
       "url": "https://www.wsj.com/politics/trump-taps-dr-heidi-overton-to-lead-fda-3b374dd5",
       "title": "Trump Taps Dr. Heidi Overton to Lead FDA",
@@ -28,14 +50,14 @@
       ]
     },
     {
-      "id": "5296460e8d47a7bf",
-      "url": "https://www.wsj.com/business/packaged-food-weight-loss-drugs-0d0cf851",
-      "title": "Big Food Is Fighting to Tempt Taste Buds in the Era of Weight-Loss Drugs",
-      "content_text": "Big Food Is Fighting to Tempt Taste Buds in the Era of Weight-Loss Drugs",
+      "id": "0006ae3a7ef0ed7d",
+      "url": "https://www.wsj.com/lifestyle/travel/the-highs-and-lows-of-my-2-500-flight-in-alaskas-new-long-haul-business-class-fac876b7",
+      "title": "The Highs and Lows of My $2,500 Flight in Alaska’s New Long-Haul Business Class",
+      "content_text": "The Highs and Lows of My $2,500 Flight in Alaska’s New Long-Haul Business Class",
       "summary": "",
       "date_published": "2026-08-19T01:00:00+00:00",
       "tags": [
-        "Business"
+        "Lifestyle"
       ]
     },
     {
@@ -50,14 +72,14 @@
       ]
     },
     {
-      "id": "0006ae3a7ef0ed7d",
-      "url": "https://www.wsj.com/lifestyle/travel/the-highs-and-lows-of-my-2-500-flight-in-alaskas-new-long-haul-business-class-fac876b7",
-      "title": "The Highs and Lows of My $2,500 Flight in Alaska’s New Long-Haul Business Class",
-      "content_text": "The Highs and Lows of My $2,500 Flight in Alaska’s New Long-Haul Business Class",
+      "id": "5296460e8d47a7bf",
+      "url": "https://www.wsj.com/business/packaged-food-weight-loss-drugs-0d0cf851",
+      "title": "Big Food Is Fighting to Tempt Taste Buds in the Era of Weight-Loss Drugs",
+      "content_text": "Big Food Is Fighting to Tempt Taste Buds in the Era of Weight-Loss Drugs",
       "summary": "",
       "date_published": "2026-08-19T01:00:00+00:00",
       "tags": [
-        "Lifestyle"
+        "Business"
       ]
     },
     {
@@ -2179,28 +2201,6 @@
       "content_text": "Universities Should Prove They’re Playing Fair",
       "summary": "",
       "date_published": "2026-08-17T18:00:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "93e8b78c25817e33",
-      "url": "https://www.wsj.com/opinion/social-security-needs-more-than-the-old-menu-bd3a008e",
-      "title": "Social Security Needs More Than the Old Menu",
-      "content_text": "Social Security Needs More Than the Old Menu",
-      "summary": "",
-      "date_published": "2026-08-17T17:59:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "4b716baab9553c97",
-      "url": "https://www.wsj.com/opinion/when-environmental-law-becomes-advocacy-89454189",
-      "title": "When Environmental Law Becomes Advocacy",
-      "content_text": "When Environmental Law Becomes Advocacy",
-      "summary": "",
-      "date_published": "2026-08-17T17:58:00+00:00",
       "tags": [
         "Opinion"
       ]
