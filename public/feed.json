@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "8dac1629e1bf6f27",
+      "url": "https://www.wsj.com/politics/national-security/new-drone-unit-to-be-phased-out-as-hegseths-army-pick-makes-his-mark-ff5f5fc8",
+      "title": "New Drone Unit to Be Phased Out as Hegseth’s Army Pick Makes His Mark",
+      "content_text": "New Drone Unit to Be Phased Out as Hegseth’s Army Pick Makes His Mark",
+      "summary": "",
+      "date_published": "2026-08-19T23:04:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "72063b6697a6284c",
+      "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9",
+      "title": "The Hidden Debt That Apple Owes to the CIA",
+      "content_text": "The Hidden Debt That Apple Owes to the CIA",
+      "summary": "",
+      "date_published": "2026-08-19T23:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
       "id": "2528899c230ada4f",
       "url": "https://www.wsj.com/tech/ai/why-a-payments-giant-is-paying-7-billion-for-the-stripe-of-ai-f5832e54",
       "title": "Why a Payments Giant Is Paying $7 Billion for the ‘Stripe of AI’",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-18T17:30:19+00:00",
       "tags": [
         "News"
-      ]
-    },
-    {
-      "id": "dea6ec2569a2d42b",
-      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
-      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "summary": "",
-      "date_published": "2026-08-18T17:30:19+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "fd1b8916873a6a96",
-      "url": "https://www.wsj.com/opinion/iranians-admit-trumps-blockade-is-working-af626c7e",
-      "title": "Iranians Admit Trump’s Blockade Is Working",
-      "content_text": "Iranians Admit Trump’s Blockade Is Working",
-      "summary": "",
-      "date_published": "2026-08-18T17:14:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
