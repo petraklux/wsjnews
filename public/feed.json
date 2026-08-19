@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "7fc99b6fa23c42aa",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/spencer-jakab-take-the-bad-with-the-good-or-not--YuqQ19yNZ68VTqqEQfqV",
+      "title": "Spencer Jakab | Take the Bad With the Good, or Not?",
+      "content_text": "Spencer Jakab | Take the Bad With the Good, or Not?",
+      "summary": "",
+      "date_published": "2026-08-19T17:45:03+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "72bff09e5a476b6a",
       "url": "https://www.wsj.com/tech/ai/openais-latest-bid-to-fight-anthropic-a-promise-not-to-keep-customer-data-d51a9b65",
       "title": "OpenAI’s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-08-18T11:33:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "ee1c1eb3ec767817",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/hot-commodity-the-ai-buildout-is-supercharging-copper-XzIBe0NLXV0wswoaqegx",
-      "title": "Hot Commodity: The AI Buildout Is Supercharging Copper",
-      "content_text": "Hot Commodity: The AI Buildout Is Supercharging Copper",
-      "summary": "",
-      "date_published": "2026-08-18T11:30:02+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
