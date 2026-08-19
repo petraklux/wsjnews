@@ -26,6 +26,19 @@
       "title": "Elizabeth anne bernstein",
       "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein"
     },
+    "00d13fd11338f310": {
+      "dek": "",
+      "first_seen": "2026-08-19T22:35:07.017507+00:00",
+      "guid": "00d13fd11338f310",
+      "published": "2026-08-19T22:20:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Byron Donalds and Florida’s Future",
+      "title": "Byron Donalds and Florida’s Future",
+      "url": "https://www.wsj.com/opinion/florida-elections-byron-donalds-david-jolly-ashley-moody-angie-nixon-fdc845e9"
+    },
     "01f2b0226bf0cafe": {
       "dek": "",
       "first_seen": "2026-08-19T18:48:37.594233+00:00",
@@ -572,19 +585,6 @@
       "title": "Israel’s Military Opens Rare Criminal Probes Into Attacks on Gaza Civilians",
       "url": "https://www.wsj.com/world/middle-east/israels-military-opens-rare-criminal-probes-into-attacks-on-gaza-civilians-e58dff93"
     },
-    "30f8dc84d6c7674a": {
-      "dek": "",
-      "first_seen": "2026-08-18T17:36:53.603272+00:00",
-      "guid": "30f8dc84d6c7674a",
-      "published": "2026-08-18T17:13:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Government Authority Isn’t Medical Evidence",
-      "title": "Government Authority Isn’t Medical Evidence",
-      "url": "https://www.wsj.com/opinion/government-authority-isnt-medical-evidence-4ea147a0"
-    },
     "32419049b60921c0": {
       "dek": "",
       "first_seen": "2026-08-19T11:34:25.507500+00:00",
@@ -1000,6 +1000,19 @@
       "summary": "Target Raises Fiscal-Year Forecast Again as Turnaround Gains Traction With Consumers",
       "title": "Target Raises Fiscal-Year Forecast Again as Turnaround Gains Traction With Consumers",
       "url": "https://www.wsj.com/business/retail/target-raises-fiscal-year-forecast-again-as-turnaround-gains-traction-with-consumers-b3548cfd"
+    },
+    "59618e2841bb8df0": {
+      "dek": "",
+      "first_seen": "2026-08-19T22:35:07.017507+00:00",
+      "guid": "59618e2841bb8df0",
+      "published": "2026-08-19T22:00:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Trump’s Plan to Squeeze Iran’s Economy Will Live or Die in Dubai",
+      "title": "Trump’s Plan to Squeeze Iran’s Economy Will Live or Die in Dubai",
+      "url": "https://www.wsj.com/world/middle-east/trumps-plan-to-squeeze-irans-economy-will-live-or-die-in-dubai-8f9f561e"
     },
     "5a3106d1842888ee": {
       "dek": "",
@@ -1794,19 +1807,6 @@
       "title": "Economic forecasting survey archive",
       "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998"
     },
-    "a6b55807424d3a2c": {
-      "dek": "",
-      "first_seen": "2026-08-18T17:36:53.603272+00:00",
-      "guid": "a6b55807424d3a2c",
-      "published": "2026-08-18T16:55:00+00:00",
-      "section": "Tech",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Massive Child Safety Trial Against Meta Starts in Federal Court",
-      "title": "Massive Child Safety Trial Against Meta Starts in Federal Court",
-      "url": "https://www.wsj.com/tech/massive-child-safety-trial-against-meta-starts-in-federal-court-130e3739"
-    },
     "a711f91e3a9d1469": {
       "dek": "",
       "first_seen": "2026-08-19T19:33:45.745158+00:00",
@@ -2314,6 +2314,19 @@
       "title": "Cantor Lets Hedge Funds Place Big Bets on Kalshi’s Prediction Markets",
       "url": "https://www.wsj.com/finance/investing/cantor-lets-hedge-funds-place-big-bets-on-kalshis-prediction-markets-625d21e7"
     },
+    "d7707e3cdb8d8444": {
+      "dek": "",
+      "first_seen": "2026-08-19T22:35:07.017507+00:00",
+      "guid": "d7707e3cdb8d8444",
+      "published": "2026-08-19T21:57:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Prince Harry and Meghan Markle to Return to the U.K.",
+      "title": "Prince Harry and Meghan Markle to Return to the U.K.",
+      "url": "https://www.wsj.com/world/uk/prince-harry-meghan-markle-uk-move-88f4da11"
+    },
     "d7b3b7051af55bac": {
       "dek": "",
       "first_seen": "2026-08-19T07:00:13.354259+00:00",
@@ -2339,19 +2352,6 @@
       "summary": "Global Government Bond Yields Stabilize Ahead of Fed Minutes",
       "title": "Global Government Bond Yields Stabilize Ahead of Fed Minutes",
       "url": "https://www.wsj.com/economy/central-banking/global-government-bond-yields-stabilize-ahead-of-fed-minutes-c674e938"
-    },
-    "da919e7be56597be": {
-      "dek": "",
-      "first_seen": "2026-08-18T17:36:53.603272+00:00",
-      "guid": "da919e7be56597be",
-      "published": "2026-08-18T17:08:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Data Centers Are Going Big",
-      "title": "Data Centers Are Going Big",
-      "url": "https://www.wsj.com/opinion/data-centers-are-going-big-8a3db9e2"
     },
     "daeb40099dccece6": {
       "dek": "",
@@ -2509,6 +2509,19 @@
       "title": "Basic Materials Roundup: Market Talk",
       "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-35c3a440"
     },
+    "eec7679a0da96ab3": {
+      "dek": "",
+      "first_seen": "2026-08-19T22:35:07.017507+00:00",
+      "guid": "eec7679a0da96ab3",
+      "published": "2026-08-19T22:00:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Democrats Press Kevin Warsh to Disclose Calls With Trump",
+      "title": "Democrats Press Kevin Warsh to Disclose Calls With Trump",
+      "url": "https://www.wsj.com/politics/policy/democrats-press-kevin-warsh-to-disclose-calls-with-trump-4e7c5d37"
+    },
     "eef23a3eac5828d6": {
       "dek": "",
       "first_seen": "2026-08-19T18:48:37.594233+00:00",
@@ -2534,19 +2547,6 @@
       "summary": "Disney Strikes Back Against the FCC",
       "title": "Disney Strikes Back Against the FCC",
       "url": "https://www.wsj.com/opinion/disney-abc-lawsuit-fcc-brendan-carr-first-amendment-eba3955a"
-    },
-    "f1dc5ad39cb95600": {
-      "dek": "",
-      "first_seen": "2026-08-18T17:36:53.603272+00:00",
-      "guid": "f1dc5ad39cb95600",
-      "published": "2026-08-18T17:11:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Oregon Has a Student Crisis",
-      "title": "Oregon Has a Student Crisis",
-      "url": "https://www.wsj.com/opinion/oregon-has-a-student-crisis-ce08ec66"
     },
     "f536b4147d82bb90": {
       "dek": "",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/opinion/iranians-admit-trumps-blockade-is-working-af626c7e"
     }
   },
-  "updated": "2026-08-19T21:56:20.855248+00:00"
+  "updated": "2026-08-19T22:35:07.042194+00:00"
 }

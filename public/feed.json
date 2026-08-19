@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "00d13fd11338f310",
+      "url": "https://www.wsj.com/opinion/florida-elections-byron-donalds-david-jolly-ashley-moody-angie-nixon-fdc845e9",
+      "title": "Byron Donalds and Florida’s Future",
+      "content_text": "Byron Donalds and Florida’s Future",
+      "summary": "",
+      "date_published": "2026-08-19T22:20:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "59618e2841bb8df0",
+      "url": "https://www.wsj.com/world/middle-east/trumps-plan-to-squeeze-irans-economy-will-live-or-die-in-dubai-8f9f561e",
+      "title": "Trump’s Plan to Squeeze Iran’s Economy Will Live or Die in Dubai",
+      "content_text": "Trump’s Plan to Squeeze Iran’s Economy Will Live or Die in Dubai",
+      "summary": "",
+      "date_published": "2026-08-19T22:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "eec7679a0da96ab3",
+      "url": "https://www.wsj.com/politics/policy/democrats-press-kevin-warsh-to-disclose-calls-with-trump-4e7c5d37",
+      "title": "Democrats Press Kevin Warsh to Disclose Calls With Trump",
+      "content_text": "Democrats Press Kevin Warsh to Disclose Calls With Trump",
+      "summary": "",
+      "date_published": "2026-08-19T22:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "d7707e3cdb8d8444",
+      "url": "https://www.wsj.com/world/uk/prince-harry-meghan-markle-uk-move-88f4da11",
+      "title": "Prince Harry and Meghan Markle to Return to the U.K.",
+      "content_text": "Prince Harry and Meghan Markle to Return to the U.K.",
+      "summary": "",
+      "date_published": "2026-08-19T21:57:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "24327bbc21ee43fe",
       "url": "https://www.wsj.com/opinion/donald-trump-usmca-trade-agreement-mexico-canada-69d2b4d3",
       "title": "Trump, Canada Tariffs and USMCA",
@@ -2159,50 +2203,6 @@
       "date_published": "2026-08-18T17:13:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "30f8dc84d6c7674a",
-      "url": "https://www.wsj.com/opinion/government-authority-isnt-medical-evidence-4ea147a0",
-      "title": "Government Authority Isn’t Medical Evidence",
-      "content_text": "Government Authority Isn’t Medical Evidence",
-      "summary": "",
-      "date_published": "2026-08-18T17:13:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "f1dc5ad39cb95600",
-      "url": "https://www.wsj.com/opinion/oregon-has-a-student-crisis-ce08ec66",
-      "title": "Oregon Has a Student Crisis",
-      "content_text": "Oregon Has a Student Crisis",
-      "summary": "",
-      "date_published": "2026-08-18T17:11:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "da919e7be56597be",
-      "url": "https://www.wsj.com/opinion/data-centers-are-going-big-8a3db9e2",
-      "title": "Data Centers Are Going Big",
-      "content_text": "Data Centers Are Going Big",
-      "summary": "",
-      "date_published": "2026-08-18T17:08:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "a6b55807424d3a2c",
-      "url": "https://www.wsj.com/tech/massive-child-safety-trial-against-meta-starts-in-federal-court-130e3739",
-      "title": "Massive Child Safety Trial Against Meta Starts in Federal Court",
-      "content_text": "Massive Child Safety Trial Against Meta Starts in Federal Court",
-      "summary": "",
-      "date_published": "2026-08-18T16:55:00+00:00",
-      "tags": [
-        "Tech"
       ]
     }
   ]
