@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "113ea0c1b3f5ad4f",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/-money-quote-bond-investors-can-stop-panicking-BOYLppCvab8iuyEy82QH",
+      "title": "💬 Money Quote: Bond Investors Can Stop Panicking",
+      "content_text": "💬 Money Quote: Bond Investors Can Stop Panicking",
+      "summary": "",
+      "date_published": "2026-08-19T13:47:47+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "dfbd64baaf7b53dd",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bond-yields-drop-after-treasury-says-it-will-increase-buybacks-UeHXXDhAVM2lWjzEfk4P",
+      "title": "Bond Yields Drop After Treasury Says It Will Increase Buybacks",
+      "content_text": "Bond Yields Drop After Treasury Says It Will Increase Buybacks",
+      "summary": "",
+      "date_published": "2026-08-19T13:08:18+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "98ff7e1494157cba",
       "url": "https://www.wsj.com/world/asia/why-the-philippines-is-central-to-americas-strategy-in-asia-54fc2919",
       "title": "Why the Philippines is Central to America’s Strategy in Asia",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-18T08:33:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "90cff75cea545313",
-      "url": "https://www.wsj.com/business/energy-oil/diesel-buyers-compete-for-shrinking-supply-pool-bf53d9fa",
-      "title": "Diesel Buyers Compete for Shrinking Supply Pool",
-      "content_text": "Diesel Buyers Compete for Shrinking Supply Pool",
-      "summary": "",
-      "date_published": "2026-08-18T08:11:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "679a345a05882218",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/-earnings-snippet-bhp-s-star-metal-aPdOnLBeLQNW6MaXEubX",
-      "title": "📈 Earnings Snippet: BHP’s Star Metal",
-      "content_text": "📈 Earnings Snippet: BHP’s Star Metal",
-      "summary": "",
-      "date_published": "2026-08-18T08:10:28+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
