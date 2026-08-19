@@ -6,6 +6,39 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "f9ae048b0ffaab53",
+      "url": "https://www.wsj.com/articles/european-gas-prices-supported-by-winter-supply-risks-9462ba72",
+      "title": "European Gas Prices Supported by Winter Supply Risks",
+      "content_text": "European Gas Prices Supported by Winter Supply Risks",
+      "summary": "",
+      "date_published": "2026-08-19T08:46:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "bedc12d1a068fd8b",
+      "url": "https://www.wsj.com/economy/central-banking/bonds-chip-stocks-steady-ahead-of-fed-meeting-minutes-258030f3",
+      "title": "Bonds, Chip Stocks Steady Ahead of Fed Meeting Minutes",
+      "content_text": "Bonds, Chip Stocks Steady Ahead of Fed Meeting Minutes",
+      "summary": "",
+      "date_published": "2026-08-19T08:39:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "5b111642ff715a4d",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/chinese-robot-maker-unitree-leaps-in-stock-market-debut-m0BMYhmom5gFRQEFGTNs",
+      "title": "Chinese Robot Maker Unitree Leaps in Stock-Market Debut",
+      "content_text": "Chinese Robot Maker Unitree Leaps in Stock-Market Debut",
+      "summary": "",
+      "date_published": "2026-08-19T08:31:27+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "ad75277b558645c8",
       "url": "https://www.wsj.com/economy/central-banking/bank-indonesia-holds-rates-steady-as-rupiah-pressure-eases-402e9fc0",
       "title": "Bank Indonesia Holds Rates Steady as Rupiah Pressure Eases",
@@ -14,6 +47,17 @@
       "date_published": "2026-08-19T07:38:00+00:00",
       "tags": [
         "Economy"
+      ]
+    },
+    {
+      "id": "6fcafa478e947974",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/retailer-earnings-fed-minutes-what-to-watch-this-week-vEPQKQGJg8b44M9zMAwH",
+      "title": "Retailer Earnings, Fed Minutes: What to Watch This Week",
+      "content_text": "Retailer Earnings, Fed Minutes: What to Watch This Week",
+      "summary": "",
+      "date_published": "2026-08-19T07:31:02+00:00",
+      "tags": [
+        "Front Page"
       ]
     },
     {
@@ -1084,6 +1128,17 @@
       ]
     },
     {
+      "id": "35c6b5e6bebc1707",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026",
+      "title": "Stock Market Today: Global Bonds Stabilize After Selloff",
+      "content_text": "Stock Market Today: Global Bonds Stabilize After Selloff",
+      "summary": "",
+      "date_published": "2026-08-18T14:54:35+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "a43ac2ede6495e55",
       "url": "https://www.wsj.com/style/samoyed-taylor-swift-travis-kelce-e7c3bf69",
       "title": "Can Taylor Swift Turn This Breed of Dog Into the Next Frenchie?",
@@ -2148,61 +2203,6 @@
       "date_published": "2026-08-17T20:37:00+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "6f3878cdd425632a",
-      "url": "https://www.wsj.com/finance/stocks/oil-rises-bond-yields-climb-on-iran-tensions-ba2bb60b",
-      "title": "Oil Rises, Bond Yields Climb on Iran Tensions",
-      "content_text": "Oil Rises, Bond Yields Climb on Iran Tensions",
-      "summary": "",
-      "date_published": "2026-08-17T20:31:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "d24185457064baf1",
-      "url": "https://www.wsj.com/opinion/3-vaccines-are-better-than-1-7df60016",
-      "title": "3 Vaccines Are Better Than 1",
-      "content_text": "3 Vaccines Are Better Than 1",
-      "summary": "",
-      "date_published": "2026-08-17T20:21:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "14bf7b8f636e20b3",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-slip-as-oil-impasse-weighs-on-sentiment-2ad6f70c",
-      "title": "U.S. Stocks Slip as Oil Impasse Weighs on Sentiment",
-      "content_text": "U.S. Stocks Slip as Oil Impasse Weighs on Sentiment",
-      "summary": "",
-      "date_published": "2026-08-17T20:20:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "ed54dcd5d7b22b62",
-      "url": "https://www.wsj.com/opinion/ai-makes-me-a-better-writer-00768b0f",
-      "title": "AI Makes Me a Better Writer",
-      "content_text": "AI Makes Me a Better Writer",
-      "summary": "",
-      "date_published": "2026-08-17T20:20:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "668435c8b8531f85",
-      "url": "https://www.wsj.com/us-news/law/luigi-mangiones-state-murder-trial-delayed-after-guilty-plea-in-federal-court-e93e0708",
-      "title": "Luigi Mangione’s State Murder Trial Delayed After Guilty Plea in Federal Court",
-      "content_text": "Luigi Mangione’s State Murder Trial Delayed After Guilty Plea in Federal Court",
-      "summary": "",
-      "date_published": "2026-08-17T20:11:00+00:00",
-      "tags": [
-        "Us News"
       ]
     }
   ]
