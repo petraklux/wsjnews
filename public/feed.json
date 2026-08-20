@@ -6,6 +6,83 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "915fed7a42b55805",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/-earnings-snippet-alibaba-CTR9r1QBorivxo8c6a3y",
+      "title": "📉 Earnings Snippet: Alibaba",
+      "content_text": "📉 Earnings Snippet: Alibaba",
+      "summary": "",
+      "date_published": "2026-08-20T10:33:40+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "82448b370a8907a4",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-5ca8951e",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-20T10:33:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "d8abebcc416d5ad4",
+      "url": "https://www.wsj.com/finance/stocks/heres-the-real-problem-with-stock-buybacks-0383bedb",
+      "title": "Here’s the Real Problem With Stock Buybacks",
+      "content_text": "Here’s the Real Problem With Stock Buybacks",
+      "summary": "",
+      "date_published": "2026-08-20T10:29:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "8beac87050ab0aaa",
+      "url": "https://www.wsj.com/business/earnings/alibaba-posts-weaker-earnings-amid-heavy-ai-investments-0429baaa",
+      "title": "Alibaba Posts Weaker Earnings Amid Heavy AI Investments",
+      "content_text": "Alibaba Posts Weaker Earnings Amid Heavy AI Investments",
+      "summary": "",
+      "date_published": "2026-08-20T10:14:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "c264d73d719f539e",
+      "url": "https://www.wsj.com/world/asia/trump-wants-a-summit-that-kim-jong-un-doesnt-need-b9342293",
+      "title": "Trump Wants a Summit That Kim Jong Un Doesn’t Need",
+      "content_text": "Trump Wants a Summit That Kim Jong Un Doesn’t Need",
+      "summary": "",
+      "date_published": "2026-08-20T10:11:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "970ff2a7a2450d64",
+      "url": "https://www.wsj.com/world/u-s-debt-soars-and-scott-bessent-steps-in-as-americas-bond-trader-in-chief-41f04971",
+      "title": "U.S. Debt Soars and Scott Bessent Steps in as America’s Bond Trader in Chief",
+      "content_text": "U.S. Debt Soars and Scott Bessent Steps in as America’s Bond Trader in Chief",
+      "summary": "",
+      "date_published": "2026-08-20T09:52:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "819acbea8227186d",
+      "url": "https://www.wsj.com/business/media/how-an-insider-ceo-is-taking-a-fresh-look-at-charles-river-6be8a215",
+      "title": "How an Insider CEO Is Taking a Fresh Look at Charles River",
+      "content_text": "How an Insider CEO Is Taking a Fresh Look at Charles River",
+      "summary": "",
+      "date_published": "2026-08-20T09:50:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "02b1a33583aadf5a",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/stocks-to-watch-walmart-strategy-coty-XvpD0Ek1c1L2mYLRAVwB",
       "title": "Stocks to Watch: Walmart, Strategy, Coty",
@@ -14,39 +91,6 @@
       "date_published": "2026-08-20T09:31:11+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "07c8c7c098d13fc9",
-      "url": "https://www.wsj.com/lifestyle/the-claw-machine-is-king-of-the-arcade-again-and-this-time-you-might-win-9954f387",
-      "title": "The Claw Machine Is King of the Arcade Again. And This Time, You Might Win.",
-      "content_text": "The Claw Machine Is King of the Arcade Again. And This Time, You Might Win.",
-      "summary": "",
-      "date_published": "2026-08-20T09:30:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "7b3eb1e3a03f556d",
-      "url": "https://www.wsj.com/us-news/education/college-admissions-demographic-cliff-16dec51f",
-      "title": "America’s Colleges Are Hurtling Toward an Enrollment Cliff",
-      "content_text": "America’s Colleges Are Hurtling Toward an Enrollment Cliff",
-      "summary": "",
-      "date_published": "2026-08-20T09:30:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "69fa9f07db2686c7",
-      "url": "https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde",
-      "title": "California’s AI Dominance Fuels $366 Billion Venture Capital Bonanza",
-      "content_text": "California’s AI Dominance Fuels $366 Billion Venture Capital Bonanza",
-      "summary": "",
-      "date_published": "2026-08-20T09:30:00+00:00",
-      "tags": [
-        "Tech"
       ]
     },
     {
@@ -61,14 +105,36 @@
       ]
     },
     {
-      "id": "e1ea691d968f362d",
-      "url": "https://www.wsj.com/lifestyle/careers/the-66-year-old-who-overcame-the-odds-and-found-a-new-job-c0d1d93b",
-      "title": "The 66-Year-Old Who Overcame the Odds and Found a New Job",
-      "content_text": "The 66-Year-Old Who Overcame the Odds and Found a New Job",
+      "id": "07c8c7c098d13fc9",
+      "url": "https://www.wsj.com/lifestyle/the-claw-machine-is-king-of-the-arcade-again-and-this-time-you-might-win-9954f387",
+      "title": "The Claw Machine Is King of the Arcade Again. And This Time, You Might Win.",
+      "content_text": "The Claw Machine Is King of the Arcade Again. And This Time, You Might Win.",
       "summary": "",
       "date_published": "2026-08-20T09:30:00+00:00",
       "tags": [
         "Lifestyle"
+      ]
+    },
+    {
+      "id": "69fa9f07db2686c7",
+      "url": "https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde",
+      "title": "California’s AI Dominance Fuels $366 Billion Venture Capital Bonanza",
+      "content_text": "California’s AI Dominance Fuels $366 Billion Venture Capital Bonanza",
+      "summary": "",
+      "date_published": "2026-08-20T09:30:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "7b3eb1e3a03f556d",
+      "url": "https://www.wsj.com/us-news/education/college-admissions-demographic-cliff-16dec51f",
+      "title": "America’s Colleges Are Hurtling Toward an Enrollment Cliff",
+      "content_text": "America’s Colleges Are Hurtling Toward an Enrollment Cliff",
+      "summary": "",
+      "date_published": "2026-08-20T09:30:00+00:00",
+      "tags": [
+        "Us News"
       ]
     },
     {
@@ -80,6 +146,17 @@
       "date_published": "2026-08-20T09:30:00+00:00",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "e1ea691d968f362d",
+      "url": "https://www.wsj.com/lifestyle/careers/the-66-year-old-who-overcame-the-odds-and-found-a-new-job-c0d1d93b",
+      "title": "The 66-Year-Old Who Overcame the Odds and Found a New Job",
+      "content_text": "The 66-Year-Old Who Overcame the Odds and Found a New Job",
+      "summary": "",
+      "date_published": "2026-08-20T09:30:00+00:00",
+      "tags": [
+        "Lifestyle"
       ]
     },
     {
@@ -2126,83 +2203,6 @@
       "date_published": "2026-08-18T22:29:00+00:00",
       "tags": [
         "Tech"
-      ]
-    },
-    {
-      "id": "ca710144144b6782",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/bond-yields-are-moving-in-lock-step-with-term-premiums-3ETYNlOf6cQbogeDFBAD",
-      "title": "Bond Yields Are Moving in Lock-Step With Term Premiums",
-      "content_text": "Bond Yields Are Moving in Lock-Step With Term Premiums",
-      "summary": "",
-      "date_published": "2026-08-18T22:19:24+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "14776ffbed69e567",
-      "url": "https://www.wsj.com/opinion/transgender-surgeries-minors-taxpayers-cms-rule-mehmet-oz-ba7fc264",
-      "title": "Medicaid and Transgender Treatments for Kids",
-      "content_text": "Medicaid and Transgender Treatments for Kids",
-      "summary": "",
-      "date_published": "2026-08-18T21:50:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "90a957dc3c4c3138",
-      "url": "https://www.wsj.com/world/americas/why-canadas-booze-ban-is-such-a-sore-point-in-trade-talks-c6677014",
-      "title": "Why Canada’s Booze Ban Is Such a Sore Point in Trade Talks",
-      "content_text": "Why Canada’s Booze Ban Is Such a Sore Point in Trade Talks",
-      "summary": "",
-      "date_published": "2026-08-18T21:39:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "f1d20ab77d947654",
-      "url": "https://www.wsj.com/opinion/disney-abc-lawsuit-fcc-brendan-carr-first-amendment-eba3955a",
-      "title": "Disney Strikes Back Against the FCC",
-      "content_text": "Disney Strikes Back Against the FCC",
-      "summary": "",
-      "date_published": "2026-08-18T21:35:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "4f02a5160b7eaf45",
-      "url": "https://www.wsj.com/politics/elections/florida-primary-election-results-ee13ff09",
-      "title": "Trump Ally Tries to Make History in Florida Election",
-      "content_text": "Trump Ally Tries to Make History in Florida Election",
-      "summary": "",
-      "date_published": "2026-08-18T21:32:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "83353ac7354e009f",
-      "url": "https://www.wsj.com/opinion/bond-market-interest-rates-investing-economy-59c092c1",
-      "title": "High Anxiety in the Bond Market",
-      "content_text": "High Anxiety in the Bond Market",
-      "summary": "",
-      "date_published": "2026-08-18T21:32:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "b3b0303fd78c23d4",
-      "url": "https://www.wsj.com/opinion/economic-case-for-european-ac-air-conditioning-4fb2215e",
-      "title": "The Economic Case for European AC",
-      "content_text": "The Economic Case for European AC",
-      "summary": "",
-      "date_published": "2026-08-18T21:31:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
