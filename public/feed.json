@@ -6,6 +6,127 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "02b1a33583aadf5a",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/stocks-to-watch-walmart-strategy-coty-XvpD0Ek1c1L2mYLRAVwB",
+      "title": "Stocks to Watch: Walmart, Strategy, Coty",
+      "content_text": "Stocks to Watch: Walmart, Strategy, Coty",
+      "summary": "",
+      "date_published": "2026-08-20T09:31:11+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "07c8c7c098d13fc9",
+      "url": "https://www.wsj.com/lifestyle/the-claw-machine-is-king-of-the-arcade-again-and-this-time-you-might-win-9954f387",
+      "title": "The Claw Machine Is King of the Arcade Again. And This Time, You Might Win.",
+      "content_text": "The Claw Machine Is King of the Arcade Again. And This Time, You Might Win.",
+      "summary": "",
+      "date_published": "2026-08-20T09:30:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "7b3eb1e3a03f556d",
+      "url": "https://www.wsj.com/us-news/education/college-admissions-demographic-cliff-16dec51f",
+      "title": "America’s Colleges Are Hurtling Toward an Enrollment Cliff",
+      "content_text": "America’s Colleges Are Hurtling Toward an Enrollment Cliff",
+      "summary": "",
+      "date_published": "2026-08-20T09:30:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "69fa9f07db2686c7",
+      "url": "https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde",
+      "title": "California’s AI Dominance Fuels $366 Billion Venture Capital Bonanza",
+      "content_text": "California’s AI Dominance Fuels $366 Billion Venture Capital Bonanza",
+      "summary": "",
+      "date_published": "2026-08-20T09:30:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "07562d4b3de07143",
+      "url": "https://www.wsj.com/business/energy-oil/hyperscalers-off-grid-power-push-comes-with-risks-b1dca338",
+      "title": "Hyperscalers’ Off-Grid Power Push Comes With Risks",
+      "content_text": "Hyperscalers’ Off-Grid Power Push Comes With Risks",
+      "summary": "",
+      "date_published": "2026-08-20T09:30:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "e1ea691d968f362d",
+      "url": "https://www.wsj.com/lifestyle/careers/the-66-year-old-who-overcame-the-odds-and-found-a-new-job-c0d1d93b",
+      "title": "The 66-Year-Old Who Overcame the Odds and Found a New Job",
+      "content_text": "The 66-Year-Old Who Overcame the Odds and Found a New Job",
+      "summary": "",
+      "date_published": "2026-08-20T09:30:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "c36b62ec6175ca7c",
+      "url": "https://www.wsj.com/finance/investing/the-treasury-markets-coveted-status-as-a-safe-haven-is-fading-c68fed93",
+      "title": "The Treasury Market’s Coveted Status as a Safe Haven Is Fading",
+      "content_text": "The Treasury Market’s Coveted Status as a Safe Haven Is Fading",
+      "summary": "",
+      "date_published": "2026-08-20T09:30:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "f7098834efa2c442",
+      "url": "https://www.wsj.com/business/earnings/labubu-makers-revenue-momentum-slows-after-explosive-growth-7d32c266",
+      "title": "Labubu Maker’s Revenue Momentum Slows After Explosive Growth",
+      "content_text": "Labubu Maker’s Revenue Momentum Slows After Explosive Growth",
+      "summary": "",
+      "date_published": "2026-08-20T09:28:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "81ada32337618a55",
+      "url": "https://www.wsj.com/finance/investing/treasury-buyback-might-only-briefly-tame-yields-e35657c5",
+      "title": "Treasury Buyback Might Only Briefly Tame Yields",
+      "content_text": "Treasury Buyback Might Only Briefly Tame Yields",
+      "summary": "",
+      "date_published": "2026-08-20T09:24:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "fe3f86ba343669d3",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/bitcoin-leaps-on-treasury-intervention-crypto-summit-mtlsUzM2oo2rsVkSbpPF",
+      "title": "Bitcoin Leaps on Treasury Intervention, Crypto Summit",
+      "content_text": "Bitcoin Leaps on Treasury Intervention, Crypto Summit",
+      "summary": "",
+      "date_published": "2026-08-20T09:04:53+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "52154a2074073e1c",
+      "url": "https://www.wsj.com/politics/policy/build-first-ask-questions-later-trumps-ballroom-puts-supreme-court-in-a-bind-2c7ebe63",
+      "title": "Build First, Ask Questions Later: Trump’s Ballroom Puts Supreme Court in a Bind",
+      "content_text": "Build First, Ask Questions Later: Trump’s Ballroom Puts Supreme Court in a Bind",
+      "summary": "",
+      "date_published": "2026-08-20T09:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "b54c7f48acde3909",
       "url": "https://www.wsj.com/business/swiss-watch-exports-stay-resilient-in-july-helped-by-u-s-performance-8ac02a26",
       "title": "Swiss Watch Exports Stay Resilient in July Helped by U.S. Performance",
@@ -2082,127 +2203,6 @@
       "date_published": "2026-08-18T21:31:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "83321c5dc24ab19f",
-      "url": "https://www.wsj.com/finance/investing/wall-street-sees-no-end-in-sight-to-the-global-bond-selloff-a1b5d1e3",
-      "title": "Wall Street Sees No End in Sight to the Global Bond Selloff",
-      "content_text": "Wall Street Sees No End in Sight to the Global Bond Selloff",
-      "summary": "",
-      "date_published": "2026-08-18T21:22:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "c83ed9436c7051a6",
-      "url": "https://www.wsj.com/opinion/what-we-learned-from-faucis-diary-9c3a5ae6",
-      "title": "What We Learned From Fauci’s Diary",
-      "content_text": "What We Learned From Fauci’s Diary",
-      "summary": "",
-      "date_published": "2026-08-18T21:13:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "d4a8a0d4afbc3d03",
-      "url": "https://www.wsj.com/opinion/democrats-can-learn-from-aoc-ca7dd731",
-      "title": "Democrats Can Learn From AOC",
-      "content_text": "Democrats Can Learn From AOC",
-      "summary": "",
-      "date_published": "2026-08-18T21:09:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "0e343c2768adb62b",
-      "url": "https://www.wsj.com/opinion/no-one-got-rich-singing-about-money-2dec2f80",
-      "title": "No One Got Rich Singing About Money",
-      "content_text": "No One Got Rich Singing About Money",
-      "summary": "",
-      "date_published": "2026-08-18T21:08:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "84aaa6759bbea861",
-      "url": "https://www.wsj.com/opinion/the-young-maga-socialists-are-here-8c941877",
-      "title": "The Young MAGA Socialists Are Here",
-      "content_text": "The Young MAGA Socialists Are Here",
-      "summary": "",
-      "date_published": "2026-08-18T21:06:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "0a4fdbf8dc0d2104",
-      "url": "https://www.wsj.com/opinion/reform-and-open-china-on-americas-terms-7a906de5",
-      "title": "Reform and Open China on America’s Terms",
-      "content_text": "Reform and Open China on America’s Terms",
-      "summary": "",
-      "date_published": "2026-08-18T21:05:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "82b1877fec89a423",
-      "url": "https://www.wsj.com/opinion/notable-quotable-why-woke-1-0-wasnt-crazy-822c376c",
-      "title": "Notable & Quotable: Why ‘Woke 1.0’ Wasn’t Crazy",
-      "content_text": "Notable & Quotable: Why ‘Woke 1.0’ Wasn’t Crazy",
-      "summary": "",
-      "date_published": "2026-08-18T21:04:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "ea3d9ddae4654b88",
-      "url": "https://www.wsj.com/business/earnings/toll-brothers-records-lower-sales-as-home-deliveries-decline-889c60ef",
-      "title": "Toll Brothers Records Lower Sales as Home Deliveries Decline",
-      "content_text": "Toll Brothers Records Lower Sales as Home Deliveries Decline",
-      "summary": "",
-      "date_published": "2026-08-18T21:02:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "0b4c14e2167254bd",
-      "url": "https://www.wsj.com/world/middle-east/irans-attacks-on-ships-in-hormuz-pile-up-testing-u-s-military-restraint-6ff9f5dd",
-      "title": "Iran’s Attacks on Ships in Hormuz Mount, Testing U.S. Military Restraint",
-      "content_text": "Iran’s Attacks on Ships in Hormuz Mount, Testing U.S. Military Restraint",
-      "summary": "",
-      "date_published": "2026-08-18T21:01:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "4c9c379634e0c9aa",
-      "url": "https://www.wsj.com/arts-culture/television/freefall-a-reckoning-for-boeing-review-the-cost-of-cutting-corners-on-netflix-ea5a8edf",
-      "title": "‘Freefall: A Reckoning for Boeing’ Review: The Cost of Cutting Corners on Netflix",
-      "content_text": "‘Freefall: A Reckoning for Boeing’ Review: The Cost of Cutting Corners on Netflix",
-      "summary": "",
-      "date_published": "2026-08-18T20:48:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "1321627f1b86dc61",
-      "url": "https://www.wsj.com/arts-culture/television/lion-review-a-feline-coming-of-age-on-national-geographic-6a0ab2b2",
-      "title": "‘Lion’ Review: A Feline Coming of Age on National Geographic",
-      "content_text": "‘Lion’ Review: A Feline Coming of Age on National Geographic",
-      "summary": "",
-      "date_published": "2026-08-18T20:45:00+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]
