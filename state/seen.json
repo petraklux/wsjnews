@@ -52,19 +52,6 @@
       "title": "The Fishback Lesson",
       "url": "https://www.wsj.com/opinion/the-fishback-lesson-549be643"
     },
-    "0285104d44c18396": {
-      "dek": "",
-      "first_seen": "2026-08-19T03:56:07.676769+00:00",
-      "guid": "0285104d44c18396",
-      "published": "2026-08-19T03:47:00+00:00",
-      "section": "Lifestyle",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "A Florida Billionaire Pays $40 Million for Ferrari EV Everyone Mocked",
-      "title": "A Florida Billionaire Pays $40 Million for Ferrari EV Everyone Mocked",
-      "url": "https://www.wsj.com/lifestyle/cars/a-florida-billionaire-pays-40-million-for-ferrari-ev-everyone-mocked-30625b1c"
-    },
     "02b1a33583aadf5a": {
       "dek": "",
       "first_seen": "2026-08-20T09:45:20.295839+00:00",
@@ -77,6 +64,19 @@
       "summary": "Stocks to Watch: Walmart, Strategy, Coty",
       "title": "Stocks to Watch: Walmart, Strategy, Coty",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/stocks-to-watch-walmart-strategy-coty-XvpD0Ek1c1L2mYLRAVwB"
+    },
+    "032c18f48a3d8074": {
+      "dek": "",
+      "first_seen": "2026-08-20T11:58:53.665955+00:00",
+      "guid": "032c18f48a3d8074",
+      "published": "2026-08-20T11:46:26+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Government Bond Yields Tick Up",
+      "title": "Government Bond Yields Tick Up",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/government-bond-yields-tick-up-aelrSnwBnrIh0DouVSth"
     },
     "051097d155e29807": {
       "dek": "",
@@ -1300,6 +1300,19 @@
       "title": "Bessent ‘Blinked’: Investors React to Treasury Buyback News",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/here-s-how-investors-are-reacting-to-the-treasury-buyback-news-HsjRCVSxqLU70x7sHFRk"
     },
+    "71660fa80151fdfc": {
+      "dek": "",
+      "first_seen": "2026-08-20T11:58:53.665955+00:00",
+      "guid": "71660fa80151fdfc",
+      "published": "2026-08-20T11:30:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
+      "title": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
+      "url": "https://www.wsj.com/business/earnings/novonesis-leads-europes-stoxx-600-on-sales-beat-guidance-raise-282b71e6"
+    },
     "72063b6697a6284c": {
       "dek": "",
       "first_seen": "2026-08-19T23:31:45.831250+00:00",
@@ -2327,19 +2340,6 @@
       "title": "With Tourism Stalled, Hawaii Chases the Startup Wave",
       "url": "https://www.wsj.com/business/entrepreneurship/hawaii-tourism-tech-jobs-9630f68b"
     },
-    "dd4953d061ba5463": {
-      "dek": "",
-      "first_seen": "2026-08-19T04:47:04.225500+00:00",
-      "guid": "dd4953d061ba5463",
-      "published": "2026-08-19T04:00:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Pepper…and Salt",
-      "title": "Pepper…and Salt",
-      "url": "https://www.wsj.com/opinion/pepperand-salt-44a02e7e"
-    },
     "ddf12d737f468e0f": {
       "dek": "",
       "first_seen": "2026-08-19T19:33:45.745158+00:00",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026"
     }
   },
-  "updated": "2026-08-20T11:36:22.168654+00:00"
+  "updated": "2026-08-20T11:58:53.681071+00:00"
 }

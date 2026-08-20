@@ -6,8 +6,30 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "032c18f48a3d8074",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/government-bond-yields-tick-up-aelrSnwBnrIh0DouVSth",
+      "title": "Government Bond Yields Tick Up",
+      "content_text": "Government Bond Yields Tick Up",
+      "summary": "",
+      "date_published": "2026-08-20T11:46:26+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "cb47bec77a340d2b",
       "url": "https://www.wsj.com/business/retail/novonesis-leads-europes-stoxx-600-on-sales-beat-guidance-raise-282b71e6",
+      "title": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
+      "content_text": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
+      "summary": "",
+      "date_published": "2026-08-20T11:30:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "71660fa80151fdfc",
+      "url": "https://www.wsj.com/business/earnings/novonesis-leads-europes-stoxx-600-on-sales-beat-guidance-raise-282b71e6",
       "title": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
       "content_text": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
       "summary": "",
@@ -72,17 +94,6 @@
       ]
     },
     {
-      "id": "1fcdf289a7bcda70",
-      "url": "https://www.wsj.com/world/dwindling-patriot-supplies-leave-kyiv-in-the-line-of-fire-21df615b",
-      "title": "Dwindling Patriot Supplies Leave Kyiv in the Line of Fire",
-      "content_text": "Dwindling Patriot Supplies Leave Kyiv in the Line of Fire",
-      "summary": "",
-      "date_published": "2026-08-20T11:05:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
       "id": "13b819f6098b0912",
       "url": "https://www.wsj.com/finance/investing/health-care-roundup-market-talk-b4eee231",
       "title": "Health Care Roundup: Market Talk",
@@ -91,6 +102,17 @@
       "date_published": "2026-08-20T11:05:00+00:00",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "1fcdf289a7bcda70",
+      "url": "https://www.wsj.com/world/dwindling-patriot-supplies-leave-kyiv-in-the-line-of-fire-21df615b",
+      "title": "Dwindling Patriot Supplies Leave Kyiv in the Line of Fire",
+      "content_text": "Dwindling Patriot Supplies Leave Kyiv in the Line of Fire",
+      "summary": "",
+      "date_published": "2026-08-20T11:05:00+00:00",
+      "tags": [
+        "World"
       ]
     },
     {
@@ -116,17 +138,6 @@
       ]
     },
     {
-      "id": "8efe01541f1b9e8a",
-      "url": "https://www.wsj.com/logistics-report/u-s-considers-tariff-cuts-on-metals-autos-in-canada-deal-e4ec3909",
-      "title": "U.S. Considers Tariff Cuts on Metals, Autos in Canada Deal",
-      "content_text": "U.S. Considers Tariff Cuts on Metals, Autos in Canada Deal",
-      "summary": "",
-      "date_published": "2026-08-20T11:00:00+00:00",
-      "tags": [
-        "Logistics Report"
-      ]
-    },
-    {
       "id": "4107b25a760db7c9",
       "url": "https://www.wsj.com/business/rainmakers-in-talks-to-leave-weil-gotshal-amid-poaching-frenzy-7ebf47fc",
       "title": "Rainmakers in Talks to Leave Weil Gotshal Amid Poaching Frenzy",
@@ -146,6 +157,17 @@
       "date_published": "2026-08-20T11:00:00+00:00",
       "tags": [
         "Sports"
+      ]
+    },
+    {
+      "id": "8efe01541f1b9e8a",
+      "url": "https://www.wsj.com/logistics-report/u-s-considers-tariff-cuts-on-metals-autos-in-canada-deal-e4ec3909",
+      "title": "U.S. Considers Tariff Cuts on Metals, Autos in Canada Deal",
+      "content_text": "U.S. Considers Tariff Cuts on Metals, Autos in Canada Deal",
+      "summary": "",
+      "date_published": "2026-08-20T11:00:00+00:00",
+      "tags": [
+        "Logistics Report"
       ]
     },
     {
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-19T04:45:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "dd4953d061ba5463",
-      "url": "https://www.wsj.com/opinion/pepperand-salt-44a02e7e",
-      "title": "Pepper…and Salt",
-      "content_text": "Pepper…and Salt",
-      "summary": "",
-      "date_published": "2026-08-19T04:00:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "0285104d44c18396",
-      "url": "https://www.wsj.com/lifestyle/cars/a-florida-billionaire-pays-40-million-for-ferrari-ev-everyone-mocked-30625b1c",
-      "title": "A Florida Billionaire Pays $40 Million for Ferrari EV Everyone Mocked",
-      "content_text": "A Florida Billionaire Pays $40 Million for Ferrari EV Everyone Mocked",
-      "summary": "",
-      "date_published": "2026-08-19T03:47:00+00:00",
-      "tags": [
-        "Lifestyle"
       ]
     }
   ]
