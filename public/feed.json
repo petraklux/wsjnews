@@ -6,6 +6,94 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "0ae4f9d055e88f78",
+      "url": "https://www.wsj.com/opinion/alaskas-ranked-choice-travesty-7b29a200",
+      "title": "Alaska’s Ranked-Choice Travesty",
+      "content_text": "Alaska’s Ranked-Choice Travesty",
+      "summary": "",
+      "date_published": "2026-08-20T21:45:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "5f7bc2df4956d526",
+      "url": "https://www.wsj.com/opinion/the-medicare-for-all-math-doesnt-add-up-1a3a4758",
+      "title": "The ‘Medicare for All’ Math Doesn’t Add Up",
+      "content_text": "The ‘Medicare for All’ Math Doesn’t Add Up",
+      "summary": "",
+      "date_published": "2026-08-20T21:45:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "11b22371ddd16a70",
+      "url": "https://www.wsj.com/opinion/ro-khanna-wealth-tax-california-democrats-19834f4b",
+      "title": "Ro Khanna Gets a Wealth Tax Education",
+      "content_text": "Ro Khanna Gets a Wealth Tax Education",
+      "summary": "",
+      "date_published": "2026-08-20T21:42:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "f25e0b59bacdfa47",
+      "url": "https://www.wsj.com/opinion/darline-graham-taiwan-china-pacific-ralph-norman-758312b4",
+      "title": "Darline Graham’s Taiwan Mistake",
+      "content_text": "Darline Graham’s Taiwan Mistake",
+      "summary": "",
+      "date_published": "2026-08-20T21:40:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "0d99d93db0ba41ed",
+      "url": "https://www.wsj.com/opinion/u-s-national-debt-40-trillion-spending-6f856ca1",
+      "title": "How the U.S. Went $40 Trillion in Debt",
+      "content_text": "How the U.S. Went $40 Trillion in Debt",
+      "summary": "",
+      "date_published": "2026-08-20T21:38:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "276d01bf7f53a251",
+      "url": "https://www.wsj.com/business/abbott-to-pay-670-million-to-settle-baby-formula-litigation-8260e5fb",
+      "title": "Abbott to Pay $670 Million to Settle Baby-Formula Litigation",
+      "content_text": "Abbott to Pay $670 Million to Settle Baby-Formula Litigation",
+      "summary": "",
+      "date_published": "2026-08-20T21:37:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "a248602c038958aa",
+      "url": "https://www.wsj.com/business/walmart-adds-to-wall-street-pressures-with-weak-sales-growth-4f1bd3bb",
+      "title": "Walmart Adds to Wall Street Pressures With Weak Sales Growth",
+      "content_text": "Walmart Adds to Wall Street Pressures With Weak Sales Growth",
+      "summary": "",
+      "date_published": "2026-08-20T21:36:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "17b12ff352b76968",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-and-bonds-slide-brushing-off-treasurys-buyback-plans-57ced23b",
+      "title": "U.S. Stocks and Bonds Slide, Brushing Off Treasury’s Buyback Plans",
+      "content_text": "U.S. Stocks and Bonds Slide, Brushing Off Treasury’s Buyback Plans",
+      "summary": "",
+      "date_published": "2026-08-20T21:32:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "6269117775edbfcd",
       "url": "https://www.wsj.com/opinion/a-great-day-for-swamp-draining-1324d384",
       "title": "A Great Day for Swamp Draining",
@@ -2115,94 +2203,6 @@
       "date_published": "2026-08-19T16:32:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "df56d47bb959f58e",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/trump-canada-trade-deal-will-benefit-u-s-farmers-nfPtM3rHBeZufuetcISU",
-      "title": "Trump: Canada Trade Deal Will Benefit U.S. Farmers",
-      "content_text": "Trump: Canada Trade Deal Will Benefit U.S. Farmers",
-      "summary": "",
-      "date_published": "2026-08-19T16:22:05+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "544a005ca1a497dc",
-      "url": "https://www.wsj.com/world/middle-east/how-saudi-arabias-neom-megacity-dream-collapsed-67bd4df4",
-      "title": "How Saudi Arabia’s Neom Megacity Dream Collapsed",
-      "content_text": "How Saudi Arabia’s Neom Megacity Dream Collapsed",
-      "summary": "",
-      "date_published": "2026-08-19T16:12:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "09e8540fa8f22c60",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/flash-heard-why-healthcare-is-partying-like-it-s-late-2020-LOxyhGE8BKpLYcPEPVSK",
-      "title": "⚡Flash Heard: Why Healthcare Is Partying Like It’s Late 2020",
-      "content_text": "⚡Flash Heard: Why Healthcare Is Partying Like It’s Late 2020",
-      "summary": "",
-      "date_published": "2026-08-19T16:00:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "2584fc6bd6f04361",
-      "url": "https://www.wsj.com/business/ftc-warns-retailers-on-using-private-consumer-data-to-raise-prices-4467ecc3",
-      "title": "FTC Warns Retailers on Using Private Consumer Data to Raise Prices",
-      "content_text": "FTC Warns Retailers on Using Private Consumer Data to Raise Prices",
-      "summary": "",
-      "date_published": "2026-08-19T16:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "3a4e3931860ff720",
-      "url": "https://www.wsj.com/finance/investing/why-scott-bessent-is-playing-with-the-treasury-market-828256d4",
-      "title": "Why Scott Bessent Is Playing With the Treasury Market",
-      "content_text": "Why Scott Bessent Is Playing With the Treasury Market",
-      "summary": "",
-      "date_published": "2026-08-19T15:59:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "4618dd29396a4228",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/gulf-oil-exports-run-at-half-the-prewar-rate-htqCb6mxB7eLtXmphC75",
-      "title": "Gulf Oil Exports Run at Half the Prewar Rate",
-      "content_text": "Gulf Oil Exports Run at Half the Prewar Rate",
-      "summary": "",
-      "date_published": "2026-08-19T15:30:03+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "b6a5e4d2c0d6710e",
-      "url": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-weekly-increase-53a755b0",
-      "title": "U.S. Crude Oil Stockpiles Post Weekly Increase",
-      "content_text": "U.S. Crude Oil Stockpiles Post Weekly Increase",
-      "summary": "",
-      "date_published": "2026-08-19T15:27:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "fecd1998aa113827",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026",
-      "title": "Stock Market Today: Bond Market Steady After Treasury Intervention",
-      "content_text": "Stock Market Today: Bond Market Steady After Treasury Intervention",
-      "summary": "",
-      "date_published": "2026-08-19T15:06:52+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
