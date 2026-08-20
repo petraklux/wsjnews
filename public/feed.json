@@ -6,6 +6,116 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "6269117775edbfcd",
+      "url": "https://www.wsj.com/opinion/a-great-day-for-swamp-draining-1324d384",
+      "title": "A Great Day for Swamp Draining",
+      "content_text": "A Great Day for Swamp Draining",
+      "summary": "",
+      "date_published": "2026-08-20T21:31:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "d93a6a4b51dea5ff",
+      "url": "https://www.wsj.com/business/deals/james-hardie-selling-european-fermacell-business-for-980-million-to-holcim-dc6e1c24",
+      "title": "James Hardie Selling European Fermacell Business for $980 Million to Holcim",
+      "content_text": "James Hardie Selling European Fermacell Business for $980 Million to Holcim",
+      "summary": "",
+      "date_published": "2026-08-20T21:29:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "fce8dba8f302f631",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/cftc-committee-discussion-on-prediction-markets-gets-heated-yQwCEYhWu7zrrUU7vg67",
+      "title": "CFTC Committee Discussion on Prediction Markets Gets Heated",
+      "content_text": "CFTC Committee Discussion on Prediction Markets Gets Heated",
+      "summary": "",
+      "date_published": "2026-08-20T21:28:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "75f2ed9d80380da1",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/rising-deficits-trigger-a-credit-card-penalty-on-u-s-debt-lW09k7QiXABZcp5tiaS7",
+      "title": "Rising Deficits Trigger a ‘Credit-Card Penalty’ on U.S. Debt",
+      "content_text": "Rising Deficits Trigger a ‘Credit-Card Penalty’ on U.S. Debt",
+      "summary": "",
+      "date_published": "2026-08-20T21:09:04+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "52c9f9cd498284d5",
+      "url": "https://www.wsj.com/opinion/world-libertys-stablecoin-becomes-a-partisan-target-12dbbfa0",
+      "title": "World Liberty’s Stablecoin Becomes a Partisan Target",
+      "content_text": "World Liberty’s Stablecoin Becomes a Partisan Target",
+      "summary": "",
+      "date_published": "2026-08-20T21:09:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "fe60dbec7e92c5fd",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/triple-threat-why-stocks-are-reeling-today-eRSrfGLBjikBZ1XujAMK",
+      "title": "Triple Threat: Why Stocks Are Reeling Today",
+      "content_text": "Triple Threat: Why Stocks Are Reeling Today",
+      "summary": "",
+      "date_published": "2026-08-20T21:00:01+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "0d130f1b6a6cf212",
+      "url": "https://www.wsj.com/finance/investing/private-credits-next-big-thing-is-1-trillion-in-british-pensions-13b76f04",
+      "title": "Private Credit’s Next Big Thing Is $1 Trillion in British Pensions",
+      "content_text": "Private Credit’s Next Big Thing Is $1 Trillion in British Pensions",
+      "summary": "",
+      "date_published": "2026-08-20T20:54:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "4eb04280eb4ab91f",
+      "url": "https://www.wsj.com/arts-culture/film/how-to-divorce-during-the-war-review-a-drama-of-dual-crises-c4cc5a1d",
+      "title": "‘How to Divorce During the War’ Review: A Drama of Dual Crises",
+      "content_text": "‘How to Divorce During the War’ Review: A Drama of Dual Crises",
+      "summary": "",
+      "date_published": "2026-08-20T20:50:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "e53af3bce83b36fa",
+      "url": "https://www.wsj.com/business/earnings/ross-stores-boosts-outlook-as-sales-climb-ab87c56b",
+      "title": "Ross Stores Boosts Outlook as Sales Climb",
+      "content_text": "Ross Stores Boosts Outlook as Sales Climb",
+      "summary": "",
+      "date_published": "2026-08-20T20:46:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "e849cb86fd6374a6",
+      "url": "https://www.wsj.com/arts-culture/film/mutiny-review-jason-stathams-die-hard-at-sea-98841d9b",
+      "title": "‘Mutiny’ Review: Jason Statham’s ‘Die Hard’ at Sea",
+      "content_text": "‘Mutiny’ Review: Jason Statham’s ‘Die Hard’ at Sea",
+      "summary": "",
+      "date_published": "2026-08-20T20:40:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
       "id": "f50ea16f39d09ed1",
       "url": "https://www.wsj.com/arts-culture/television/25-years-after-9-11-three-specials-commemorating-the-tragic-day-a2e62140",
       "title": "25 Years After 9/11: Three Specials Commemorating the Tragic Day",
@@ -2093,116 +2203,6 @@
       "date_published": "2026-08-19T15:06:52+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "0f71b0a255a10b10",
-      "url": "https://www.wsj.com/business/retail/the-meal-kit-industry-is-in-disarray-after-a-major-supplier-went-bust-17d7b97b",
-      "title": "The Meal-Kit Industry Is in Disarray After a Major Supplier Went Bust",
-      "content_text": "The Meal-Kit Industry Is in Disarray After a Major Supplier Went Bust",
-      "summary": "",
-      "date_published": "2026-08-19T14:57:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "3e2e3c9cd81a4076",
-      "url": "https://www.wsj.com/lifestyle/careers/want-to-get-hired-this-simple-habit-might-help-d6b2e175",
-      "title": "Want to Get Hired? This Simple Habit Might Help",
-      "content_text": "Want to Get Hired? This Simple Habit Might Help",
-      "summary": "",
-      "date_published": "2026-08-19T14:55:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "9c726199ed470fa6",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/what-s-moving-the-markets-today--OVTrpKtWhl0UpqACr3SJ",
-      "title": "What’s Moving the Markets Today?",
-      "content_text": "What’s Moving the Markets Today?",
-      "summary": "",
-      "date_published": "2026-08-19T14:53:15+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "4ee974d9c7732f15",
-      "url": "https://www.wsj.com/personal-finance/readers-share-how-much-cash-theyre-keeping-in-their-portfolios-1e6b6b7d",
-      "title": "Readers Share How Much Cash They’re Keeping in Their Portfolios",
-      "content_text": "Readers Share How Much Cash They’re Keeping in Their Portfolios",
-      "summary": "",
-      "date_published": "2026-08-19T14:50:00+00:00",
-      "tags": [
-        "Personal Finance"
-      ]
-    },
-    {
-      "id": "2fdc971b8b71cdb2",
-      "url": "https://www.wsj.com/world/middle-east/israels-military-opens-rare-criminal-probes-into-attacks-on-gaza-civilians-e58dff93",
-      "title": "Israel’s Military Opens Rare Criminal Probes Into Attacks on Gaza Civilians",
-      "content_text": "Israel’s Military Opens Rare Criminal Probes Into Attacks on Gaza Civilians",
-      "summary": "",
-      "date_published": "2026-08-19T14:46:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "89de781b2a188d9d",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/-flash-heard-bessent-s-attempt-to-jawbone-the-treasury-market-will-fail-bfDS1FAObdXCGT0bOJ0B",
-      "title": "⚡Flash Heard: Bessent’s Attempt to Jawbone the Treasury Market Will Fail",
-      "content_text": "⚡Flash Heard: Bessent’s Attempt to Jawbone the Treasury Market Will Fail",
-      "summary": "",
-      "date_published": "2026-08-19T14:35:21+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "1af72825cd376a44",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/why-treasury-s-buyback-announcement-matters-1btxQci9AGssAfq1GCE2",
-      "title": "Why Treasury’s Buyback Announcement Matters",
-      "content_text": "Why Treasury’s Buyback Announcement Matters",
-      "summary": "",
-      "date_published": "2026-08-19T14:27:58+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "daeb40099dccece6",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/dollar-on-pace-for-lowest-close-since-may-after-treasury-expands-buybacks-Rs2JaeUepaFHJRkY34HU",
-      "title": "Dollar on Pace for Lowest Close Since May After Treasury Expands Buybacks",
-      "content_text": "Dollar on Pace for Lowest Close Since May After Treasury Expands Buybacks",
-      "summary": "",
-      "date_published": "2026-08-19T14:24:21+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "49292ba5417163e0",
-      "url": "https://www.wsj.com/arts-culture/books/mysteries-claudia-grays-the-fatal-unpleasantness-at-netherfield-18ddfccf",
-      "title": "Mysteries: Claudia Gray’s ‘The Fatal Unpleasantness at Netherfield’",
-      "content_text": "Mysteries: Claudia Gray’s ‘The Fatal Unpleasantness at Netherfield’",
-      "summary": "",
-      "date_published": "2026-08-19T14:24:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "dfd0bbf1aa15624f",
-      "url": "https://www.wsj.com/finance/investing/u-s-to-buy-back-more-longer-term-bonds-39524410",
-      "title": "U.S. to Buy Back More Longer-Term Bonds",
-      "content_text": "U.S. to Buy Back More Longer-Term Bonds",
-      "summary": "",
-      "date_published": "2026-08-19T14:21:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]
