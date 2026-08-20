@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 20 Aug 2026 03:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 04:47:24 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Pepper…and Salt</title>
+      <link>https://www.wsj.com/opinion/pepperand-salt-a3a8867d</link>
+      <description>&lt;p&gt;Pepper…and Salt&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/opinion/pepperand-salt-a3a8867d"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">859dc9f78e069121</guid>
+      <category>Opinion</category>
+      <pubDate>Thu, 20 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Elizabeth anne bernstein</title>
       <link>https://www.wsj.com/news/author/elizabeth-anne-bernstein</link>
@@ -1601,14 +1609,6 @@
       <guid isPermaLink="false">8c8b38fc07813a6b</guid>
       <category>Front Page</category>
       <pubDate>Tue, 18 Aug 2026 19:34:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Administration Moves to Open Millions of National-Forest Acres to Logging</title>
-      <link>https://www.wsj.com/us-news/climate-environment/trump-administration-moves-to-open-millions-of-national-forest-acres-to-logging-c9067e1a</link>
-      <description>&lt;p&gt;Trump Administration Moves to Open Millions of National-Forest Acres to Logging&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/us-news/climate-environment/trump-administration-moves-to-open-millions-of-national-forest-acres-to-logging-c9067e1a"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">82eb8f02f8318898</guid>
-      <category>Us News</category>
-      <pubDate>Tue, 18 Aug 2026 19:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

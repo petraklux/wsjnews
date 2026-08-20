@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "859dc9f78e069121",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-a3a8867d",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-08-20T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
       "id": "0038b06dd019061e",
       "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
       "title": "Elizabeth anne bernstein",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-08-18T19:34:52+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "82eb8f02f8318898",
-      "url": "https://www.wsj.com/us-news/climate-environment/trump-administration-moves-to-open-millions-of-national-forest-acres-to-logging-c9067e1a",
-      "title": "Trump Administration Moves to Open Millions of National-Forest Acres to Logging",
-      "content_text": "Trump Administration Moves to Open Millions of National-Forest Acres to Logging",
-      "summary": "",
-      "date_published": "2026-08-18T19:23:00+00:00",
-      "tags": [
-        "Us News"
       ]
     }
   ]
