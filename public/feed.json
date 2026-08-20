@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "f082dd12afdca41b",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/drw-s-don-wilson-encourages-cftc-to-approve-perpetual-futures-WBLJH1WD8D8M0rufCWC9",
+      "title": "DRW’s Don Wilson Encourages CFTC to Approve Perpetual Futures",
+      "content_text": "DRW’s Don Wilson Encourages CFTC to Approve Perpetual Futures",
+      "summary": "",
+      "date_published": "2026-08-20T18:43:13+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "fc55efb4117d304a",
+      "url": "https://www.wsj.com/arts-culture/books/a-guide-to-open-water-lifesaving-review-the-rescuer-needed-rescue-2eaa13ed",
+      "title": "‘A Guide to Open Water Lifesaving’ Review: The Rescuer Needed Rescue",
+      "content_text": "‘A Guide to Open Water Lifesaving’ Review: The Rescuer Needed Rescue",
+      "summary": "",
+      "date_published": "2026-08-20T18:39:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "92a656d0f09bf5fb",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/musk-says-next-rocket-catch-is-months-away-and-spacex-stock-sags-ziB2u03acA87Pvu9AJr2",
+      "title": "Musk Says Next Rocket ‘Catch’ Is Months Away—And SpaceX Stock Sags",
+      "content_text": "Musk Says Next Rocket ‘Catch’ Is Months Away—And SpaceX Stock Sags",
+      "summary": "",
+      "date_published": "2026-08-20T18:16:13+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "639c0db3212aaf39",
+      "url": "https://www.wsj.com/tech/from-playstation-to-spider-man-inside-sonys-transformation-8174ccd4",
+      "title": "From PlayStation to Spider-Man: Inside Sony’s Transformation",
+      "content_text": "From PlayStation to Spider-Man: Inside Sony’s Transformation",
+      "summary": "",
+      "date_published": "2026-08-20T18:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
       "id": "dbaa488d110ad913",
       "url": "https://www.wsj.com/arts-culture/books/mackenzie-scott-substack-last-days-bezos-3f712734",
       "title": "MacKenzie Scott, Billionaire Philanthropist, Returns to Her First Love: Fiction",
@@ -2159,50 +2203,6 @@
       "date_published": "2026-08-19T11:54:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "d6230ba069ec7c20",
-      "url": "https://www.wsj.com/finance/investing/cantor-lets-hedge-funds-place-big-bets-on-kalshis-prediction-markets-625d21e7",
-      "title": "Cantor Lets Hedge Funds Place Big Bets on Kalshi’s Prediction Markets",
-      "content_text": "Cantor Lets Hedge Funds Place Big Bets on Kalshi’s Prediction Markets",
-      "summary": "",
-      "date_published": "2026-08-19T11:30:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "537f0c66e1ee9ca1",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/moderna-merck-stock-jumps-on-melanoma-vaccine-news-YWo8jBn5WyRcxU2ixkQR",
-      "title": "Moderna, Merck Stock Jumps on Melanoma Vaccine News",
-      "content_text": "Moderna, Merck Stock Jumps on Melanoma Vaccine News",
-      "summary": "",
-      "date_published": "2026-08-19T11:17:13+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "962cf5020352021e",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-pivotal-child-safety-trial-that-could-change-instagram-starts-in-california-d6d99452",
-      "title": "The Morning Risk Report: Pivotal Child Safety Trial That Could Change Instagram Starts in California",
-      "content_text": "The Morning Risk Report: Pivotal Child Safety Trial That Could Change Instagram Starts in California",
-      "summary": "",
-      "date_published": "2026-08-19T11:17:00+00:00",
-      "tags": [
-        "Risk Compliance Journal"
-      ]
-    },
-    {
-      "id": "7f6cb3c01545a9b2",
-      "url": "https://www.wsj.com/economy/britains-economy-isnt-working-for-young-people-its-new-prime-minster-wants-to-fix-that-9b58efeb",
-      "title": "Britain’s Economy Isn’t Working For Young People. Its New Prime Minster Wants to Fix That",
-      "content_text": "Britain’s Economy Isn’t Working For Young People. Its New Prime Minster Wants to Fix That",
-      "summary": "",
-      "date_published": "2026-08-19T11:09:00+00:00",
-      "tags": [
-        "Economy"
       ]
     }
   ]
