@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "8f9d899e1e8eae8b",
+      "url": "https://www.wsj.com/articles/number-puzzles-saturday-august-22-73e653b6",
+      "title": "Number Puzzles (Saturday, August 22)",
+      "content_text": "Number Puzzles (Saturday, August 22)",
+      "summary": "",
+      "date_published": "2026-08-20T14:39:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "85257645fe56c102",
+      "url": "https://www.wsj.com/economy/u-s-leading-indicators-ticked-up-in-july-8a288be9",
+      "title": "U.S. Leading Indicators Ticked Up in July",
+      "content_text": "U.S. Leading Indicators Ticked Up in July",
+      "summary": "",
+      "date_published": "2026-08-20T14:38:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "dfb83e705fa834e4",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/treasury-details-rules-for-trump-account-investments-st5tKvklzLdTQyw8UUwu",
+      "title": "Treasury Details Rules for Trump Account Investments",
+      "content_text": "Treasury Details Rules for Trump Account Investments",
+      "summary": "",
+      "date_published": "2026-08-20T14:32:20+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "d4008e2c514d58b4",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/what-s-driving-the-markets-today--yLyvHIZ2hO5Xzl2rDDyG",
+      "title": "What’s Driving the Markets Today?",
+      "content_text": "What’s Driving the Markets Today?",
+      "summary": "",
+      "date_published": "2026-08-20T14:13:05+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "d2e778f0ff152600",
       "url": "https://www.wsj.com/world/uk/the-end-of-harry-and-meghans-american-dream-172623fd",
       "title": "The End of Harry and Meghan’s American Dream",
@@ -2157,50 +2201,6 @@
       "content_text": "Financial Services Roundup: Market Talk",
       "summary": "",
       "date_published": "2026-08-19T10:28:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "1f37a4d666c6e558",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-07f5c6c2",
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-19T10:25:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "b2e2f8ad210b2043",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-1eeef783",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "content_text": "Energy & Utilities Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-19T10:19:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "b59536e338afee44",
-      "url": "https://www.wsj.com/world/why-wall-street-thinks-the-brutal-bond-rout-is-just-getting-started-c84e9131",
-      "title": "Why Wall Street Thinks the Brutal Bond Rout Is Just Getting Started",
-      "content_text": "Why Wall Street Thinks the Brutal Bond Rout Is Just Getting Started",
-      "summary": "",
-      "date_published": "2026-08-19T10:04:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "c6b6fe74c7781b53",
-      "url": "https://www.wsj.com/business/what-matt-navarro-ceo-of-stanley-1913-has-learned-from-his-personal-board-of-advisers-1ae617cf",
-      "title": "What Matt Navarro, CEO of Stanley 1913, Has Learned From His Personal Board of Advisers",
-      "content_text": "What Matt Navarro, CEO of Stanley 1913, Has Learned From His Personal Board of Advisers",
-      "summary": "",
-      "date_published": "2026-08-19T09:55:00+00:00",
       "tags": [
         "Business"
       ]
