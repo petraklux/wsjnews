@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "c59723f88b7c87f4",
+      "url": "https://www.wsj.com/opinion/the-art-of-the-self-deal-6cf57c5a",
+      "title": "The Art of the Self-Deal",
+      "content_text": "The Art of the Self-Deal",
+      "summary": "",
+      "date_published": "2026-08-20T22:19:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "8251e515ad845f82",
+      "url": "https://www.wsj.com/opinion/supreme-court-marquette-poll-public-opinion-b872e0ef",
+      "title": "The Supreme Court’s Popular Mandate",
+      "content_text": "The Supreme Court’s Popular Mandate",
+      "summary": "",
+      "date_published": "2026-08-20T22:07:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
       "id": "0ae4f9d055e88f78",
       "url": "https://www.wsj.com/opinion/alaskas-ranked-choice-travesty-7b29a200",
       "title": "Alaska’s Ranked-Choice Travesty",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-19T16:50:03+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "46e79a597530c8c3",
-      "url": "https://www.wsj.com/opinion/its-hard-to-tax-things-that-move-789feb85",
-      "title": "It’s Hard to Tax Things That Move",
-      "content_text": "It’s Hard to Tax Things That Move",
-      "summary": "",
-      "date_published": "2026-08-19T16:34:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "2fa9390a7d72e407",
-      "url": "https://www.wsj.com/opinion/aft-target-funds-teachers-retirement-e90081e5",
-      "title": "AFT Target Funds Teachers’ Retirement",
-      "content_text": "AFT Target Funds Teachers’ Retirement",
-      "summary": "",
-      "date_published": "2026-08-19T16:32:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
