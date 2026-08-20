@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "20c9e7a37ccd14de",
+      "url": "https://www.wsj.com/personal-finance/the-four-big-money-questions-women-are-asking-after-reading-strangers-995314c6",
+      "title": "The Four Big Money Questions Women Are Asking After Reading ‘Strangers’",
+      "content_text": "The Four Big Money Questions Women Are Asking After Reading ‘Strangers’",
+      "summary": "",
+      "date_published": "2026-08-20T19:08:00+00:00",
+      "tags": [
+        "Personal Finance"
+      ]
+    },
+    {
+      "id": "b2f6332f50f62661",
+      "url": "https://www.wsj.com/lifestyle/careers/televisions-hottest-genre-is-todays-job-market-c3286691",
+      "title": "Television’s Hottest Genre Is Today’s Job Market",
+      "content_text": "Television’s Hottest Genre Is Today’s Job Market",
+      "summary": "",
+      "date_published": "2026-08-20T19:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
       "id": "f082dd12afdca41b",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/drw-s-don-wilson-encourages-cftc-to-approve-perpetual-futures-WBLJH1WD8D8M0rufCWC9",
       "title": "DRW’s Don Wilson Encourages CFTC to Approve Perpetual Futures",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-19T12:20:00+00:00",
       "tags": [
         "Cio Journal"
-      ]
-    },
-    {
-      "id": "ac7bfa7d25976cb8",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/one-thing-i-m-watching-the-natural-gas-crunch-jWkBR1HNMY7TBS1qTwLY",
-      "title": "One Thing I’m Watching: The Natural-Gas Crunch",
-      "content_text": "One Thing I’m Watching: The Natural-Gas Crunch",
-      "summary": "",
-      "date_published": "2026-08-19T12:14:47+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "c8531549da10eef3",
-      "url": "https://www.wsj.com/business/earnings/analog-devices-profit-revenue-up-on-surging-ai-data-center-demand-47c508fe",
-      "title": "Analog Devices Profit, Revenue Up on Surging AI Data Center Demand",
-      "content_text": "Analog Devices Profit, Revenue Up on Surging AI Data Center Demand",
-      "summary": "",
-      "date_published": "2026-08-19T11:54:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
