@@ -6,6 +6,94 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "8a42cfda035abd57",
+      "url": "https://www.wsj.com/world/europe/jet-fighter-destroys-naval-drone-to-protect-lives-near-black-sea-gas-platform-2510417f",
+      "title": "Jet Fighter Destroys Naval Drone ‘to Protect Lives’ Near Black Sea Gas Platform",
+      "content_text": "Jet Fighter Destroys Naval Drone ‘to Protect Lives’ Near Black Sea Gas Platform",
+      "summary": "",
+      "date_published": "2026-08-20T13:01:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "7b376b319297e956",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/exclusive-house-dems-take-aim-at-trump-media-s-real-time-feed-Fdpyyn0K3coMP1NmeNZV",
+      "title": "Exclusive: House Dems Take Aim at Trump Media’s Real-Time Feed",
+      "content_text": "Exclusive: House Dems Take Aim at Trump Media’s Real-Time Feed",
+      "summary": "",
+      "date_published": "2026-08-20T13:00:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "3b4422699d2d2296",
+      "url": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-pull-back-after-recent-run-up-0892bc92",
+      "title": "U.S. Jobless Claims Pull Back After Recent Run-Up",
+      "content_text": "U.S. Jobless Claims Pull Back After Recent Run-Up",
+      "summary": "",
+      "date_published": "2026-08-20T12:59:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "cac13e38555367aa",
+      "url": "https://www.wsj.com/sports/youth-sports-how-to-survive-another-crazy-season-63e79b93",
+      "title": "Youth Sports Are Completely Bonkers. How to Survive Another Crazy Season.",
+      "content_text": "Youth Sports Are Completely Bonkers. How to Survive Another Crazy Season.",
+      "summary": "",
+      "date_published": "2026-08-20T12:33:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "25e6d13d2849dba5",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/gold-loses-some-of-its-shine-after-yesterday-s-leap-euecAmm3DOvwIZu4dHs2",
+      "title": "Gold Loses Some of Its Shine After Yesterday’s Leap",
+      "content_text": "Gold Loses Some of Its Shine After Yesterday’s Leap",
+      "summary": "",
+      "date_published": "2026-08-20T12:28:19+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "f28c0a281917d4e4",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/tariff-refunds-boost-deere-s-bottom-line-03NZqa1slMmWPlWh99wu",
+      "title": "Tariff Refunds Boost Deere’s Bottom Line",
+      "content_text": "Tariff Refunds Boost Deere’s Bottom Line",
+      "summary": "",
+      "date_published": "2026-08-20T12:25:30+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "304fdd21f1ccfcf8",
+      "url": "https://www.wsj.com/cio-journal/oura-restructures-tech-leadership-in-ai-push-6c85660c",
+      "title": "Oura Restructures Tech Leadership in AI Push",
+      "content_text": "Oura Restructures Tech Leadership in AI Push",
+      "summary": "",
+      "date_published": "2026-08-20T12:23:00+00:00",
+      "tags": [
+        "Cio Journal"
+      ]
+    },
+    {
+      "id": "a2b705440d13d21d",
+      "url": "https://www.wsj.com/health/healthcare/u-s-workers-are-paying-more-for-healthcare-and-next-year-will-be-worse-0924d0dd",
+      "title": "U.S. Workers Are Paying More for Healthcare, and Next Year Will Be Worse",
+      "content_text": "U.S. Workers Are Paying More for Healthcare, and Next Year Will Be Worse",
+      "summary": "",
+      "date_published": "2026-08-20T12:00:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
       "id": "032c18f48a3d8074",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/government-bond-yields-tick-up-aelrSnwBnrIh0DouVSth",
       "title": "Government Bond Yields Tick Up",
@@ -17,8 +105,8 @@
       ]
     },
     {
-      "id": "cb47bec77a340d2b",
-      "url": "https://www.wsj.com/business/retail/novonesis-leads-europes-stoxx-600-on-sales-beat-guidance-raise-282b71e6",
+      "id": "71660fa80151fdfc",
+      "url": "https://www.wsj.com/business/earnings/novonesis-leads-europes-stoxx-600-on-sales-beat-guidance-raise-282b71e6",
       "title": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
       "content_text": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
       "summary": "",
@@ -28,8 +116,8 @@
       ]
     },
     {
-      "id": "71660fa80151fdfc",
-      "url": "https://www.wsj.com/business/earnings/novonesis-leads-europes-stoxx-600-on-sales-beat-guidance-raise-282b71e6",
+      "id": "cb47bec77a340d2b",
+      "url": "https://www.wsj.com/business/retail/novonesis-leads-europes-stoxx-600-on-sales-beat-guidance-raise-282b71e6",
       "title": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
       "content_text": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
       "summary": "",
@@ -116,10 +204,32 @@
       ]
     },
     {
+      "id": "73c79de76dd2f931",
+      "url": "https://www.wsj.com/world/europe/dwindling-patriot-supplies-leave-kyiv-in-the-line-of-fire-21df615b",
+      "title": "Dwindling Patriot Supplies Leave Kyiv in the Line of Fire",
+      "content_text": "Dwindling Patriot Supplies Leave Kyiv in the Line of Fire",
+      "summary": "",
+      "date_published": "2026-08-20T11:05:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "7712a61ad49e149f",
       "url": "https://www.wsj.com/business/earnings/walmart-sales-are-growing-but-stores-arent-the-engine-122b69ee",
       "title": "Walmart Sales Are Growing, but Stores Aren’t the Engine",
       "content_text": "Walmart Sales Are Growing, but Stores Aren’t the Engine",
+      "summary": "",
+      "date_published": "2026-08-20T11:02:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "359588f0bde3dee6",
+      "url": "https://www.wsj.com/business/earnings/warlmart-earnings-q2-2026-wmt-stock-122b69ee",
+      "title": "Walmart Posts Weakest Sales Growth in Over Six Years",
+      "content_text": "Walmart Posts Weakest Sales Growth in Over Six Years",
       "summary": "",
       "date_published": "2026-08-20T11:02:00+00:00",
       "tags": [
@@ -2093,116 +2203,6 @@
       "date_published": "2026-08-19T08:46:00+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "bedc12d1a068fd8b",
-      "url": "https://www.wsj.com/economy/central-banking/bonds-chip-stocks-steady-ahead-of-fed-meeting-minutes-258030f3",
-      "title": "Bonds, Chip Stocks Steady Ahead of Fed Meeting Minutes",
-      "content_text": "Bonds, Chip Stocks Steady Ahead of Fed Meeting Minutes",
-      "summary": "",
-      "date_published": "2026-08-19T08:39:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "d4f3e0bb45010750",
-      "url": "https://www.wsj.com/finance/stocks/bonds-chip-stocks-steady-ahead-of-fed-meeting-minutes-258030f3",
-      "title": "U.S. Stock Futures Flat Amid Retail Industry Earnings",
-      "content_text": "U.S. Stock Futures Flat Amid Retail Industry Earnings",
-      "summary": "",
-      "date_published": "2026-08-19T08:39:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "5b111642ff715a4d",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/chinese-robot-maker-unitree-leaps-in-stock-market-debut-m0BMYhmom5gFRQEFGTNs",
-      "title": "Chinese Robot Maker Unitree Leaps in Stock-Market Debut",
-      "content_text": "Chinese Robot Maker Unitree Leaps in Stock-Market Debut",
-      "summary": "",
-      "date_published": "2026-08-19T08:31:27+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "ad75277b558645c8",
-      "url": "https://www.wsj.com/economy/central-banking/bank-indonesia-holds-rates-steady-as-rupiah-pressure-eases-402e9fc0",
-      "title": "Bank Indonesia Holds Rates Steady as Rupiah Pressure Eases",
-      "content_text": "Bank Indonesia Holds Rates Steady as Rupiah Pressure Eases",
-      "summary": "",
-      "date_published": "2026-08-19T07:38:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "6fcafa478e947974",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/retailer-earnings-fed-minutes-what-to-watch-this-week-vEPQKQGJg8b44M9zMAwH",
-      "title": "Retailer Earnings, Fed Minutes: What to Watch This Week",
-      "content_text": "Retailer Earnings, Fed Minutes: What to Watch This Week",
-      "summary": "",
-      "date_published": "2026-08-19T07:31:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "13e3a1d4bf73af43",
-      "url": "https://www.wsj.com/business/earnings/carlsberg-lifts-lower-end-of-guidance-books-strong-growth-in-soft-drinks-alcohol-free-brews-0ca981ff",
-      "title": "Carlsberg Lifts Lower End of Guidance, Books Strong Growth in Soft Drinks, Alcohol-Free Brews",
-      "content_text": "Carlsberg Lifts Lower End of Guidance, Books Strong Growth in Soft Drinks, Alcohol-Free Brews",
-      "summary": "",
-      "date_published": "2026-08-19T06:57:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "4ae5eca83f712497",
-      "url": "https://www.wsj.com/economy/global/u-k-inflation-picked-up-in-july-15b2b0be",
-      "title": "U.K. Inflation Picked Up in July",
-      "content_text": "U.K. Inflation Picked Up in July",
-      "summary": "",
-      "date_published": "2026-08-19T06:39:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "d7b3b7051af55bac",
-      "url": "https://www.wsj.com/tech/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-d2d73c08",
-      "title": "China’s Unitree Soars in Debut as Investors Bet Big on Robotics",
-      "content_text": "China’s Unitree Soars in Debut as Investors Bet Big on Robotics",
-      "summary": "",
-      "date_published": "2026-08-19T05:49:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "74a86a62303c8988",
-      "url": "https://www.wsj.com/finance/stocks/hong-kongs-exchange-operator-posts-record-quarter-beats-estimates-fe97abd2",
-      "title": "Hong Kong’s Exchange Operator Posts Record Quarter, Beats Estimates",
-      "content_text": "Hong Kong’s Exchange Operator Posts Record Quarter, Beats Estimates",
-      "summary": "",
-      "date_published": "2026-08-19T04:45:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "a174a80a745962b3",
-      "url": "https://www.wsj.com/business/hong-kongs-exchange-operator-posts-record-quarter-beats-estimates-fe97abd2",
-      "title": "Hong Kong’s Exchange Operator Posts Record Quarter on Surging IPOs, Trading Activity",
-      "content_text": "Hong Kong’s Exchange Operator Posts Record Quarter on Surging IPOs, Trading Activity",
-      "summary": "",
-      "date_published": "2026-08-19T04:45:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
