@@ -6,6 +6,39 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "7282b0c83f4e77ea",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-likely-technical-correction-bee9638e",
+      "title": "Oil Futures Fall on Likely Technical Correction",
+      "content_text": "Oil Futures Fall on Likely Technical Correction",
+      "summary": "",
+      "date_published": "2026-08-20T23:51:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "a888b10813d2d716",
+      "url": "https://www.wsj.com/economy/japan-inflation-picks-up-as-rate-boost-bets-firm-1d63fed4",
+      "title": "Japan Inflation Picks Up as Rate-Boost Bets Firm",
+      "content_text": "Japan Inflation Picks Up as Rate-Boost Bets Firm",
+      "summary": "",
+      "date_published": "2026-08-20T23:48:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "33619aeec3c35a2e",
+      "url": "https://www.wsj.com/politics/policy/trump-talks-to-michael-cohen-his-fixer-turned-enemy-98ff00d4",
+      "title": "Trump Talks to Michael Cohen, His Fixer-Turned-Enemy",
+      "content_text": "Trump Talks to Michael Cohen, His Fixer-Turned-Enemy",
+      "summary": "",
+      "date_published": "2026-08-20T23:40:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "fe03a8b1729386fb",
       "url": "https://www.wsj.com/business/inside-the-collapse-of-a-maga-marketplace-backed-by-trump-jr-63d7896b",
       "title": "Inside the Collapse of a MAGA Marketplace Backed by Trump Jr.",
@@ -2170,39 +2203,6 @@
       "date_published": "2026-08-19T17:56:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "7fc99b6fa23c42aa",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/spencer-jakab-take-the-bad-with-the-good-or-not--YuqQ19yNZ68VTqqEQfqV",
-      "title": "Spencer Jakab | Take the Bad With the Good, or Not?",
-      "content_text": "Spencer Jakab | Take the Bad With the Good, or Not?",
-      "summary": "",
-      "date_published": "2026-08-19T17:45:03+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "72bff09e5a476b6a",
-      "url": "https://www.wsj.com/tech/ai/openais-latest-bid-to-fight-anthropic-a-promise-not-to-keep-customer-data-d51a9b65",
-      "title": "OpenAI’s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data",
-      "content_text": "OpenAI’s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data",
-      "summary": "",
-      "date_published": "2026-08-19T17:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "7b7218fc8ea1de3d",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ",
-      "title": "Bitcoin Rises Above $68,000, Crypto Stocks Surge",
-      "content_text": "Bitcoin Rises Above $68,000, Crypto Stocks Surge",
-      "summary": "",
-      "date_published": "2026-08-19T16:53:38+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]

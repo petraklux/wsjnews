@@ -481,6 +481,19 @@
       "title": "Basic Materials Roundup: Market Talk",
       "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-66ead180"
     },
+    "33619aeec3c35a2e": {
+      "dek": "",
+      "first_seen": "2026-08-20T23:55:55.029618+00:00",
+      "guid": "33619aeec3c35a2e",
+      "published": "2026-08-20T23:40:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Trump Talks to Michael Cohen, His Fixer-Turned-Enemy",
+      "title": "Trump Talks to Michael Cohen, His Fixer-Turned-Enemy",
+      "url": "https://www.wsj.com/politics/policy/trump-talks-to-michael-cohen-his-fixer-turned-enemy-98ff00d4"
+    },
     "359588f0bde3dee6": {
       "dek": "",
       "first_seen": "2026-08-20T13:05:44.319580+00:00",
@@ -1170,18 +1183,18 @@
       "title": "‘Inventing Eliza’ Review: The Mother of All Chatbots",
       "url": "https://www.wsj.com/arts-culture/books/inventing-eliza-review-the-mother-of-all-chatbots-a4a1a26c"
     },
-    "72bff09e5a476b6a": {
+    "7282b0c83f4e77ea": {
       "dek": "",
-      "first_seen": "2026-08-19T17:35:17.890209+00:00",
-      "guid": "72bff09e5a476b6a",
-      "published": "2026-08-19T17:00:00+00:00",
-      "section": "Tech",
+      "first_seen": "2026-08-20T23:55:55.029618+00:00",
+      "guid": "7282b0c83f4e77ea",
+      "published": "2026-08-20T23:51:00+00:00",
+      "section": "Finance",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "OpenAI’s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data",
-      "title": "OpenAI’s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data",
-      "url": "https://www.wsj.com/tech/ai/openais-latest-bid-to-fight-anthropic-a-promise-not-to-keep-customer-data-d51a9b65"
+      "summary": "Oil Futures Fall on Likely Technical Correction",
+      "title": "Oil Futures Fall on Likely Technical Correction",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-likely-technical-correction-bee9638e"
     },
     "73c79de76dd2f931": {
       "dek": "",
@@ -1313,19 +1326,6 @@
       "title": "America’s Colleges Are Hurtling Toward an Enrollment Cliff",
       "url": "https://www.wsj.com/us-news/education/college-admissions-demographic-cliff-16dec51f"
     },
-    "7b7218fc8ea1de3d": {
-      "dek": "",
-      "first_seen": "2026-08-19T17:35:17.890209+00:00",
-      "guid": "7b7218fc8ea1de3d",
-      "published": "2026-08-19T16:53:38+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Bitcoin Rises Above $68,000, Crypto Stocks Surge",
-      "title": "Bitcoin Rises Above $68,000, Crypto Stocks Surge",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ"
-    },
     "7bbabb6350097d36": {
       "dek": "",
       "first_seen": "2026-08-20T13:56:32.587880+00:00",
@@ -1364,19 +1364,6 @@
       "summary": "Mary anastasia ogrady",
       "title": "Mary anastasia ogrady",
       "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady"
-    },
-    "7fc99b6fa23c42aa": {
-      "dek": "",
-      "first_seen": "2026-08-19T17:56:05.079415+00:00",
-      "guid": "7fc99b6fa23c42aa",
-      "published": "2026-08-19T17:45:03+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Spencer Jakab | Take the Bad With the Good, or Not?",
-      "title": "Spencer Jakab | Take the Bad With the Good, or Not?",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/spencer-jakab-take-the-bad-with-the-good-or-not--YuqQ19yNZ68VTqqEQfqV"
     },
     "810723cb581418e1": {
       "dek": "",
@@ -1793,6 +1780,19 @@
       "summary": "How Would the Superrich Kids of the ’80s Fare Today?",
       "title": "How Would the Superrich Kids of the ’80s Fare Today?",
       "url": "https://www.wsj.com/arts-culture/how-would-the-superrich-kids-of-the-80s-fare-today-be014e8c"
+    },
+    "a888b10813d2d716": {
+      "dek": "",
+      "first_seen": "2026-08-20T23:55:55.029618+00:00",
+      "guid": "a888b10813d2d716",
+      "published": "2026-08-20T23:48:00+00:00",
+      "section": "Economy",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Japan Inflation Picks Up as Rate-Boost Bets Firm",
+      "title": "Japan Inflation Picks Up as Rate-Boost Bets Firm",
+      "url": "https://www.wsj.com/economy/japan-inflation-picks-up-as-rate-boost-bets-firm-1d63fed4"
     },
     "ac7aa055873fb051": {
       "dek": "",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/triple-threat-why-stocks-are-reeling-today-eRSrfGLBjikBZ1XujAMK"
     }
   },
-  "updated": "2026-08-20T23:34:52.771256+00:00"
+  "updated": "2026-08-20T23:55:55.048391+00:00"
 }
