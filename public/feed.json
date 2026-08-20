@@ -6,32 +6,10 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "a2c51ea641c8e80c",
-      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
-      "title": "Economic forecasting survey archive",
-      "content_text": "Economic forecasting survey archive",
-      "summary": "",
-      "date_published": "2026-08-20T03:00:19+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
-      "summary": "",
-      "date_published": "2026-08-20T03:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
       "summary": "",
       "date_published": "2026-08-20T03:00:19+00:00",
       "tags": [
@@ -50,10 +28,10 @@
       ]
     },
     {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
       "summary": "",
       "date_published": "2026-08-20T03:00:19+00:00",
       "tags": [
@@ -69,6 +47,28 @@
       "date_published": "2026-08-20T03:00:19+00:00",
       "tags": [
         "News"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-08-20T03:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-08-20T03:00:19+00:00",
+      "tags": [
+        "Economy"
       ]
     },
     {
