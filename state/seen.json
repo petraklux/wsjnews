@@ -1,5 +1,18 @@
 {
   "items": {
+    "002b1a7cea84945b": {
+      "dek": "",
+      "first_seen": "2026-08-20T16:46:45.965995+00:00",
+      "guid": "002b1a7cea84945b",
+      "published": "2026-08-20T16:05:00+00:00",
+      "section": "Us News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "ICE Arrests Captain of Deadly Capsize in New York Harbor",
+      "title": "ICE Arrests Captain of Deadly Capsize in New York Harbor",
+      "url": "https://www.wsj.com/us-news/ice-arrests-captain-of-deadly-capsize-in-new-york-harbor-336aceb5"
+    },
     "0038b06dd019061e": {
       "dek": "",
       "first_seen": "2026-08-20T03:05:58.702812+00:00",
@@ -169,18 +182,18 @@
       "title": "⚡Flash Heard: Why Healthcare Is Partying Like It’s Late 2020",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/flash-heard-why-healthcare-is-partying-like-it-s-late-2020-LOxyhGE8BKpLYcPEPVSK"
     },
-    "0f58852e95daad8b": {
+    "0d8e03e972326682": {
       "dek": "",
-      "first_seen": "2026-08-19T11:34:25.507500+00:00",
-      "guid": "0f58852e95daad8b",
-      "published": "2026-08-19T11:00:00+00:00",
-      "section": "Sports",
+      "first_seen": "2026-08-20T16:46:45.965995+00:00",
+      "guid": "0d8e03e972326682",
+      "published": "2026-08-20T16:02:00+00:00",
+      "section": "Opinion",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "The NFL’s Rock-Bottom Quarterback Competition",
-      "title": "The NFL’s Rock-Bottom Quarterback Competition",
-      "url": "https://www.wsj.com/sports/football/browns-shedeur-sanders-deshaun-watson-53f3a740"
+      "summary": "New York Isn’t the Same for Jews",
+      "title": "New York Isn’t the Same for Jews",
+      "url": "https://www.wsj.com/opinion/new-york-isnt-the-same-for-jews-7fdf4812"
     },
     "0f71b0a255a10b10": {
       "dek": "",
@@ -532,19 +545,6 @@
       "summary": "Walmart Posts Weakest Sales Growth in Over Six Years",
       "title": "Walmart Posts Weakest Sales Growth in Over Six Years",
       "url": "https://www.wsj.com/business/earnings/warlmart-earnings-q2-2026-wmt-stock-122b69ee"
-    },
-    "3a09e1e2e738f55b": {
-      "dek": "",
-      "first_seen": "2026-08-19T11:34:25.507500+00:00",
-      "guid": "3a09e1e2e738f55b",
-      "published": "2026-08-19T10:46:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Estee Lauder Narrows Loss as Sales Climb",
-      "title": "Estee Lauder Narrows Loss as Sales Climb",
-      "url": "https://www.wsj.com/business/retail/estee-lauder-narrows-loss-as-sales-climb-1f067bdc"
     },
     "3a4e3931860ff720": {
       "dek": "",
@@ -936,19 +936,6 @@
       "title": "How Saudi Arabia’s Neom Megacity Dream Collapsed",
       "url": "https://www.wsj.com/world/middle-east/how-saudi-arabias-neom-megacity-dream-collapsed-67bd4df4"
     },
-    "54a672c54e7396ee": {
-      "dek": "",
-      "first_seen": "2026-08-19T11:34:25.507500+00:00",
-      "guid": "54a672c54e7396ee",
-      "published": "2026-08-19T10:43:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Target Raises Fiscal-Year Forecast Again as Turnaround Gains Traction With Consumers",
-      "title": "Target Raises Fiscal-Year Forecast Again as Turnaround Gains Traction With Consumers",
-      "url": "https://www.wsj.com/business/retail/target-raises-fiscal-year-forecast-again-as-turnaround-gains-traction-with-consumers-b3548cfd"
-    },
     "54c09951133a51cc": {
       "dek": "",
       "first_seen": "2026-08-20T11:36:22.144328+00:00",
@@ -961,6 +948,19 @@
       "summary": "The Morning Risk Report: Trump Threatens Iran With ‘Economic D-Day’",
       "title": "The Morning Risk Report: Trump Threatens Iran With ‘Economic D-Day’",
       "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-trump-threatens-iran-with-economic-d-day-933ca34a"
+    },
+    "559cff853c22422b": {
+      "dek": "",
+      "first_seen": "2026-08-20T16:46:45.965995+00:00",
+      "guid": "559cff853c22422b",
+      "published": "2026-08-20T16:03:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Americans Are Getting Caught in the Safety Net",
+      "title": "Americans Are Getting Caught in the Safety Net",
+      "url": "https://www.wsj.com/opinion/americans-are-getting-caught-in-the-safety-net-fed222f4"
     },
     "5653d6f1a26e8010": {
       "dek": "",
@@ -1156,19 +1156,6 @@
       "summary": "JGB Yield Curve Flattens, Tracking U.S. Treasury Yields",
       "title": "JGB Yield Curve Flattens, Tracking U.S. Treasury Yields",
       "url": "https://www.wsj.com/finance/jgb-yield-curve-flattens-tracking-u-s-treasury-yields-f7dae352"
-    },
-    "676e2cc1e1f272ef": {
-      "dek": "",
-      "first_seen": "2026-08-19T11:34:25.507500+00:00",
-      "guid": "676e2cc1e1f272ef",
-      "published": "2026-08-19T10:41:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Does ‘Less Is More’ Work for ETFs?",
-      "title": "Does ‘Less Is More’ Work for ETFs?",
-      "url": "https://www.wsj.com/finance/investing/does-less-is-more-work-for-etfs-48bd01f1"
     },
     "67a229f9726f9141": {
       "dek": "",
@@ -1391,6 +1378,19 @@
       "title": "When the Perfect Name Comes From Dad",
       "url": "https://www.wsj.com/opinion/when-the-perfect-name-comes-from-dad-33fa88ff"
     },
+    "78efc6b521ee9832": {
+      "dek": "",
+      "first_seen": "2026-08-20T16:46:45.965995+00:00",
+      "guid": "78efc6b521ee9832",
+      "published": "2026-08-20T15:50:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Starbucks Laying Off More Than 200 Workers in Streamlining Drive",
+      "title": "Starbucks Laying Off More Than 200 Workers in Streamlining Drive",
+      "url": "https://www.wsj.com/business/hospitality/starbucks-laying-off-more-than-200-workers-in-streamlining-drive-71e2b179"
+    },
     "79fba584df0b08be": {
       "dek": "",
       "first_seen": "2026-08-20T11:36:22.144328+00:00",
@@ -1403,6 +1403,19 @@
       "summary": "What the Bond Market and Six Flags Have in Common",
       "title": "What the Bond Market and Six Flags Have in Common",
       "url": "https://www.wsj.com/cfo-journal/what-the-bond-market-and-six-flags-have-in-common-c59ecfbe"
+    },
+    "7a5849708cd5a872": {
+      "dek": "",
+      "first_seen": "2026-08-20T16:46:45.965995+00:00",
+      "guid": "7a5849708cd5a872",
+      "published": "2026-08-20T15:51:39+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "After Day of Exuberance for Moderna’s Stock, Investors Pull Back",
+      "title": "After Day of Exuberance for Moderna’s Stock, Investors Pull Back",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/after-day-of-exuberance-for-moderna-s-stock-investors-pull-back-BaJIf8qZ9zQbyVAZx53r"
     },
     "7b376b319297e956": {
       "dek": "",
@@ -1455,6 +1468,19 @@
       "summary": "Target’s Earnings Call: Seldom Is Heard a Discouraging Word",
       "title": "Target’s Earnings Call: Seldom Is Heard a Discouraging Word",
       "url": "https://www.wsj.com/cmo-today/targets-earnings-call-seldom-is-heard-a-discouraging-word-f9b2ad70"
+    },
+    "7d94ad7935d18639": {
+      "dek": "",
+      "first_seen": "2026-08-20T16:46:45.965995+00:00",
+      "guid": "7d94ad7935d18639",
+      "published": "2026-08-20T16:09:05+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "💬 Money Quote: Bessent on the $40 Trillion U.S.-Debt Milestone",
+      "title": "💬 Money Quote: Bessent on the $40 Trillion U.S.-Debt Milestone",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/-money-quote-bessent-on-the-40-trillion-u-s-debt-milestone-a5qchxB1QNMbtY3MOOMq"
     },
     "7edb4c1b3acfcc8a": {
       "dek": "",
@@ -1598,6 +1624,19 @@
       "summary": "How Democratic Socialism Caught Fire in Florida",
       "title": "How Democratic Socialism Caught Fire in Florida",
       "url": "https://www.wsj.com/politics/elections/how-democratic-socialism-caught-fire-in-florida-19333a53"
+    },
+    "88b573d0050f2336": {
+      "dek": "",
+      "first_seen": "2026-08-20T16:46:45.965995+00:00",
+      "guid": "88b573d0050f2336",
+      "published": "2026-08-20T16:18:14+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Bessent Plays Down Deficit Concerns",
+      "title": "Bessent Plays Down Deficit Concerns",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/bessent-plays-down-deficit-concerns-BRj2J54gi7GWlL7YxKtk"
     },
     "8987e3d0052a7965": {
       "dek": "",
@@ -1976,19 +2015,6 @@
       "title": "Oil Edges Higher Amid Lingering Middle East Tensions",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-amid-lingering-middle-east-tensions-77c883a9"
     },
-    "b1456f9f509b9cf7": {
-      "dek": "",
-      "first_seen": "2026-08-19T11:34:25.507500+00:00",
-      "guid": "b1456f9f509b9cf7",
-      "published": "2026-08-19T10:45:00+00:00",
-      "section": "Health",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Novel Cancer Vaccine Prevents Melanoma From Returning in First for mRNA",
-      "title": "Novel Cancer Vaccine Prevents Melanoma From Returning in First for mRNA",
-      "url": "https://www.wsj.com/health/pharma/moderna-merck-vaccine-succeeds-in-preventing-melanoma-from-returning-540e9e18"
-    },
     "b54c7f48acde3909": {
       "dek": "",
       "first_seen": "2026-08-20T08:51:09.713022+00:00",
@@ -2028,19 +2054,6 @@
       "title": "Coty Looks to Finish Strategic Review, Guides for First-Quarter Sales Decline",
       "url": "https://www.wsj.com/business/earnings/coty-looks-to-finish-strategic-review-guides-for-first-quarter-sales-decline-c73fc9ca"
     },
-    "b881e59a7bbe35a5": {
-      "dek": "",
-      "first_seen": "2026-08-19T11:34:25.507500+00:00",
-      "guid": "b881e59a7bbe35a5",
-      "published": "2026-08-19T10:40:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Auto & Transport Roundup: Market Talk",
-      "title": "Auto & Transport Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-5a3729c8"
-    },
     "bb19cf099132e232": {
       "dek": "",
       "first_seen": "2026-08-19T21:34:44.380493+00:00",
@@ -2079,19 +2092,6 @@
       "summary": "Bessent Signals That Aggressive Action Possible to Bring Down Yields",
       "title": "Bessent Signals That Aggressive Action Possible to Bring Down Yields",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/bessent-signals-that-aggressive-action-possible-to-bring-down-yields-XqACYmv7StWaN4FEyuJ1"
-    },
-    "bda8e38cf93bbdad": {
-      "dek": "",
-      "first_seen": "2026-08-19T11:34:25.507500+00:00",
-      "guid": "bda8e38cf93bbdad",
-      "published": "2026-08-19T10:51:00+00:00",
-      "section": "Politics",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Great Bipartisan Data Center Smackdown Has Begun",
-      "title": "The Great Bipartisan Data Center Smackdown Has Begun",
-      "url": "https://www.wsj.com/politics/policy/the-great-bipartisan-data-center-smackdown-has-begun-ea650bdd"
     },
     "c04c9ce01dd49ff3": {
       "dek": "",
@@ -2457,19 +2457,6 @@
       "title": "Spencer Jakab | The Curious Case of SK Hynix’s Buyback",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/spencer-jakab-the-curious-case-of-sk-hynix-s-buyback-snVl3Lra40T9W1fHej2L"
     },
-    "ec106ca229735bf0": {
-      "dek": "",
-      "first_seen": "2026-08-19T11:34:25.507500+00:00",
-      "guid": "ec106ca229735bf0",
-      "published": "2026-08-19T10:52:00+00:00",
-      "section": "Logistics Report",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "U.S. Refiners Capitalize as Buyers Vie for Shrinking Diesel Supply",
-      "title": "U.S. Refiners Capitalize as Buyers Vie for Shrinking Diesel Supply",
-      "url": "https://www.wsj.com/logistics-report/u-s-refiners-capitalize-as-buyers-vie-for-shrinking-diesel-supply-b7d36e62"
-    },
     "eec7679a0da96ab3": {
       "dek": "",
       "first_seen": "2026-08-19T22:35:07.017507+00:00",
@@ -2508,6 +2495,19 @@
       "summary": "Canada Producer Prices Rise in July, Buoyed by Gas and Diesel",
       "title": "Canada Producer Prices Rise in July, Buoyed by Gas and Diesel",
       "url": "https://www.wsj.com/finance/commodities-futures/canada-producer-prices-rise-in-july-buoyed-by-gas-and-diesel-69d503d6"
+    },
+    "f1a840919057d71e": {
+      "dek": "",
+      "first_seen": "2026-08-20T16:46:45.965995+00:00",
+      "guid": "f1a840919057d71e",
+      "published": "2026-08-20T16:42:20+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Some Americans Are Making ‘Choices Between Necessities,’ Retailers Warn",
+      "title": "Some Americans Are Making ‘Choices Between Necessities,’ Retailers Warn",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/some-americans-are-making-choices-between-necessities-retailers-warn-9cPBXfGfphtKtZZY5gz2"
     },
     "f28c0a281917d4e4": {
       "dek": "",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026"
     }
   },
-  "updated": "2026-08-20T15:43:11.531585+00:00"
+  "updated": "2026-08-20T16:46:45.989037+00:00"
 }
