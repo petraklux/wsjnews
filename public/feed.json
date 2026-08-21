@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "18feb3c7a34ab18d",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/robinhood-leads-friday-s-s-p-500-gains-bfqsEvdpn8a5YLzGR4ML",
+      "title": "Robinhood Leads Friday’s S&P 500 Gains",
+      "content_text": "Robinhood Leads Friday’s S&P 500 Gains",
+      "summary": "",
+      "date_published": "2026-08-21T17:15:08+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "7be256b9521fa8a8",
+      "url": "https://www.wsj.com/articles/hayden-panettiere-lindsay-clancy-postpartum-mental-health-397b6da1",
+      "title": "A Celebrity Death and a Murder Trial Shine Light on Postpartum Mental Health",
+      "content_text": "A Celebrity Death and a Murder Trial Shine Light on Postpartum Mental Health",
+      "summary": "",
+      "date_published": "2026-08-21T16:55:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "e28dd116a8f9e5ad",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/conocophillips-fuels-up-for-record-closing-high-vnVD8ve4G2fvqhcGKZC7",
       "title": "ConocoPhillips Fuels Up for Record Closing High",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-20T10:51:00+00:00",
       "tags": [
         "Politics"
-      ]
-    },
-    {
-      "id": "54c09951133a51cc",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-trump-threatens-iran-with-economic-d-day-933ca34a",
-      "title": "The Morning Risk Report: Trump Threatens Iran With ‘Economic D-Day’",
-      "content_text": "The Morning Risk Report: Trump Threatens Iran With ‘Economic D-Day’",
-      "summary": "",
-      "date_published": "2026-08-20T10:50:00+00:00",
-      "tags": [
-        "Risk Compliance Journal"
-      ]
-    },
-    {
-      "id": "f3b0885ea708ee64",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-debe172a",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "content_text": "Energy & Utilities Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-20T10:47:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
