@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "80d7301d085dceed",
+      "url": "https://www.wsj.com/lifestyle/cars/inside-the-car-show-celebrating-the-best-of-the-worst-02ad5dbb",
+      "title": "Inside the Car Show Celebrating the Best of the Worst",
+      "content_text": "Inside the Car Show Celebrating the Best of the Worst",
+      "summary": "",
+      "date_published": "2026-08-21T18:25:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "de8ebd7166ecec46",
+      "url": "https://www.wsj.com/politics/policy/trump-can-keep-building-ballroom-while-supreme-court-weighs-appeal-a749e6b1",
+      "title": "Trump Can Keep Building Ballroom While Supreme Court Weighs Appeal",
+      "content_text": "Trump Can Keep Building Ballroom While Supreme Court Weighs Appeal",
+      "summary": "",
+      "date_published": "2026-08-21T18:14:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "52506dd78e560d77",
+      "url": "https://www.wsj.com/business/media/abc-local-station-move-draws-fcc-scrutiny-9f92c4cd",
+      "title": "ABC Local Station Move Draws FCC Scrutiny",
+      "content_text": "ABC Local Station Move Draws FCC Scrutiny",
+      "summary": "",
+      "date_published": "2026-08-21T17:57:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "ecb6e7cec98270e7",
+      "url": "https://www.wsj.com/finance/regulation/fannie-mae-hit-by-turmoil-in-senior-ranks-as-at-least-10-executives-depart-9f0f40e0",
+      "title": "Fannie Mae Hit by Turmoil in Senior Ranks as at Least 10 Executives Depart",
+      "content_text": "Fannie Mae Hit by Turmoil in Senior Ranks as at Least 10 Executives Depart",
+      "summary": "",
+      "date_published": "2026-08-21T17:55:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "18feb3c7a34ab18d",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/robinhood-leads-friday-s-s-p-500-gains-bfqsEvdpn8a5YLzGR4ML",
       "title": "Robinhood Leads Friday’s S&P 500 Gains",
@@ -2159,50 +2203,6 @@
       "date_published": "2026-08-20T11:00:00+00:00",
       "tags": [
         "Sports"
-      ]
-    },
-    {
-      "id": "8efe01541f1b9e8a",
-      "url": "https://www.wsj.com/logistics-report/u-s-considers-tariff-cuts-on-metals-autos-in-canada-deal-e4ec3909",
-      "title": "U.S. Considers Tariff Cuts on Metals, Autos in Canada Deal",
-      "content_text": "U.S. Considers Tariff Cuts on Metals, Autos in Canada Deal",
-      "summary": "",
-      "date_published": "2026-08-20T11:00:00+00:00",
-      "tags": [
-        "Logistics Report"
-      ]
-    },
-    {
-      "id": "3aa87c23c5ba4e16",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-53b1771b",
-      "title": "Auto & Transport Roundup: Market Talk",
-      "content_text": "Auto & Transport Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-20T10:59:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "310cdee20a31a003",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-66ead180",
-      "title": "Basic Materials Roundup: Market Talk",
-      "content_text": "Basic Materials Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-20T10:53:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "4ba314a159544e6a",
-      "url": "https://www.wsj.com/politics/policy/scott-bessent-and-the-art-of-the-treasury-tightrope-14d0b9fd",
-      "title": "Scott Bessent and the Art of the Treasury Tightrope",
-      "content_text": "Scott Bessent and the Art of the Treasury Tightrope",
-      "summary": "",
-      "date_published": "2026-08-20T10:51:00+00:00",
-      "tags": [
-        "Politics"
       ]
     }
   ]
