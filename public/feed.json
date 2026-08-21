@@ -6,6 +6,105 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "4c2ea384957dbb23",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/a-1-million-renovation-revitalized-their-revolutionary-war-era-home-7c6904e4",
+      "title": "A $1 Million Renovation Revitalized Their Revolutionary War-Era Home",
+      "content_text": "A $1 Million Renovation Revitalized Their Revolutionary War-Era Home",
+      "summary": "",
+      "date_published": "2026-08-21T19:25:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "6cec74f81137840e",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/warsh-at-jackson-hole-nvidia-earnings-what-to-watch-next-week-e9WedRMUsVqY3fMQCdVf",
+      "title": "Warsh at Jackson Hole, Nvidia Earnings: What to Watch Next Week",
+      "content_text": "Warsh at Jackson Hole, Nvidia Earnings: What to Watch Next Week",
+      "summary": "",
+      "date_published": "2026-08-21T19:09:36+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "452c049d4285e75d",
+      "url": "https://www.wsj.com/opinion/fixing-social-security-is-a-political-problem-3418124e",
+      "title": "Fixing Social Security Is a Political Problem",
+      "content_text": "Fixing Social Security Is a Political Problem",
+      "summary": "",
+      "date_published": "2026-08-21T19:03:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "216fc5c0397585a6",
+      "url": "https://www.wsj.com/opinion/better-voter-rolls-start-with-better-funding-11ca31d1",
+      "title": "Better Voter Rolls Start With Better Funding",
+      "content_text": "Better Voter Rolls Start With Better Funding",
+      "summary": "",
+      "date_published": "2026-08-21T19:01:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "986cdaaf337a558d",
+      "url": "https://www.wsj.com/opinion/one-year-of-flexibility-to-deliver-the-farm-bill-5fd72017",
+      "title": "One Year of Flexibility to Deliver the Farm Bill",
+      "content_text": "One Year of Flexibility to Deliver the Farm Bill",
+      "summary": "",
+      "date_published": "2026-08-21T19:01:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "d4f660d4578774b3",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/sonoma-county-california-home-768f7560",
+      "title": "House of the Week: A European-Style Compound in California Wine Country",
+      "content_text": "House of the Week: A European-Style Compound in California Wine Country",
+      "summary": "",
+      "date_published": "2026-08-21T19:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "de9e7394565fd4c7",
+      "url": "https://www.wsj.com/opinion/ai-cant-fix-a-bad-calendar-92a06234",
+      "title": "AI Can’t Fix a Bad Calendar",
+      "content_text": "AI Can’t Fix a Bad Calendar",
+      "summary": "",
+      "date_published": "2026-08-21T18:59:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "e2ef9b14faa4c321",
+      "url": "https://www.wsj.com/opinion/the-new-free-markets-pitch-21879025",
+      "title": "The New Free Markets Pitch",
+      "content_text": "The New Free Markets Pitch",
+      "summary": "",
+      "date_published": "2026-08-21T18:58:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "fdebe3338d3654b6",
+      "url": "https://www.wsj.com/opinion/abba-made-money-money-money-947677fa",
+      "title": "ABBA Made Money, Money, Money",
+      "content_text": "ABBA Made Money, Money, Money",
+      "summary": "",
+      "date_published": "2026-08-21T18:57:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
       "id": "80d7301d085dceed",
       "url": "https://www.wsj.com/lifestyle/cars/inside-the-car-show-celebrating-the-best-of-the-worst-02ad5dbb",
       "title": "Inside the Car Show Celebrating the Best of the Worst",
@@ -2104,105 +2203,6 @@
       "date_published": "2026-08-20T11:09:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "9650199cfd5dec5b",
-      "url": "https://www.wsj.com/finance/currencies/crypto-stocks-continue-surge-premarket-after-upbeat-white-house-meeting-d344afcd",
-      "title": "Crypto Stocks Continue Surge Premarket After Upbeat White House Meeting",
-      "content_text": "Crypto Stocks Continue Surge Premarket After Upbeat White House Meeting",
-      "summary": "",
-      "date_published": "2026-08-20T11:06:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "13b819f6098b0912",
-      "url": "https://www.wsj.com/finance/investing/health-care-roundup-market-talk-b4eee231",
-      "title": "Health Care Roundup: Market Talk",
-      "content_text": "Health Care Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-20T11:05:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "1fcdf289a7bcda70",
-      "url": "https://www.wsj.com/world/dwindling-patriot-supplies-leave-kyiv-in-the-line-of-fire-21df615b",
-      "title": "Dwindling Patriot Supplies Leave Kyiv in the Line of Fire",
-      "content_text": "Dwindling Patriot Supplies Leave Kyiv in the Line of Fire",
-      "summary": "",
-      "date_published": "2026-08-20T11:05:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "73c79de76dd2f931",
-      "url": "https://www.wsj.com/world/europe/dwindling-patriot-supplies-leave-kyiv-in-the-line-of-fire-21df615b",
-      "title": "Dwindling Patriot Supplies Leave Kyiv in the Line of Fire",
-      "content_text": "Dwindling Patriot Supplies Leave Kyiv in the Line of Fire",
-      "summary": "",
-      "date_published": "2026-08-20T11:05:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "359588f0bde3dee6",
-      "url": "https://www.wsj.com/business/earnings/warlmart-earnings-q2-2026-wmt-stock-122b69ee",
-      "title": "Walmart Posts Weakest Sales Growth in Over Six Years",
-      "content_text": "Walmart Posts Weakest Sales Growth in Over Six Years",
-      "summary": "",
-      "date_published": "2026-08-20T11:02:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "7712a61ad49e149f",
-      "url": "https://www.wsj.com/business/earnings/walmart-sales-are-growing-but-stores-arent-the-engine-122b69ee",
-      "title": "Walmart Sales Are Growing, but Stores Aren’t the Engine",
-      "content_text": "Walmart Sales Are Growing, but Stores Aren’t the Engine",
-      "summary": "",
-      "date_published": "2026-08-20T11:02:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "e5458a2ea67469f6",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/spencer-jakab-the-curious-case-of-sk-hynix-s-buyback-snVl3Lra40T9W1fHej2L",
-      "title": "Spencer Jakab | The Curious Case of SK Hynix’s Buyback",
-      "content_text": "Spencer Jakab | The Curious Case of SK Hynix’s Buyback",
-      "summary": "",
-      "date_published": "2026-08-20T11:00:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "4107b25a760db7c9",
-      "url": "https://www.wsj.com/business/rainmakers-in-talks-to-leave-weil-gotshal-amid-poaching-frenzy-7ebf47fc",
-      "title": "Rainmakers in Talks to Leave Weil Gotshal Amid Poaching Frenzy",
-      "content_text": "Rainmakers in Talks to Leave Weil Gotshal Amid Poaching Frenzy",
-      "summary": "",
-      "date_published": "2026-08-20T11:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "4131e7c24ba61443",
-      "url": "https://www.wsj.com/sports/baseball/matt-wilkinson-tugboat-giants-ca34ebab",
-      "title": "His Name is Tugboat. He Throws an ‘Invisiball.’ And Now He’s a Major-Leaguer",
-      "content_text": "His Name is Tugboat. He Throws an ‘Invisiball.’ And Now He’s a Major-Leaguer",
-      "summary": "",
-      "date_published": "2026-08-20T11:00:00+00:00",
-      "tags": [
-        "Sports"
       ]
     }
   ]
