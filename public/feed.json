@@ -6,12 +6,45 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "a09d5485e3f9d742",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-4acb2348",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-08-21T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
       "id": "e820db2a911c9b15",
       "url": "https://www.wsj.com/world/china/hong-kong-court-convicts-activists-who-organized-tiananmen-vigils-39d49bfa",
       "title": "Hong Kong Court Convicts Activists Who Organized Tiananmen Vigils",
       "content_text": "Hong Kong Court Convicts Activists Who Organized Tiananmen Vigils",
       "summary": "",
       "date_published": "2026-08-21T02:44:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "0e3a5b8c384af37b",
+      "url": "https://www.wsj.com/world/us-weapons-stockpile-d869e58a",
+      "title": "Is America Still Capable of Enforcing the World Order?",
+      "content_text": "Is America Still Capable of Enforcing the World Order?",
+      "summary": "",
+      "date_published": "2026-08-21T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "6a87b28cb615c8ee",
+      "url": "https://www.wsj.com/world/uk/the-controversial-academic-who-ignited-the-jason-arday-furor-1071e7fc",
+      "title": "The Controversial Academic Who Ignited the Jason Arday Furor",
+      "content_text": "The Controversial Academic Who Ignited the Jason Arday Furor",
+      "summary": "",
+      "date_published": "2026-08-21T02:00:00+00:00",
       "tags": [
         "World"
       ]
@@ -36,28 +69,6 @@
       "date_published": "2026-08-21T02:00:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "6a87b28cb615c8ee",
-      "url": "https://www.wsj.com/world/uk/the-controversial-academic-who-ignited-the-jason-arday-furor-1071e7fc",
-      "title": "The Controversial Academic Who Ignited the Jason Arday Furor",
-      "content_text": "The Controversial Academic Who Ignited the Jason Arday Furor",
-      "summary": "",
-      "date_published": "2026-08-21T02:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "0e3a5b8c384af37b",
-      "url": "https://www.wsj.com/world/us-weapons-stockpile-d869e58a",
-      "title": "Is America Still Capable of Enforcing the World Order?",
-      "content_text": "Is America Still Capable of Enforcing the World Order?",
-      "summary": "",
-      "date_published": "2026-08-21T02:00:00+00:00",
-      "tags": [
-        "World"
       ]
     },
     {
@@ -2192,17 +2203,6 @@
       "date_published": "2026-08-19T19:00:00+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "41600b4127c4bdeb",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/u-s-considers-lower-tariffs-on-canadian-metals-autos-srYr7HwJonQCjd2Ip0uD",
-      "title": "U.S. Considers Lower Tariffs on Canadian Metals, Autos",
-      "content_text": "U.S. Considers Lower Tariffs on Canadian Metals, Autos",
-      "summary": "",
-      "date_published": "2026-08-19T18:55:15+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
