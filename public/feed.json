@@ -6,6 +6,83 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "4eb7dfac90994a30",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/long-term-yields-on-course-to-end-bonkers-week-at-highest-levels-in-over-a-decade-zOUJ0ctLdNtMUC43ghUE",
+      "title": "Long-Term Yields on Course to End Bonkers Week at Highest Levels in Over a Decade",
+      "content_text": "Long-Term Yields on Course to End Bonkers Week at Highest Levels in Over a Decade",
+      "summary": "",
+      "date_published": "2026-08-21T10:33:50+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "2cd300deb7fe8f96",
+      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-ae170b55",
+      "title": "Auto & Transport Roundup: Market Talk",
+      "content_text": "Auto & Transport Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-21T10:30:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "75d6f05f036f46e2",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-83301203",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-21T10:26:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "4f578b91427cfdb6",
+      "url": "https://www.wsj.com/finance/investing/how-index-funds-went-from-being-mocked-to-feared-in-50-years-8168fc9f",
+      "title": "How Index Funds Went From Being Mocked to Feared in 50 Years",
+      "content_text": "How Index Funds Went From Being Mocked to Feared in 50 Years",
+      "summary": "",
+      "date_published": "2026-08-21T10:25:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "a23b399a34f8d0e1",
+      "url": "https://www.wsj.com/business/retail/what-back-to-school-says-about-the-economy-db03d83d",
+      "title": "What Back-to-School Says About the Economy",
+      "content_text": "What Back-to-School Says About the Economy",
+      "summary": "",
+      "date_published": "2026-08-21T10:03:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "eb098c78af4331c9",
+      "url": "https://www.wsj.com/articles/politicians-turn-against-data-centers-as-anger-over-ai-spreads-8ddce345",
+      "title": "Politicians Turn Against Data Centers as Anger Over AI Spreads",
+      "content_text": "Politicians Turn Against Data Centers as Anger Over AI Spreads",
+      "summary": "",
+      "date_published": "2026-08-21T10:01:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "19fe249305cd2a55",
+      "url": "https://www.wsj.com/business/blackwaters-erik-prince-launches-air-defense-startup-643c9298",
+      "title": "Blackwater’s Erik Prince Launches Air-Defense Startup",
+      "content_text": "Blackwater’s Erik Prince Launches Air-Defense Startup",
+      "summary": "",
+      "date_published": "2026-08-21T10:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "41bf269fb8291548",
       "url": "https://www.wsj.com/us-news/plane-crash-near-remote-military-radar-site-in-alaska-kills-8-68b0edd4",
       "title": "Plane Crash Near Remote Military Radar Site in Alaska Kills 8",
@@ -17,17 +94,6 @@
       ]
     },
     {
-      "id": "748e4515cc5955b5",
-      "url": "https://www.wsj.com/lifestyle/how-to-dock-a-boat-in-20-seconds-without-taking-out-a-tiki-bar-91734ce7",
-      "title": "How to Dock a Boat in 20 Seconds Without Taking Out a Tiki Bar",
-      "content_text": "How to Dock a Boat in 20 Seconds Without Taking Out a Tiki Bar",
-      "summary": "",
-      "date_published": "2026-08-21T09:30:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
       "id": "489a76f30c35adbb",
       "url": "https://www.wsj.com/personal-finance/retirement/when-your-bumper-401-k-is-a-tax-problem-waiting-to-happen-2e0e5ad4",
       "title": "When Your Bumper 401(k) Is a Tax Problem Waiting to Happen",
@@ -36,6 +102,17 @@
       "date_published": "2026-08-21T09:30:00+00:00",
       "tags": [
         "Personal Finance"
+      ]
+    },
+    {
+      "id": "748e4515cc5955b5",
+      "url": "https://www.wsj.com/lifestyle/how-to-dock-a-boat-in-20-seconds-without-taking-out-a-tiki-bar-91734ce7",
+      "title": "How to Dock a Boat in 20 Seconds Without Taking Out a Tiki Bar",
+      "content_text": "How to Dock a Boat in 20 Seconds Without Taking Out a Tiki Bar",
+      "summary": "",
+      "date_published": "2026-08-21T09:30:00+00:00",
+      "tags": [
+        "Lifestyle"
       ]
     },
     {
@@ -2124,83 +2201,6 @@
       "content_text": "Ending the Syrian Nuclear Saga",
       "summary": "",
       "date_published": "2026-08-19T21:42:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "4aad797d7af2f4cf",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/one-great-chart-moderna-surge-makes-s-p-history-CEc14EJKY0rerwRsQ4CB",
-      "title": "One Great Chart: Moderna Surge Makes S&P History",
-      "content_text": "One Great Chart: Moderna Surge Makes S&P History",
-      "summary": "",
-      "date_published": "2026-08-19T21:17:52+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "080e8184de0fdee1",
-      "url": "https://www.wsj.com/finance/investing/bessent-leans-into-his-role-as-americas-bond-trader-in-chief-633f28a4",
-      "title": "Bessent Leans Into His Role as America’s Bond Trader in Chief",
-      "content_text": "Bessent Leans Into His Role as America’s Bond Trader in Chief",
-      "summary": "",
-      "date_published": "2026-08-19T21:05:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "2401aa897de709c4",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/-money-quote-u-s-and-china-can-share-the-ai-pie-A7VVHwNTXLRhqpb4iFZs",
-      "title": "💬Money Quote: U.S. and China Can Share the AI Pie",
-      "content_text": "💬Money Quote: U.S. and China Can Share the AI Pie",
-      "summary": "",
-      "date_published": "2026-08-19T21:00:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "73cd1d4add8a6147",
-      "url": "https://www.wsj.com/business/carlyle-joins-1-billion-investment-round-in-missile-startup-castelion-4165bf32",
-      "title": "Carlyle Joins $1 Billion Investment Round in Missile Startup Castelion",
-      "content_text": "Carlyle Joins $1 Billion Investment Round in Missile Startup Castelion",
-      "summary": "",
-      "date_published": "2026-08-19T21:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "810723cb581418e1",
-      "url": "https://www.wsj.com/opinion/trump-and-the-campuses-part-2-47edd542",
-      "title": "Trump and the Campuses, Part 2",
-      "content_text": "Trump and the Campuses, Part 2",
-      "summary": "",
-      "date_published": "2026-08-19T20:57:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "99a33a76fcccc2b7",
-      "url": "https://www.wsj.com/opinion/midterm-lessons-from-bush-to-trump-b2d964cb",
-      "title": "Midterm Lessons From Bush to Trump",
-      "content_text": "Midterm Lessons From Bush to Trump",
-      "summary": "",
-      "date_published": "2026-08-19T20:57:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "77b763af70ba3c42",
-      "url": "https://www.wsj.com/opinion/when-the-perfect-name-comes-from-dad-33fa88ff",
-      "title": "When the Perfect Name Comes From Dad",
-      "content_text": "When the Perfect Name Comes From Dad",
-      "summary": "",
-      "date_published": "2026-08-19T20:56:00+00:00",
       "tags": [
         "Opinion"
       ]
