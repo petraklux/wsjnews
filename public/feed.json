@@ -6,6 +6,39 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "fe3f9f453608c179",
+      "url": "https://www.wsj.com/health/healthcare/alfalfa-sprouts-linked-to-e-coli-salmonella-outbreak-across-15-states-3d47b78d",
+      "title": "Alfalfa Sprouts Linked to E. Coli, Salmonella Outbreak Across 15 States",
+      "content_text": "Alfalfa Sprouts Linked to E. Coli, Salmonella Outbreak Across 15 States",
+      "summary": "",
+      "date_published": "2026-08-21T19:42:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "4a2897df00620a12",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/oil-prices-extend-their-rally-9Xe3P9PMgII1kGdSDwmH",
+      "title": "Oil Prices Extend Their Rally",
+      "content_text": "Oil Prices Extend Their Rally",
+      "summary": "",
+      "date_published": "2026-08-21T19:41:37+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "d0b81e9fa99c3ea0",
+      "url": "https://www.wsj.com/arts-culture/books/13-books-we-read-this-week-aa4230f4",
+      "title": "13 Books We Read This Week",
+      "content_text": "13 Books We Read This Week",
+      "summary": "",
+      "date_published": "2026-08-21T19:33:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
       "id": "4c2ea384957dbb23",
       "url": "https://www.wsj.com/real-estate/luxury-homes/a-1-million-renovation-revitalized-their-revolutionary-war-era-home-7c6904e4",
       "title": "A $1 Million Renovation Revitalized Their Revolutionary War-Era Home",
@@ -2170,39 +2203,6 @@
       "date_published": "2026-08-20T11:28:05+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "70244bef269b4ef3",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/walmart-stock-slides-on-sales-miss-pvJW2fEwYrklTmxvja7a",
-      "title": "Walmart Stock Slides on Sales Miss",
-      "content_text": "Walmart Stock Slides on Sales Miss",
-      "summary": "",
-      "date_published": "2026-08-20T11:26:25+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "79fba584df0b08be",
-      "url": "https://www.wsj.com/cfo-journal/what-the-bond-market-and-six-flags-have-in-common-c59ecfbe",
-      "title": "What the Bond Market and Six Flags Have in Common",
-      "content_text": "What the Bond Market and Six Flags Have in Common",
-      "summary": "",
-      "date_published": "2026-08-20T11:20:00+00:00",
-      "tags": [
-        "Cfo Journal"
-      ]
-    },
-    {
-      "id": "15e11d3217977731",
-      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-359b0c46",
-      "title": "Financial Services Roundup: Market Talk",
-      "content_text": "Financial Services Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-20T11:09:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
