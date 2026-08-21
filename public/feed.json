@@ -6,6 +6,83 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "8824481566884cf3",
+      "url": "https://www.wsj.com/arts-culture/books/ace-review-how-to-serve-winning-looks-cb0a60a3",
+      "title": "‘Ace’ Review: How to Serve Winning Looks",
+      "content_text": "‘Ace’ Review: How to Serve Winning Looks",
+      "summary": "",
+      "date_published": "2026-08-21T13:47:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
+      "summary": "",
+      "date_published": "2026-08-21T13:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "9f4c0330afb12c8e",
+      "url": "https://www.wsj.com/cmo-today/looksmaxxing-lingo-is-captivating-brands-from-cerave-to-carls-jr-4a629fd0",
+      "title": "Looksmaxxing Lingo Is Captivating Brands From CeraVe to Carl’s Jr.",
+      "content_text": "Looksmaxxing Lingo Is Captivating Brands From CeraVe to Carl’s Jr.",
+      "summary": "",
+      "date_published": "2026-08-21T13:24:00+00:00",
+      "tags": [
+        "Cmo Today"
+      ]
+    },
+    {
+      "id": "756cd273374e7215",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/dollar-slips-to-weakest-level-since-may-WPBtlkjldsMP2mpBWmQl",
+      "title": "Dollar Slips to Weakest Level Since May",
+      "content_text": "Dollar Slips to Weakest Level Since May",
+      "summary": "",
+      "date_published": "2026-08-21T13:23:19+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "f613431a97e290e6",
+      "url": "https://www.wsj.com/finance/investing/gold-above-4-600-on-weaker-dollar-debt-fears-7a7d1eb4",
+      "title": "Gold Above $4,600 on Weaker Dollar, Debt Fears",
+      "content_text": "Gold Above $4,600 on Weaker Dollar, Debt Fears",
+      "summary": "",
+      "date_published": "2026-08-21T13:15:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "cf4e134e58e0188a",
+      "url": "https://www.wsj.com/arts-culture/books/first-helpings-review-the-taste-of-childhood-b4057803",
+      "title": "‘First Helpings’ Review: The Taste of Childhood",
+      "content_text": "‘First Helpings’ Review: The Taste of Childhood",
+      "summary": "",
+      "date_published": "2026-08-21T13:15:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "887e3fa2e89b8671",
+      "url": "https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a",
+      "title": "Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge",
+      "content_text": "Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge",
+      "summary": "",
+      "date_published": "2026-08-21T13:09:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "c112b2dd8a014b7e",
       "url": "https://www.wsj.com/business/retail/canada-retail-sales-slip-after-rising-a-sixth-straight-month-in-june-22fc3100",
       "title": "Canada Retail Sales Slip After Rising a Sixth Straight Month in June",
@@ -2126,83 +2203,6 @@
       "date_published": "2026-08-20T04:00:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
-      "summary": "",
-      "date_published": "2026-08-20T03:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "5a885d497fa8a917",
-      "url": "https://www.wsj.com/news/types/the-saturday-interview",
-      "title": "The saturday interview",
-      "content_text": "The saturday interview",
-      "summary": "",
-      "date_published": "2026-08-20T03:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
-      "summary": "",
-      "date_published": "2026-08-20T03:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "67a229f9726f9141",
-      "url": "https://www.wsj.com/news/markets/real-estate-commercial",
-      "title": "Real estate commercial",
-      "content_text": "Real estate commercial",
-      "summary": "",
-      "date_published": "2026-08-20T03:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
-      "summary": "",
-      "date_published": "2026-08-20T03:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "a2c51ea641c8e80c",
-      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
-      "title": "Economic forecasting survey archive",
-      "content_text": "Economic forecasting survey archive",
-      "summary": "",
-      "date_published": "2026-08-20T03:00:19+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "4c8254ce0e372a8d",
-      "url": "https://www.wsj.com/articles/corrections-amplifications-79ef52e8",
-      "title": "Corrections &Amplifications",
-      "content_text": "Corrections &Amplifications",
-      "summary": "",
-      "date_published": "2026-08-20T02:27:00+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
