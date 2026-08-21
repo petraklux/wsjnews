@@ -26,19 +26,6 @@
       "title": "Elizabeth anne bernstein",
       "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein"
     },
-    "00d13fd11338f310": {
-      "dek": "",
-      "first_seen": "2026-08-19T22:35:07.017507+00:00",
-      "guid": "00d13fd11338f310",
-      "published": "2026-08-19T22:20:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Byron Donalds and Florida’s Future",
-      "title": "Byron Donalds and Florida’s Future",
-      "url": "https://www.wsj.com/opinion/florida-elections-byron-donalds-david-jolly-ashley-moody-angie-nixon-fdc845e9"
-    },
     "00e472efc449c5d6": {
       "dek": "",
       "first_seen": "2026-08-20T01:46:31.348198+00:00",
@@ -338,32 +325,6 @@
       "title": "Stocks Slump as Bond Yields Rise With Crude Prices",
       "url": "https://www.wsj.com/finance/investing/stocks-slump-as-bond-yields-rise-with-crude-prices-c61f10d2"
     },
-    "24327bbc21ee43fe": {
-      "dek": "",
-      "first_seen": "2026-08-19T21:56:20.831842+00:00",
-      "guid": "24327bbc21ee43fe",
-      "published": "2026-08-19T21:49:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Trump, Canada Tariffs and USMCA",
-      "title": "Trump, Canada Tariffs and USMCA",
-      "url": "https://www.wsj.com/opinion/donald-trump-usmca-trade-agreement-mexico-canada-69d2b4d3"
-    },
-    "2528899c230ada4f": {
-      "dek": "",
-      "first_seen": "2026-08-19T22:56:28.748825+00:00",
-      "guid": "2528899c230ada4f",
-      "published": "2026-08-19T22:37:00+00:00",
-      "section": "Tech",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Why a Payments Giant Is Paying $7 Billion for the ‘Stripe of AI’",
-      "title": "Why a Payments Giant Is Paying $7 Billion for the ‘Stripe of AI’",
-      "url": "https://www.wsj.com/tech/ai/why-a-payments-giant-is-paying-7-billion-for-the-stripe-of-ai-f5832e54"
-    },
     "25e6d13d2849dba5": {
       "dek": "",
       "first_seen": "2026-08-20T13:05:44.319580+00:00",
@@ -494,6 +455,19 @@
       "title": "Trump Talks to Michael Cohen, His Fixer-Turned-Enemy",
       "url": "https://www.wsj.com/politics/policy/trump-talks-to-michael-cohen-his-fixer-turned-enemy-98ff00d4"
     },
+    "3379aad6ee8a6d60": {
+      "dek": "",
+      "first_seen": "2026-08-21T11:35:18.192849+00:00",
+      "guid": "3379aad6ee8a6d60",
+      "published": "2026-08-21T11:03:00+00:00",
+      "section": "Logistics Report",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Walmart’s E-Commerce Sales Rise as Deliveries Accelerate",
+      "title": "Walmart’s E-Commerce Sales Rise as Deliveries Accelerate",
+      "url": "https://www.wsj.com/logistics-report/walmarts-e-commerce-sales-rise-as-deliveries-accelerate-ba2643aa"
+    },
     "359588f0bde3dee6": {
       "dek": "",
       "first_seen": "2026-08-20T13:05:44.319580+00:00",
@@ -520,6 +494,19 @@
       "title": "Auto & Transport Roundup: Market Talk",
       "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-53b1771b"
     },
+    "3adf62662c3f25a6": {
+      "dek": "",
+      "first_seen": "2026-08-21T11:35:18.192849+00:00",
+      "guid": "3adf62662c3f25a6",
+      "published": "2026-08-21T10:52:00+00:00",
+      "section": "Risk Compliance Journal",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Morning Risk Report: Rainmakers in Talks to Leave Weil Gotshal Amid Poaching Frenzy",
+      "title": "The Morning Risk Report: Rainmakers in Talks to Leave Weil Gotshal Amid Poaching Frenzy",
+      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-rainmakers-in-talks-to-leave-weil-gotshal-amid-poaching-frenzy-bb68e497"
+    },
     "3b4422699d2d2296": {
       "dek": "",
       "first_seen": "2026-08-20T13:05:44.319580+00:00",
@@ -532,6 +519,19 @@
       "summary": "U.S. Jobless Claims Pull Back After Recent Run-Up",
       "title": "U.S. Jobless Claims Pull Back After Recent Run-Up",
       "url": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-pull-back-after-recent-run-up-0892bc92"
+    },
+    "3ec9fb1eed806bd0": {
+      "dek": "",
+      "first_seen": "2026-08-21T11:35:18.192849+00:00",
+      "guid": "3ec9fb1eed806bd0",
+      "published": "2026-08-21T11:14:00+00:00",
+      "section": "Cfo Journal",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Walmart Is Playing the Long Game by Lowering Prices",
+      "title": "Walmart Is Playing the Long Game by Lowering Prices",
+      "url": "https://www.wsj.com/cfo-journal/walmart-is-playing-the-long-game-by-lowering-prices-abe3a9ae"
     },
     "3fccc49ec96550af": {
       "dek": "",
@@ -624,18 +624,18 @@
       "title": "When Your Bumper 401(k) Is a Tax Problem Waiting to Happen",
       "url": "https://www.wsj.com/personal-finance/retirement/when-your-bumper-401-k-is-a-tax-problem-waiting-to-happen-2e0e5ad4"
     },
-    "492c1b0890927784": {
+    "4a655bfa2a603921": {
       "dek": "",
-      "first_seen": "2026-08-20T01:46:31.348198+00:00",
-      "guid": "492c1b0890927784",
-      "published": "2026-08-20T00:28:00+00:00",
-      "section": "World",
+      "first_seen": "2026-08-21T11:35:18.192849+00:00",
+      "guid": "4a655bfa2a603921",
+      "published": "2026-08-21T10:34:00+00:00",
+      "section": "Business",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Trump Threatens Iran With ‘Economic D-Day’",
-      "title": "Trump Threatens Iran With ‘Economic D-Day’",
-      "url": "https://www.wsj.com/world/middle-east/trump-threatens-iran-with-economic-d-day-4d2f238c"
+      "summary": "Basic Materials Roundup: Market Talk",
+      "title": "Basic Materials Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9b4cadce"
     },
     "4b9c23816ec51338": {
       "dek": "",
@@ -780,19 +780,6 @@
       "title": "World Liberty’s Stablecoin Becomes a Partisan Target",
       "url": "https://www.wsj.com/opinion/world-libertys-stablecoin-becomes-a-partisan-target-12dbbfa0"
     },
-    "52df2c5443fe9633": {
-      "dek": "",
-      "first_seen": "2026-08-19T21:56:20.831842+00:00",
-      "guid": "52df2c5443fe9633",
-      "published": "2026-08-19T21:42:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Ending the Syrian Nuclear Saga",
-      "title": "Ending the Syrian Nuclear Saga",
-      "url": "https://www.wsj.com/opinion/syria-nuclear-iaea-rafael-grossi-uranium-ahmed-al-sharaa-2713e877"
-    },
     "54c09951133a51cc": {
       "dek": "",
       "first_seen": "2026-08-20T11:36:22.144328+00:00",
@@ -831,19 +818,6 @@
       "summary": "Super Micro Clears Senior Management in Alleged Smuggling Scheme",
       "title": "Super Micro Clears Senior Management in Alleged Smuggling Scheme",
       "url": "https://www.wsj.com/business/super-micro-clears-senior-management-in-alleged-smuggling-scheme-5b0d888d"
-    },
-    "59618e2841bb8df0": {
-      "dek": "",
-      "first_seen": "2026-08-19T22:35:07.017507+00:00",
-      "guid": "59618e2841bb8df0",
-      "published": "2026-08-19T22:00:00+00:00",
-      "section": "World",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Trump’s Plan to Squeeze Iran’s Economy Will Live or Die in Dubai",
-      "title": "Trump’s Plan to Squeeze Iran’s Economy Will Live or Die in Dubai",
-      "url": "https://www.wsj.com/world/middle-east/trumps-plan-to-squeeze-irans-economy-will-live-or-die-in-dubai-8f9f561e"
     },
     "59719efd88e80247": {
       "dek": "",
@@ -935,19 +909,6 @@
       "summary": "U.S. Natural Gas Inventories Post Modest Weekly Build",
       "title": "U.S. Natural Gas Inventories Post Modest Weekly Build",
       "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-inventories-post-modest-weekly-build-459cc5f8"
-    },
-    "625d04c1601089b0": {
-      "dek": "",
-      "first_seen": "2026-08-19T21:56:20.831842+00:00",
-      "guid": "625d04c1601089b0",
-      "published": "2026-08-19T21:45:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Moderna’s Road to a Cancer Vaccine",
-      "title": "Moderna’s Road to a Cancer Vaccine",
-      "url": "https://www.wsj.com/opinion/moderna-mrna-vaccine-melanoma-cancer-53c74c37"
     },
     "6269117775edbfcd": {
       "dek": "",
@@ -1053,19 +1014,6 @@
       "title": "The Controversial Academic Who Ignited the Jason Arday Furor",
       "url": "https://www.wsj.com/world/uk/the-controversial-academic-who-ignited-the-jason-arday-furor-1071e7fc"
     },
-    "6e27552dd2579e6e": {
-      "dek": "",
-      "first_seen": "2026-08-19T21:56:20.831842+00:00",
-      "guid": "6e27552dd2579e6e",
-      "published": "2026-08-19T21:49:00+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Moderna Stock Soars on Cancer Vaccine Success",
-      "title": "Moderna Stock Soars on Cancer Vaccine Success",
-      "url": "https://www.wsj.com/articles/moderna-stock-soars-on-cancer-vaccine-success-8424a90e"
-    },
     "6edda25b549e93e2": {
       "dek": "",
       "first_seen": "2026-08-20T13:56:32.587880+00:00",
@@ -1104,19 +1052,6 @@
       "summary": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
       "title": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
       "url": "https://www.wsj.com/business/earnings/novonesis-leads-europes-stoxx-600-on-sales-beat-guidance-raise-282b71e6"
-    },
-    "72063b6697a6284c": {
-      "dek": "",
-      "first_seen": "2026-08-19T23:31:45.831250+00:00",
-      "guid": "72063b6697a6284c",
-      "published": "2026-08-19T23:00:00+00:00",
-      "section": "Tech",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Hidden Debt That Apple Owes to the CIA",
-      "title": "The Hidden Debt That Apple Owes to the CIA",
-      "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9"
     },
     "7256d0da0c8c9e2c": {
       "dek": "",
@@ -1235,6 +1170,19 @@
       "title": "Starbucks Laying Off More Than 200 Workers in Streamlining Drive",
       "url": "https://www.wsj.com/business/hospitality/starbucks-laying-off-more-than-200-workers-in-streamlining-drive-71e2b179"
     },
+    "79e6104cbaa501f5": {
+      "dek": "",
+      "first_seen": "2026-08-21T11:35:18.192849+00:00",
+      "guid": "79e6104cbaa501f5",
+      "published": "2026-08-21T11:00:00+00:00",
+      "section": "Sports",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Most Punishing Job Market in Sports Is on an English Soccer Sideline",
+      "title": "The Most Punishing Job Market in Sports Is on an English Soccer Sideline",
+      "url": "https://www.wsj.com/sports/soccer/english-premier-league-arsenal-man-city-arteta-34c99b30"
+    },
     "79fba584df0b08be": {
       "dek": "",
       "first_seen": "2026-08-20T11:36:22.144328+00:00",
@@ -1299,6 +1247,19 @@
       "summary": "Target’s Earnings Call: Seldom Is Heard a Discouraging Word",
       "title": "Target’s Earnings Call: Seldom Is Heard a Discouraging Word",
       "url": "https://www.wsj.com/cmo-today/targets-earnings-call-seldom-is-heard-a-discouraging-word-f9b2ad70"
+    },
+    "7cb48724b07cc541": {
+      "dek": "",
+      "first_seen": "2026-08-21T11:35:18.192849+00:00",
+      "guid": "7cb48724b07cc541",
+      "published": "2026-08-21T11:15:27+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Strategy Stock Price Jumps 10% Premarket",
+      "title": "Strategy Stock Price Jumps 10% Premarket",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/strategy-stock-price-jumps-10-premarket-ueemKUBZh6J73KjBfN8F"
     },
     "7d94ad7935d18639": {
       "dek": "",
@@ -1456,6 +1417,19 @@
       "title": "Jet Fighter Destroys Naval Drone ‘to Protect Lives’ Near Black Sea Gas Platform",
       "url": "https://www.wsj.com/world/europe/jet-fighter-destroys-naval-drone-to-protect-lives-near-black-sea-gas-platform-2510417f"
     },
+    "8bcd57eaa8f6efa0": {
+      "dek": "",
+      "first_seen": "2026-08-21T11:35:18.192849+00:00",
+      "guid": "8bcd57eaa8f6efa0",
+      "published": "2026-08-21T10:43:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Health Care Roundup: Market Talk",
+      "title": "Health Care Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-23186b64"
+    },
     "8beac87050ab0aaa": {
       "dek": "",
       "first_seen": "2026-08-20T10:40:26.513373+00:00",
@@ -1481,19 +1455,6 @@
       "summary": "Harry and Meghan Had Big Entertainment Ambitions. Here’s How It Worked Out.",
       "title": "Harry and Meghan Had Big Entertainment Ambitions. Here’s How It Worked Out.",
       "url": "https://www.wsj.com/arts-culture/television/prince-harry-meghan-markle-media-projects-680b59aa"
-    },
-    "8dac1629e1bf6f27": {
-      "dek": "",
-      "first_seen": "2026-08-19T23:31:45.831250+00:00",
-      "guid": "8dac1629e1bf6f27",
-      "published": "2026-08-19T23:04:00+00:00",
-      "section": "Politics",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "New Drone Unit to Be Phased Out as Hegseth’s Army Pick Makes His Mark",
-      "title": "New Drone Unit to Be Phased Out as Hegseth’s Army Pick Makes His Mark",
-      "url": "https://www.wsj.com/politics/national-security/new-drone-unit-to-be-phased-out-as-hegseths-army-pick-makes-his-mark-ff5f5fc8"
     },
     "8efe01541f1b9e8a": {
       "dek": "",
@@ -1637,6 +1598,19 @@
       "summary": "Evergrande Founder Sentenced to Life in Prison",
       "title": "Evergrande Founder Sentenced to Life in Prison",
       "url": "https://www.wsj.com/world/china/evergrande-founder-sentenced-to-life-in-prison-091d93d1"
+    },
+    "999f9341e5fe1b46": {
+      "dek": "",
+      "first_seen": "2026-08-21T11:35:18.192849+00:00",
+      "guid": "999f9341e5fe1b46",
+      "published": "2026-08-21T11:14:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "BJ’s Wholesale Logs Higher Profit, Revenue",
+      "title": "BJ’s Wholesale Logs Higher Profit, Revenue",
+      "url": "https://www.wsj.com/business/retail/bjs-wholesale-logs-higher-profit-revenue-2fc70199"
     },
     "9c8b70bcd4153816": {
       "dek": "",
@@ -1845,6 +1819,19 @@
       "summary": "Swiss Watch Exports Stay Resilient in July Helped by U.S. Performance",
       "title": "Swiss Watch Exports Stay Resilient in July Helped by U.S. Performance",
       "url": "https://www.wsj.com/business/swiss-watch-exports-stay-resilient-in-july-helped-by-u-s-performance-8ac02a26"
+    },
+    "b5920c19cc2c9a6c": {
+      "dek": "",
+      "first_seen": "2026-08-21T11:35:18.192849+00:00",
+      "guid": "b5920c19cc2c9a6c",
+      "published": "2026-08-21T11:00:00+00:00",
+      "section": "Cmo Today",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Brands Are ‘Maxxing’ and ‘Mogging’ as They Co-Opt a Controversial Trend",
+      "title": "Brands Are ‘Maxxing’ and ‘Mogging’ as They Co-Opt a Controversial Trend",
+      "url": "https://www.wsj.com/cmo-today/brands-are-maxxing-and-mogging-as-they-co-opt-a-controversial-trend-bd06c2c7"
     },
     "b8f6e7ef812b45fa": {
       "dek": "",
@@ -2119,18 +2106,18 @@
       "title": "SpaceX Is Racking Up Wins in Washington",
       "url": "https://www.wsj.com/business/telecom/spacex-is-racking-up-wins-in-washington-a8bac5f5"
     },
-    "d7707e3cdb8d8444": {
+    "d85b89de8850759d": {
       "dek": "",
-      "first_seen": "2026-08-19T22:35:07.017507+00:00",
-      "guid": "d7707e3cdb8d8444",
-      "published": "2026-08-19T21:57:00+00:00",
-      "section": "World",
+      "first_seen": "2026-08-21T11:35:18.192849+00:00",
+      "guid": "d85b89de8850759d",
+      "published": "2026-08-21T10:48:00+00:00",
+      "section": "Politics",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Prince Harry and Meghan Markle to Return to the U.K.",
-      "title": "Prince Harry and Meghan Markle to Return to the U.K.",
-      "url": "https://www.wsj.com/world/uk/prince-harry-meghan-markle-uk-move-88f4da11"
+      "summary": "The White House Ballroom Finally Gets Its Day at High Court",
+      "title": "The White House Ballroom Finally Gets Its Day at High Court",
+      "url": "https://www.wsj.com/politics/policy/the-white-house-ballroom-finally-gets-its-day-at-high-court-49a41728"
     },
     "d8abebcc416d5ad4": {
       "dek": "",
@@ -2196,19 +2183,6 @@
       "summary": "With Tourism Stalled, Hawaii Chases the Startup Wave",
       "title": "With Tourism Stalled, Hawaii Chases the Startup Wave",
       "url": "https://www.wsj.com/business/entrepreneurship/hawaii-tourism-tech-jobs-9630f68b"
-    },
-    "dea6ec2569a2d42b": {
-      "dek": "",
-      "first_seen": "2026-08-19T23:52:44.506964+00:00",
-      "guid": "dea6ec2569a2d42b",
-      "published": "2026-08-19T23:30:19+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23"
     },
     "df14983c1218ef1c": {
       "dek": "",
@@ -2392,19 +2366,6 @@
       "title": "Why Get Three MMR Vaccines Instead of One?",
       "url": "https://www.wsj.com/opinion/why-get-three-mmr-vaccines-instead-of-one-7e45973b"
     },
-    "eec7679a0da96ab3": {
-      "dek": "",
-      "first_seen": "2026-08-19T22:35:07.017507+00:00",
-      "guid": "eec7679a0da96ab3",
-      "published": "2026-08-19T22:00:00+00:00",
-      "section": "Politics",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Democrats Press Kevin Warsh to Disclose Calls With Trump",
-      "title": "Democrats Press Kevin Warsh to Disclose Calls With Trump",
-      "url": "https://www.wsj.com/politics/policy/democrats-press-kevin-warsh-to-disclose-calls-with-trump-4e7c5d37"
-    },
     "ef4b28a70fe2590c": {
       "dek": "",
       "first_seen": "2026-08-21T08:53:09.780184+00:00",
@@ -2443,6 +2404,19 @@
       "summary": "DRW’s Don Wilson Encourages CFTC to Approve Perpetual Futures",
       "title": "DRW’s Don Wilson Encourages CFTC to Approve Perpetual Futures",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/drw-s-don-wilson-encourages-cftc-to-approve-perpetual-futures-WBLJH1WD8D8M0rufCWC9"
+    },
+    "f0c90a68b1cb745c": {
+      "dek": "",
+      "first_seen": "2026-08-21T11:35:18.192849+00:00",
+      "guid": "f0c90a68b1cb745c",
+      "published": "2026-08-21T11:07:22+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Gold and Silver Mania Returns",
+      "title": "Gold and Silver Mania Returns",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/gold-and-silver-mania-returns-Z0HF8lv8qSNCZmpscoaV"
     },
     "f14a7779e4c44cc6": {
       "dek": "",
@@ -2561,6 +2535,19 @@
       "title": "CFTC Committee Discussion on Prediction Markets Gets Heated",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/cftc-committee-discussion-on-prediction-markets-gets-heated-yQwCEYhWu7zrrUU7vg67"
     },
+    "fd3f62e3a385d5b4": {
+      "dek": "",
+      "first_seen": "2026-08-21T11:35:18.192849+00:00",
+      "guid": "fd3f62e3a385d5b4",
+      "published": "2026-08-21T10:46:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Energy & Utilities Roundup: Market Talk",
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-e63b598b"
+    },
     "fe03a8b1729386fb": {
       "dek": "",
       "first_seen": "2026-08-20T23:34:52.747631+00:00",
@@ -2599,7 +2586,20 @@
       "summary": "Triple Threat: Why Stocks Are Reeling Today",
       "title": "Triple Threat: Why Stocks Are Reeling Today",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/triple-threat-why-stocks-are-reeling-today-eRSrfGLBjikBZ1XujAMK"
+    },
+    "ff42d5d72708ca02": {
+      "dek": "",
+      "first_seen": "2026-08-21T11:35:18.192849+00:00",
+      "guid": "ff42d5d72708ca02",
+      "published": "2026-08-21T10:37:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Financial Services Roundup: Market Talk",
+      "title": "Financial Services Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-4d046ab3"
     }
   },
-  "updated": "2026-08-21T10:40:02.543416+00:00"
+  "updated": "2026-08-21T11:35:18.208704+00:00"
 }
