@@ -6,6 +6,149 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "a595ad77887e23d1",
+      "url": "https://www.wsj.com/business/autos/gm-faces-safety-probe-over-engine-failure-concerns-in-nearly-one-million-vehicles-e6b88d63",
+      "title": "GM Faces Safety Probe Over Engine-Failure Concerns in Nearly One Million Vehicles",
+      "content_text": "GM Faces Safety Probe Over Engine-Failure Concerns in Nearly One Million Vehicles",
+      "summary": "",
+      "date_published": "2026-08-21T14:36:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-08-21T14:30:19+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-08-21T14:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
+      "summary": "",
+      "date_published": "2026-08-21T14:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "5a885d497fa8a917",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview",
+      "title": "The saturday interview",
+      "content_text": "The saturday interview",
+      "summary": "",
+      "date_published": "2026-08-21T14:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
+      "summary": "",
+      "date_published": "2026-08-21T14:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "67a229f9726f9141",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial",
+      "title": "Real estate commercial",
+      "content_text": "Real estate commercial",
+      "summary": "",
+      "date_published": "2026-08-21T14:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "0ddd1bb155877d66",
+      "url": "https://www.wsj.com/arts-culture/books/beginning-middle-end-and-the-maltese-version-20eaa115",
+      "title": "‘Beginning Middle End’ and ‘The Maltese Version’",
+      "content_text": "‘Beginning Middle End’ and ‘The Maltese Version’",
+      "summary": "",
+      "date_published": "2026-08-21T14:21:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "f31bc4f79fab2c66",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-on-weather-outlook-4a0dc26f",
+      "title": "U.S. Natural Gas Futures Pick Up on Weather Outlook",
+      "content_text": "U.S. Natural Gas Futures Pick Up on Weather Outlook",
+      "summary": "",
+      "date_published": "2026-08-21T14:11:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "c9776e3c1e2baf99",
+      "url": "https://www.wsj.com/us-news/law/former-abercrombie-ceo-is-competent-to-face-sex-trafficking-trial-judge-rules-4710c2a5",
+      "title": "Former Abercrombie CEO Is Competent to Face Sex-Trafficking Trial, Judge Rules",
+      "content_text": "Former Abercrombie CEO Is Competent to Face Sex-Trafficking Trial, Judge Rules",
+      "summary": "",
+      "date_published": "2026-08-21T14:10:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "bbe8c337046eaa7e",
+      "url": "https://www.wsj.com/arts-culture/books/three-rivers-review-europes-fountainhead-4314f607",
+      "title": "‘Three Rivers’ Review: Europe’s Fountainhead",
+      "content_text": "‘Three Rivers’ Review: Europe’s Fountainhead",
+      "summary": "",
+      "date_published": "2026-08-21T14:10:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "fd9f6479cdfd8ee8",
+      "url": "https://www.wsj.com/articles/a-closer-look-8e8dffa5",
+      "title": "A Closer Look",
+      "content_text": "A Closer Look",
+      "summary": "",
+      "date_published": "2026-08-21T14:03:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "32232d3893351c8d",
+      "url": "https://www.wsj.com/finance/investing/victor-niederhoffer-dead-54ca91a9",
+      "title": "Victor Niederhoffer, Known for Big Bets and an Unconventional Lifestyle, Dies at 82",
+      "content_text": "Victor Niederhoffer, Known for Big Bets and an Unconventional Lifestyle, Dies at 82",
+      "summary": "",
+      "date_published": "2026-08-21T14:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "8824481566884cf3",
       "url": "https://www.wsj.com/arts-culture/books/ace-review-how-to-serve-winning-looks-cb0a60a3",
       "title": "‘Ace’ Review: How to Serve Winning Looks",
@@ -50,17 +193,6 @@
       ]
     },
     {
-      "id": "f613431a97e290e6",
-      "url": "https://www.wsj.com/finance/investing/gold-above-4-600-on-weaker-dollar-debt-fears-7a7d1eb4",
-      "title": "Gold Above $4,600 on Weaker Dollar, Debt Fears",
-      "content_text": "Gold Above $4,600 on Weaker Dollar, Debt Fears",
-      "summary": "",
-      "date_published": "2026-08-21T13:15:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "cf4e134e58e0188a",
       "url": "https://www.wsj.com/arts-culture/books/first-helpings-review-the-taste-of-childhood-b4057803",
       "title": "‘First Helpings’ Review: The Taste of Childhood",
@@ -69,6 +201,17 @@
       "date_published": "2026-08-21T13:15:00+00:00",
       "tags": [
         "Arts Culture"
+      ]
+    },
+    {
+      "id": "f613431a97e290e6",
+      "url": "https://www.wsj.com/finance/investing/gold-above-4-600-on-weaker-dollar-debt-fears-7a7d1eb4",
+      "title": "Gold Above $4,600 on Weaker Dollar, Debt Fears",
+      "content_text": "Gold Above $4,600 on Weaker Dollar, Debt Fears",
+      "summary": "",
+      "date_published": "2026-08-21T13:15:00+00:00",
+      "tags": [
+        "Finance"
       ]
     },
     {
@@ -2060,149 +2203,6 @@
       "date_published": "2026-08-20T09:24:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "fe3f86ba343669d3",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/bitcoin-leaps-on-treasury-intervention-crypto-summit-mtlsUzM2oo2rsVkSbpPF",
-      "title": "Bitcoin Leaps on Treasury Intervention, Crypto Summit",
-      "content_text": "Bitcoin Leaps on Treasury Intervention, Crypto Summit",
-      "summary": "",
-      "date_published": "2026-08-20T09:04:53+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "52154a2074073e1c",
-      "url": "https://www.wsj.com/politics/policy/build-first-ask-questions-later-trumps-ballroom-puts-supreme-court-in-a-bind-2c7ebe63",
-      "title": "Build First, Ask Questions Later: Trump’s Ballroom Puts Supreme Court in a Bind",
-      "content_text": "Build First, Ask Questions Later: Trump’s Ballroom Puts Supreme Court in a Bind",
-      "summary": "",
-      "date_published": "2026-08-20T09:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "b54c7f48acde3909",
-      "url": "https://www.wsj.com/business/swiss-watch-exports-stay-resilient-in-july-helped-by-u-s-performance-8ac02a26",
-      "title": "Swiss Watch Exports Stay Resilient in July Helped by U.S. Performance",
-      "content_text": "Swiss Watch Exports Stay Resilient in July Helped by U.S. Performance",
-      "summary": "",
-      "date_published": "2026-08-20T08:47:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "bd43b0d24b6da6a7",
-      "url": "https://www.wsj.com/business/bonds-strengthen-further-dollar-holds-near-lows-after-treasury-intervention-2692dd07",
-      "title": "Bonds Strengthen Further, Dollar Holds Near Lows After Treasury Intervention",
-      "content_text": "Bonds Strengthen Further, Dollar Holds Near Lows After Treasury Intervention",
-      "summary": "",
-      "date_published": "2026-08-20T08:44:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "63e7604577884a6e",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/understanding-bessent-s-treasury-play-m2XDMaZjQmAZHwcyUTap",
-      "title": "Understanding Bessent’s Treasury Play",
-      "content_text": "Understanding Bessent’s Treasury Play",
-      "summary": "",
-      "date_published": "2026-08-20T08:40:45+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "071dd3534aea62ac",
-      "url": "https://www.wsj.com/business/retail/jd-sports-shares-tumble-after-profit-guidance-cut-bf9b8cbd",
-      "title": "JD Sports Shares Tumble After Profit Guidance Cut",
-      "content_text": "JD Sports Shares Tumble After Profit Guidance Cut",
-      "summary": "",
-      "date_published": "2026-08-20T08:35:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "a412674486874efa",
-      "url": "https://www.wsj.com/economy/central-banking/swedens-central-bank-holds-key-rate-and-still-sees-chance-of-a-hike-later-this-year-07cf4a17",
-      "title": "Sweden’s Central Bank Holds Key Rate and Still Sees Chance of a Hike Later This Year",
-      "content_text": "Sweden’s Central Bank Holds Key Rate and Still Sees Chance of a Hike Later This Year",
-      "summary": "",
-      "date_published": "2026-08-20T08:22:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "a44fa78fc4dbaa55",
-      "url": "https://www.wsj.com/business/sk-hynix-union-management-tentatively-reach-pay-agreement-9ec61bad",
-      "title": "SK Hynix Union, Management Tentatively Reach Pay Agreement",
-      "content_text": "SK Hynix Union, Management Tentatively Reach Pay Agreement",
-      "summary": "",
-      "date_published": "2026-08-20T08:18:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "438da12277aec7c2",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/walmart-earnings-jobless-claims-what-to-watch-for-the-rest-of-the-week-BDgIbcDo6gCBXE78a2KR",
-      "title": "Walmart Earnings, Jobless Claims: What to Watch for the Rest of the Week",
-      "content_text": "Walmart Earnings, Jobless Claims: What to Watch for the Rest of the Week",
-      "summary": "",
-      "date_published": "2026-08-20T07:40:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "69d1e033b4c1cb98",
-      "url": "https://www.wsj.com/world/china/taiwans-floats-record-defense-budget-sending-message-to-u-s-and-china-99a28e40",
-      "title": "Taiwan Floats Record Defense Budget, Sending Message to U.S. and China",
-      "content_text": "Taiwan Floats Record Defense Budget, Sending Message to U.S. and China",
-      "summary": "",
-      "date_published": "2026-08-20T06:56:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "4e748aa86efa656f",
-      "url": "https://www.wsj.com/business/deals/danones-1-2-billion-huel-deal-gets-u-k-competition-clearance-ca76b73d",
-      "title": "Danone’s $1.2 Billion Huel Deal Gets U.K. Competition Clearance",
-      "content_text": "Danone’s $1.2 Billion Huel Deal Gets U.K. Competition Clearance",
-      "summary": "",
-      "date_published": "2026-08-20T06:35:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "980b2801e44add8c",
-      "url": "https://www.wsj.com/world/china/evergrande-founder-sentenced-to-life-in-prison-091d93d1",
-      "title": "Evergrande Founder Sentenced to Life in Prison",
-      "content_text": "Evergrande Founder Sentenced to Life in Prison",
-      "summary": "",
-      "date_published": "2026-08-20T05:45:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "859dc9f78e069121",
-      "url": "https://www.wsj.com/opinion/pepperand-salt-a3a8867d",
-      "title": "Pepper…and Salt",
-      "content_text": "Pepper…and Salt",
-      "summary": "",
-      "date_published": "2026-08-20T04:00:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
