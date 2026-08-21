@@ -26,19 +26,6 @@
       "title": "Elizabeth anne bernstein",
       "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein"
     },
-    "032c18f48a3d8074": {
-      "dek": "",
-      "first_seen": "2026-08-20T11:58:53.665955+00:00",
-      "guid": "032c18f48a3d8074",
-      "published": "2026-08-20T11:46:26+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Government Bond Yields Tick Up",
-      "title": "Government Bond Yields Tick Up",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/government-bond-yields-tick-up-aelrSnwBnrIh0DouVSth"
-    },
     "0ae4f9d055e88f78": {
       "dek": "",
       "first_seen": "2026-08-20T21:59:03.423985+00:00",
@@ -51,6 +38,19 @@
       "summary": "Alaska’s Ranked-Choice Travesty",
       "title": "Alaska’s Ranked-Choice Travesty",
       "url": "https://www.wsj.com/opinion/alaskas-ranked-choice-travesty-7b29a200"
+    },
+    "0b0f2ea3f2b89ad0": {
+      "dek": "",
+      "first_seen": "2026-08-21T20:40:30.982321+00:00",
+      "guid": "0b0f2ea3f2b89ad0",
+      "published": "2026-08-21T20:34:00+00:00",
+      "section": "Arts Culture",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "As Tupac Shakur’s Murder Trial Continues, Why the Hip-Hop Legend’s Music Endures",
+      "title": "As Tupac Shakur’s Murder Trial Continues, Why the Hip-Hop Legend’s Music Endures",
+      "url": "https://www.wsj.com/arts-culture/music/as-tupac-shakurs-murder-trial-continues-why-the-hip-hop-legends-music-endures-5aedfa71"
     },
     "0d130f1b6a6cf212": {
       "dek": "",
@@ -429,19 +429,6 @@
       "title": "U.K. Government Borrowing Rose Despite Record Income Tax Revenue",
       "url": "https://www.wsj.com/world/uk/u-k-government-borrowing-rises-despite-record-income-tax-revenues-f669841f"
     },
-    "304fdd21f1ccfcf8": {
-      "dek": "",
-      "first_seen": "2026-08-20T13:05:44.319580+00:00",
-      "guid": "304fdd21f1ccfcf8",
-      "published": "2026-08-20T12:23:00+00:00",
-      "section": "Cio Journal",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Oura Restructures Tech Leadership in AI Push",
-      "title": "Oura Restructures Tech Leadership in AI Push",
-      "url": "https://www.wsj.com/cio-journal/oura-restructures-tech-leadership-in-ai-push-6c85660c"
-    },
     "32232d3893351c8d": {
       "dek": "",
       "first_seen": "2026-08-21T14:47:03.348124+00:00",
@@ -493,6 +480,19 @@
       "summary": "The Morning Risk Report: Rainmakers in Talks to Leave Weil Gotshal Amid Poaching Frenzy",
       "title": "The Morning Risk Report: Rainmakers in Talks to Leave Weil Gotshal Amid Poaching Frenzy",
       "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-rainmakers-in-talks-to-leave-weil-gotshal-amid-poaching-frenzy-bb68e497"
+    },
+    "3ae6f9d5e1cb91e9": {
+      "dek": "",
+      "first_seen": "2026-08-21T20:40:30.982321+00:00",
+      "guid": "3ae6f9d5e1cb91e9",
+      "published": "2026-08-21T19:45:00+00:00",
+      "section": "Us News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Trump Legal Ally Ed Martin to Leave Justice Department",
+      "title": "Trump Legal Ally Ed Martin to Leave Justice Department",
+      "url": "https://www.wsj.com/us-news/law/trump-legal-ally-ed-martin-to-leave-justice-department-449b0f29"
     },
     "3b4422699d2d2296": {
       "dek": "",
@@ -767,19 +767,6 @@
       "title": "Super Micro Clears Senior Management in Alleged Smuggling Scheme",
       "url": "https://www.wsj.com/business/super-micro-clears-senior-management-in-alleged-smuggling-scheme-5b0d888d"
     },
-    "59719efd88e80247": {
-      "dek": "",
-      "first_seen": "2026-08-20T11:36:22.144328+00:00",
-      "guid": "59719efd88e80247",
-      "published": "2026-08-20T11:28:05+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Q: Will Bessent’s Stepped-Up Treasury Buybacks Bring Down Borrowing Costs?",
-      "title": "Q: Will Bessent’s Stepped-Up Treasury Buybacks Bring Down Borrowing Costs?",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/q-will-bessent-s-stepped-up-treasury-buybacks-bring-down-borrowing-costs--vlUFu2k2z1oigxL5Pyyl"
-    },
     "5a6deff34b7cd634": {
       "dek": "",
       "first_seen": "2026-08-21T08:53:09.780184+00:00",
@@ -923,6 +910,19 @@
       "title": "The Controversial Academic Who Ignited the Jason Arday Furor",
       "url": "https://www.wsj.com/world/uk/the-controversial-academic-who-ignited-the-jason-arday-furor-1071e7fc"
     },
+    "6ad8730d6f2e7edc": {
+      "dek": "",
+      "first_seen": "2026-08-21T20:40:30.982321+00:00",
+      "guid": "6ad8730d6f2e7edc",
+      "published": "2026-08-21T20:00:02+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "One Great Chart: The Indexing Gorilla",
+      "title": "One Great Chart: The Indexing Gorilla",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/one-great-chart-the-indexing-gorilla-ifBbAiE4M6aqtVb1rA9P"
+    },
     "6cec74f81137840e": {
       "dek": "",
       "first_seen": "2026-08-21T19:32:35.930758+00:00",
@@ -948,19 +948,6 @@
       "summary": "⚡Flash Heard: Swiss Luxury Watches Are on U.S. Time Now",
       "title": "⚡Flash Heard: Swiss Luxury Watches Are on U.S. Time Now",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/-flash-heard-swiss-luxury-watches-are-on-u-s-time-now-zWCHswcpCeJSG5dod2Sz"
-    },
-    "71660fa80151fdfc": {
-      "dek": "",
-      "first_seen": "2026-08-20T11:58:53.665955+00:00",
-      "guid": "71660fa80151fdfc",
-      "published": "2026-08-20T11:30:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
-      "title": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
-      "url": "https://www.wsj.com/business/earnings/novonesis-leads-europes-stoxx-600-on-sales-beat-guidance-raise-282b71e6"
     },
     "7256d0da0c8c9e2c": {
       "dek": "",
@@ -1261,6 +1248,19 @@
       "title": "Citadel Sells Over 80% of Situational Awareness Portfolio",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/citadel-sells-over-80-of-situational-awareness-portfolio-cHs9Tr5BF28wrr8CS01w"
     },
+    "881596f67ecdeb0f": {
+      "dek": "",
+      "first_seen": "2026-08-21T20:40:30.982321+00:00",
+      "guid": "881596f67ecdeb0f",
+      "published": "2026-08-21T19:57:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Prince Harry’s Return to U.K. Sets Up Showdown With Tabloids",
+      "title": "Prince Harry’s Return to U.K. Sets Up Showdown With Tabloids",
+      "url": "https://www.wsj.com/world/uk/prince-harrys-return-to-u-k-sets-up-showdown-with-tabloids-b487f798"
+    },
     "8824481566884cf3": {
       "dek": "",
       "first_seen": "2026-08-21T13:54:52.149299+00:00",
@@ -1312,6 +1312,19 @@
       "summary": "Jet Fighter Destroys Naval Drone ‘to Protect Lives’ Near Black Sea Gas Platform",
       "title": "Jet Fighter Destroys Naval Drone ‘to Protect Lives’ Near Black Sea Gas Platform",
       "url": "https://www.wsj.com/world/europe/jet-fighter-destroys-naval-drone-to-protect-lives-near-black-sea-gas-platform-2510417f"
+    },
+    "8a48c16453aa2ccb": {
+      "dek": "",
+      "first_seen": "2026-08-21T20:40:30.982321+00:00",
+      "guid": "8a48c16453aa2ccb",
+      "published": "2026-08-21T20:19:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Lakers Are Up, Trump Is Down",
+      "title": "The Lakers Are Up, Trump Is Down",
+      "url": "https://www.wsj.com/opinion/the-lakers-are-up-trump-is-down-1c8e1f25"
     },
     "8bcd57eaa8f6efa0": {
       "dek": "",
@@ -1572,19 +1585,6 @@
       "summary": "Walmart Adds to Wall Street Pressures With Weak Sales Growth",
       "title": "Walmart Adds to Wall Street Pressures With Weak Sales Growth",
       "url": "https://www.wsj.com/business/walmart-adds-to-wall-street-pressures-with-weak-sales-growth-4f1bd3bb"
-    },
-    "a2b705440d13d21d": {
-      "dek": "",
-      "first_seen": "2026-08-20T13:05:44.319580+00:00",
-      "guid": "a2b705440d13d21d",
-      "published": "2026-08-20T12:00:00+00:00",
-      "section": "Health",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "U.S. Workers Are Paying More for Healthcare, and Next Year Will Be Worse",
-      "title": "U.S. Workers Are Paying More for Healthcare, and Next Year Will Be Worse",
-      "url": "https://www.wsj.com/health/healthcare/u-s-workers-are-paying-more-for-healthcare-and-next-year-will-be-worse-0924d0dd"
     },
     "a2c51ea641c8e80c": {
       "dek": "",
@@ -1911,19 +1911,6 @@
       "title": "Youth Sports Are Completely Bonkers. How to Survive Another Crazy Season.",
       "url": "https://www.wsj.com/sports/youth-sports-how-to-survive-another-crazy-season-63e79b93"
     },
-    "cb47bec77a340d2b": {
-      "dek": "",
-      "first_seen": "2026-08-20T11:36:22.144328+00:00",
-      "guid": "cb47bec77a340d2b",
-      "published": "2026-08-20T11:30:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
-      "title": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
-      "url": "https://www.wsj.com/business/retail/novonesis-leads-europes-stoxx-600-on-sales-beat-guidance-raise-282b71e6"
-    },
     "cc8af393da767819": {
       "dek": "",
       "first_seen": "2026-08-21T15:42:52.069396+00:00",
@@ -2170,6 +2157,19 @@
       "summary": "The New Free Markets Pitch",
       "title": "The New Free Markets Pitch",
       "url": "https://www.wsj.com/opinion/the-new-free-markets-pitch-21879025"
+    },
+    "e3a913ea82f56ece": {
+      "dek": "",
+      "first_seen": "2026-08-21T20:40:30.982321+00:00",
+      "guid": "e3a913ea82f56ece",
+      "published": "2026-08-21T20:27:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Bond Yields Rise Despite Treasury Efforts to Curb Borrowing Costs",
+      "title": "Bond Yields Rise Despite Treasury Efforts to Curb Borrowing Costs",
+      "url": "https://www.wsj.com/finance/investing/bond-yields-rise-despite-treasury-efforts-to-curb-borrowing-costs-8aed2b0f"
     },
     "e3c0128fc88b4147": {
       "dek": "",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-4d046ab3"
     }
   },
-  "updated": "2026-08-21T19:51:42.359095+00:00"
+  "updated": "2026-08-21T20:40:31.005643+00:00"
 }

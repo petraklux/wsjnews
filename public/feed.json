@@ -6,6 +6,72 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "0b0f2ea3f2b89ad0",
+      "url": "https://www.wsj.com/arts-culture/music/as-tupac-shakurs-murder-trial-continues-why-the-hip-hop-legends-music-endures-5aedfa71",
+      "title": "As Tupac Shakur’s Murder Trial Continues, Why the Hip-Hop Legend’s Music Endures",
+      "content_text": "As Tupac Shakur’s Murder Trial Continues, Why the Hip-Hop Legend’s Music Endures",
+      "summary": "",
+      "date_published": "2026-08-21T20:34:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "e3a913ea82f56ece",
+      "url": "https://www.wsj.com/finance/investing/bond-yields-rise-despite-treasury-efforts-to-curb-borrowing-costs-8aed2b0f",
+      "title": "Bond Yields Rise Despite Treasury Efforts to Curb Borrowing Costs",
+      "content_text": "Bond Yields Rise Despite Treasury Efforts to Curb Borrowing Costs",
+      "summary": "",
+      "date_published": "2026-08-21T20:27:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "8a48c16453aa2ccb",
+      "url": "https://www.wsj.com/opinion/the-lakers-are-up-trump-is-down-1c8e1f25",
+      "title": "The Lakers Are Up, Trump Is Down",
+      "content_text": "The Lakers Are Up, Trump Is Down",
+      "summary": "",
+      "date_published": "2026-08-21T20:19:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "6ad8730d6f2e7edc",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/one-great-chart-the-indexing-gorilla-ifBbAiE4M6aqtVb1rA9P",
+      "title": "One Great Chart: The Indexing Gorilla",
+      "content_text": "One Great Chart: The Indexing Gorilla",
+      "summary": "",
+      "date_published": "2026-08-21T20:00:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "881596f67ecdeb0f",
+      "url": "https://www.wsj.com/world/uk/prince-harrys-return-to-u-k-sets-up-showdown-with-tabloids-b487f798",
+      "title": "Prince Harry’s Return to U.K. Sets Up Showdown With Tabloids",
+      "content_text": "Prince Harry’s Return to U.K. Sets Up Showdown With Tabloids",
+      "summary": "",
+      "date_published": "2026-08-21T19:57:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "3ae6f9d5e1cb91e9",
+      "url": "https://www.wsj.com/us-news/law/trump-legal-ally-ed-martin-to-leave-justice-department-449b0f29",
+      "title": "Trump Legal Ally Ed Martin to Leave Justice Department",
+      "content_text": "Trump Legal Ally Ed Martin to Leave Justice Department",
+      "summary": "",
+      "date_published": "2026-08-21T19:45:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
       "id": "fe3f9f453608c179",
       "url": "https://www.wsj.com/health/healthcare/alfalfa-sprouts-linked-to-e-coli-salmonella-outbreak-across-15-states-3d47b78d",
       "title": "Alfalfa Sprouts Linked to E. Coli, Salmonella Outbreak Across 15 States",
@@ -2135,72 +2201,6 @@
       "content_text": "Tariff Refunds Boost Deere’s Bottom Line",
       "summary": "",
       "date_published": "2026-08-20T12:25:30+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "304fdd21f1ccfcf8",
-      "url": "https://www.wsj.com/cio-journal/oura-restructures-tech-leadership-in-ai-push-6c85660c",
-      "title": "Oura Restructures Tech Leadership in AI Push",
-      "content_text": "Oura Restructures Tech Leadership in AI Push",
-      "summary": "",
-      "date_published": "2026-08-20T12:23:00+00:00",
-      "tags": [
-        "Cio Journal"
-      ]
-    },
-    {
-      "id": "a2b705440d13d21d",
-      "url": "https://www.wsj.com/health/healthcare/u-s-workers-are-paying-more-for-healthcare-and-next-year-will-be-worse-0924d0dd",
-      "title": "U.S. Workers Are Paying More for Healthcare, and Next Year Will Be Worse",
-      "content_text": "U.S. Workers Are Paying More for Healthcare, and Next Year Will Be Worse",
-      "summary": "",
-      "date_published": "2026-08-20T12:00:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "032c18f48a3d8074",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/government-bond-yields-tick-up-aelrSnwBnrIh0DouVSth",
-      "title": "Government Bond Yields Tick Up",
-      "content_text": "Government Bond Yields Tick Up",
-      "summary": "",
-      "date_published": "2026-08-20T11:46:26+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "71660fa80151fdfc",
-      "url": "https://www.wsj.com/business/earnings/novonesis-leads-europes-stoxx-600-on-sales-beat-guidance-raise-282b71e6",
-      "title": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
-      "content_text": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
-      "summary": "",
-      "date_published": "2026-08-20T11:30:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "cb47bec77a340d2b",
-      "url": "https://www.wsj.com/business/retail/novonesis-leads-europes-stoxx-600-on-sales-beat-guidance-raise-282b71e6",
-      "title": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
-      "content_text": "Novonesis Leads Europe’s Stoxx 600 on Sales Beat, Guidance Raise",
-      "summary": "",
-      "date_published": "2026-08-20T11:30:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "59719efd88e80247",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/q-will-bessent-s-stepped-up-treasury-buybacks-bring-down-borrowing-costs--vlUFu2k2z1oigxL5Pyyl",
-      "title": "Q: Will Bessent’s Stepped-Up Treasury Buybacks Bring Down Borrowing Costs?",
-      "content_text": "Q: Will Bessent’s Stepped-Up Treasury Buybacks Bring Down Borrowing Costs?",
-      "summary": "",
-      "date_published": "2026-08-20T11:28:05+00:00",
       "tags": [
         "Front Page"
       ]
