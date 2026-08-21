@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "9c8b70bcd4153816",
+      "url": "https://www.wsj.com/business/deals/monte-dei-paschi-makes-40-billion-move-to-buy-italian-peers-banco-bpm-banca-generali-711620fd",
+      "title": "Monte dei Paschi Makes $40 Billion Move to Buy Italian Peers Banco BPM, Banca Generali",
+      "content_text": "Monte dei Paschi Makes $40 Billion Move to Buy Italian Peers Banco BPM, Banca Generali",
+      "summary": "",
+      "date_published": "2026-08-21T06:34:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "2e43ac2f223912d3",
+      "url": "https://www.wsj.com/world/uk/u-k-government-borrowing-rises-despite-record-income-tax-revenues-f669841f",
+      "title": "U.K. Government Borrowing Rose Despite Record Income Tax Revenue",
+      "content_text": "U.K. Government Borrowing Rose Despite Record Income Tax Revenue",
+      "summary": "",
+      "date_published": "2026-08-21T06:27:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "e7a1df9b9a151e8d",
       "url": "https://www.wsj.com/business/autos/hyundais-union-launches-first-full-day-strike-in-decade-495086ac",
       "title": "Hyundai’s Union Launches First Full-Day Strike in Decade",
@@ -2179,28 +2201,6 @@
       "content_text": "Trump Urges Congress to Pass Clarity Act During Meeting With Crypto Executives",
       "summary": "",
       "date_published": "2026-08-19T19:40:32+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "121b9809ac4fa79f",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/-money-quote-a-treasury-buyback-skeptic-D6hul9JPOIRe0jLGg4xf",
-      "title": "💬 Money Quote: A Treasury-Buyback Skeptic",
-      "content_text": "💬 Money Quote: A Treasury-Buyback Skeptic",
-      "summary": "",
-      "date_published": "2026-08-19T19:30:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "1095ecebc7a71c55",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/inflation-concerns-rising-at-fed-minutes-show-yT62LGuYvovqaewSoGls",
-      "title": "Inflation Concerns Rising at Fed, Minutes Show",
-      "content_text": "Inflation Concerns Rising at Fed, Minutes Show",
-      "summary": "",
-      "date_published": "2026-08-19T19:10:36+00:00",
       "tags": [
         "Front Page"
       ]
