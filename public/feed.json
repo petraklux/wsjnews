@@ -6,6 +6,72 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "988a65b907b7f861",
+      "url": "https://www.wsj.com/opinion/donald-trump-iran-economic-pressure-sanctions-u-a-e-china-f2107bc8",
+      "title": "Trump’s Iran Credibility Problem",
+      "content_text": "Trump’s Iran Credibility Problem",
+      "summary": "",
+      "date_published": "2026-08-21T21:47:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "c7cfbfb59698ffb8",
+      "url": "https://www.wsj.com/opinion/tiananmen-square-hong-kong-lee-cheuk-yan-chow-hang-tung-bdb8ef57",
+      "title": "Massacring the Memory of Tiananmen Square",
+      "content_text": "Massacring the Memory of Tiananmen Square",
+      "summary": "",
+      "date_published": "2026-08-21T21:46:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "9f7396001e45593c",
+      "url": "https://www.wsj.com/opinion/donald-trump-lifts-beef-tariffs-trade-imports-d3048c6a",
+      "title": "Trump Has a Beef With Tariffs",
+      "content_text": "Trump Has a Beef With Tariffs",
+      "summary": "",
+      "date_published": "2026-08-21T21:42:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "11e6af9a6c7b89e0",
+      "url": "https://www.wsj.com/opinion/graduate-student-loans-unions-lawsuit-education-department-ead7ccde",
+      "title": "Government Unions for More Student Debt",
+      "content_text": "Government Unions for More Student Debt",
+      "summary": "",
+      "date_published": "2026-08-21T21:41:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "06c4af7c2d463515",
+      "url": "https://www.wsj.com/opinion/rebuilding-the-impeachment-factory-488bd507",
+      "title": "Rebuilding the Impeachment Factory",
+      "content_text": "Rebuilding the Impeachment Factory",
+      "summary": "",
+      "date_published": "2026-08-21T21:36:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "2e65320554e1f830",
+      "url": "https://www.wsj.com/politics/policy/upheaval-at-fannie-mae-raises-stability-concerns-57535616",
+      "title": "Upheaval at Fannie Mae Raises Stability Concerns",
+      "content_text": "Upheaval at Fannie Mae Raises Stability Concerns",
+      "summary": "",
+      "date_published": "2026-08-21T21:34:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "665b9f0e6ac117e8",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/bitcoin-gold-and-the-return-of-the-debasement-trade-tD0hYjZvTwKw704UIcF9",
       "title": "Bitcoin, Gold and the Return of the Debasement Trade",
@@ -2137,72 +2203,6 @@
       "date_published": "2026-08-20T14:39:00+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "85257645fe56c102",
-      "url": "https://www.wsj.com/economy/u-s-leading-indicators-ticked-up-in-july-8a288be9",
-      "title": "U.S. Leading Indicators Ticked Up in July",
-      "content_text": "U.S. Leading Indicators Ticked Up in July",
-      "summary": "",
-      "date_published": "2026-08-20T14:38:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "dfb83e705fa834e4",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/treasury-details-rules-for-trump-account-investments-st5tKvklzLdTQyw8UUwu",
-      "title": "Treasury Details Rules for Trump Account Investments",
-      "content_text": "Treasury Details Rules for Trump Account Investments",
-      "summary": "",
-      "date_published": "2026-08-20T14:32:20+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "d4008e2c514d58b4",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/what-s-driving-the-markets-today--yLyvHIZ2hO5Xzl2rDDyG",
-      "title": "What’s Driving the Markets Today?",
-      "content_text": "What’s Driving the Markets Today?",
-      "summary": "",
-      "date_published": "2026-08-20T14:13:05+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "d2e778f0ff152600",
-      "url": "https://www.wsj.com/world/uk/the-end-of-harry-and-meghans-american-dream-172623fd",
-      "title": "The End of Harry and Meghan’s American Dream",
-      "content_text": "The End of Harry and Meghan’s American Dream",
-      "summary": "",
-      "date_published": "2026-08-20T13:53:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "d93538c61307a97f",
-      "url": "https://www.wsj.com/business/earnings/hovnanian-swings-to-a-loss-amid-continually-challenging-housing-market-3639e87b",
-      "title": "Hovnanian Swings to a Loss Amid Continually Challenging Housing Market",
-      "content_text": "Hovnanian Swings to a Loss Amid Continually Challenging Housing Market",
-      "summary": "",
-      "date_published": "2026-08-20T13:52:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "7bbabb6350097d36",
-      "url": "https://www.wsj.com/cmo-today/targets-earnings-call-seldom-is-heard-a-discouraging-word-f9b2ad70",
-      "title": "Target’s Earnings Call: Seldom Is Heard a Discouraging Word",
-      "content_text": "Target’s Earnings Call: Seldom Is Heard a Discouraging Word",
-      "summary": "",
-      "date_published": "2026-08-20T13:31:00+00:00",
-      "tags": [
-        "Cmo Today"
       ]
     }
   ]
