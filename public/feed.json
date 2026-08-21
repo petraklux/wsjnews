@@ -6,6 +6,39 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "c41bec39a2ab03b5",
+      "url": "https://www.wsj.com/tech/justice-department-tiktok-reach-400-million-settlement-over-childrens-privacy-suit-2f4bcc93",
+      "title": "Justice Department, TikTok Reach $400 Million Settlement Over Children’s Privacy Suit",
+      "content_text": "Justice Department, TikTok Reach $400 Million Settlement Over Children’s Privacy Suit",
+      "summary": "",
+      "date_published": "2026-08-21T20:47:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "38bc9b5bade7706e",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/copper-demand-pushes-freeport-mcmoran-to-record-WvLxjINFE18VX74QLUK2",
+      "title": "Copper Demand Pushes Freeport-McMoRan to Record",
+      "content_text": "Copper Demand Pushes Freeport-McMoRan to Record",
+      "summary": "",
+      "date_published": "2026-08-21T20:45:01+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "3268cbc26e5c06c7",
+      "url": "https://www.wsj.com/politics/national-security/army-secretary-expected-to-step-down-by-years-end-d7477efb",
+      "title": "Army Secretary Expected To Step Down By Year’s End",
+      "content_text": "Army Secretary Expected To Step Down By Year’s End",
+      "summary": "",
+      "date_published": "2026-08-21T20:43:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "0b0f2ea3f2b89ad0",
       "url": "https://www.wsj.com/arts-culture/music/as-tupac-shakurs-murder-trial-continues-why-the-hip-hop-legends-music-endures-5aedfa71",
       "title": "As Tupac Shakur’s Murder Trial Continues, Why the Hip-Hop Legend’s Music Endures",
@@ -2170,39 +2203,6 @@
       "date_published": "2026-08-20T12:59:00+00:00",
       "tags": [
         "Economy"
-      ]
-    },
-    {
-      "id": "cac13e38555367aa",
-      "url": "https://www.wsj.com/sports/youth-sports-how-to-survive-another-crazy-season-63e79b93",
-      "title": "Youth Sports Are Completely Bonkers. How to Survive Another Crazy Season.",
-      "content_text": "Youth Sports Are Completely Bonkers. How to Survive Another Crazy Season.",
-      "summary": "",
-      "date_published": "2026-08-20T12:33:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "25e6d13d2849dba5",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/gold-loses-some-of-its-shine-after-yesterday-s-leap-euecAmm3DOvwIZu4dHs2",
-      "title": "Gold Loses Some of Its Shine After Yesterday’s Leap",
-      "content_text": "Gold Loses Some of Its Shine After Yesterday’s Leap",
-      "summary": "",
-      "date_published": "2026-08-20T12:28:19+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "f28c0a281917d4e4",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/tariff-refunds-boost-deere-s-bottom-line-03NZqa1slMmWPlWh99wu",
-      "title": "Tariff Refunds Boost Deere’s Bottom Line",
-      "content_text": "Tariff Refunds Boost Deere’s Bottom Line",
-      "summary": "",
-      "date_published": "2026-08-20T12:25:30+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
