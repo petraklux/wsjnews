@@ -6,6 +6,61 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "dbdac43d6efc59c3",
+      "url": "https://www.wsj.com/business/earnings/nibe-industrier-shares-rise-as-heat-pumps-data-centers-drive-sales-growth-89e5326b",
+      "title": "Nibe Industrier Shares Rise as Heat Pumps, Data Centers Drive Sales Growth",
+      "content_text": "Nibe Industrier Shares Rise as Heat Pumps, Data Centers Drive Sales Growth",
+      "summary": "",
+      "date_published": "2026-08-21T11:55:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "82ecdc6fc2aa129b",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/oil-extends-rise-after-trump-shifts-iran-strategy-to-economic-strangling-MwcKaZx9Egmy98i6eg7S",
+      "title": "Oil Extends Rise after Trump Shifts Iran Strategy to Economic Strangling",
+      "content_text": "Oil Extends Rise after Trump Shifts Iran Strategy to Economic Strangling",
+      "summary": "",
+      "date_published": "2026-08-21T11:45:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "ea0af934ab5fe87e",
+      "url": "https://www.wsj.com/politics/policy/u-s-to-boost-beef-imports-to-address-high-prices-trump-says-52b0f5dc",
+      "title": "U.S. to Boost Beef Imports to Address High Prices, Trump Says",
+      "content_text": "U.S. to Boost Beef Imports to Address High Prices, Trump Says",
+      "summary": "",
+      "date_published": "2026-08-21T11:45:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "1cf33e0075c85392",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/bitcoin-nears-80-000-on-trump-support-weaker-dollar-81HE3C6FkBcljvY8IKFA",
+      "title": "Bitcoin Nears $80,000 on Trump Support, Weaker Dollar",
+      "content_text": "Bitcoin Nears $80,000 on Trump Support, Weaker Dollar",
+      "summary": "",
+      "date_published": "2026-08-21T11:35:46+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "dea6ec2569a2d42b",
+      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
+      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "summary": "",
+      "date_published": "2026-08-21T11:30:19+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
       "id": "7cb48724b07cc541",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/strategy-stock-price-jumps-10-premarket-ueemKUBZh6J73KjBfN8F",
       "title": "Strategy Stock Price Jumps 10% Premarket",
@@ -61,17 +116,6 @@
       ]
     },
     {
-      "id": "b5920c19cc2c9a6c",
-      "url": "https://www.wsj.com/cmo-today/brands-are-maxxing-and-mogging-as-they-co-opt-a-controversial-trend-bd06c2c7",
-      "title": "Brands Are ‘Maxxing’ and ‘Mogging’ as They Co-Opt a Controversial Trend",
-      "content_text": "Brands Are ‘Maxxing’ and ‘Mogging’ as They Co-Opt a Controversial Trend",
-      "summary": "",
-      "date_published": "2026-08-21T11:00:00+00:00",
-      "tags": [
-        "Cmo Today"
-      ]
-    },
-    {
       "id": "79e6104cbaa501f5",
       "url": "https://www.wsj.com/sports/soccer/english-premier-league-arsenal-man-city-arteta-34c99b30",
       "title": "The Most Punishing Job Market in Sports Is on an English Soccer Sideline",
@@ -80,6 +124,17 @@
       "date_published": "2026-08-21T11:00:00+00:00",
       "tags": [
         "Sports"
+      ]
+    },
+    {
+      "id": "b5920c19cc2c9a6c",
+      "url": "https://www.wsj.com/cmo-today/brands-are-maxxing-and-mogging-as-they-co-opt-a-controversial-trend-bd06c2c7",
+      "title": "Brands Are ‘Maxxing’ and ‘Mogging’ as They Co-Opt a Controversial Trend",
+      "content_text": "Brands Are ‘Maxxing’ and ‘Mogging’ as They Co-Opt a Controversial Trend",
+      "summary": "",
+      "date_published": "2026-08-21T11:00:00+00:00",
+      "tags": [
+        "Cmo Today"
       ]
     },
     {
@@ -2146,61 +2201,6 @@
       "content_text": "Nikkei Rises 0.6%, Tracking Wall Street’s Gains",
       "summary": "",
       "date_published": "2026-08-20T01:08:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "00e472efc449c5d6",
-      "url": "https://www.wsj.com/lifestyle/workplace/how-to-outsmart-ai-when-its-tracking-your-workday-3ad6907e",
-      "title": "How to Outsmart AI When It’s Tracking Your Workday",
-      "content_text": "How to Outsmart AI When It’s Tracking Your Workday",
-      "summary": "",
-      "date_published": "2026-08-20T01:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "b1065abca84885a8",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-amid-lingering-middle-east-tensions-77c883a9",
-      "title": "Oil Edges Higher Amid Lingering Middle East Tensions",
-      "content_text": "Oil Edges Higher Amid Lingering Middle East Tensions",
-      "summary": "",
-      "date_published": "2026-08-20T01:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "dc97955453052c48",
-      "url": "https://www.wsj.com/business/entrepreneurship/hawaii-tourism-tech-jobs-9630f68b",
-      "title": "With Tourism Stalled, Hawaii Chases the Startup Wave",
-      "content_text": "With Tourism Stalled, Hawaii Chases the Startup Wave",
-      "summary": "",
-      "date_published": "2026-08-20T01:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "6726390cb61f8506",
-      "url": "https://www.wsj.com/finance/jgb-yield-curve-flattens-tracking-u-s-treasury-yields-f7dae352",
-      "title": "JGB Yield Curve Flattens, Tracking U.S. Treasury Yields",
-      "content_text": "JGB Yield Curve Flattens, Tracking U.S. Treasury Yields",
-      "summary": "",
-      "date_published": "2026-08-20T00:57:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "46bca003f8f849d6",
-      "url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-may-be-buoyed-by-u-s-treasury-dept-s-buyback-announcement-fe8b1754",
-      "title": "Asian Currencies Mixed; May Be Buoyed by U.S. Treasury Dept.’s Buyback Announcement",
-      "content_text": "Asian Currencies Mixed; May Be Buoyed by U.S. Treasury Dept.’s Buyback Announcement",
-      "summary": "",
-      "date_published": "2026-08-20T00:54:00+00:00",
       "tags": [
         "Finance"
       ]
