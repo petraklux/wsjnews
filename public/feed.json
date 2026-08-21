@@ -6,6 +6,72 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "c112b2dd8a014b7e",
+      "url": "https://www.wsj.com/business/retail/canada-retail-sales-slip-after-rising-a-sixth-straight-month-in-june-22fc3100",
+      "title": "Canada Retail Sales Slip After Rising a Sixth Straight Month in June",
+      "content_text": "Canada Retail Sales Slip After Rising a Sixth Straight Month in June",
+      "summary": "",
+      "date_published": "2026-08-21T12:46:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "c43dab60b8a347ad",
+      "url": "https://www.wsj.com/lifestyle/travel/a-widower-wonders-if-he-should-travel-solo-readers-weigh-in-3a4f8c4e",
+      "title": "A Widower Wonders If He Should Travel Solo. Readers Weigh In.",
+      "content_text": "A Widower Wonders If He Should Travel Solo. Readers Weigh In.",
+      "summary": "",
+      "date_published": "2026-08-21T12:35:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "f6b04f0662af401a",
+      "url": "https://www.wsj.com/cio-journal/an-innovation-veteran-on-whats-next-in-enterprise-ai-1e20ead2",
+      "title": "An Innovation Veteran on What’s Next in Enterprise AI",
+      "content_text": "An Innovation Veteran on What’s Next in Enterprise AI",
+      "summary": "",
+      "date_published": "2026-08-21T12:31:00+00:00",
+      "tags": [
+        "Cio Journal"
+      ]
+    },
+    {
+      "id": "9123359d9480e69c",
+      "url": "https://www.wsj.com/business/deals/nvidia-in-talks-to-invest-in-data-center-power-developer-cloverleaf-infrastructure-ff94c556",
+      "title": "Nvidia in Talks to Invest in Data-Center Power Developer Cloverleaf Infrastructure",
+      "content_text": "Nvidia in Talks to Invest in Data-Center Power Developer Cloverleaf Infrastructure",
+      "summary": "",
+      "date_published": "2026-08-21T12:30:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "20738bf05527ad38",
+      "url": "https://www.wsj.com/sports/tennis/carlos-alcaraz-us-open-a7b00e59",
+      "title": "Did Carlos Alcaraz Just Save the U.S. Open?",
+      "content_text": "Did Carlos Alcaraz Just Save the U.S. Open?",
+      "summary": "",
+      "date_published": "2026-08-21T12:25:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "129cdd1f36589087",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/samsung-plots-mega-buyback-after-ai-windfall-irx6Ebx6OjfszMZtRAEf",
+      "title": "Samsung Plots Mega Buyback After AI Windfall",
+      "content_text": "Samsung Plots Mega Buyback After AI Windfall",
+      "summary": "",
+      "date_published": "2026-08-21T12:11:59+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "dbdac43d6efc59c3",
       "url": "https://www.wsj.com/business/earnings/nibe-industrier-shares-rise-as-heat-pumps-data-centers-drive-sales-growth-89e5326b",
       "title": "Nibe Industrier Shares Rise as Heat Pumps, Data Centers Drive Sales Growth",
@@ -2137,72 +2203,6 @@
       "date_published": "2026-08-20T02:27:00+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "4c573b7f1f27acb6",
-      "url": "https://www.wsj.com/world/asia/asias-businesses-struggle-to-shake-off-the-sway-of-their-founding-families-0e7fc2e7",
-      "title": "Asia’s Businesses Struggle to Shake Off the Sway of Their Founding Families",
-      "content_text": "Asia’s Businesses Struggle to Shake Off the Sway of Their Founding Families",
-      "summary": "",
-      "date_published": "2026-08-20T02:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "861b2b41e3e5d299",
-      "url": "https://www.wsj.com/politics/elections/how-democratic-socialism-caught-fire-in-florida-19333a53",
-      "title": "How Democratic Socialism Caught Fire in Florida",
-      "content_text": "How Democratic Socialism Caught Fire in Florida",
-      "summary": "",
-      "date_published": "2026-08-20T01:54:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "e4370dbb08732dbc",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-drops-focus-on-fed-july-minutes-db5bfcf6",
-      "title": "Gold Drops; Focus on Fed July Minutes",
-      "content_text": "Gold Drops; Focus on Fed July Minutes",
-      "summary": "",
-      "date_published": "2026-08-20T01:47:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "275732f00a0d6b8a",
-      "url": "https://www.wsj.com/business/logistics/ck-hutchison-files-arbitration-against-panama-seeking-1-5-billion-in-damages-8ce50114",
-      "title": "CK Hutchison Files Arbitration Against Panama, Seeking $1.5 Billion in Damages",
-      "content_text": "CK Hutchison Files Arbitration Against Panama, Seeking $1.5 Billion in Damages",
-      "summary": "",
-      "date_published": "2026-08-20T01:31:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "c7e480583f8ad0fd",
-      "url": "https://www.wsj.com/news/business/small-business-marketing",
-      "title": "Small business marketing",
-      "content_text": "Small business marketing",
-      "summary": "",
-      "date_published": "2026-08-20T01:30:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "d0dcaa51c1ab036c",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-6-tracking-wall-streets-gains-20b7f635",
-      "title": "Nikkei Rises 0.6%, Tracking Wall Street’s Gains",
-      "content_text": "Nikkei Rises 0.6%, Tracking Wall Street’s Gains",
-      "summary": "",
-      "date_published": "2026-08-20T01:08:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]
