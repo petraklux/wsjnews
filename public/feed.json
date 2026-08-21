@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "2dd7299692394200",
+      "url": "https://www.wsj.com/business/boeing-engineers-technical-workers-reject-four-year-contract-offer-1a683686",
+      "title": "Boeing Engineers, Technical Workers Reject Four-Year Contract Offer",
+      "content_text": "Boeing Engineers, Technical Workers Reject Four-Year Contract Offer",
+      "summary": "",
+      "date_published": "2026-08-21T23:22:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "4d823fa1aed121af",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/-listen-talking-treasury-bonds-with-wsj-columnist-greg-ip-8ezwR5q85DGBLGjRnUOW",
       "title": "🎧 Listen: Talking Treasury Bonds With WSJ Columnist Greg Ip",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-08-20T14:57:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "a17f636de2e008e5",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026",
-      "title": "Stock Market Today: Yields Steady; S&P Heads for Weekly Loss",
-      "content_text": "Stock Market Today: Yields Steady; S&P Heads for Weekly Loss",
-      "summary": "",
-      "date_published": "2026-08-20T14:45:44+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]

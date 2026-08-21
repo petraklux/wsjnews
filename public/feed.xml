@@ -8,8 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 21 Aug 2026 22:56:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 23:32:49 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Boeing Engineers, Technical Workers Reject Four-Year Contract Offer</title>
+      <link>https://www.wsj.com/business/boeing-engineers-technical-workers-reject-four-year-contract-offer-1a683686</link>
+      <description>&lt;p&gt;Boeing Engineers, Technical Workers Reject Four-Year Contract Offer&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/business/boeing-engineers-technical-workers-reject-four-year-contract-offer-1a683686"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">2dd7299692394200</guid>
+      <category>Business</category>
+      <pubDate>Fri, 21 Aug 2026 23:22:00 +0000</pubDate>
+    </item>
     <item>
       <title>🎧 Listen: Talking Treasury Bonds With WSJ Columnist Greg Ip</title>
       <link>https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/-listen-talking-treasury-bonds-with-wsj-columnist-greg-ip-8ezwR5q85DGBLGjRnUOW</link>
@@ -1601,14 +1609,6 @@
       <guid isPermaLink="false">606a61fe8b5c62e7</guid>
       <category>Finance</category>
       <pubDate>Thu, 20 Aug 2026 14:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stock Market Today: Yields Steady; S&amp;P Heads for Weekly Loss</title>
-      <link>https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026</link>
-      <description>&lt;p&gt;Stock Market Today: Yields Steady; S&amp;P Heads for Weekly Loss&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">a17f636de2e008e5</guid>
-      <category>Front Page</category>
-      <pubDate>Thu, 20 Aug 2026 14:45:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
