@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "e7a1df9b9a151e8d",
+      "url": "https://www.wsj.com/business/autos/hyundais-union-launches-first-full-day-strike-in-decade-495086ac",
+      "title": "Hyundai’s Union Launches First Full-Day Strike in Decade",
+      "content_text": "Hyundai’s Union Launches First Full-Day Strike in Decade",
+      "summary": "",
+      "date_published": "2026-08-21T05:56:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "a09d5485e3f9d742",
       "url": "https://www.wsj.com/opinion/pepperand-salt-4acb2348",
       "title": "Pepper…and Salt",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-08-19T19:10:36+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "a711f91e3a9d1469",
-      "url": "https://www.wsj.com/arts-culture/how-would-the-superrich-kids-of-the-80s-fare-today-be014e8c",
-      "title": "How Would the Superrich Kids of the ’80s Fare Today?",
-      "content_text": "How Would the Superrich Kids of the ’80s Fare Today?",
-      "summary": "",
-      "date_published": "2026-08-19T19:00:00+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]
