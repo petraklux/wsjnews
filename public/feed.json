@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "c298a9f8fa0c3325",
+      "url": "https://www.wsj.com/us-news/ride-shotgun-in-a-corvette-on-d-c-s-freedom-250-indycar-track-c17fada7",
+      "title": "Ride Shotgun in a Corvette on D.C.’s Freedom 250 IndyCar Track",
+      "content_text": "Ride Shotgun in a Corvette on D.C.’s Freedom 250 IndyCar Track",
+      "summary": "",
+      "date_published": "2026-08-22T17:08:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
       "id": "bd4dabbd9a08bf16",
       "url": "https://www.wsj.com/world/asia/canada-announces-new-post-labor-day-tariffs-ef1de8e1",
       "title": "Canada Announces New Post-Labor Day Tariffs",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-08-20T20:23:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "c37582ceaabee8e9",
-      "url": "https://www.wsj.com/opinion/the-bond-chaos-is-a-sign-kevin-warshs-plan-is-working-0e2b8b29",
-      "title": "The Bond ‘Chaos’ Is a Sign Kevin Warsh’s Plan Is Working",
-      "content_text": "The Bond ‘Chaos’ Is a Sign Kevin Warsh’s Plan Is Working",
-      "summary": "",
-      "date_published": "2026-08-20T20:22:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
