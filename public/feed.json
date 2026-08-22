@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "087ae0ec5ec7a43f",
+      "url": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
+      "title": "Startup Founders Are Working Harder Than Ever to Keep Up With Their AI Agents",
+      "content_text": "Startup Founders Are Working Harder Than Ever to Keep Up With Their AI Agents",
+      "summary": "",
+      "date_published": "2026-08-22T01:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "1874856fc80fbcdb",
+      "url": "https://www.wsj.com/politics/policy/democrats-trump-allies-investigation-plans-c226c1fc",
+      "title": "Democrats Are Gearing Up for a Wave of Investigations Into Trump and His Allies",
+      "content_text": "Democrats Are Gearing Up for a Wave of Investigations Into Trump and His Allies",
+      "summary": "",
+      "date_published": "2026-08-22T01:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "c9c5884ff118a9c6",
+      "url": "https://www.wsj.com/health/pharma/moderna-cancer-vaccine-3d863ff3",
+      "title": "How a Big Bet on Cancer Vaccines Brought Moderna Back from the Brink",
+      "content_text": "How a Big Bet on Cancer Vaccines Brought Moderna Back from the Brink",
+      "summary": "",
+      "date_published": "2026-08-22T00:00:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "4eed34477bdb16ff",
+      "url": "https://www.wsj.com/politics/elections/trump-makes-pitch-for-sen-darline-graham-ahead-of-gop-south-carolina-primary-285e5404",
+      "title": "Trump Makes Pitch for Sen. Darline Graham Ahead of GOP South Carolina Primary",
+      "content_text": "Trump Makes Pitch for Sen. Darline Graham Ahead of GOP South Carolina Primary",
+      "summary": "",
+      "date_published": "2026-08-21T23:53:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "56b8135b977156b6",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/the-wild-week-when-scott-bessent-was-schooled-by-the-bond-market-rMywdJa1Txeekt15Spsi",
       "title": "The Wild Week When Scott Bessent Was Schooled by the Bond Market",
@@ -2159,50 +2203,6 @@
       "date_published": "2026-08-20T16:02:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "7a5849708cd5a872",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/after-day-of-exuberance-for-moderna-s-stock-investors-pull-back-BaJIf8qZ9zQbyVAZx53r",
-      "title": "After Day of Exuberance for Moderna’s Stock, Investors Pull Back",
-      "content_text": "After Day of Exuberance for Moderna’s Stock, Investors Pull Back",
-      "summary": "",
-      "date_published": "2026-08-20T15:51:39+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "78efc6b521ee9832",
-      "url": "https://www.wsj.com/business/hospitality/starbucks-laying-off-more-than-200-workers-in-streamlining-drive-71e2b179",
-      "title": "Starbucks Laying Off More Than 200 Workers in Streamlining Drive",
-      "content_text": "Starbucks Laying Off More Than 200 Workers in Streamlining Drive",
-      "summary": "",
-      "date_published": "2026-08-20T15:50:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "bd59b6823ea9c798",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/bessent-signals-that-aggressive-action-possible-to-bring-down-yields-XqACYmv7StWaN4FEyuJ1",
-      "title": "Bessent Signals That Aggressive Action Possible to Bring Down Yields",
-      "content_text": "Bessent Signals That Aggressive Action Possible to Bring Down Yields",
-      "summary": "",
-      "date_published": "2026-08-20T15:27:01+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "7256d0da0c8c9e2c",
-      "url": "https://www.wsj.com/politics/elections/jon-ossoff-trump-03201276",
-      "title": "Jon Ossoff Has Jabbed at Trump for Months. Many See a 2028 Audition.",
-      "content_text": "Jon Ossoff Has Jabbed at Trump for Months. Many See a 2028 Audition.",
-      "summary": "",
-      "date_published": "2026-08-20T15:09:00+00:00",
-      "tags": [
-        "Politics"
       ]
     }
   ]
