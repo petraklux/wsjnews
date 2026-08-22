@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "f2590a6e6e7bf1df",
+      "url": "https://www.wsj.com/economy/trade/u-s-to-impose-50-tariffs-on-some-canadian-goods-after-failed-talks-d1510425",
+      "title": "U.S. Imposes 50% Tariffs on Some Canadian Goods After Last-Ditch Talks Failed",
+      "content_text": "U.S. Imposes 50% Tariffs on Some Canadian Goods After Last-Ditch Talks Failed",
+      "summary": "",
+      "date_published": "2026-08-22T04:06:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "573f6931bd6df236",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-437d6f63",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-08-22T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "8133d1464f76140c",
+      "url": "https://www.wsj.com/articles/whats-news-worldwide-930b94a5",
+      "title": "What’s News: Worldwide",
+      "content_text": "What’s News: Worldwide",
+      "summary": "",
+      "date_published": "2026-08-22T03:25:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "4b2c7bf08c478116",
+      "url": "https://www.wsj.com/articles/whats-news-business-finance-4f886836",
+      "title": "What’s News: Business & Finance",
+      "content_text": "What’s News: Business & Finance",
+      "summary": "",
+      "date_published": "2026-08-22T03:19:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "9399c2482d4f8c91",
       "url": "https://www.wsj.com/world/russia/russia-yabloko-party-putin-ukraine-war-bf5e2c5b",
       "title": "The Fall of Russia’s Only Antiwar Party Has Exposed Putin’s Vulnerability",
@@ -2159,50 +2203,6 @@
       "date_published": "2026-08-20T17:13:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "d57247d442b13811",
-      "url": "https://www.wsj.com/business/telecom/spacex-is-racking-up-wins-in-washington-a8bac5f5",
-      "title": "SpaceX Is Racking Up Wins in Washington",
-      "content_text": "SpaceX Is Racking Up Wins in Washington",
-      "summary": "",
-      "date_published": "2026-08-20T17:09:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "f1a840919057d71e",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/some-americans-are-making-choices-between-necessities-retailers-warn-9cPBXfGfphtKtZZY5gz2",
-      "title": "Some Americans Are Making ‘Choices Between Necessities,’ Retailers Warn",
-      "content_text": "Some Americans Are Making ‘Choices Between Necessities,’ Retailers Warn",
-      "summary": "",
-      "date_published": "2026-08-20T16:42:20+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "88b573d0050f2336",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/bessent-plays-down-deficit-concerns-BRj2J54gi7GWlL7YxKtk",
-      "title": "Bessent Plays Down Deficit Concerns",
-      "content_text": "Bessent Plays Down Deficit Concerns",
-      "summary": "",
-      "date_published": "2026-08-20T16:18:14+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "7d94ad7935d18639",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/-money-quote-bessent-on-the-40-trillion-u-s-debt-milestone-a5qchxB1QNMbtY3MOOMq",
-      "title": "💬 Money Quote: Bessent on the $40 Trillion U.S.-Debt Milestone",
-      "content_text": "💬 Money Quote: Bessent on the $40 Trillion U.S.-Debt Milestone",
-      "summary": "",
-      "date_published": "2026-08-20T16:09:05+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
