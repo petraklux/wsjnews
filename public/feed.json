@@ -6,6 +6,39 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "393923c04d8f7804",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/catskills-real-estate-market-a9da9070",
+      "title": "The Catskills Were Once Considered a Hidden Gem. Now the Secret’s Out.",
+      "content_text": "The Catskills Were Once Considered a Hidden Gem. Now the Secret’s Out.",
+      "summary": "",
+      "date_published": "2026-08-22T10:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "e7a7987822360431",
+      "url": "https://www.wsj.com/business/media/news-quiz-for-august-22-2026-6b6d3eeb",
+      "title": "News Quiz for August 22, 2026",
+      "content_text": "News Quiz for August 22, 2026",
+      "summary": "",
+      "date_published": "2026-08-22T10:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "f2c4ca19f0da0471",
+      "url": "https://www.wsj.com/articles/ais-need-for-content-has-put-rare-book-dealers-in-a-bind-1ac5a053",
+      "title": "AI’s Need for Content Has Put Rare-Book Dealers in a Bind",
+      "content_text": "AI’s Need for Content Has Put Rare-Book Dealers in a Bind",
+      "summary": "",
+      "date_published": "2026-08-22T10:00:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "714876354a99b654",
       "url": "https://www.wsj.com/lifestyle/cars/tesla-model-y-review-13d303c1",
       "title": "Full Self-Driving Is the Best Thing about the New Tesla Model Y",
@@ -2170,39 +2203,6 @@
       "date_published": "2026-08-20T19:08:00+00:00",
       "tags": [
         "Personal Finance"
-      ]
-    },
-    {
-      "id": "b2f6332f50f62661",
-      "url": "https://www.wsj.com/lifestyle/careers/televisions-hottest-genre-is-todays-job-market-c3286691",
-      "title": "Television’s Hottest Genre Is Today’s Job Market",
-      "content_text": "Television’s Hottest Genre Is Today’s Job Market",
-      "summary": "",
-      "date_published": "2026-08-20T19:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "f082dd12afdca41b",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/drw-s-don-wilson-encourages-cftc-to-approve-perpetual-futures-WBLJH1WD8D8M0rufCWC9",
-      "title": "DRW’s Don Wilson Encourages CFTC to Approve Perpetual Futures",
-      "content_text": "DRW’s Don Wilson Encourages CFTC to Approve Perpetual Futures",
-      "summary": "",
-      "date_published": "2026-08-20T18:43:13+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "fc55efb4117d304a",
-      "url": "https://www.wsj.com/arts-culture/books/a-guide-to-open-water-lifesaving-review-the-rescuer-needed-rescue-2eaa13ed",
-      "title": "‘A Guide to Open Water Lifesaving’ Review: The Rescuer Needed Rescue",
-      "content_text": "‘A Guide to Open Water Lifesaving’ Review: The Rescuer Needed Rescue",
-      "summary": "",
-      "date_published": "2026-08-20T18:39:00+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]
