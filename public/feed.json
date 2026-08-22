@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "92d6384b43f667d2",
+      "url": "https://www.wsj.com/business/readers-share-their-stubhub-ticketing-woes-f317a3f8",
+      "title": "Readers Share Their StubHub Ticketing Woes",
+      "content_text": "Readers Share Their StubHub Ticketing Woes",
+      "summary": "",
+      "date_published": "2026-08-22T15:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "4853932ffd3427dd",
+      "url": "https://www.wsj.com/cio-journal/the-premier-league-is-back-but-how-many-coaches-will-survive-the-season-a13bf0aa",
+      "title": "The Premier League Is Back. But How Many Coaches Will Survive the Season?",
+      "content_text": "The Premier League Is Back. But How Many Coaches Will Survive the Season?",
+      "summary": "",
+      "date_published": "2026-08-22T14:55:00+00:00",
+      "tags": [
+        "Cio Journal"
+      ]
+    },
+    {
       "id": "110060fc14872168",
       "url": "https://www.wsj.com/arts-culture/food-cooking/how-wagyu-japans-prized-beef-took-over-america-20546680",
       "title": "How Wagyu, Japan’s Prized Beef, Took Over America",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-20T20:02:00+00:00",
       "tags": [
         "World"
-      ]
-    },
-    {
-      "id": "c8eaf0943e8fdb06",
-      "url": "https://www.wsj.com/opinion/what-obamacare-was-meant-to-accomplish-2ccb7587",
-      "title": "What ObamaCare Was Meant to Accomplish",
-      "content_text": "What ObamaCare Was Meant to Accomplish",
-      "summary": "",
-      "date_published": "2026-08-20T20:00:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "ebaf2c3dfadc12cf",
-      "url": "https://www.wsj.com/opinion/why-get-three-mmr-vaccines-instead-of-one-7e45973b",
-      "title": "Why Get Three MMR Vaccines Instead of One?",
-      "content_text": "Why Get Three MMR Vaccines Instead of One?",
-      "summary": "",
-      "date_published": "2026-08-20T20:00:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
