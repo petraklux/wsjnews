@@ -6,17 +6,6 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "c9a53c1f9ceee8e0",
-      "url": "https://www.wsj.com/business/energy-oil/see-how-china-weathered-the-iran-oil-shock-2c367cd8",
-      "title": "See How China Weathered the Iran Oil Shock",
-      "content_text": "See How China Weathered the Iran Oil Shock",
-      "summary": "",
-      "date_published": "2026-08-22T02:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
       "id": "9399c2482d4f8c91",
       "url": "https://www.wsj.com/world/russia/russia-yabloko-party-putin-ukraine-war-bf5e2c5b",
       "title": "The Fall of Russia’s Only Antiwar Party Has Exposed Putin’s Vulnerability",
@@ -25,6 +14,17 @@
       "date_published": "2026-08-22T02:00:00+00:00",
       "tags": [
         "World"
+      ]
+    },
+    {
+      "id": "c9a53c1f9ceee8e0",
+      "url": "https://www.wsj.com/business/energy-oil/see-how-china-weathered-the-iran-oil-shock-2c367cd8",
+      "title": "See How China Weathered the Iran Oil Shock",
+      "content_text": "See How China Weathered the Iran Oil Shock",
+      "summary": "",
+      "date_published": "2026-08-22T02:00:00+00:00",
+      "tags": [
+        "Business"
       ]
     },
     {
