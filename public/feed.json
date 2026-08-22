@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "714876354a99b654",
+      "url": "https://www.wsj.com/lifestyle/cars/tesla-model-y-review-13d303c1",
+      "title": "Full Self-Driving Is the Best Thing about the New Tesla Model Y",
+      "content_text": "Full Self-Driving Is the Best Thing about the New Tesla Model Y",
+      "summary": "",
+      "date_published": "2026-08-22T09:30:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "9b22b6d2bf4546e4",
+      "url": "https://www.wsj.com/health/wellness/is-your-therapist-biased-personal-agendas-are-creeping-into-the-therapy-room-202e5a80",
+      "title": "Is Your Therapist Biased? Personal Agendas Are Creeping Into the Therapy Room",
+      "content_text": "Is Your Therapist Biased? Personal Agendas Are Creeping Into the Therapy Room",
+      "summary": "",
+      "date_published": "2026-08-22T09:30:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "5f93dda492442847",
+      "url": "https://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12",
+      "title": "Iran’s Top Politicians Urge an End to the War",
+      "content_text": "Iran’s Top Politicians Urge an End to the War",
+      "summary": "",
+      "date_published": "2026-08-22T09:15:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "b3450d85e69c10b4",
+      "url": "https://www.wsj.com/politics/policy/trump-new-jersey-ballroom-bedminster-golf-club-3de25336",
+      "title": "Trump’s Other Ballroom: An 11,000-Square-Foot Banquet Hall in New Jersey",
+      "content_text": "Trump’s Other Ballroom: An 11,000-Square-Foot Banquet Hall in New Jersey",
+      "summary": "",
+      "date_published": "2026-08-22T09:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "f2590a6e6e7bf1df",
       "url": "https://www.wsj.com/economy/trade/u-s-to-impose-50-tariffs-on-some-canadian-goods-after-failed-talks-d1510425",
       "title": "U.S. Imposes 50% Tariffs on Some Canadian Goods After Last-Ditch Talks Failed",
@@ -2159,50 +2203,6 @@
       "date_published": "2026-08-20T18:39:00+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "92a656d0f09bf5fb",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/musk-says-next-rocket-catch-is-months-away-and-spacex-stock-sags-ziB2u03acA87Pvu9AJr2",
-      "title": "Musk Says Next Rocket ‘Catch’ Is Months Away—And SpaceX Stock Sags",
-      "content_text": "Musk Says Next Rocket ‘Catch’ Is Months Away—And SpaceX Stock Sags",
-      "summary": "",
-      "date_published": "2026-08-20T18:16:13+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "639c0db3212aaf39",
-      "url": "https://www.wsj.com/tech/from-playstation-to-spider-man-inside-sonys-transformation-8174ccd4",
-      "title": "From PlayStation to Spider-Man: Inside Sony’s Transformation",
-      "content_text": "From PlayStation to Spider-Man: Inside Sony’s Transformation",
-      "summary": "",
-      "date_published": "2026-08-20T18:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "dbaa488d110ad913",
-      "url": "https://www.wsj.com/arts-culture/books/mackenzie-scott-substack-last-days-bezos-3f712734",
-      "title": "MacKenzie Scott, Billionaire Philanthropist, Returns to Her First Love: Fiction",
-      "content_text": "MacKenzie Scott, Billionaire Philanthropist, Returns to Her First Love: Fiction",
-      "summary": "",
-      "date_published": "2026-08-20T17:21:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "1eda928804a76a02",
-      "url": "https://www.wsj.com/finance/banking/private-equity-firms-look-for-an-exit-three-years-after-buying-everbank-d9cfe378",
-      "title": "Private-Equity Firms Look for an Exit Three Years After Buying EverBank",
-      "content_text": "Private-Equity Firms Look for an Exit Three Years After Buying EverBank",
-      "summary": "",
-      "date_published": "2026-08-20T17:13:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]
