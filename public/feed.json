@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "110060fc14872168",
+      "url": "https://www.wsj.com/arts-culture/food-cooking/how-wagyu-japans-prized-beef-took-over-america-20546680",
+      "title": "How Wagyu, Japan’s Prized Beef, Took Over America",
+      "content_text": "How Wagyu, Japan’s Prized Beef, Took Over America",
+      "summary": "",
+      "date_published": "2026-08-22T14:00:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
       "id": "9d4dabbcdb3ab968",
       "url": "https://www.wsj.com/science/space-astronomy/a-spacex-vehicle-is-this-islands-most-talked-about-visitor-ed037273",
       "title": "A SpaceX Vehicle Is This Island’s Most Talked About Visitor",
@@ -2190,17 +2201,6 @@
       "content_text": "Why Get Three MMR Vaccines Instead of One?",
       "summary": "",
       "date_published": "2026-08-20T20:00:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "902e23d08c29ecd4",
-      "url": "https://www.wsj.com/opinion/how-the-fed-can-make-capital-countercyclical-75fe4aab",
-      "title": "How the Fed Can Make Capital Countercyclical",
-      "content_text": "How the Fed Can Make Capital Countercyclical",
-      "summary": "",
-      "date_published": "2026-08-20T19:59:00+00:00",
       "tags": [
         "Opinion"
       ]
