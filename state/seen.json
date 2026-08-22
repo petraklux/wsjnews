@@ -1,18 +1,5 @@
 {
   "items": {
-    "002b1a7cea84945b": {
-      "dek": "",
-      "first_seen": "2026-08-20T16:46:45.965995+00:00",
-      "guid": "002b1a7cea84945b",
-      "published": "2026-08-20T16:05:00+00:00",
-      "section": "Us News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "ICE Arrests Captain of Deadly Capsize in New York Harbor",
-      "title": "ICE Arrests Captain of Deadly Capsize in New York Harbor",
-      "url": "https://www.wsj.com/us-news/ice-arrests-captain-of-deadly-capsize-in-new-york-harbor-336aceb5"
-    },
     "0038b06dd019061e": {
       "dek": "",
       "first_seen": "2026-08-21T14:47:03.348124+00:00",
@@ -90,19 +77,6 @@
       "summary": "Private Credit’s Next Big Thing Is $1 Trillion in British Pensions",
       "title": "Private Credit’s Next Big Thing Is $1 Trillion in British Pensions",
       "url": "https://www.wsj.com/finance/investing/private-credits-next-big-thing-is-1-trillion-in-british-pensions-13b76f04"
-    },
-    "0d8e03e972326682": {
-      "dek": "",
-      "first_seen": "2026-08-20T16:46:45.965995+00:00",
-      "guid": "0d8e03e972326682",
-      "published": "2026-08-20T16:02:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "New York Isn’t the Same for Jews",
-      "title": "New York Isn’t the Same for Jews",
-      "url": "https://www.wsj.com/opinion/new-york-isnt-the-same-for-jews-7fdf4812"
     },
     "0d99d93db0ba41ed": {
       "dek": "",
@@ -832,19 +806,6 @@
       "title": "World Liberty’s Stablecoin Becomes a Partisan Target",
       "url": "https://www.wsj.com/opinion/world-libertys-stablecoin-becomes-a-partisan-target-12dbbfa0"
     },
-    "559cff853c22422b": {
-      "dek": "",
-      "first_seen": "2026-08-20T16:46:45.965995+00:00",
-      "guid": "559cff853c22422b",
-      "published": "2026-08-20T16:03:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Americans Are Getting Caught in the Safety Net",
-      "title": "Americans Are Getting Caught in the Safety Net",
-      "url": "https://www.wsj.com/opinion/americans-are-getting-caught-in-the-safety-net-fed222f4"
-    },
     "564961a65f217d8c": {
       "dek": "",
       "first_seen": "2026-08-21T16:46:06.730050+00:00",
@@ -1456,6 +1417,19 @@
       "title": "Musk Says Next Rocket ‘Catch’ Is Months Away—And SpaceX Stock Sags",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/musk-says-next-rocket-catch-is-months-away-and-spacex-stock-sags-ziB2u03acA87Pvu9AJr2"
     },
+    "9399c2482d4f8c91": {
+      "dek": "",
+      "first_seen": "2026-08-22T03:02:47.162701+00:00",
+      "guid": "9399c2482d4f8c91",
+      "published": "2026-08-22T02:00:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Fall of Russia’s Only Antiwar Party Has Exposed Putin’s Vulnerability",
+      "title": "The Fall of Russia’s Only Antiwar Party Has Exposed Putin’s Vulnerability",
+      "url": "https://www.wsj.com/world/russia/russia-yabloko-party-putin-ukraine-war-bf5e2c5b"
+    },
     "96ddb2225bad2c41": {
       "dek": "",
       "first_seen": "2026-08-21T15:42:52.069396+00:00",
@@ -1650,6 +1624,19 @@
       "summary": "Japan Inflation Picks Up as Rate-Boost Bets Firm",
       "title": "Japan Inflation Picks Up as Rate-Boost Bets Firm",
       "url": "https://www.wsj.com/economy/japan-inflation-picks-up-as-rate-boost-bets-firm-1d63fed4"
+    },
+    "aa44f76f7c78db32": {
+      "dek": "",
+      "first_seen": "2026-08-22T03:02:47.162701+00:00",
+      "guid": "aa44f76f7c78db32",
+      "published": "2026-08-22T01:56:00+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Corrections & Amplifications",
+      "title": "Corrections & Amplifications",
+      "url": "https://www.wsj.com/articles/corrections-amplifications-6cef0174"
     },
     "acd0db00c3cfd53c": {
       "dek": "",
@@ -1936,6 +1923,19 @@
       "summary": "Former Abercrombie CEO Is Competent to Face Sex-Trafficking Trial, Judge Rules",
       "title": "Former Abercrombie CEO Is Competent to Face Sex-Trafficking Trial, Judge Rules",
       "url": "https://www.wsj.com/us-news/law/former-abercrombie-ceo-is-competent-to-face-sex-trafficking-trial-judge-rules-4710c2a5"
+    },
+    "c9a53c1f9ceee8e0": {
+      "dek": "",
+      "first_seen": "2026-08-22T03:02:47.162701+00:00",
+      "guid": "c9a53c1f9ceee8e0",
+      "published": "2026-08-22T02:00:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "See How China Weathered the Iran Oil Shock",
+      "title": "See How China Weathered the Iran Oil Shock",
+      "url": "https://www.wsj.com/business/energy-oil/see-how-china-weathered-the-iran-oil-shock-2c367cd8"
     },
     "c9c5884ff118a9c6": {
       "dek": "",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-4d046ab3"
     }
   },
-  "updated": "2026-08-22T01:45:31.986196+00:00"
+  "updated": "2026-08-22T03:02:47.181879+00:00"
 }
