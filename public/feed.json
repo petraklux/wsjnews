@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "ba5d5ad2ef974e3f",
+      "url": "https://www.wsj.com/business/media/paramount-prepares-to-begin-early-settlement-talks-with-california-officials-462f68e2",
+      "title": "Paramount Prepares to Begin Early Settlement Talks With California Officials",
+      "content_text": "Paramount Prepares to Begin Early Settlement Talks With California Officials",
+      "summary": "",
+      "date_published": "2026-08-22T19:02:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "acd2d800cf947bf9",
+      "url": "https://www.wsj.com/economy/trade/whats-getting-hit-with-the-new-u-s-canada-tariffs-4cb8141c",
+      "title": "What’s Getting Hit With the New U.S.-Canada Tariffs",
+      "content_text": "What’s Getting Hit With the New U.S.-Canada Tariffs",
+      "summary": "",
+      "date_published": "2026-08-22T18:59:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
       "id": "b1c2a8bffad323ff",
       "url": "https://www.wsj.com/lifestyle/careers/british-kids-are-skipping-top-colleges-for-white-collar-apprenticeships-77a47f5c",
       "title": "British Kids Are Skipping Top Colleges for White-Collar Apprenticeships",
@@ -36,6 +58,17 @@
       "date_published": "2026-08-22T16:42:00+00:00",
       "tags": [
         "World"
+      ]
+    },
+    {
+      "id": "e37991e95ed7654c",
+      "url": "https://www.wsj.com/economy/trade/canada-announces-new-post-labor-day-tariffs-ef1de8e1",
+      "title": "Canada Announces New Tariffs on U.S. as Trade War Widens",
+      "content_text": "Canada Announces New Tariffs on U.S. as Trade War Widens",
+      "summary": "",
+      "date_published": "2026-08-22T16:42:00+00:00",
+      "tags": [
+        "Economy"
       ]
     },
     {
@@ -2168,39 +2201,6 @@
       "content_text": "‘How to Divorce During the War’ Review: A Drama of Dual Crises",
       "summary": "",
       "date_published": "2026-08-20T20:50:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "e53af3bce83b36fa",
-      "url": "https://www.wsj.com/business/earnings/ross-stores-boosts-outlook-as-sales-climb-ab87c56b",
-      "title": "Ross Stores Boosts Outlook as Sales Climb",
-      "content_text": "Ross Stores Boosts Outlook as Sales Climb",
-      "summary": "",
-      "date_published": "2026-08-20T20:46:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "e849cb86fd6374a6",
-      "url": "https://www.wsj.com/arts-culture/film/mutiny-review-jason-stathams-die-hard-at-sea-98841d9b",
-      "title": "‘Mutiny’ Review: Jason Statham’s ‘Die Hard’ at Sea",
-      "content_text": "‘Mutiny’ Review: Jason Statham’s ‘Die Hard’ at Sea",
-      "summary": "",
-      "date_published": "2026-08-20T20:40:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "f50ea16f39d09ed1",
-      "url": "https://www.wsj.com/arts-culture/television/25-years-after-9-11-three-specials-commemorating-the-tragic-day-a2e62140",
-      "title": "25 Years After 9/11: Three Specials Commemorating the Tragic Day",
-      "content_text": "25 Years After 9/11: Three Specials Commemorating the Tragic Day",
-      "summary": "",
-      "date_published": "2026-08-20T20:33:00+00:00",
       "tags": [
         "Arts Culture"
       ]
