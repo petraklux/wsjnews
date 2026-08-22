@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "4e4767dde3a9ee85",
+      "url": "https://www.wsj.com/personal-finance/could-you-beat-a-high-schooler-on-the-new-ap-personal-finance-test-64b05f92",
+      "title": "Could You Beat a High-Schooler on the New AP Personal-Finance Test?",
+      "content_text": "Could You Beat a High-Schooler on the New AP Personal-Finance Test?",
+      "summary": "",
+      "date_published": "2026-08-22T23:00:00+00:00",
+      "tags": [
+        "Personal Finance"
+      ]
+    },
+    {
       "id": "ba5d5ad2ef974e3f",
       "url": "https://www.wsj.com/business/media/paramount-prepares-to-begin-early-settlement-talks-with-california-officials-462f68e2",
       "title": "Paramount Prepares to Begin Early Settlement Talks With California Officials",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-08-20T20:54:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "4eb04280eb4ab91f",
-      "url": "https://www.wsj.com/arts-culture/film/how-to-divorce-during-the-war-review-a-drama-of-dual-crises-c4cc5a1d",
-      "title": "‘How to Divorce During the War’ Review: A Drama of Dual Crises",
-      "content_text": "‘How to Divorce During the War’ Review: A Drama of Dual Crises",
-      "summary": "",
-      "date_published": "2026-08-20T20:50:00+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]
