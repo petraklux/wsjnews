@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "b0cdb60aac58fa27",
+      "url": "https://www.wsj.com/arts-culture/television/michael-ian-black-hairless-men-fe59b683",
+      "title": "Behold the Hairless He-Men of Summer",
+      "content_text": "Behold the Hairless He-Men of Summer",
+      "summary": "",
+      "date_published": "2026-08-22T16:00:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "e5ebdff4ce5580d5",
+      "url": "https://www.wsj.com/politics/elections/the-former-local-news-anchor-in-the-political-fight-of-her-life-d481f603",
+      "title": "The Former Local News Anchor in the Political Fight of Her Life",
+      "content_text": "The Former Local News Anchor in the Political Fight of Her Life",
+      "summary": "",
+      "date_published": "2026-08-22T16:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "92d6384b43f667d2",
       "url": "https://www.wsj.com/business/readers-share-their-stubhub-ticketing-woes-f317a3f8",
       "title": "Readers Share Their StubHub Ticketing Woes",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-20T20:20:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "20d5f3f29737c3e6",
-      "url": "https://www.wsj.com/finance/investing/stocks-slump-as-bond-yields-rise-with-crude-prices-c61f10d2",
-      "title": "Stocks Slump as Bond Yields Rise With Crude Prices",
-      "content_text": "Stocks Slump as Bond Yields Rise With Crude Prices",
-      "summary": "",
-      "date_published": "2026-08-20T20:09:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "c27b65cfaa7cdfef",
-      "url": "https://www.wsj.com/world/americas/canada-trade-official-says-tariff-deal-with-u-s-very-close-7c0d6821",
-      "title": "Canada Trade Official Says Tariff Deal With U.S. ‘Very Close’",
-      "content_text": "Canada Trade Official Says Tariff Deal With U.S. ‘Very Close’",
-      "summary": "",
-      "date_published": "2026-08-20T20:02:00+00:00",
-      "tags": [
-        "World"
       ]
     }
   ]
