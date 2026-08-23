@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "f394e09632868352",
+      "url": "https://www.wsj.com/style/fashion/some-take-on-debt-for-their-weddings-these-brides-are-making-money-d228103b",
+      "title": "Some Take On Debt for Their Weddings. These Brides Are Making Money.",
+      "content_text": "Some Take On Debt for Their Weddings. These Brides Are Making Money.",
+      "summary": "",
+      "date_published": "2026-08-23T14:00:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
       "id": "33d94e1d6b8692c2",
       "url": "https://www.wsj.com/tech/personal-tech/refurbished-phones-safety-tips-d3ca0249",
       "title": "Are Refurbished Phones Dangerous? Here’s How to Avoid the Risks",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-08-20T23:00:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "c59723f88b7c87f4",
-      "url": "https://www.wsj.com/opinion/the-art-of-the-self-deal-6cf57c5a",
-      "title": "The Art of the Self-Deal",
-      "content_text": "The Art of the Self-Deal",
-      "summary": "",
-      "date_published": "2026-08-20T22:19:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
