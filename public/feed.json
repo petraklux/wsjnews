@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "3fdd655e98101723",
+      "url": "https://www.wsj.com/business/media/california-expected-to-seek-tv-channel-sales-from-paramount-warner-91443593",
+      "title": "California Expected to Seek TV Channel Sales From Paramount-Warner",
+      "content_text": "California Expected to Seek TV Channel Sales From Paramount-Warner",
+      "summary": "",
+      "date_published": "2026-08-23T23:25:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "1a4a578bfbf97269",
+      "url": "https://www.wsj.com/business/autos/amazons-toaster-shaped-robotaxis-are-hitting-the-road-111c7b90",
+      "title": "Amazon’s Toaster-Shaped Robotaxis Are Hitting the Road",
+      "content_text": "Amazon’s Toaster-Shaped Robotaxis Are Hitting the Road",
+      "summary": "",
+      "date_published": "2026-08-23T23:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "6dc446721e7af7ce",
       "url": "https://www.wsj.com/opinion/trump-seeks-a-tariff-do-over-in-court-f73b493d",
       "title": "Trump Seeks a Tariff Do-Over in Court",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-21T09:30:00+00:00",
       "tags": [
         "Lifestyle"
-      ]
-    },
-    {
-      "id": "1d6192a2f95e3d01",
-      "url": "https://www.wsj.com/business/samsung-plans-biggest-ever-buyback-amid-ai-windfall-0cdc28d0",
-      "title": "Samsung Plans Biggest-Ever Buyback Amid AI Windfall",
-      "content_text": "Samsung Plans Biggest-Ever Buyback Amid AI Windfall",
-      "summary": "",
-      "date_published": "2026-08-21T09:18:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "b318ce20d257ba89",
-      "url": "https://www.wsj.com/us-news/education/aba-american-bar-association-law-schools-accredit-trump-education-e56f4cbc",
-      "title": "Trump Administration Attacks Bar Association’s Power to Accredit Law Schools",
-      "content_text": "Trump Administration Attacks Bar Association’s Power to Accredit Law Schools",
-      "summary": "",
-      "date_published": "2026-08-21T09:00:00+00:00",
-      "tags": [
-        "Us News"
       ]
     }
   ]
