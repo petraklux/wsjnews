@@ -13,6 +13,19 @@
       "title": "Elizabeth anne bernstein",
       "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein"
     },
+    "04daa5d08f6bb780": {
+      "dek": "",
+      "first_seen": "2026-08-23T19:29:49.046677+00:00",
+      "guid": "04daa5d08f6bb780",
+      "published": "2026-08-23T19:15:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Chicago Teachers Union Sues Its Critics",
+      "title": "The Chicago Teachers Union Sues Its Critics",
+      "url": "https://www.wsj.com/opinion/chicago-teachers-union-sues-defamation-illinois-policy-institute-764b4b1f"
+    },
     "06c4af7c2d463515": {
       "dek": "",
       "first_seen": "2026-08-21T21:56:04.366300+00:00",
@@ -64,19 +77,6 @@
       "summary": "‘Beginning Middle End’ and ‘The Maltese Version’",
       "title": "‘Beginning Middle End’ and ‘The Maltese Version’",
       "url": "https://www.wsj.com/arts-culture/books/beginning-middle-end-and-the-maltese-version-20eaa115"
-    },
-    "0e3a5b8c384af37b": {
-      "dek": "",
-      "first_seen": "2026-08-21T03:12:07.823598+00:00",
-      "guid": "0e3a5b8c384af37b",
-      "published": "2026-08-21T02:00:00+00:00",
-      "section": "World",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Is America Still Capable of Enforcing the World Order?",
-      "title": "Is America Still Capable of Enforcing the World Order?",
-      "url": "https://www.wsj.com/world/us-weapons-stockpile-d869e58a"
     },
     "10a92ea861470b13": {
       "dek": "",
@@ -364,19 +364,6 @@
       "title": "Boeing Engineers, Technical Workers Reject Four-Year Contract Offer",
       "url": "https://www.wsj.com/business/boeing-engineers-technical-workers-reject-four-year-contract-offer-1a683686"
     },
-    "2e43ac2f223912d3": {
-      "dek": "",
-      "first_seen": "2026-08-21T07:01:57.497470+00:00",
-      "guid": "2e43ac2f223912d3",
-      "published": "2026-08-21T06:27:00+00:00",
-      "section": "World",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "U.K. Government Borrowing Rose Despite Record Income Tax Revenue",
-      "title": "U.K. Government Borrowing Rose Despite Record Income Tax Revenue",
-      "url": "https://www.wsj.com/world/uk/u-k-government-borrowing-rises-despite-record-income-tax-revenues-f669841f"
-    },
     "2e65320554e1f830": {
       "dek": "",
       "first_seen": "2026-08-21T21:56:04.366300+00:00",
@@ -428,6 +415,19 @@
       "summary": "Walmart’s E-Commerce Sales Rise as Deliveries Accelerate",
       "title": "Walmart’s E-Commerce Sales Rise as Deliveries Accelerate",
       "url": "https://www.wsj.com/logistics-report/walmarts-e-commerce-sales-rise-as-deliveries-accelerate-ba2643aa"
+    },
+    "33b29ee904b583ca": {
+      "dek": "",
+      "first_seen": "2026-08-23T19:29:49.046677+00:00",
+      "guid": "33b29ee904b583ca",
+      "published": "2026-08-23T19:16:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Now California Is Coming for Your Tires",
+      "title": "Now California Is Coming for Your Tires",
+      "url": "https://www.wsj.com/opinion/california-tire-regulations-gavin-newsom-1572ba77"
     },
     "33d94e1d6b8692c2": {
       "dek": "",
@@ -532,6 +532,19 @@
       "summary": "AOC’s Craaazy Economic Theory Lives On",
       "title": "AOC’s Craaazy Economic Theory Lives On",
       "url": "https://www.wsj.com/opinion/aocs-craaazy-economic-theory-lives-on-4b866588"
+    },
+    "3c47c3d4b85fcb25": {
+      "dek": "",
+      "first_seen": "2026-08-23T19:29:49.046677+00:00",
+      "guid": "3c47c3d4b85fcb25",
+      "published": "2026-08-23T19:08:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "What a Cuban Transition Might Look Like",
+      "title": "What a Cuban Transition Might Look Like",
+      "url": "https://www.wsj.com/opinion/what-a-cuban-transition-might-look-like-f64d74b2"
     },
     "3ce84add9cae42f9": {
       "dek": "",
@@ -701,19 +714,6 @@
       "summary": "What’s News: Business & Finance",
       "title": "What’s News: Business & Finance",
       "url": "https://www.wsj.com/articles/whats-news-business-finance-4f886836"
-    },
-    "4bf275f9bdd8174c": {
-      "dek": "",
-      "first_seen": "2026-08-21T08:53:09.780184+00:00",
-      "guid": "4bf275f9bdd8174c",
-      "published": "2026-08-21T08:12:54+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "💬 Money Quote: Bessent's Band-Aid",
-      "title": "💬 Money Quote: Bessent's Band-Aid",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/-money-quote-bessent-s-band-aid-g8cMPgQn3V2Ey2DCGAe0"
     },
     "4c2ea384957dbb23": {
       "dek": "",
@@ -1105,6 +1105,19 @@
       "title": "The Most Punishing Job Market in Sports Is on an English Soccer Sideline",
       "url": "https://www.wsj.com/sports/soccer/english-premier-league-arsenal-man-city-arteta-34c99b30"
     },
+    "7a717da51455b599": {
+      "dek": "",
+      "first_seen": "2026-08-23T19:29:49.046677+00:00",
+      "guid": "7a717da51455b599",
+      "published": "2026-08-23T19:06:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Summer of ‘My Bad’",
+      "title": "The Summer of ‘My Bad’",
+      "url": "https://www.wsj.com/opinion/the-summer-of-my-bad-6dca052a"
+    },
     "7be256b9521fa8a8": {
       "dek": "",
       "first_seen": "2026-08-21T17:38:06.427398+00:00",
@@ -1352,6 +1365,19 @@
       "title": "Nvidia in Talks to Invest in Data-Center Power Developer Cloverleaf Infrastructure",
       "url": "https://www.wsj.com/business/deals/nvidia-in-talks-to-invest-in-data-center-power-developer-cloverleaf-infrastructure-ff94c556"
     },
+    "9201c2cde528c8ae": {
+      "dek": "",
+      "first_seen": "2026-08-23T19:29:49.046677+00:00",
+      "guid": "9201c2cde528c8ae",
+      "published": "2026-08-23T19:12:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Ukraine Celebrates Independence Day",
+      "title": "Ukraine Celebrates Independence Day",
+      "url": "https://www.wsj.com/opinion/ukraine-celebrates-independence-day-e32b4d47"
+    },
     "92d6384b43f667d2": {
       "dek": "",
       "first_seen": "2026-08-22T15:30:46.413918+00:00",
@@ -1495,19 +1521,6 @@
       "title": "AI’s Next Big Leap Is Into the Real World",
       "url": "https://www.wsj.com/tech/ai/ai-world-models-robotics-33ab46cb"
     },
-    "9c8b70bcd4153816": {
-      "dek": "",
-      "first_seen": "2026-08-21T07:01:57.497470+00:00",
-      "guid": "9c8b70bcd4153816",
-      "published": "2026-08-21T06:34:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Monte dei Paschi Makes $40 Billion Move to Buy Italian Peers Banco BPM, Banca Generali",
-      "title": "Monte dei Paschi Makes $40 Billion Move to Buy Italian Peers Banco BPM, Banca Generali",
-      "url": "https://www.wsj.com/business/deals/monte-dei-paschi-makes-40-billion-move-to-buy-italian-peers-banco-bpm-banca-generali-711620fd"
-    },
     "9d4dabbcdb3ab968": {
       "dek": "",
       "first_seen": "2026-08-22T13:39:02.156651+00:00",
@@ -1546,19 +1559,6 @@
       "summary": "Trump Has a Beef With Tariffs",
       "title": "Trump Has a Beef With Tariffs",
       "url": "https://www.wsj.com/opinion/donald-trump-lifts-beef-tariffs-trade-imports-d3048c6a"
-    },
-    "a09d5485e3f9d742": {
-      "dek": "",
-      "first_seen": "2026-08-21T04:19:14.528708+00:00",
-      "guid": "a09d5485e3f9d742",
-      "published": "2026-08-21T04:00:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Pepper…and Salt",
-      "title": "Pepper…and Salt",
-      "url": "https://www.wsj.com/opinion/pepperand-salt-4acb2348"
     },
     "a23b399a34f8d0e1": {
       "dek": "",
@@ -1650,6 +1650,19 @@
       "summary": "Behold the Hairless He-Men of Summer",
       "title": "Behold the Hairless He-Men of Summer",
       "url": "https://www.wsj.com/arts-culture/television/michael-ian-black-hairless-men-fe59b683"
+    },
+    "b11b743d2e1b4dd5": {
+      "dek": "",
+      "first_seen": "2026-08-23T19:29:49.046677+00:00",
+      "guid": "b11b743d2e1b4dd5",
+      "published": "2026-08-23T19:09:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "An Antisemitism Task Force Whistleblower Refutes Herself",
+      "title": "An Antisemitism Task Force Whistleblower Refutes Herself",
+      "url": "https://www.wsj.com/opinion/an-antisemitism-task-force-whistleblower-refutes-herself-59dc4c98"
     },
     "b1c2a8bffad323ff": {
       "dek": "",
@@ -2041,6 +2054,19 @@
       "title": "Contractors and Chefs Are Becoming Influencers—With Their Clients’ Permission",
       "url": "https://www.wsj.com/style/contractors-chefs-becoming-influencers-with-clients-permission-c0b31fb6"
     },
+    "d53eb395a5d6fc25": {
+      "dek": "",
+      "first_seen": "2026-08-23T19:29:49.046677+00:00",
+      "guid": "d53eb395a5d6fc25",
+      "published": "2026-08-23T19:13:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Ukraine’s Next Missile Defense: Starlink?",
+      "title": "Ukraine’s Next Missile Defense: Starlink?",
+      "url": "https://www.wsj.com/opinion/russia-ukraine-starlink-missile-defense-vladimir-putin-47b4ffbb"
+    },
     "d7261f661b5ed3c3": {
       "dek": "",
       "first_seen": "2026-08-23T16:36:40.507127+00:00",
@@ -2249,19 +2275,6 @@
       "title": "The Former Local News Anchor in the Political Fight of Her Life",
       "url": "https://www.wsj.com/politics/elections/the-former-local-news-anchor-in-the-political-fight-of-her-life-d481f603"
     },
-    "e7a1df9b9a151e8d": {
-      "dek": "",
-      "first_seen": "2026-08-21T06:01:28.244672+00:00",
-      "guid": "e7a1df9b9a151e8d",
-      "published": "2026-08-21T05:56:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Hyundai’s Union Launches First Full-Day Strike in Decade",
-      "title": "Hyundai’s Union Launches First Full-Day Strike in Decade",
-      "url": "https://www.wsj.com/business/autos/hyundais-union-launches-first-full-day-strike-in-decade-495086ac"
-    },
     "e7a7987822360431": {
       "dek": "",
       "first_seen": "2026-08-22T10:33:52.473134+00:00",
@@ -2287,19 +2300,6 @@
       "summary": "The Wild Week When Scott Bessent Was Schooled by the Bond Market",
       "title": "The Wild Week When Scott Bessent Was Schooled by the Bond Market",
       "url": "https://www.wsj.com/finance/investing/the-wild-week-when-scott-bessent-was-schooled-by-the-bond-market-a244aca2"
-    },
-    "e820db2a911c9b15": {
-      "dek": "",
-      "first_seen": "2026-08-21T03:12:07.823598+00:00",
-      "guid": "e820db2a911c9b15",
-      "published": "2026-08-21T02:44:00+00:00",
-      "section": "World",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Hong Kong Court Convicts Activists Who Organized Tiananmen Vigils",
-      "title": "Hong Kong Court Convicts Activists Who Organized Tiananmen Vigils",
-      "url": "https://www.wsj.com/world/china/hong-kong-court-convicts-activists-who-organized-tiananmen-vigils-39d49bfa"
     },
     "e9257dd25d241573": {
       "dek": "",
@@ -2404,19 +2404,6 @@
       "summary": "TERA Puts an Indian Tribe in Charge of Its Energy",
       "title": "TERA Puts an Indian Tribe in Charge of Its Energy",
       "url": "https://www.wsj.com/opinion/tera-puts-an-indian-tribe-in-charge-of-its-energy-7a0e9001"
-    },
-    "ef4b28a70fe2590c": {
-      "dek": "",
-      "first_seen": "2026-08-21T08:53:09.780184+00:00",
-      "guid": "ef4b28a70fe2590c",
-      "published": "2026-08-21T08:05:03+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Thursday Recap: Stocks Slump as Yields Rise With Crude Prices",
-      "title": "Thursday Recap: Stocks Slump as Yields Rise With Crude Prices",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/thursday-recap-stocks-slump-as-yields-rise-with-crude-prices-lHeWHNpenPhVHpteS1r4"
     },
     "f0c90a68b1cb745c": {
       "dek": "",
@@ -2535,6 +2522,19 @@
       "title": "U.S., Canada Head Toward Trade War",
       "url": "https://www.wsj.com/articles/u-s-canada-head-toward-trade-war-ec3589c0"
     },
+    "fbbdf766306573ab": {
+      "dek": "",
+      "first_seen": "2026-08-23T19:29:49.046677+00:00",
+      "guid": "fbbdf766306573ab",
+      "published": "2026-08-23T19:19:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Dumbest Trade War Revisited",
+      "title": "The Dumbest Trade War Revisited",
+      "url": "https://www.wsj.com/opinion/the-dumbest-trade-war-revisited-57c9fe81"
+    },
     "fd3f62e3a385d5b4": {
       "dek": "",
       "first_seen": "2026-08-21T11:35:18.192849+00:00",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-4d046ab3"
     }
   },
-  "updated": "2026-08-23T18:43:05.746354+00:00"
+  "updated": "2026-08-23T19:29:49.065631+00:00"
 }
