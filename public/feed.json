@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "40f7452200b2dfe7",
+      "url": "https://www.wsj.com/lifestyle/travel/genoa-italy-travel-guide-eb6e9482",
+      "title": "Why a Grand Tour of Italy Should Include a Stop in Genoa",
+      "content_text": "Why a Grand Tour of Italy Should Include a Stop in Genoa",
+      "summary": "",
+      "date_published": "2026-08-23T15:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "71405adf1c5ae8a7",
+      "url": "https://www.wsj.com/us-news/147-laps-around-the-mall-washington-hosts-freedom-250-street-race-2af04b92",
+      "title": "147 Laps Around the Mall: Washington Hosts Freedom 250 Street Race",
+      "content_text": "147 Laps Around the Mall: Washington Hosts Freedom 250 Street Race",
+      "summary": "",
+      "date_published": "2026-08-23T15:00:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
       "id": "eb1e6563cba2a4dd",
       "url": "https://www.wsj.com/tech/ai/data-center-disenchantment-d63ea0b2",
       "title": "Data-Center Disenchantment",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-21T00:00:00+00:00",
       "tags": [
         "Politics"
-      ]
-    },
-    {
-      "id": "7282b0c83f4e77ea",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-likely-technical-correction-bee9638e",
-      "title": "Oil Futures Fall on Likely Technical Correction",
-      "content_text": "Oil Futures Fall on Likely Technical Correction",
-      "summary": "",
-      "date_published": "2026-08-20T23:51:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "a888b10813d2d716",
-      "url": "https://www.wsj.com/economy/japan-inflation-picks-up-as-rate-boost-bets-firm-1d63fed4",
-      "title": "Japan Inflation Picks Up as Rate-Boost Bets Firm",
-      "content_text": "Japan Inflation Picks Up as Rate-Boost Bets Firm",
-      "summary": "",
-      "date_published": "2026-08-20T23:48:00+00:00",
-      "tags": [
-        "Economy"
       ]
     }
   ]
