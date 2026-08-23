@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "f860d76e47ee1302",
+      "url": "https://www.wsj.com/articles/u-s-canada-head-toward-trade-war-ec3589c0",
+      "title": "U.S., Canada Head Toward Trade War",
+      "content_text": "U.S., Canada Head Toward Trade War",
+      "summary": "",
+      "date_published": "2026-08-23T15:46:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "40f7452200b2dfe7",
       "url": "https://www.wsj.com/lifestyle/travel/genoa-italy-travel-guide-eb6e9482",
       "title": "Why a Grand Tour of Italy Should Include a Stop in Genoa",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-08-21T00:00:00+00:00",
       "tags": [
         "Real Estate"
-      ]
-    },
-    {
-      "id": "eaa74215eac0d366",
-      "url": "https://www.wsj.com/politics/policy/politicians-who-once-championed-data-centers-are-now-bashing-them-c172d4cb",
-      "title": "Politicians Who Once Championed Data Centers Are Now Bashing Them",
-      "content_text": "Politicians Who Once Championed Data Centers Are Now Bashing Them",
-      "summary": "",
-      "date_published": "2026-08-21T00:00:00+00:00",
-      "tags": [
-        "Politics"
       ]
     }
   ]
