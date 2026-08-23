@@ -6,17 +6,6 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "f453524a4ce68511",
-      "url": "https://www.wsj.com/opinion/the-brave-witness-of-chow-hang-tung-6c04b82b",
-      "title": "The Brave Witness of Chow Hang-tung",
-      "content_text": "The Brave Witness of Chow Hang-tung",
-      "summary": "",
-      "date_published": "2026-08-23T16:30:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
       "id": "3b3a7e28b4543108",
       "url": "https://www.wsj.com/opinion/aocs-craaazy-economic-theory-lives-on-4b866588",
       "title": "AOC’s Craaazy Economic Theory Lives On",
@@ -28,12 +17,12 @@
       ]
     },
     {
-      "id": "eabb7a7df570b499",
-      "url": "https://www.wsj.com/opinion/the-syria-disaster-washington-helped-create-29fe0b89",
-      "title": "The Syria Disaster Washington Helped Create",
-      "content_text": "The Syria Disaster Washington Helped Create",
+      "id": "f453524a4ce68511",
+      "url": "https://www.wsj.com/opinion/the-brave-witness-of-chow-hang-tung-6c04b82b",
+      "title": "The Brave Witness of Chow Hang-tung",
+      "content_text": "The Brave Witness of Chow Hang-tung",
       "summary": "",
-      "date_published": "2026-08-23T16:27:00+00:00",
+      "date_published": "2026-08-23T16:30:00+00:00",
       "tags": [
         "Opinion"
       ]
@@ -43,6 +32,17 @@
       "url": "https://www.wsj.com/opinion/head-starts-future-shouldnt-ignore-its-past-dd1f1427",
       "title": "Head Start’s Future Shouldn’t Ignore Its Past",
       "content_text": "Head Start’s Future Shouldn’t Ignore Its Past",
+      "summary": "",
+      "date_published": "2026-08-23T16:27:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "eabb7a7df570b499",
+      "url": "https://www.wsj.com/opinion/the-syria-disaster-washington-helped-create-29fe0b89",
+      "title": "The Syria Disaster Washington Helped Create",
+      "content_text": "The Syria Disaster Washington Helped Create",
       "summary": "",
       "date_published": "2026-08-23T16:27:00+00:00",
       "tags": [
@@ -94,17 +94,6 @@
       ]
     },
     {
-      "id": "d5329ca374c75932",
-      "url": "https://www.wsj.com/style/contractors-chefs-becoming-influencers-with-clients-permission-c0b31fb6",
-      "title": "Contractors and Chefs Are Becoming Influencers—With Their Clients’ Permission",
-      "content_text": "Contractors and Chefs Are Becoming Influencers—With Their Clients’ Permission",
-      "summary": "",
-      "date_published": "2026-08-23T16:00:00+00:00",
-      "tags": [
-        "Style"
-      ]
-    },
-    {
       "id": "cf77cd3a26fd865d",
       "url": "https://www.wsj.com/us-news/boston-taking-extreme-measures-to-combat-underage-drinking-96dd600e",
       "title": "Boston Taking Extreme Measures to Combat Underage Drinking",
@@ -113,6 +102,17 @@
       "date_published": "2026-08-23T16:00:00+00:00",
       "tags": [
         "Us News"
+      ]
+    },
+    {
+      "id": "d5329ca374c75932",
+      "url": "https://www.wsj.com/style/contractors-chefs-becoming-influencers-with-clients-permission-c0b31fb6",
+      "title": "Contractors and Chefs Are Becoming Influencers—With Their Clients’ Permission",
+      "content_text": "Contractors and Chefs Are Becoming Influencers—With Their Clients’ Permission",
+      "summary": "",
+      "date_published": "2026-08-23T16:00:00+00:00",
+      "tags": [
+        "Style"
       ]
     },
     {
