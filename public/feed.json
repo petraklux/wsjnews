@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "6dc446721e7af7ce",
+      "url": "https://www.wsj.com/opinion/trump-seeks-a-tariff-do-over-in-court-f73b493d",
+      "title": "Trump Seeks a Tariff Do-Over in Court",
+      "content_text": "Trump Seeks a Tariff Do-Over in Court",
+      "summary": "",
+      "date_published": "2026-08-23T22:41:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
       "id": "a876724058f71226",
       "url": "https://www.wsj.com/finance/mark-walter-lieutenant-was-key-to-dodgers-owners-complex-lending-machine-19227374",
       "title": "Mark Walter Lieutenant Was Key to Dodgers Owner’s Complex Lending Machine",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-08-21T09:00:00+00:00",
       "tags": [
         "Us News"
-      ]
-    },
-    {
-      "id": "5cd26cbe43ae10a2",
-      "url": "https://www.wsj.com/world/asia/russian-missile-drills-stoke-tensions-with-japan-f0c62a31",
-      "title": "Russian Missile Drills Stoke Tensions With Japan",
-      "content_text": "Russian Missile Drills Stoke Tensions With Japan",
-      "summary": "",
-      "date_published": "2026-08-21T08:49:00+00:00",
-      "tags": [
-        "World"
       ]
     }
   ]
