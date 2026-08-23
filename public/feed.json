@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "1d2b277293feeb5e",
+      "url": "https://www.wsj.com/finance/investing/we-went-to-wall-streets-exclusive-wilderness-camp-everyone-was-spooked-by-ai-e16dbe10",
+      "title": "We Went to Wall Street’s Exclusive Wilderness Camp. Everyone Was Spooked by AI.",
+      "content_text": "We Went to Wall Street’s Exclusive Wilderness Camp. Everyone Was Spooked by AI.",
+      "summary": "",
+      "date_published": "2026-08-23T01:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "494dfb658150a4b0",
+      "url": "https://www.wsj.com/business/retail/brown-forman-heirs-feud-jack-daniels-takeover-4ecdfba9",
+      "title": "Heirs to the Jack Daniel’s Fortune Are Fending Off a Takeover—and a Rogue Cousin",
+      "content_text": "Heirs to the Jack Daniel’s Fortune Are Fending Off a Takeover—and a Rogue Cousin",
+      "summary": "",
+      "date_published": "2026-08-23T01:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "d86076bf45ffbdf0",
+      "url": "https://www.wsj.com/finance/investing/trump-discloses-1-000-stock-trades-in-june-2e5b0773",
+      "title": "Trump Discloses 1,000 Stock Trades in June",
+      "content_text": "Trump Discloses 1,000 Stock Trades in June",
+      "summary": "",
+      "date_published": "2026-08-23T00:41:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "b4a33797a6f01626",
+      "url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc",
+      "title": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI",
+      "content_text": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI",
+      "summary": "",
+      "date_published": "2026-08-23T00:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
       "id": "4e4767dde3a9ee85",
       "url": "https://www.wsj.com/personal-finance/could-you-beat-a-high-schooler-on-the-new-ap-personal-finance-test-64b05f92",
       "title": "Could You Beat a High-Schooler on the New AP Personal-Finance Test?",
@@ -2159,50 +2203,6 @@
       "date_published": "2026-08-20T21:28:00+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "75f2ed9d80380da1",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/rising-deficits-trigger-a-credit-card-penalty-on-u-s-debt-lW09k7QiXABZcp5tiaS7",
-      "title": "Rising Deficits Trigger a ‘Credit-Card Penalty’ on U.S. Debt",
-      "content_text": "Rising Deficits Trigger a ‘Credit-Card Penalty’ on U.S. Debt",
-      "summary": "",
-      "date_published": "2026-08-20T21:09:04+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "52c9f9cd498284d5",
-      "url": "https://www.wsj.com/opinion/world-libertys-stablecoin-becomes-a-partisan-target-12dbbfa0",
-      "title": "World Liberty’s Stablecoin Becomes a Partisan Target",
-      "content_text": "World Liberty’s Stablecoin Becomes a Partisan Target",
-      "summary": "",
-      "date_published": "2026-08-20T21:09:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "fe60dbec7e92c5fd",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/triple-threat-why-stocks-are-reeling-today-eRSrfGLBjikBZ1XujAMK",
-      "title": "Triple Threat: Why Stocks Are Reeling Today",
-      "content_text": "Triple Threat: Why Stocks Are Reeling Today",
-      "summary": "",
-      "date_published": "2026-08-20T21:00:01+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "0d130f1b6a6cf212",
-      "url": "https://www.wsj.com/finance/investing/private-credits-next-big-thing-is-1-trillion-in-british-pensions-13b76f04",
-      "title": "Private Credit’s Next Big Thing Is $1 Trillion in British Pensions",
-      "content_text": "Private Credit’s Next Big Thing Is $1 Trillion in British Pensions",
-      "summary": "",
-      "date_published": "2026-08-20T20:54:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]
