@@ -416,19 +416,6 @@
       "title": "Army Secretary Expected To Step Down By Year’s End",
       "url": "https://www.wsj.com/politics/national-security/army-secretary-expected-to-step-down-by-years-end-d7477efb"
     },
-    "33619aeec3c35a2e": {
-      "dek": "",
-      "first_seen": "2026-08-20T23:55:55.029618+00:00",
-      "guid": "33619aeec3c35a2e",
-      "published": "2026-08-20T23:40:00+00:00",
-      "section": "Politics",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Trump Talks to Michael Cohen, His Fixer-Turned-Enemy",
-      "title": "Trump Talks to Michael Cohen, His Fixer-Turned-Enemy",
-      "url": "https://www.wsj.com/politics/policy/trump-talks-to-michael-cohen-his-fixer-turned-enemy-98ff00d4"
-    },
     "3379aad6ee8a6d60": {
       "dek": "",
       "first_seen": "2026-08-21T11:35:18.192849+00:00",
@@ -1469,6 +1456,19 @@
       "title": "Trump’s Iran Credibility Problem",
       "url": "https://www.wsj.com/opinion/donald-trump-iran-economic-pressure-sanctions-u-a-e-china-f2107bc8"
     },
+    "98a929c56eda8335": {
+      "dek": "",
+      "first_seen": "2026-08-23T14:55:23.328551+00:00",
+      "guid": "98a929c56eda8335",
+      "published": "2026-08-23T14:47:00+00:00",
+      "section": "Arts Culture",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "‘On the Record’ Review: The Sound of America",
+      "title": "‘On the Record’ Review: The Sound of America",
+      "url": "https://www.wsj.com/arts-culture/books/on-the-record-review-the-sound-of-america-52d190ce"
+    },
     "991fd2235aa162a9": {
       "dek": "",
       "first_seen": "2026-08-23T09:37:16.619024+00:00",
@@ -2366,6 +2366,19 @@
       "title": "Politicians Turn Against Data Centers as Anger Over AI Spreads",
       "url": "https://www.wsj.com/articles/politicians-turn-against-data-centers-as-anger-over-ai-spreads-8ddce345"
     },
+    "eb1e6563cba2a4dd": {
+      "dek": "",
+      "first_seen": "2026-08-23T14:55:23.328551+00:00",
+      "guid": "eb1e6563cba2a4dd",
+      "published": "2026-08-23T14:50:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Data-Center Disenchantment",
+      "title": "Data-Center Disenchantment",
+      "url": "https://www.wsj.com/tech/ai/data-center-disenchantment-d63ea0b2"
+    },
     "eb54221bacc9c3fd": {
       "dek": "",
       "first_seen": "2026-08-23T03:11:59.617143+00:00",
@@ -2561,19 +2574,6 @@
       "title": "ABBA Made Money, Money, Money",
       "url": "https://www.wsj.com/opinion/abba-made-money-money-money-947677fa"
     },
-    "fe03a8b1729386fb": {
-      "dek": "",
-      "first_seen": "2026-08-20T23:34:52.747631+00:00",
-      "guid": "fe03a8b1729386fb",
-      "published": "2026-08-20T23:00:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Inside the Collapse of a MAGA Marketplace Backed by Trump Jr.",
-      "title": "Inside the Collapse of a MAGA Marketplace Backed by Trump Jr.",
-      "url": "https://www.wsj.com/business/inside-the-collapse-of-a-maga-marketplace-backed-by-trump-jr-63d7896b"
-    },
     "fe3f9f453608c179": {
       "dek": "",
       "first_seen": "2026-08-21T19:51:42.340399+00:00",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-4d046ab3"
     }
   },
-  "updated": "2026-08-23T14:33:29.751994+00:00"
+  "updated": "2026-08-23T14:55:23.347303+00:00"
 }

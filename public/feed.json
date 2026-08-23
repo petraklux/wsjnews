@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "eb1e6563cba2a4dd",
+      "url": "https://www.wsj.com/tech/ai/data-center-disenchantment-d63ea0b2",
+      "title": "Data-Center Disenchantment",
+      "content_text": "Data-Center Disenchantment",
+      "summary": "",
+      "date_published": "2026-08-23T14:50:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "98a929c56eda8335",
+      "url": "https://www.wsj.com/arts-culture/books/on-the-record-review-the-sound-of-america-52d190ce",
+      "title": "‘On the Record’ Review: The Sound of America",
+      "content_text": "‘On the Record’ Review: The Sound of America",
+      "summary": "",
+      "date_published": "2026-08-23T14:47:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
       "id": "f394e09632868352",
       "url": "https://www.wsj.com/style/fashion/some-take-on-debt-for-their-weddings-these-brides-are-making-money-d228103b",
       "title": "Some Take On Debt for Their Weddings. These Brides Are Making Money.",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-20T23:48:00+00:00",
       "tags": [
         "Economy"
-      ]
-    },
-    {
-      "id": "33619aeec3c35a2e",
-      "url": "https://www.wsj.com/politics/policy/trump-talks-to-michael-cohen-his-fixer-turned-enemy-98ff00d4",
-      "title": "Trump Talks to Michael Cohen, His Fixer-Turned-Enemy",
-      "content_text": "Trump Talks to Michael Cohen, His Fixer-Turned-Enemy",
-      "summary": "",
-      "date_published": "2026-08-20T23:40:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "fe03a8b1729386fb",
-      "url": "https://www.wsj.com/business/inside-the-collapse-of-a-maga-marketplace-backed-by-trump-jr-63d7896b",
-      "title": "Inside the Collapse of a MAGA Marketplace Backed by Trump Jr.",
-      "content_text": "Inside the Collapse of a MAGA Marketplace Backed by Trump Jr.",
-      "summary": "",
-      "date_published": "2026-08-20T23:00:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
