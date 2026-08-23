@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "a04ab07d0da387bf",
+      "url": "https://www.wsj.com/us-news/climate-environment/wildfire-nears-reno-prompting-call-for-tens-of-thousands-to-evacuate-52c8a952",
+      "title": "Wildfire Nears Reno, Prompting Call for Tens of Thousands to Evacuate",
+      "content_text": "Wildfire Nears Reno, Prompting Call for Tens of Thousands to Evacuate",
+      "summary": "",
+      "date_published": "2026-08-23T20:51:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
       "id": "fbbdf766306573ab",
       "url": "https://www.wsj.com/opinion/the-dumbest-trade-war-revisited-57c9fe81",
       "title": "The Dumbest Trade War Revisited",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-08-21T08:34:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "5a6deff34b7cd634",
-      "url": "https://www.wsj.com/economy/global/europe-asia-see-pickup-in-business-activity-despite-headwinds-ddf92bb4",
-      "title": "Europe, Asia See Pickup in Business Activity Despite Headwinds",
-      "content_text": "Europe, Asia See Pickup in Business Activity Despite Headwinds",
-      "summary": "",
-      "date_published": "2026-08-21T08:33:00+00:00",
-      "tags": [
-        "Economy"
       ]
     }
   ]

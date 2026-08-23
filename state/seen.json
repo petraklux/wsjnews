@@ -871,19 +871,6 @@
       "title": "Pepper…and Salt",
       "url": "https://www.wsj.com/opinion/pepperand-salt-437d6f63"
     },
-    "5a6deff34b7cd634": {
-      "dek": "",
-      "first_seen": "2026-08-21T08:53:09.780184+00:00",
-      "guid": "5a6deff34b7cd634",
-      "published": "2026-08-21T08:33:00+00:00",
-      "section": "Economy",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Europe, Asia See Pickup in Business Activity Despite Headwinds",
-      "title": "Europe, Asia See Pickup in Business Activity Despite Headwinds",
-      "url": "https://www.wsj.com/economy/global/europe-asia-see-pickup-in-business-activity-despite-headwinds-ddf92bb4"
-    },
     "5a885d497fa8a917": {
       "dek": "",
       "first_seen": "2026-08-21T14:47:03.348124+00:00",
@@ -1559,6 +1546,19 @@
       "summary": "Trump Has a Beef With Tariffs",
       "title": "Trump Has a Beef With Tariffs",
       "url": "https://www.wsj.com/opinion/donald-trump-lifts-beef-tariffs-trade-imports-d3048c6a"
+    },
+    "a04ab07d0da387bf": {
+      "dek": "",
+      "first_seen": "2026-08-23T20:55:11.165884+00:00",
+      "guid": "a04ab07d0da387bf",
+      "published": "2026-08-23T20:51:00+00:00",
+      "section": "Us News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Wildfire Nears Reno, Prompting Call for Tens of Thousands to Evacuate",
+      "title": "Wildfire Nears Reno, Prompting Call for Tens of Thousands to Evacuate",
+      "url": "https://www.wsj.com/us-news/climate-environment/wildfire-nears-reno-prompting-call-for-tens-of-thousands-to-evacuate-52c8a952"
     },
     "a23b399a34f8d0e1": {
       "dek": "",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-4d046ab3"
     }
   },
-  "updated": "2026-08-23T20:34:15.759519+00:00"
+  "updated": "2026-08-23T20:55:11.190506+00:00"
 }
