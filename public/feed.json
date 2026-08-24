@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "1f060834f0b424e0",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-as-traders-assess-u-s-measures-against-iran-2291fac0",
+      "title": "Oil Edges Higher as Traders Assess U.S. Measures Against Iran",
+      "content_text": "Oil Edges Higher as Traders Assess U.S. Measures Against Iran",
+      "summary": "",
+      "date_published": "2026-08-24T23:46:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "263b612ebabcbf99",
       "url": "https://www.wsj.com/politics/elections/trump-aligned-group-opens-its-wallet-to-boost-darline-graham-in-south-carolina-f054410f",
       "title": "Trump-Aligned Group Opens Its Wallet to Boost Darline Graham in South Carolina",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-08-22T09:30:00+00:00",
       "tags": [
         "Lifestyle"
-      ]
-    },
-    {
-      "id": "9b22b6d2bf4546e4",
-      "url": "https://www.wsj.com/health/wellness/is-your-therapist-biased-personal-agendas-are-creeping-into-the-therapy-room-202e5a80",
-      "title": "Is Your Therapist Biased? Personal Agendas Are Creeping Into the Therapy Room",
-      "content_text": "Is Your Therapist Biased? Personal Agendas Are Creeping Into the Therapy Room",
-      "summary": "",
-      "date_published": "2026-08-22T09:30:00+00:00",
-      "tags": [
-        "Health"
       ]
     }
   ]
