@@ -6,6 +6,39 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "f084cff0c1b909fe",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-47fa8dfc",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-08-24T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "f854c677978ae1af",
+      "url": "https://www.wsj.com/articles/whats-news-worldwide-ca6b2cec",
+      "title": "What’s News: Worldwide",
+      "content_text": "What’s News: Worldwide",
+      "summary": "",
+      "date_published": "2026-08-24T03:40:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "54289097e37e7086",
+      "url": "https://www.wsj.com/articles/whats-news-business-finance-139a54e8",
+      "title": "What’s News: Business & Finance",
+      "content_text": "What’s News: Business & Finance",
+      "summary": "",
+      "date_published": "2026-08-24T03:38:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "ca1018318905c81e",
       "url": "https://www.wsj.com/world/europe/europe-chastised-trumps-climate-rollback-now-its-delaying-its-own-green-goals-835b6724",
       "title": "Europe Chastised Trump’s Climate Rollback. Now It’s Delaying Its Own Green Goals.",
@@ -2170,39 +2203,6 @@
       "date_published": "2026-08-21T10:48:00+00:00",
       "tags": [
         "Politics"
-      ]
-    },
-    {
-      "id": "fd3f62e3a385d5b4",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-e63b598b",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "content_text": "Energy & Utilities Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-21T10:46:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "8bcd57eaa8f6efa0",
-      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-23186b64",
-      "title": "Health Care Roundup: Market Talk",
-      "content_text": "Health Care Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-21T10:43:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "ff42d5d72708ca02",
-      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-4d046ab3",
-      "title": "Financial Services Roundup: Market Talk",
-      "content_text": "Financial Services Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-21T10:37:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]

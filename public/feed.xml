@@ -8,8 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 24 Aug 2026 03:12:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 04:24:54 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Pepper…and Salt</title>
+      <link>https://www.wsj.com/opinion/pepperand-salt-47fa8dfc</link>
+      <description>&lt;p&gt;Pepper…and Salt&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/opinion/pepperand-salt-47fa8dfc"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">f084cff0c1b909fe</guid>
+      <category>Opinion</category>
+      <pubDate>Mon, 24 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s News: Worldwide</title>
+      <link>https://www.wsj.com/articles/whats-news-worldwide-ca6b2cec</link>
+      <description>&lt;p&gt;What’s News: Worldwide&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/articles/whats-news-worldwide-ca6b2cec"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">f854c677978ae1af</guid>
+      <category>Front Page</category>
+      <pubDate>Mon, 24 Aug 2026 03:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s News: Business &amp; Finance</title>
+      <link>https://www.wsj.com/articles/whats-news-business-finance-139a54e8</link>
+      <description>&lt;p&gt;What’s News: Business &amp; Finance&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/articles/whats-news-business-finance-139a54e8"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">54289097e37e7086</guid>
+      <category>Front Page</category>
+      <pubDate>Mon, 24 Aug 2026 03:38:00 +0000</pubDate>
+    </item>
     <item>
       <title>Europe Chastised Trump’s Climate Rollback. Now It’s Delaying Its Own Green Goals.</title>
       <link>https://www.wsj.com/world/europe/europe-chastised-trumps-climate-rollback-now-its-delaying-its-own-green-goals-835b6724</link>
@@ -1585,30 +1609,6 @@
       <guid isPermaLink="false">d85b89de8850759d</guid>
       <category>Politics</category>
       <pubDate>Fri, 21 Aug 2026 10:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Energy &amp; Utilities Roundup: Market Talk</title>
-      <link>https://www.wsj.com/business/energy-utilities-roundup-market-talk-e63b598b</link>
-      <description>&lt;p&gt;Energy &amp; Utilities Roundup: Market Talk&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/business/energy-utilities-roundup-market-talk-e63b598b"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">fd3f62e3a385d5b4</guid>
-      <category>Business</category>
-      <pubDate>Fri, 21 Aug 2026 10:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Health Care Roundup: Market Talk</title>
-      <link>https://www.wsj.com/business/health-care-roundup-market-talk-23186b64</link>
-      <description>&lt;p&gt;Health Care Roundup: Market Talk&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/business/health-care-roundup-market-talk-23186b64"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">8bcd57eaa8f6efa0</guid>
-      <category>Business</category>
-      <pubDate>Fri, 21 Aug 2026 10:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Financial Services Roundup: Market Talk</title>
-      <link>https://www.wsj.com/business/financial-services-roundup-market-talk-4d046ab3</link>
-      <description>&lt;p&gt;Financial Services Roundup: Market Talk&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/business/financial-services-roundup-market-talk-4d046ab3"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">ff42d5d72708ca02</guid>
-      <category>Business</category>
-      <pubDate>Fri, 21 Aug 2026 10:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
