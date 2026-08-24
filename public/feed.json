@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "e67ad03b72b3ada1",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/-money-quote-bessent-hints-at-sweeping-sanctions-in-bid-to-squeeze-iran-3kyv8HgYmvOO0fhqKqXd",
+      "title": "💬 Money Quote: Bessent Hints at Sweeping Sanctions in Bid to Squeeze Iran",
+      "content_text": "💬 Money Quote: Bessent Hints at Sweeping Sanctions in Bid to Squeeze Iran",
+      "summary": "",
+      "date_published": "2026-08-24T17:29:13+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "ba27469ad6386219",
+      "url": "https://www.wsj.com/finance/banking/canadas-big-banks-expected-to-log-another-strong-quarter-while-valuations-stretched-0eaa08bc",
+      "title": "Canada’s Big Banks Expected to Log Another Strong Quarter While Valuations Stretched",
+      "content_text": "Canada’s Big Banks Expected to Log Another Strong Quarter While Valuations Stretched",
+      "summary": "",
+      "date_published": "2026-08-24T17:27:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "de19ddca58e84a32",
+      "url": "https://www.wsj.com/business/media/washington-post-ordered-to-rehire-columnist-karen-attiah-84c8ac94",
+      "title": "Washington Post Ordered to Rehire Columnist Karen Attiah",
+      "content_text": "Washington Post Ordered to Rehire Columnist Karen Attiah",
+      "summary": "",
+      "date_published": "2026-08-24T17:08:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "d2197355d2142e8c",
+      "url": "https://www.wsj.com/politics/policy/government-proposes-new-six-figure-fee-for-h1-b-visas-a0da2d01",
+      "title": "Government Proposes New Six-Figure Fee for H1-B Visas",
+      "content_text": "Government Proposes New Six-Figure Fee for H1-B Visas",
+      "summary": "",
+      "date_published": "2026-08-24T16:50:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "781a90eaacf045a1",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/chicago-fed-activity-index-pulls-back-in-july-pOVyGwO6XgFLFUr5XG4w",
       "title": "Chicago Fed Activity Index Pulls Back in July",
@@ -2159,50 +2203,6 @@
       "date_published": "2026-08-21T20:43:00+00:00",
       "tags": [
         "Politics"
-      ]
-    },
-    {
-      "id": "0b0f2ea3f2b89ad0",
-      "url": "https://www.wsj.com/arts-culture/music/as-tupac-shakurs-murder-trial-continues-why-the-hip-hop-legends-music-endures-5aedfa71",
-      "title": "As Tupac Shakur’s Murder Trial Continues, Why the Hip-Hop Legend’s Music Endures",
-      "content_text": "As Tupac Shakur’s Murder Trial Continues, Why the Hip-Hop Legend’s Music Endures",
-      "summary": "",
-      "date_published": "2026-08-21T20:34:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "e3a913ea82f56ece",
-      "url": "https://www.wsj.com/finance/investing/bond-yields-rise-despite-treasury-efforts-to-curb-borrowing-costs-8aed2b0f",
-      "title": "Bond Yields Rise Despite Treasury Efforts to Curb Borrowing Costs",
-      "content_text": "Bond Yields Rise Despite Treasury Efforts to Curb Borrowing Costs",
-      "summary": "",
-      "date_published": "2026-08-21T20:27:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "8a48c16453aa2ccb",
-      "url": "https://www.wsj.com/opinion/the-lakers-are-up-trump-is-down-1c8e1f25",
-      "title": "The Lakers Are Up, Trump Is Down",
-      "content_text": "The Lakers Are Up, Trump Is Down",
-      "summary": "",
-      "date_published": "2026-08-21T20:19:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "6ad8730d6f2e7edc",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/one-great-chart-the-indexing-gorilla-ifBbAiE4M6aqtVb1rA9P",
-      "title": "One Great Chart: The Indexing Gorilla",
-      "content_text": "One Great Chart: The Indexing Gorilla",
-      "summary": "",
-      "date_published": "2026-08-21T20:00:02+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
