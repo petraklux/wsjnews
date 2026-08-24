@@ -689,19 +689,6 @@
       "title": "Oil Prices Extend Their Rally",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/oil-prices-extend-their-rally-9Xe3P9PMgII1kGdSDwmH"
     },
-    "4a655bfa2a603921": {
-      "dek": "",
-      "first_seen": "2026-08-21T11:35:18.192849+00:00",
-      "guid": "4a655bfa2a603921",
-      "published": "2026-08-21T10:34:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Basic Materials Roundup: Market Talk",
-      "title": "Basic Materials Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9b4cadce"
-    },
     "4b2c7bf08c478116": {
       "dek": "",
       "first_seen": "2026-08-22T04:43:15.658948+00:00",
@@ -766,19 +753,6 @@
       "summary": "Could You Beat a High-Schooler on the New AP Personal-Finance Test?",
       "title": "Could You Beat a High-Schooler on the New AP Personal-Finance Test?",
       "url": "https://www.wsj.com/personal-finance/could-you-beat-a-high-schooler-on-the-new-ap-personal-finance-test-64b05f92"
-    },
-    "4eb7dfac90994a30": {
-      "dek": "",
-      "first_seen": "2026-08-21T10:40:02.520080+00:00",
-      "guid": "4eb7dfac90994a30",
-      "published": "2026-08-21T10:33:50+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Long-Term Yields on Course to End Bonkers Week at Highest Levels in Over a Decade",
-      "title": "Long-Term Yields on Course to End Bonkers Week at Highest Levels in Over a Decade",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/long-term-yields-on-course-to-end-bonkers-week-at-highest-levels-in-over-a-decade-zOUJ0ctLdNtMUC43ghUE"
     },
     "4eed34477bdb16ff": {
       "dek": "",
@@ -1807,6 +1781,19 @@
       "title": "Marching Bands (Saturday Variety Puzzle, August 22)",
       "url": "https://www.wsj.com/articles/marching-bands-saturday-variety-puzzle-august-22-cb8287e4"
     },
+    "c26fda7d662e29fd": {
+      "dek": "",
+      "first_seen": "2026-08-24T03:12:55.151389+00:00",
+      "guid": "c26fda7d662e29fd",
+      "published": "2026-08-24T01:59:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "UAW Workers Reject Deere’s Contract Extension Offer, Setting Up 2027 Battle",
+      "title": "UAW Workers Reject Deere’s Contract Extension Offer, Setting Up 2027 Battle",
+      "url": "https://www.wsj.com/business/uaw-workers-reject-deeres-contract-extension-offer-setting-up-2027-battle-ff5165b0"
+    },
     "c298a9f8fa0c3325": {
       "dek": "",
       "first_seen": "2026-08-22T17:30:10.691236+00:00",
@@ -1936,6 +1923,19 @@
       "summary": "How a Big Bet on Cancer Vaccines Brought Moderna Back from the Brink",
       "title": "How a Big Bet on Cancer Vaccines Brought Moderna Back from the Brink",
       "url": "https://www.wsj.com/health/pharma/moderna-cancer-vaccine-3d863ff3"
+    },
+    "ca1018318905c81e": {
+      "dek": "",
+      "first_seen": "2026-08-24T03:12:55.151389+00:00",
+      "guid": "ca1018318905c81e",
+      "published": "2026-08-24T02:00:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Europe Chastised Trump’s Climate Rollback. Now It’s Delaying Its Own Green Goals.",
+      "title": "Europe Chastised Trump’s Climate Rollback. Now It’s Delaying Its Own Green Goals.",
+      "url": "https://www.wsj.com/world/europe/europe-chastised-trumps-climate-rollback-now-its-delaying-its-own-green-goals-835b6724"
     },
     "ca26b67e3cd21eb3": {
       "dek": "",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-4d046ab3"
     }
   },
-  "updated": "2026-08-24T01:52:49.727143+00:00"
+  "updated": "2026-08-24T03:12:55.167431+00:00"
 }

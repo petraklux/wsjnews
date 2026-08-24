@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "ca1018318905c81e",
+      "url": "https://www.wsj.com/world/europe/europe-chastised-trumps-climate-rollback-now-its-delaying-its-own-green-goals-835b6724",
+      "title": "Europe Chastised Trump’s Climate Rollback. Now It’s Delaying Its Own Green Goals.",
+      "content_text": "Europe Chastised Trump’s Climate Rollback. Now It’s Delaying Its Own Green Goals.",
+      "summary": "",
+      "date_published": "2026-08-24T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "c26fda7d662e29fd",
+      "url": "https://www.wsj.com/business/uaw-workers-reject-deeres-contract-extension-offer-setting-up-2027-battle-ff5165b0",
+      "title": "UAW Workers Reject Deere’s Contract Extension Offer, Setting Up 2027 Battle",
+      "content_text": "UAW Workers Reject Deere’s Contract Extension Offer, Setting Up 2027 Battle",
+      "summary": "",
+      "date_published": "2026-08-24T01:59:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "1af237638d4f1ea7",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-appeal-grows-amid-uneasy-u-s-fiscal-outlook-868ddd14",
       "title": "Gold Rises; Appeal Grows Amid Uneasy U.S. Fiscal Outlook",
@@ -39,17 +61,6 @@
       ]
     },
     {
-      "id": "62ad3f5f4780a069",
-      "url": "https://www.wsj.com/economy/central-banking/warshs-old-forecasts-show-how-he-formed-his-views-on-inflation-60efb1c7",
-      "title": "Warsh’s Old Forecasts Show How He Formed His Views on Inflation",
-      "content_text": "Warsh’s Old Forecasts Show How He Formed His Views on Inflation",
-      "summary": "",
-      "date_published": "2026-08-24T01:00:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
       "id": "0fd30d5eee4c7ec1",
       "url": "https://www.wsj.com/business/media/trump-live-nation-antitrust-doj-f82b2c55",
       "title": "The Trump Intervention That Got the DOJ Off Live Nation’s Back",
@@ -58,6 +69,17 @@
       "date_published": "2026-08-24T01:00:00+00:00",
       "tags": [
         "Business"
+      ]
+    },
+    {
+      "id": "62ad3f5f4780a069",
+      "url": "https://www.wsj.com/economy/central-banking/warshs-old-forecasts-show-how-he-formed-his-views-on-inflation-60efb1c7",
+      "title": "Warsh’s Old Forecasts Show How He Formed His Views on Inflation",
+      "content_text": "Warsh’s Old Forecasts Show How He Formed His Views on Inflation",
+      "summary": "",
+      "date_published": "2026-08-24T01:00:00+00:00",
+      "tags": [
+        "Economy"
       ]
     },
     {
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-21T10:37:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "4a655bfa2a603921",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9b4cadce",
-      "title": "Basic Materials Roundup: Market Talk",
-      "content_text": "Basic Materials Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-21T10:34:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "4eb7dfac90994a30",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/long-term-yields-on-course-to-end-bonkers-week-at-highest-levels-in-over-a-decade-zOUJ0ctLdNtMUC43ghUE",
-      "title": "Long-Term Yields on Course to End Bonkers Week at Highest Levels in Over a Decade",
-      "content_text": "Long-Term Yields on Course to End Bonkers Week at Highest Levels in Over a Decade",
-      "summary": "",
-      "date_published": "2026-08-21T10:33:50+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
