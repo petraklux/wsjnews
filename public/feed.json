@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "51659299a755e9f6",
+      "url": "https://www.wsj.com/finance/investing/canada-tariffs-again-6bc52ff1",
+      "title": "Canada Tariffs, Again",
+      "content_text": "Canada Tariffs, Again",
+      "summary": "",
+      "date_published": "2026-08-24T20:33:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "e1e3760d47a6f8bc",
+      "url": "https://www.wsj.com/business/media/former-forbes-editor-got-6-million-for-helping-magazines-partner-with-sale-e892131a",
+      "title": "Former Forbes Editor Got $6 Million for Helping Magazine’s Partner With Sale",
+      "content_text": "Former Forbes Editor Got $6 Million for Helping Magazine’s Partner With Sale",
+      "summary": "",
+      "date_published": "2026-08-24T20:33:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "1434439056f30082",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-on-artificial-intelligence-jitters-fb7a3260",
+      "title": "U.S. Stocks Mixed on Artificial-Intelligence Jitters",
+      "content_text": "U.S. Stocks Mixed on Artificial-Intelligence Jitters",
+      "summary": "",
+      "date_published": "2026-08-24T20:21:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "b5343177a7ef65ae",
+      "url": "https://www.wsj.com/arts-culture/music/sanctuary-park-by-the-jayhawks-review-still-fresh-at-40-710f1961",
+      "title": "‘Sanctuary Park’ by the Jayhawks Review: Still Fresh at 40",
+      "content_text": "‘Sanctuary Park’ by the Jayhawks Review: Still Fresh at 40",
+      "summary": "",
+      "date_published": "2026-08-24T20:18:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
       "id": "0eb6dede974ccf87",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/oil-prices-slip-remain-steady-after-bessent-remarks-1rgg58VoF3U5a7xJMIKI",
       "title": "Oil Prices Slip, Remain Steady After Bessent Remarks",
@@ -2159,50 +2203,6 @@
       "date_published": "2026-08-21T22:00:02+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "988a65b907b7f861",
-      "url": "https://www.wsj.com/opinion/donald-trump-iran-economic-pressure-sanctions-u-a-e-china-f2107bc8",
-      "title": "Trump’s Iran Credibility Problem",
-      "content_text": "Trump’s Iran Credibility Problem",
-      "summary": "",
-      "date_published": "2026-08-21T21:47:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "c7cfbfb59698ffb8",
-      "url": "https://www.wsj.com/opinion/tiananmen-square-hong-kong-lee-cheuk-yan-chow-hang-tung-bdb8ef57",
-      "title": "Massacring the Memory of Tiananmen Square",
-      "content_text": "Massacring the Memory of Tiananmen Square",
-      "summary": "",
-      "date_published": "2026-08-21T21:46:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "9f7396001e45593c",
-      "url": "https://www.wsj.com/opinion/donald-trump-lifts-beef-tariffs-trade-imports-d3048c6a",
-      "title": "Trump Has a Beef With Tariffs",
-      "content_text": "Trump Has a Beef With Tariffs",
-      "summary": "",
-      "date_published": "2026-08-21T21:42:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "11e6af9a6c7b89e0",
-      "url": "https://www.wsj.com/opinion/graduate-student-loans-unions-lawsuit-education-department-ead7ccde",
-      "title": "Government Unions for More Student Debt",
-      "content_text": "Government Unions for More Student Debt",
-      "summary": "",
-      "date_published": "2026-08-21T21:41:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
