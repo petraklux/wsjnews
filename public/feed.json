@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "263b612ebabcbf99",
+      "url": "https://www.wsj.com/politics/elections/trump-aligned-group-opens-its-wallet-to-boost-darline-graham-in-south-carolina-f054410f",
+      "title": "Trump-Aligned Group Opens Its Wallet to Boost Darline Graham in South Carolina",
+      "content_text": "Trump-Aligned Group Opens Its Wallet to Boost Darline Graham in South Carolina",
+      "summary": "",
+      "date_published": "2026-08-24T23:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "5f0becbf2e862179",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/ai-fears-geopolitics-mark-start-of-a-busy-markets-week-79rD5lV8dMc4pJD0zFhd",
+      "title": "AI Fears, Geopolitics Mark Start of a Busy Markets Week",
+      "content_text": "AI Fears, Geopolitics Mark Start of a Busy Markets Week",
+      "summary": "",
+      "date_published": "2026-08-24T22:35:09+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "d8dedf2ece61b39a",
       "url": "https://www.wsj.com/politics/policy/he-has-a-lot-of-room-to-kiss-my-ass-trump-vs-canada-is-getting-personal-592dcc6e",
       "title": "‘He Has a Lot of Room to Kiss My Ass’: Trump vs. Canada Is Getting Personal",
@@ -61,10 +83,10 @@
       ]
     },
     {
-      "id": "b21a1e3e8be7e937",
-      "url": "https://www.wsj.com/opinion/south-carolina-absentee-voting-law-fourth-circuit-roger-gregory-mail-ballots-9e7b7f6f",
-      "title": "South Carolina vs. the 26th Amendment",
-      "content_text": "South Carolina vs. the 26th Amendment",
+      "id": "0c02bc09ba6e6bfc",
+      "url": "https://www.wsj.com/opinion/donald-trump-auto-tariffs-50-percent-canada-ford-motors-7111dadb",
+      "title": "Trump to Ford Motor: Drop Dead",
+      "content_text": "Trump to Ford Motor: Drop Dead",
       "summary": "",
       "date_published": "2026-08-24T21:42:00+00:00",
       "tags": [
@@ -72,10 +94,10 @@
       ]
     },
     {
-      "id": "0c02bc09ba6e6bfc",
-      "url": "https://www.wsj.com/opinion/donald-trump-auto-tariffs-50-percent-canada-ford-motors-7111dadb",
-      "title": "Trump to Ford Motor: Drop Dead",
-      "content_text": "Trump to Ford Motor: Drop Dead",
+      "id": "b21a1e3e8be7e937",
+      "url": "https://www.wsj.com/opinion/south-carolina-absentee-voting-law-fourth-circuit-roger-gregory-mail-ballots-9e7b7f6f",
+      "title": "South Carolina vs. the 26th Amendment",
+      "content_text": "South Carolina vs. the 26th Amendment",
       "summary": "",
       "date_published": "2026-08-24T21:42:00+00:00",
       "tags": [
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-22T09:30:00+00:00",
       "tags": [
         "Health"
-      ]
-    },
-    {
-      "id": "5f93dda492442847",
-      "url": "https://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12",
-      "title": "Iran’s Top Politicians Urge an End to the War",
-      "content_text": "Iran’s Top Politicians Urge an End to the War",
-      "summary": "",
-      "date_published": "2026-08-22T09:15:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "b3450d85e69c10b4",
-      "url": "https://www.wsj.com/politics/policy/trump-new-jersey-ballroom-bedminster-golf-club-3de25336",
-      "title": "Trump’s Other Ballroom: An 11,000-Square-Foot Banquet Hall in New Jersey",
-      "content_text": "Trump’s Other Ballroom: An 11,000-Square-Foot Banquet Hall in New Jersey",
-      "summary": "",
-      "date_published": "2026-08-22T09:00:00+00:00",
-      "tags": [
-        "Politics"
       ]
     }
   ]
