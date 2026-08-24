@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "ceec4cc295073a70",
+      "url": "https://www.wsj.com/tech/chinese-chip-maker-ymtc-seeks-4-9-billion-ipo-7e0e6daf",
+      "title": "Chinese Chip Maker YMTC Seeks $4.9 Billion IPO",
+      "content_text": "Chinese Chip Maker YMTC Seeks $4.9 Billion IPO",
+      "summary": "",
+      "date_published": "2026-08-24T05:53:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
       "id": "b827dd50e6721b08",
       "url": "https://www.wsj.com/business/softbank-plans-record-retail-bond-issuance-amid-ai-push-b8ebd7b8",
       "title": "SoftBank Plans Record Retail Bond Issuance Amid AI Push",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-08-21T11:00:00+00:00",
       "tags": [
         "Cmo Today"
-      ]
-    },
-    {
-      "id": "3adf62662c3f25a6",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-rainmakers-in-talks-to-leave-weil-gotshal-amid-poaching-frenzy-bb68e497",
-      "title": "The Morning Risk Report: Rainmakers in Talks to Leave Weil Gotshal Amid Poaching Frenzy",
-      "content_text": "The Morning Risk Report: Rainmakers in Talks to Leave Weil Gotshal Amid Poaching Frenzy",
-      "summary": "",
-      "date_published": "2026-08-21T10:52:00+00:00",
-      "tags": [
-        "Risk Compliance Journal"
       ]
     }
   ]
