@@ -1,5 +1,18 @@
 {
   "items": {
+    "0038b06dd019061e": {
+      "dek": "",
+      "first_seen": "2026-08-24T14:00:39.902274+00:00",
+      "guid": "0038b06dd019061e",
+      "published": "2026-08-24T14:00:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Elizabeth anne bernstein",
+      "title": "Elizabeth anne bernstein",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein"
+    },
     "04daa5d08f6bb780": {
       "dek": "",
       "first_seen": "2026-08-23T19:29:49.046677+00:00",
@@ -25,6 +38,19 @@
       "summary": "Rebuilding the Impeachment Factory",
       "title": "Rebuilding the Impeachment Factory",
       "url": "https://www.wsj.com/opinion/rebuilding-the-impeachment-factory-488bd507"
+    },
+    "07cefb6e1c263840": {
+      "dek": "",
+      "first_seen": "2026-08-24T14:00:39.902274+00:00",
+      "guid": "07cefb6e1c263840",
+      "published": "2026-08-24T13:32:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Taiwan Charges Nine in Connection With Smuggling of AI Servers to China",
+      "title": "Taiwan Charges Nine in Connection With Smuggling of AI Servers to China",
+      "url": "https://www.wsj.com/tech/taiwan-charges-nine-in-connection-with-smuggling-of-ai-servers-to-china-d1f72f47"
     },
     "087ae0ec5ec7a43f": {
       "dek": "",
@@ -195,19 +221,6 @@
       "title": "Democrats Are Gearing Up for a Wave of Investigations Into Trump and His Allies",
       "url": "https://www.wsj.com/politics/policy/democrats-trump-allies-investigation-plans-c226c1fc"
     },
-    "18dac87b7b1e7f30": {
-      "dek": "",
-      "first_seen": "2026-08-21T16:46:06.730050+00:00",
-      "guid": "18dac87b7b1e7f30",
-      "published": "2026-08-21T15:50:00+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future",
-      "title": "E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future",
-      "url": "https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d"
-    },
     "18feb3c7a34ab18d": {
       "dek": "",
       "first_seen": "2026-08-21T17:38:06.427398+00:00",
@@ -220,19 +233,6 @@
       "summary": "Robinhood Leads Friday’s S&P 500 Gains",
       "title": "Robinhood Leads Friday’s S&P 500 Gains",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/robinhood-leads-friday-s-s-p-500-gains-bfqsEvdpn8a5YLzGR4ML"
-    },
-    "199a6f063dacd0bd": {
-      "dek": "",
-      "first_seen": "2026-08-21T16:46:06.730050+00:00",
-      "guid": "199a6f063dacd0bd",
-      "published": "2026-08-21T15:50:29+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "What’s Moving the Markets Today?",
-      "title": "What’s Moving the Markets Today?",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/what-s-moving-the-markets-today--M6GRZM1zUhyEyGOMZdgf"
     },
     "1a4a578bfbf97269": {
       "dek": "",
@@ -663,19 +663,6 @@
       "title": "Heirs to the Jack Daniel’s Fortune Are Fending Off a Takeover—and a Rogue Cousin",
       "url": "https://www.wsj.com/business/retail/brown-forman-heirs-feud-jack-daniels-takeover-4ecdfba9"
     },
-    "49df47eab7342e5c": {
-      "dek": "",
-      "first_seen": "2026-08-21T16:46:06.730050+00:00",
-      "guid": "49df47eab7342e5c",
-      "published": "2026-08-21T16:34:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Lindsey Graham Act’s Dangerous Tariff Provision",
-      "title": "The Lindsey Graham Act’s Dangerous Tariff Provision",
-      "url": "https://www.wsj.com/opinion/the-lindsey-graham-acts-dangerous-tariff-provision-5f79969d"
-    },
     "4a2897df00620a12": {
       "dek": "",
       "first_seen": "2026-08-21T19:51:42.340399+00:00",
@@ -819,19 +806,6 @@
       "title": "Go Ahead, Put Your Most Eccentric Hobbies on Your Résumé",
       "url": "https://www.wsj.com/lifestyle/careers/go-ahead-put-your-most-eccentric-hobbies-on-your-resume-31edf892"
     },
-    "564961a65f217d8c": {
-      "dek": "",
-      "first_seen": "2026-08-21T16:46:06.730050+00:00",
-      "guid": "564961a65f217d8c",
-      "published": "2026-08-21T15:55:00+00:00",
-      "section": "World",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Tiny California Company Racing Into Venezuela Faster than Big Oil",
-      "title": "The Tiny California Company Racing Into Venezuela Faster than Big Oil",
-      "url": "https://www.wsj.com/world/americas/the-tiny-california-company-racing-into-venezuela-faster-than-big-oil-cfeb006f"
-    },
     "56b8135b977156b6": {
       "dek": "",
       "first_seen": "2026-08-21T23:53:54.356625+00:00",
@@ -884,6 +858,19 @@
       "title": "Oil Falls on Possible Position Adjustments Before Potential U.S. Sanctions on Iran",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-possible-position-adjustments-before-potential-u-s-sanctions-on-iran-6d0d22c3"
     },
+    "5a885d497fa8a917": {
+      "dek": "",
+      "first_seen": "2026-08-24T14:00:39.902274+00:00",
+      "guid": "5a885d497fa8a917",
+      "published": "2026-08-24T14:00:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The saturday interview",
+      "title": "The saturday interview",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview"
+    },
     "5a93019400689e32": {
       "dek": "",
       "first_seen": "2026-08-23T13:40:33.494923+00:00",
@@ -896,6 +883,19 @@
       "summary": "If You Haven’t Seen ‘The Spectacle,’ You’re Missing the WNBA’s Top Rookie",
       "title": "If You Haven’t Seen ‘The Spectacle,’ You’re Missing the WNBA’s Top Rookie",
       "url": "https://www.wsj.com/sports/basketball/olivia-miles-the-spectacle-wnba-lynx-3bdd0059"
+    },
+    "5bde10fa9f9b2a36": {
+      "dek": "",
+      "first_seen": "2026-08-24T14:00:39.902274+00:00",
+      "guid": "5bde10fa9f9b2a36",
+      "published": "2026-08-24T14:00:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Kimberley a strassel",
+      "title": "Kimberley a strassel",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel"
     },
     "5be7a3a884c688b1": {
       "dek": "",
@@ -1066,32 +1066,6 @@
       "title": "Eli Lilly Launches Foundayo Weight-Loss Pill in U.K.",
       "url": "https://www.wsj.com/health/pharma/eli-lilly-launches-foundayo-weight-loss-pill-in-u-k-442845f4"
     },
-    "7be256b9521fa8a8": {
-      "dek": "",
-      "first_seen": "2026-08-21T17:38:06.427398+00:00",
-      "guid": "7be256b9521fa8a8",
-      "published": "2026-08-21T16:55:00+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "A Celebrity Death and a Murder Trial Shine Light on Postpartum Mental Health",
-      "title": "A Celebrity Death and a Murder Trial Shine Light on Postpartum Mental Health",
-      "url": "https://www.wsj.com/articles/hayden-panettiere-lindsay-clancy-postpartum-mental-health-397b6da1"
-    },
-    "7c567a4c12907121": {
-      "dek": "",
-      "first_seen": "2026-08-21T16:46:06.730050+00:00",
-      "guid": "7c567a4c12907121",
-      "published": "2026-08-21T16:17:00+00:00",
-      "section": "Tech",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Private Equity Is Deploying an Army of AI Wonks to Embed in the Firms They Back",
-      "title": "Private Equity Is Deploying an Army of AI Wonks to Embed in the Firms They Back",
-      "url": "https://www.wsj.com/tech/ai/private-equity-is-deploying-an-army-of-ai-wonks-to-embed-in-the-firms-they-back-96d279ec"
-    },
     "7d8af801a5825cc1": {
       "dek": "",
       "first_seen": "2026-08-24T13:07:12.126392+00:00",
@@ -1221,19 +1195,6 @@
       "summary": "🎥 Watch: What Warsh’s Jackson Hole Debut Means for Markets",
       "title": "🎥 Watch: What Warsh’s Jackson Hole Debut Means for Markets",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/-watch-what-warsh-s-jackson-hole-debut-means-for-markets-ViZdOsTSptlernvspTRi"
-    },
-    "863f125793b397b8": {
-      "dek": "",
-      "first_seen": "2026-08-21T16:46:06.730050+00:00",
-      "guid": "863f125793b397b8",
-      "published": "2026-08-21T15:45:53+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Citadel Sells Over 80% of Situational Awareness Portfolio",
-      "title": "Citadel Sells Over 80% of Situational Awareness Portfolio",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/citadel-sells-over-80-of-situational-awareness-portfolio-cHs9Tr5BF28wrr8CS01w"
     },
     "868804475ee83671": {
       "dek": "",
@@ -1390,6 +1351,19 @@
       "summary": "Readers Share Their StubHub Ticketing Woes",
       "title": "Readers Share Their StubHub Ticketing Woes",
       "url": "https://www.wsj.com/business/readers-share-their-stubhub-ticketing-woes-f317a3f8"
+    },
+    "93223559e549371c": {
+      "dek": "",
+      "first_seen": "2026-08-24T14:00:39.902274+00:00",
+      "guid": "93223559e549371c",
+      "published": "2026-08-24T13:39:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "California Attorney General Cancels Paramount Meeting, Citing Leaks",
+      "title": "California Attorney General Cancels Paramount Meeting, Citing Leaks",
+      "url": "https://www.wsj.com/business/media/californias-bonta-cancels-paramount-meeting-citing-leaks-b4be3859"
     },
     "9399c2482d4f8c91": {
       "dek": "",
@@ -1650,6 +1624,19 @@
       "summary": "Collapsed U.S. Trade Talks Threaten Canadian Dollar Gains",
       "title": "Collapsed U.S. Trade Talks Threaten Canadian Dollar Gains",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/collapsed-u-s-trade-talks-threaten-canadian-dollar-gains-fyxMVl53uNq2b11IaV8I"
+    },
+    "a84ab05fc203e94d": {
+      "dek": "",
+      "first_seen": "2026-08-24T14:00:39.902274+00:00",
+      "guid": "a84ab05fc203e94d",
+      "published": "2026-08-24T13:15:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Wendy’s CEO Aims for Chain to Get Back in the Burger Fight",
+      "title": "Wendy’s CEO Aims for Chain to Get Back in the Burger Fight",
+      "url": "https://www.wsj.com/business/hospitality/wendys-ceo-aims-for-chain-to-get-back-in-the-burger-fight-7f43054b"
     },
     "a876724058f71226": {
       "dek": "",
@@ -2236,6 +2223,19 @@
       "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
       "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23"
     },
+    "dec8e59da5767d83": {
+      "dek": "",
+      "first_seen": "2026-08-24T14:00:39.902274+00:00",
+      "guid": "dec8e59da5767d83",
+      "published": "2026-08-24T13:47:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "U.S. Natural Gas Futures Start Week With Gains",
+      "title": "U.S. Natural Gas Futures Start Week With Gains",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-with-gains-2e71e11b"
+    },
     "e18c16eb45bceda8": {
       "dek": "",
       "first_seen": "2026-08-23T18:43:05.723206+00:00",
@@ -2248,19 +2248,6 @@
       "summary": "Germany’s Far Right Has a New Enemy: The 100-Year-Old Bauhaus",
       "title": "Germany’s Far Right Has a New Enemy: The 100-Year-Old Bauhaus",
       "url": "https://www.wsj.com/world/europe/germanys-far-right-has-a-new-enemy-the-100-year-old-bauhaus-201d0b6c"
-    },
-    "e28dd116a8f9e5ad": {
-      "dek": "",
-      "first_seen": "2026-08-21T16:46:06.730050+00:00",
-      "guid": "e28dd116a8f9e5ad",
-      "published": "2026-08-21T16:34:38+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "ConocoPhillips Fuels Up for Record Closing High",
-      "title": "ConocoPhillips Fuels Up for Record Closing High",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/conocophillips-fuels-up-for-record-closing-high-vnVD8ve4G2fvqhcGKZC7"
     },
     "e2ef9b14faa4c321": {
       "dek": "",
@@ -2574,6 +2561,19 @@
       "title": "ABBA Made Money, Money, Money",
       "url": "https://www.wsj.com/opinion/abba-made-money-money-money-947677fa"
     },
+    "fe1649f971fdb8c3": {
+      "dek": "",
+      "first_seen": "2026-08-24T14:00:39.902274+00:00",
+      "guid": "fe1649f971fdb8c3",
+      "published": "2026-08-24T13:48:02+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Gap in the Hormuz Math",
+      "title": "The Gap in the Hormuz Math",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/the-gap-in-the-hormuz-math-HXZMTwNlGEfWDJUpNav5"
+    },
     "fe3f9f453608c179": {
       "dek": "",
       "first_seen": "2026-08-21T19:51:42.340399+00:00",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/finance/stocks/wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going-7e7caf0c"
     }
   },
-  "updated": "2026-08-24T13:07:12.150932+00:00"
+  "updated": "2026-08-24T14:00:39.925580+00:00"
 }
