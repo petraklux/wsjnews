@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "a115bb2665d28d94",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/shein-shrinks-in-the-wash-79SKhbSkYg07bFZ1UsOz",
+      "title": "Shein Shrinks in the Wash",
+      "content_text": "Shein Shrinks in the Wash",
+      "summary": "",
+      "date_published": "2026-08-24T09:19:32+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "3faa01eff5171e66",
+      "url": "https://www.wsj.com/finance/investing/nasdaq-futures-tech-stocks-slide-as-u-s-canada-trade-war-in-focus-22023ea9",
+      "title": "Nasdaq Futures, Tech Stocks Slide as U.S.-Canada Trade War in Focus",
+      "content_text": "Nasdaq Futures, Tech Stocks Slide as U.S.-Canada Trade War in Focus",
+      "summary": "",
+      "date_published": "2026-08-24T09:01:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "7e06cdbdc48e47e1",
+      "url": "https://www.wsj.com/finance/investing/global-bond-yields-fall-on-declining-oil-prospects-of-further-treasury-steps-to-tackle-recent-highs-d3794894",
+      "title": "Global Bond Yields Fall on Declining Oil, Prospects of Further Treasury Steps to Tackle Recent Highs",
+      "content_text": "Global Bond Yields Fall on Declining Oil, Prospects of Further Treasury Steps to Tackle Recent Highs",
+      "summary": "",
+      "date_published": "2026-08-24T08:26:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "37bb7403b798f573",
+      "url": "https://www.wsj.com/world/asia/inside-indonesias-push-to-boost-commodity-market-credibility-1f0b8e7d",
+      "title": "Inside Indonesia’s Push to Boost Commodity Market Credibility",
+      "content_text": "Inside Indonesia’s Push to Boost Commodity Market Credibility",
+      "summary": "",
+      "date_published": "2026-08-24T08:25:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "53ab76460abf0424",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/icymi-trump-s-stock-trades-bXP88EK3m9a1zwqPPj7W",
       "title": "ICYMI: Trump’s Stock Trades",
@@ -2159,50 +2203,6 @@
       "date_published": "2026-08-21T11:30:19+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "7cb48724b07cc541",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/strategy-stock-price-jumps-10-premarket-ueemKUBZh6J73KjBfN8F",
-      "title": "Strategy Stock Price Jumps 10% Premarket",
-      "content_text": "Strategy Stock Price Jumps 10% Premarket",
-      "summary": "",
-      "date_published": "2026-08-21T11:15:27+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "3ec9fb1eed806bd0",
-      "url": "https://www.wsj.com/cfo-journal/walmart-is-playing-the-long-game-by-lowering-prices-abe3a9ae",
-      "title": "Walmart Is Playing the Long Game by Lowering Prices",
-      "content_text": "Walmart Is Playing the Long Game by Lowering Prices",
-      "summary": "",
-      "date_published": "2026-08-21T11:14:00+00:00",
-      "tags": [
-        "Cfo Journal"
-      ]
-    },
-    {
-      "id": "999f9341e5fe1b46",
-      "url": "https://www.wsj.com/business/retail/bjs-wholesale-logs-higher-profit-revenue-2fc70199",
-      "title": "BJ’s Wholesale Logs Higher Profit, Revenue",
-      "content_text": "BJ’s Wholesale Logs Higher Profit, Revenue",
-      "summary": "",
-      "date_published": "2026-08-21T11:14:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "f0c90a68b1cb745c",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/gold-and-silver-mania-returns-Z0HF8lv8qSNCZmpscoaV",
-      "title": "Gold and Silver Mania Returns",
-      "content_text": "Gold and Silver Mania Returns",
-      "summary": "",
-      "date_published": "2026-08-21T11:07:22+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
