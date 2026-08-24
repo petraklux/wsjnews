@@ -6,6 +6,105 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "53aab10de0360c35",
+      "url": "https://www.wsj.com/us-news/chicago-dug-itself-out-of-a-financial-hole-now-its-sliding-back-in-9cc9c818",
+      "title": "Chicago Dug Itself Out of a Financial Hole. Now It’s Sliding Back In.",
+      "content_text": "Chicago Dug Itself Out of a Financial Hole. Now It’s Sliding Back In.",
+      "summary": "",
+      "date_published": "2026-08-24T18:47:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "33cde5662f5ee9f2",
+      "url": "https://www.wsj.com/arts-culture/books/the-jackal-review-a-killer-in-a-beret-49119bfb",
+      "title": "‘The Jackal’ Review: A Killer in a Beret",
+      "content_text": "‘The Jackal’ Review: A Killer in a Beret",
+      "summary": "",
+      "date_published": "2026-08-24T18:23:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "331e671c7a8cb491",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/nvidia-headed-for-longest-losing-streak-since-2022-as-tech-stocks-slide-8cDllVMijZSgshSpSR3t",
+      "title": "Nvidia Headed for Longest Losing Streak Since 2022 as Tech Stocks Slide",
+      "content_text": "Nvidia Headed for Longest Losing Streak Since 2022 as Tech Stocks Slide",
+      "summary": "",
+      "date_published": "2026-08-24T18:03:41+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "e5fc21247ad82d8a",
+      "url": "https://www.wsj.com/world/uk/prodigal-prince-harrys-return-to-u-k-poses-dilemma-for-william-41eb9e7b",
+      "title": "Prodigal Prince Harry’s Return to U.K. Poses Dilemma for William",
+      "content_text": "Prodigal Prince Harry’s Return to U.K. Poses Dilemma for William",
+      "summary": "",
+      "date_published": "2026-08-24T17:43:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "141150575516291f",
+      "url": "https://www.wsj.com/opinion/a-strong-yemen-can-overcome-the-houthi-threat-6cabc35f",
+      "title": "A Strong Yemen Can Overcome the Houthi Threat",
+      "content_text": "A Strong Yemen Can Overcome the Houthi Threat",
+      "summary": "",
+      "date_published": "2026-08-24T17:42:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "8b7c5db7c8328c14",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/bessent-offers-few-new-details-on-treasury-debt-plans-6sRfyN7UdhpBVwHHuvoO",
+      "title": "Bessent Offers Few New Details on Treasury Debt Plans",
+      "content_text": "Bessent Offers Few New Details on Treasury Debt Plans",
+      "summary": "",
+      "date_published": "2026-08-24T17:41:33+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "9daee761b09e78aa",
+      "url": "https://www.wsj.com/opinion/can-david-hume-save-the-democratic-party-1d555fc7",
+      "title": "Can David Hume Save the Democratic Party?",
+      "content_text": "Can David Hume Save the Democratic Party?",
+      "summary": "",
+      "date_published": "2026-08-24T17:41:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "792efb6736a83503",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/what-bessent-said-today-on-iran-CWyncHD3cUcN5eeZxwRR",
+      "title": "What Bessent Said Today on Iran",
+      "content_text": "What Bessent Said Today on Iran",
+      "summary": "",
+      "date_published": "2026-08-24T17:39:51+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "fb67b1a1cd5cb920",
+      "url": "https://www.wsj.com/world/middle-east/bessent-launches-operation-economic-outcast-to-isolate-iran-0e4db091",
+      "title": "Bessent Launches ‘Operation Economic Outcast’ to Isolate Iran",
+      "content_text": "Bessent Launches ‘Operation Economic Outcast’ to Isolate Iran",
+      "summary": "",
+      "date_published": "2026-08-24T17:37:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "e67ad03b72b3ada1",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/-money-quote-bessent-hints-at-sweeping-sanctions-in-bid-to-squeeze-iran-3kyv8HgYmvOO0fhqKqXd",
       "title": "💬 Money Quote: Bessent Hints at Sweeping Sanctions in Bid to Squeeze Iran",
@@ -2104,105 +2203,6 @@
       "date_published": "2026-08-21T21:26:32+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "c7810f8e2472c11d",
-      "url": "https://www.wsj.com/arts-culture/fine-art/guggenheim-pop-1960-to-now-review-overinflated-overview-airdigital-8ac523f1",
-      "title": "‘Guggenheim Pop: 1960 to Now’ Review: Overinflated Overview",
-      "content_text": "‘Guggenheim Pop: 1960 to Now’ Review: Overinflated Overview",
-      "summary": "",
-      "date_published": "2026-08-21T21:24:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "2c30a2fdffd2cb9b",
-      "url": "https://www.wsj.com/arts-culture/books/liveforever-andres-caicedos-manifesto-of-wild-youth-575d6ebb",
-      "title": "‘Liveforever’: Andrés Caicedo’s Manifesto Of Wild Youth",
-      "content_text": "‘Liveforever’: Andrés Caicedo’s Manifesto Of Wild Youth",
-      "summary": "",
-      "date_published": "2026-08-21T21:23:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "9065189a040a219d",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-bitcoin-nears-80-000-5de452ad",
-      "title": "U.S. Stocks Rise as Bitcoin Nears $80,000",
-      "content_text": "U.S. Stocks Rise as Bitcoin Nears $80,000",
-      "summary": "",
-      "date_published": "2026-08-21T21:04:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "8333e6956242174b",
-      "url": "https://www.wsj.com/opinion/why-the-welfare-debate-went-silent-41fb2a18",
-      "title": "Why the Welfare Debate Went Silent",
-      "content_text": "Why the Welfare Debate Went Silent",
-      "summary": "",
-      "date_published": "2026-08-21T21:01:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "eda40934f09567d7",
-      "url": "https://www.wsj.com/opinion/tera-puts-an-indian-tribe-in-charge-of-its-energy-7a0e9001",
-      "title": "TERA Puts an Indian Tribe in Charge of Its Energy",
-      "content_text": "TERA Puts an Indian Tribe in Charge of Its Energy",
-      "summary": "",
-      "date_published": "2026-08-21T20:58:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "10de824132f35691",
-      "url": "https://www.wsj.com/world/americas/mexican-governor-indicted-by-u-s-vows-return-to-office-fe6ecff7",
-      "title": "Mexican Governor Indicted by U.S. Vows Return to Office",
-      "content_text": "Mexican Governor Indicted by U.S. Vows Return to Office",
-      "summary": "",
-      "date_published": "2026-08-21T20:55:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "c41bec39a2ab03b5",
-      "url": "https://www.wsj.com/tech/justice-department-tiktok-reach-400-million-settlement-over-childrens-privacy-suit-2f4bcc93",
-      "title": "Justice Department, TikTok Reach $400 Million Settlement Over Children’s Privacy Suit",
-      "content_text": "Justice Department, TikTok Reach $400 Million Settlement Over Children’s Privacy Suit",
-      "summary": "",
-      "date_published": "2026-08-21T20:47:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "38bc9b5bade7706e",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/copper-demand-pushes-freeport-mcmoran-to-record-WvLxjINFE18VX74QLUK2",
-      "title": "Copper Demand Pushes Freeport-McMoRan to Record",
-      "content_text": "Copper Demand Pushes Freeport-McMoRan to Record",
-      "summary": "",
-      "date_published": "2026-08-21T20:45:01+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "3268cbc26e5c06c7",
-      "url": "https://www.wsj.com/politics/national-security/army-secretary-expected-to-step-down-by-years-end-d7477efb",
-      "title": "Army Secretary Expected To Step Down By Year’s End",
-      "content_text": "Army Secretary Expected To Step Down By Year’s End",
-      "summary": "",
-      "date_published": "2026-08-21T20:43:00+00:00",
-      "tags": [
-        "Politics"
       ]
     }
   ]
