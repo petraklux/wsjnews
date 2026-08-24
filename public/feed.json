@@ -6,6 +6,94 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "dea6ec2569a2d42b",
+      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
+      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "summary": "",
+      "date_published": "2026-08-24T11:00:19+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "e60205be32d4373d",
+      "url": "https://www.wsj.com/logistics-report/u-s-canada-trade-talks-fail-7c8cdc47",
+      "title": "U.S.-Canada Trade Talks Fail",
+      "content_text": "U.S.-Canada Trade Talks Fail",
+      "summary": "",
+      "date_published": "2026-08-24T11:00:00+00:00",
+      "tags": [
+        "Logistics Report"
+      ]
+    },
+    {
+      "id": "14539d78d689fd4a",
+      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-trump-intervention-that-got-the-doj-off-live-nations-back-93028bca",
+      "title": "The Morning Risk Report: The Trump Intervention That Got the DOJ Off Live Nation’s Back",
+      "content_text": "The Morning Risk Report: The Trump Intervention That Got the DOJ Off Live Nation’s Back",
+      "summary": "",
+      "date_published": "2026-08-24T10:55:00+00:00",
+      "tags": [
+        "Risk Compliance Journal"
+      ]
+    },
+    {
+      "id": "103ba2eab7ab75a3",
+      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-276b187f",
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "content_text": "Energy & Utilities Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-24T10:37:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "915c84afa140788b",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/-money-quote-scott-bessent-6YDpE8lOSR4sjFKfltt4",
+      "title": "💬 Money Quote: Scott Bessent",
+      "content_text": "💬 Money Quote: Scott Bessent",
+      "summary": "",
+      "date_published": "2026-08-24T10:34:43+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "982a3754f4d0a619",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-3e70293e",
+      "title": "Financial Services Roundup: Market Talk",
+      "content_text": "Financial Services Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-24T10:34:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "a487c394c69cef21",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-47ac919a",
+      "title": "Basic Materials Roundup: Market Talk",
+      "content_text": "Basic Materials Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-24T10:29:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "bb82167c4d7b48f5",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-72f73701",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-24T10:26:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "3029ec8e18c5b32f",
       "url": "https://www.wsj.com/finance/investing/uncle-sams-40-trillion-tab-is-living-rent-free-in-your-mortgage-payment-ec2ff19d",
       "title": "Uncle Sam’s $40 Trillion Tab Is Living Rent-Free in Your Mortgage Payment",
@@ -61,14 +149,14 @@
       ]
     },
     {
-      "id": "8809228438b18ad6",
-      "url": "https://www.wsj.com/lifestyle/marc-rowan-apollo-montauk-restaurant-1298affe",
-      "title": "A Billionaire CEO, a Hamptons Town and the Endless Fight Over a Seafood Shack",
-      "content_text": "A Billionaire CEO, a Hamptons Town and the Endless Fight Over a Seafood Shack",
+      "id": "11b8ae2e987af881",
+      "url": "https://www.wsj.com/us-news/law/mold-is-driving-americas-homeowners-crazyand-they-want-builders-to-pay-5cc180b7",
+      "title": "Mold Is Driving America’s Homeowners Crazy—and They Want Builders to Pay",
+      "content_text": "Mold Is Driving America’s Homeowners Crazy—and They Want Builders to Pay",
       "summary": "",
       "date_published": "2026-08-24T09:30:00+00:00",
       "tags": [
-        "Lifestyle"
+        "Us News"
       ]
     },
     {
@@ -76,6 +164,28 @@
       "url": "https://www.wsj.com/lifestyle/careers/go-ahead-put-your-most-eccentric-hobbies-on-your-resume-31edf892",
       "title": "Go Ahead, Put Your Most Eccentric Hobbies on Your Résumé",
       "content_text": "Go Ahead, Put Your Most Eccentric Hobbies on Your Résumé",
+      "summary": "",
+      "date_published": "2026-08-24T09:30:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "868804475ee83671",
+      "url": "https://www.wsj.com/arts-culture/music/harry-styles-ticket-prices-88ab9556",
+      "title": "The Harry Styles Superfans Spending Thousands to See Him 15 Times in a Row",
+      "content_text": "The Harry Styles Superfans Spending Thousands to See Him 15 Times in a Row",
+      "summary": "",
+      "date_published": "2026-08-24T09:30:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "8809228438b18ad6",
+      "url": "https://www.wsj.com/lifestyle/marc-rowan-apollo-montauk-restaurant-1298affe",
+      "title": "A Billionaire CEO, a Hamptons Town and the Endless Fight Over a Seafood Shack",
+      "content_text": "A Billionaire CEO, a Hamptons Town and the Endless Fight Over a Seafood Shack",
       "summary": "",
       "date_published": "2026-08-24T09:30:00+00:00",
       "tags": [
@@ -94,17 +204,6 @@
       ]
     },
     {
-      "id": "11b8ae2e987af881",
-      "url": "https://www.wsj.com/us-news/law/mold-is-driving-americas-homeowners-crazyand-they-want-builders-to-pay-5cc180b7",
-      "title": "Mold Is Driving America’s Homeowners Crazy—and They Want Builders to Pay",
-      "content_text": "Mold Is Driving America’s Homeowners Crazy—and They Want Builders to Pay",
-      "summary": "",
-      "date_published": "2026-08-24T09:30:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
       "id": "d222ce43245fe8e6",
       "url": "https://www.wsj.com/finance/currencies/how-trumps-crypto-push-is-linked-to-bessents-treasury-moves-809defdc",
       "title": "How Trump’s Crypto Push Is Linked to Bessent’s Treasury Moves",
@@ -113,17 +212,6 @@
       "date_published": "2026-08-24T09:30:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "868804475ee83671",
-      "url": "https://www.wsj.com/arts-culture/music/harry-styles-ticket-prices-88ab9556",
-      "title": "The Harry Styles Superfans Spending Thousands to See Him 15 Times in a Row",
-      "content_text": "The Harry Styles Superfans Spending Thousands to See Him 15 Times in a Row",
-      "summary": "",
-      "date_published": "2026-08-24T09:30:00+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     },
     {
@@ -2115,94 +2203,6 @@
       "date_published": "2026-08-21T14:03:00+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "32232d3893351c8d",
-      "url": "https://www.wsj.com/finance/investing/victor-niederhoffer-dead-54ca91a9",
-      "title": "Victor Niederhoffer, Known for Big Bets and an Unconventional Lifestyle, Dies at 82",
-      "content_text": "Victor Niederhoffer, Known for Big Bets and an Unconventional Lifestyle, Dies at 82",
-      "summary": "",
-      "date_published": "2026-08-21T14:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "8824481566884cf3",
-      "url": "https://www.wsj.com/arts-culture/books/ace-review-how-to-serve-winning-looks-cb0a60a3",
-      "title": "‘Ace’ Review: How to Serve Winning Looks",
-      "content_text": "‘Ace’ Review: How to Serve Winning Looks",
-      "summary": "",
-      "date_published": "2026-08-21T13:47:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "c7e480583f8ad0fd",
-      "url": "https://www.wsj.com/news/business/small-business-marketing",
-      "title": "Small business marketing",
-      "content_text": "Small business marketing",
-      "summary": "",
-      "date_published": "2026-08-21T13:30:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "9f4c0330afb12c8e",
-      "url": "https://www.wsj.com/cmo-today/looksmaxxing-lingo-is-captivating-brands-from-cerave-to-carls-jr-4a629fd0",
-      "title": "Looksmaxxing Lingo Is Captivating Brands From CeraVe to Carl’s Jr.",
-      "content_text": "Looksmaxxing Lingo Is Captivating Brands From CeraVe to Carl’s Jr.",
-      "summary": "",
-      "date_published": "2026-08-21T13:24:00+00:00",
-      "tags": [
-        "Cmo Today"
-      ]
-    },
-    {
-      "id": "756cd273374e7215",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/dollar-slips-to-weakest-level-since-may-WPBtlkjldsMP2mpBWmQl",
-      "title": "Dollar Slips to Weakest Level Since May",
-      "content_text": "Dollar Slips to Weakest Level Since May",
-      "summary": "",
-      "date_published": "2026-08-21T13:23:19+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "cf4e134e58e0188a",
-      "url": "https://www.wsj.com/arts-culture/books/first-helpings-review-the-taste-of-childhood-b4057803",
-      "title": "‘First Helpings’ Review: The Taste of Childhood",
-      "content_text": "‘First Helpings’ Review: The Taste of Childhood",
-      "summary": "",
-      "date_published": "2026-08-21T13:15:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "f613431a97e290e6",
-      "url": "https://www.wsj.com/finance/investing/gold-above-4-600-on-weaker-dollar-debt-fears-7a7d1eb4",
-      "title": "Gold Above $4,600 on Weaker Dollar, Debt Fears",
-      "content_text": "Gold Above $4,600 on Weaker Dollar, Debt Fears",
-      "summary": "",
-      "date_published": "2026-08-21T13:15:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "887e3fa2e89b8671",
-      "url": "https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a",
-      "title": "Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge",
-      "content_text": "Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge",
-      "summary": "",
-      "date_published": "2026-08-21T13:09:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]
