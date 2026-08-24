@@ -6,6 +6,72 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "781a90eaacf045a1",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/chicago-fed-activity-index-pulls-back-in-july-pOVyGwO6XgFLFUr5XG4w",
+      "title": "Chicago Fed Activity Index Pulls Back in July",
+      "content_text": "Chicago Fed Activity Index Pulls Back in July",
+      "summary": "",
+      "date_published": "2026-08-24T16:47:33+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "55ea3caa44c71233",
+      "url": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-7b8feab6",
+      "title": "Auto & Transport Roundup: Market Talk",
+      "content_text": "Auto & Transport Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-24T16:32:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "43acbb853db0a401",
+      "url": "https://www.wsj.com/opinion/trump-persuades-europe-740e8549",
+      "title": "Trump Persuades Europe",
+      "content_text": "Trump Persuades Europe",
+      "summary": "",
+      "date_published": "2026-08-24T16:16:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "bac0b9fd45e193f7",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/fresh-tariffs-boost-domestic-steel-dent-automakers-vyCiQBaMtqGJwtQWXFBK",
+      "title": "Fresh Tariffs Boost Domestic Steel, Dent Automakers",
+      "content_text": "Fresh Tariffs Boost Domestic Steel, Dent Automakers",
+      "summary": "",
+      "date_published": "2026-08-24T16:09:43+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "ece7ab65a36dcdd5",
+      "url": "https://www.wsj.com/sports/baseball/sam-fuld-wharton-phillies-460a9768",
+      "title": "The Major Leaguer Who Went to Wharton—and Learned to Run a Baseball Team",
+      "content_text": "The Major Leaguer Who Went to Wharton—and Learned to Run a Baseball Team",
+      "summary": "",
+      "date_published": "2026-08-24T16:00:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "27a16b024f74b43c",
+      "url": "https://www.wsj.com/business/autos/ev-maker-polestar-says-trump-administration-strung-it-along-before-u-s-ban-d172b3b9",
+      "title": "EV-Maker Polestar Says Trump Administration Strung It Along Before U.S. Ban",
+      "content_text": "EV-Maker Polestar Says Trump Administration Strung It Along Before U.S. Ban",
+      "summary": "",
+      "date_published": "2026-08-24T15:51:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "34a500f4f4a43ca0",
       "url": "https://www.wsj.com/arts-culture/books/five-best-books-on-the-human-side-of-science-a9976754",
       "title": "Five Best Books on the Human Side of Science",
@@ -2137,72 +2203,6 @@
       "date_published": "2026-08-21T20:00:02+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "881596f67ecdeb0f",
-      "url": "https://www.wsj.com/world/uk/prince-harrys-return-to-u-k-sets-up-showdown-with-tabloids-b487f798",
-      "title": "Prince Harry’s Return to U.K. Sets Up Showdown With Tabloids",
-      "content_text": "Prince Harry’s Return to U.K. Sets Up Showdown With Tabloids",
-      "summary": "",
-      "date_published": "2026-08-21T19:57:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "3ae6f9d5e1cb91e9",
-      "url": "https://www.wsj.com/us-news/law/trump-legal-ally-ed-martin-to-leave-justice-department-449b0f29",
-      "title": "Trump Legal Ally Ed Martin to Leave Justice Department",
-      "content_text": "Trump Legal Ally Ed Martin to Leave Justice Department",
-      "summary": "",
-      "date_published": "2026-08-21T19:45:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "fe3f9f453608c179",
-      "url": "https://www.wsj.com/health/healthcare/alfalfa-sprouts-linked-to-e-coli-salmonella-outbreak-across-15-states-3d47b78d",
-      "title": "Alfalfa Sprouts Linked to E. Coli, Salmonella Outbreak Across 15 States",
-      "content_text": "Alfalfa Sprouts Linked to E. Coli, Salmonella Outbreak Across 15 States",
-      "summary": "",
-      "date_published": "2026-08-21T19:42:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "4a2897df00620a12",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/oil-prices-extend-their-rally-9Xe3P9PMgII1kGdSDwmH",
-      "title": "Oil Prices Extend Their Rally",
-      "content_text": "Oil Prices Extend Their Rally",
-      "summary": "",
-      "date_published": "2026-08-21T19:41:37+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "d0b81e9fa99c3ea0",
-      "url": "https://www.wsj.com/arts-culture/books/13-books-we-read-this-week-aa4230f4",
-      "title": "13 Books We Read This Week",
-      "content_text": "13 Books We Read This Week",
-      "summary": "",
-      "date_published": "2026-08-21T19:33:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "4c2ea384957dbb23",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/a-1-million-renovation-revitalized-their-revolutionary-war-era-home-7c6904e4",
-      "title": "A $1 Million Renovation Revitalized Their Revolutionary War-Era Home",
-      "content_text": "A $1 Million Renovation Revitalized Their Revolutionary War-Era Home",
-      "summary": "",
-      "date_published": "2026-08-21T19:25:00+00:00",
-      "tags": [
-        "Real Estate"
       ]
     }
   ]
