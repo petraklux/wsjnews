@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "b827dd50e6721b08",
+      "url": "https://www.wsj.com/business/softbank-plans-record-retail-bond-issuance-amid-ai-push-b8ebd7b8",
+      "title": "SoftBank Plans Record Retail Bond Issuance Amid AI Push",
+      "content_text": "SoftBank Plans Record Retail Bond Issuance Amid AI Push",
+      "summary": "",
+      "date_published": "2026-08-24T05:11:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "f084cff0c1b909fe",
       "url": "https://www.wsj.com/opinion/pepperand-salt-47fa8dfc",
       "title": "Pepper…and Salt",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-08-21T10:52:00+00:00",
       "tags": [
         "Risk Compliance Journal"
-      ]
-    },
-    {
-      "id": "d85b89de8850759d",
-      "url": "https://www.wsj.com/politics/policy/the-white-house-ballroom-finally-gets-its-day-at-high-court-49a41728",
-      "title": "The White House Ballroom Finally Gets Its Day at High Court",
-      "content_text": "The White House Ballroom Finally Gets Its Day at High Court",
-      "summary": "",
-      "date_published": "2026-08-21T10:48:00+00:00",
-      "tags": [
-        "Politics"
       ]
     }
   ]
