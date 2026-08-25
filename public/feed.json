@@ -6,6 +6,127 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "a3ca0e74e593abdd",
+      "url": "https://www.wsj.com/arts-culture/film/dolly-parton-best-movies-9-to-5-a454689b",
+      "title": "Dolly Parton’s Hollywood Years: From ‘9 to 5’ to ‘Steel Magnolias’",
+      "content_text": "Dolly Parton’s Hollywood Years: From ‘9 to 5’ to ‘Steel Magnolias’",
+      "summary": "",
+      "date_published": "2026-08-25T22:34:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
+      "summary": "",
+      "date_published": "2026-08-25T22:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "5e99297ee047c917",
+      "url": "https://www.wsj.com/us-news/law/deloitte-to-pay-21-5-million-to-end-doj-fraud-investigation-over-dei-policies-a88b0266",
+      "title": "Deloitte to Pay $21.5 Million to End DOJ Fraud Investigation Over DEI Policies",
+      "content_text": "Deloitte to Pay $21.5 Million to End DOJ Fraud Investigation Over DEI Policies",
+      "summary": "",
+      "date_published": "2026-08-25T22:30:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "0eda47167866546b",
+      "url": "https://www.wsj.com/tech/ai/druckenmillers-surprising-critique-of-bessent-was-delivered-with-the-help-of-ai-9dd0a4fd",
+      "title": "Druckenmiller’s Surprising Critique of Bessent Was Delivered With the Help of AI",
+      "content_text": "Druckenmiller’s Surprising Critique of Bessent Was Delivered With the Help of AI",
+      "summary": "",
+      "date_published": "2026-08-25T22:25:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "1b9adeae2d4bb344",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/sonoma-county-ranch-record-home-sale-a02d85ad",
+      "title": "Tech Entrepreneur Fetches a Record $38.5 Million for His California Ranch",
+      "content_text": "Tech Entrepreneur Fetches a Record $38.5 Million for His California Ranch",
+      "summary": "",
+      "date_published": "2026-08-25T22:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "921146c18926906a",
+      "url": "https://www.wsj.com/opinion/josh-shapiro-finds-the-sensible-middle-on-data-centers-0658da4e",
+      "title": "Josh Shapiro Finds the Sensible Middle on Data Centers",
+      "content_text": "Josh Shapiro Finds the Sensible Middle on Data Centers",
+      "summary": "",
+      "date_published": "2026-08-25T21:53:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "a6fdad569306ff8e",
+      "url": "https://www.wsj.com/world/middle-east/trump-sends-nuclear-agreement-with-saudi-arabia-to-congress-7f01af2c",
+      "title": "Trump Sends Nuclear Agreement With Saudi Arabia to Congress",
+      "content_text": "Trump Sends Nuclear Agreement With Saudi Arabia to Congress",
+      "summary": "",
+      "date_published": "2026-08-25T21:51:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "e97ba3bb941d420a",
+      "url": "https://www.wsj.com/opinion/israel-e1-land-jerusalem-palestinians-west-bank-europe-53cbba94",
+      "title": "A False End of the ‘Two-State Solution’",
+      "content_text": "A False End of the ‘Two-State Solution’",
+      "summary": "",
+      "date_published": "2026-08-25T21:47:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "6030fb7a63ad4f90",
+      "url": "https://www.wsj.com/opinion/u-s-canada-steel-aluminum-tariffs-8f7cabf1",
+      "title": "The Metals Lobby’s Big Steal",
+      "content_text": "The Metals Lobby’s Big Steal",
+      "summary": "",
+      "date_published": "2026-08-25T21:44:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "80b4a867336c6b3e",
+      "url": "https://www.wsj.com/opinion/donald-trump-mail-ballots-usps-supreme-court-abaebbc9",
+      "title": "Trump, Mail Ballots and the Supreme Court",
+      "content_text": "Trump, Mail Ballots and the Supreme Court",
+      "summary": "",
+      "date_published": "2026-08-25T21:42:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "4fdcfe75d5ea186d",
+      "url": "https://www.wsj.com/opinion/marylands-digital-tax-fiasco-04361d89",
+      "title": "Maryland’s Digital Tax Fiasco",
+      "content_text": "Maryland’s Digital Tax Fiasco",
+      "summary": "",
+      "date_published": "2026-08-25T21:40:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
       "id": "131164ae205d0ac8",
       "url": "https://www.wsj.com/opinion/americas-spiraling-debt-crisis-e95dc05a",
       "title": "America’s Spiraling Debt Crisis",
@@ -2082,127 +2203,6 @@
       "date_published": "2026-08-24T13:48:02+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "dec8e59da5767d83",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-with-gains-2e71e11b",
-      "title": "U.S. Natural Gas Futures Start Week With Gains",
-      "content_text": "U.S. Natural Gas Futures Start Week With Gains",
-      "summary": "",
-      "date_published": "2026-08-24T13:47:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "93223559e549371c",
-      "url": "https://www.wsj.com/business/media/californias-bonta-cancels-paramount-meeting-citing-leaks-b4be3859",
-      "title": "California Attorney General Cancels Paramount Meeting, Citing Leaks",
-      "content_text": "California Attorney General Cancels Paramount Meeting, Citing Leaks",
-      "summary": "",
-      "date_published": "2026-08-24T13:39:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "07cefb6e1c263840",
-      "url": "https://www.wsj.com/tech/taiwan-charges-nine-in-connection-with-smuggling-of-ai-servers-to-china-d1f72f47",
-      "title": "Taiwan Charges Nine in Connection With Smuggling of AI Servers to China",
-      "content_text": "Taiwan Charges Nine in Connection With Smuggling of AI Servers to China",
-      "summary": "",
-      "date_published": "2026-08-24T13:32:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "a84ab05fc203e94d",
-      "url": "https://www.wsj.com/business/hospitality/wendys-ceo-aims-for-chain-to-get-back-in-the-burger-fight-7f43054b",
-      "title": "Wendy’s CEO Aims for Chain to Get Back in the Burger Fight",
-      "content_text": "Wendy’s CEO Aims for Chain to Get Back in the Burger Fight",
-      "summary": "",
-      "date_published": "2026-08-24T13:15:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "67a229f9726f9141",
-      "url": "https://www.wsj.com/news/markets/real-estate-commercial",
-      "title": "Real estate commercial",
-      "content_text": "Real estate commercial",
-      "summary": "",
-      "date_published": "2026-08-24T13:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
-      "summary": "",
-      "date_published": "2026-08-24T13:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "a2c51ea641c8e80c",
-      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
-      "title": "Economic forecasting survey archive",
-      "content_text": "Economic forecasting survey archive",
-      "summary": "",
-      "date_published": "2026-08-24T13:00:19+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "bbc53e03f8d4912c",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/how-can-bessent-escalate-america-s-economic-war-on-iran--8XcwpZqJNXrKbWBjLaGo",
-      "title": "How Can Bessent Escalate America’s Economic War on Iran?",
-      "content_text": "How Can Bessent Escalate America’s Economic War on Iran?",
-      "summary": "",
-      "date_published": "2026-08-24T13:00:13+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "a91697604aabfeea",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/uncle-sam-s-tab-lives-rent-free-in-your-mortgage-payment-UvyuBONuH6iCQo2YSA9k",
-      "title": "Uncle Sam’s Tab Lives Rent-Free in Your Mortgage Payment",
-      "content_text": "Uncle Sam’s Tab Lives Rent-Free in Your Mortgage Payment",
-      "summary": "",
-      "date_published": "2026-08-24T12:57:51+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "b8b0781e26adf07c",
-      "url": "https://www.wsj.com/us-news/local-business-group-sues-over-mamdanis-plan-to-open-municipal-grocery-stores-ab0aa736",
-      "title": "Local Business Group Sues Over Mamdani’s Plan to Open Municipal Grocery Stores",
-      "content_text": "Local Business Group Sues Over Mamdani’s Plan to Open Municipal Grocery Stores",
-      "summary": "",
-      "date_published": "2026-08-24T12:54:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "7d8af801a5825cc1",
-      "url": "https://www.wsj.com/business/earnings/xpeng-net-loss-widens-amid-physical-ai-push-e44b31f1",
-      "title": "XPeng Net Loss Widens Amid Physical AI Push",
-      "content_text": "XPeng Net Loss Widens Amid Physical AI Push",
-      "summary": "",
-      "date_published": "2026-08-24T12:37:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
