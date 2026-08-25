@@ -6,6 +6,61 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-08-25T23:30:19+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-08-25T23:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "67a229f9726f9141",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial",
+      "title": "Real estate commercial",
+      "content_text": "Real estate commercial",
+      "summary": "",
+      "date_published": "2026-08-25T23:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "2a6b99ab0c5411f6",
+      "url": "https://www.wsj.com/us-news/mamdani-lawyers-defend-pied-a-terre-tax-rollout-in-court-659e4a03",
+      "title": "Mamdani Lawyers Defend Pied-à-Terre Tax Rollout in Court",
+      "content_text": "Mamdani Lawyers Defend Pied-à-Terre Tax Rollout in Court",
+      "summary": "",
+      "date_published": "2026-08-25T23:27:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "fdf3da61245389c9",
+      "url": "https://www.wsj.com/opinion/most-depressing-election-of-the-year-0bb3025f",
+      "title": "Most Depressing Election of the Year",
+      "content_text": "Most Depressing Election of the Year",
+      "summary": "",
+      "date_published": "2026-08-25T23:16:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
       "id": "a3ca0e74e593abdd",
       "url": "https://www.wsj.com/arts-culture/film/dolly-parton-best-movies-9-to-5-a454689b",
       "title": "Dolly Parton’s Hollywood Years: From ‘9 to 5’ to ‘Steel Magnolias’",
@@ -2148,61 +2203,6 @@
       "date_published": "2026-08-24T14:00:19+00:00",
       "tags": [
         "News"
-      ]
-    },
-    {
-      "id": "5a885d497fa8a917",
-      "url": "https://www.wsj.com/news/types/the-saturday-interview",
-      "title": "The saturday interview",
-      "content_text": "The saturday interview",
-      "summary": "",
-      "date_published": "2026-08-24T14:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
-      "summary": "",
-      "date_published": "2026-08-24T14:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "7dc8b4faabd2306c",
-      "url": "https://www.wsj.com/arts-culture/music/wynton-marsalis-jazz-at-lincoln-center-f1511da1",
-      "title": "Wynton Marsalis on Playing When Nobody Is Listening",
-      "content_text": "Wynton Marsalis on Playing When Nobody Is Listening",
-      "summary": "",
-      "date_published": "2026-08-24T14:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "b27d78573eec3d96",
-      "url": "https://www.wsj.com/lifestyle/travel/extreme-outdoor-adventures-beginners-c31a463c",
-      "title": "Where to Find Extreme Outdoor Adventures, No Experience Required",
-      "content_text": "Where to Find Extreme Outdoor Adventures, No Experience Required",
-      "summary": "",
-      "date_published": "2026-08-24T14:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "fe1649f971fdb8c3",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/the-gap-in-the-hormuz-math-HXZMTwNlGEfWDJUpNav5",
-      "title": "The Gap in the Hormuz Math",
-      "content_text": "The Gap in the Hormuz Math",
-      "summary": "",
-      "date_published": "2026-08-24T13:48:02+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
