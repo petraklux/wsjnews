@@ -6,6 +6,39 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "d456dddc7773e291",
+      "url": "https://www.wsj.com/politics/national-security/iran-war-warnings-9d7f289a",
+      "title": "The Warnings That Came Before a War Now Reaching the Six-Month Mark",
+      "content_text": "The Warnings That Came Before a War Now Reaching the Six-Month Mark",
+      "summary": "",
+      "date_published": "2026-08-25T03:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "dae3178495720d21",
+      "url": "https://www.wsj.com/economy/central-banking/reserve-bank-of-australia-remains-jittery-about-inflation-risks-3d673939",
+      "title": "Reserve Bank of Australia Remains Jittery About Inflation Risks",
+      "content_text": "Reserve Bank of Australia Remains Jittery About Inflation Risks",
+      "summary": "",
+      "date_published": "2026-08-25T02:56:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "cb11a5952ee7df9d",
+      "url": "https://www.wsj.com/business/autos/hyundai-motor-union-reach-wage-deal-to-end-walkouts-49a68157",
+      "title": "Hyundai Motor, Union Reach Wage Deal to End Walkouts",
+      "content_text": "Hyundai Motor, Union Reach Wage Deal to End Walkouts",
+      "summary": "",
+      "date_published": "2026-08-25T02:30:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "4f2eb6cc9b5de784",
       "url": "https://www.wsj.com/tech/flock-cameras-are-spreading-across-america-the-backlash-is-growing-just-as-fast-fff74ed2",
       "title": "Flock Cameras Are Spreading Across America. The Backlash Is Growing Just as Fast.",
@@ -94,17 +127,6 @@
       ]
     },
     {
-      "id": "406816ea13205660",
-      "url": "https://www.wsj.com/tech/ai/why-your-boss-wants-to-make-sure-ai-can-read-your-slack-messages-b6c149c1",
-      "title": "Why Your Boss Wants to Make Sure AI Can Read Your Slack Messages",
-      "content_text": "Why Your Boss Wants to Make Sure AI Can Read Your Slack Messages",
-      "summary": "",
-      "date_published": "2026-08-25T00:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
       "id": "3440109eed96c0cd",
       "url": "https://www.wsj.com/arts-culture/food-cooking/how-being-a-wine-connoisseur-became-the-ultimate-business-flex-055cb2d8",
       "title": "How Being a Wine Connoisseur Became the Ultimate Business Flex",
@@ -113,6 +135,17 @@
       "date_published": "2026-08-25T00:00:00+00:00",
       "tags": [
         "Arts Culture"
+      ]
+    },
+    {
+      "id": "406816ea13205660",
+      "url": "https://www.wsj.com/tech/ai/why-your-boss-wants-to-make-sure-ai-can-read-your-slack-messages-b6c149c1",
+      "title": "Why Your Boss Wants to Make Sure AI Can Read Your Slack Messages",
+      "content_text": "Why Your Boss Wants to Make Sure AI Can Read Your Slack Messages",
+      "summary": "",
+      "date_published": "2026-08-25T00:00:00+00:00",
+      "tags": [
+        "Tech"
       ]
     },
     {
@@ -2170,39 +2203,6 @@
       "date_published": "2026-08-22T16:00:00+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "e5ebdff4ce5580d5",
-      "url": "https://www.wsj.com/politics/elections/the-former-local-news-anchor-in-the-political-fight-of-her-life-d481f603",
-      "title": "The Former Local News Anchor in the Political Fight of Her Life",
-      "content_text": "The Former Local News Anchor in the Political Fight of Her Life",
-      "summary": "",
-      "date_published": "2026-08-22T16:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "92d6384b43f667d2",
-      "url": "https://www.wsj.com/business/readers-share-their-stubhub-ticketing-woes-f317a3f8",
-      "title": "Readers Share Their StubHub Ticketing Woes",
-      "content_text": "Readers Share Their StubHub Ticketing Woes",
-      "summary": "",
-      "date_published": "2026-08-22T15:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "4853932ffd3427dd",
-      "url": "https://www.wsj.com/cio-journal/the-premier-league-is-back-but-how-many-coaches-will-survive-the-season-a13bf0aa",
-      "title": "The Premier League Is Back. But How Many Coaches Will Survive the Season?",
-      "content_text": "The Premier League Is Back. But How Many Coaches Will Survive the Season?",
-      "summary": "",
-      "date_published": "2026-08-22T14:55:00+00:00",
-      "tags": [
-        "Cio Journal"
       ]
     }
   ]
