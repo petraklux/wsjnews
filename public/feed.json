@@ -6,6 +6,39 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "93240fa74f683f86",
+      "url": "https://www.wsj.com/business/one-of-taiwans-biggest-ai-winners-isnt-a-chip-maker-51768bd5",
+      "title": "One of Taiwan’s Biggest AI Winners Isn’t a Chip Maker",
+      "content_text": "One of Taiwan’s Biggest AI Winners Isn’t a Chip Maker",
+      "summary": "",
+      "date_published": "2026-08-25T06:45:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "ee6f0014a07c07aa",
+      "url": "https://www.wsj.com/economy/german-economy-gets-upward-revision-for-second-quarter-on-resilient-exports-c6a4525d",
+      "title": "German Economy Gets Upward Revision for Second Quarter on Resilient Exports",
+      "content_text": "German Economy Gets Upward Revision for Second Quarter on Resilient Exports",
+      "summary": "",
+      "date_published": "2026-08-25T06:39:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "e7e490781a3aa229",
+      "url": "https://www.wsj.com/business/earnings/gold-fields-returns-more-cash-to-shareholders-as-earnings-jump-on-higher-prices-d164eb2e",
+      "title": "Gold Fields Returns More Cash to Shareholders as Earnings Jump on Higher Prices",
+      "content_text": "Gold Fields Returns More Cash to Shareholders as Earnings Jump on Higher Prices",
+      "summary": "",
+      "date_published": "2026-08-25T06:04:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "c114e3abb10a63ed",
       "url": "https://www.wsj.com/business/energy-oil/woodside-puts-everything-on-the-table-in-review-of-beaumont-facility-7abc603b",
       "title": "Woodside Puts ‘Everything on the Table’ in Review of Beaumont Facility",
@@ -2170,39 +2203,6 @@
       "date_published": "2026-08-22T19:02:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "acd2d800cf947bf9",
-      "url": "https://www.wsj.com/economy/trade/whats-getting-hit-with-the-new-u-s-canada-tariffs-4cb8141c",
-      "title": "What’s Getting Hit With the New U.S.-Canada Tariffs",
-      "content_text": "What’s Getting Hit With the New U.S.-Canada Tariffs",
-      "summary": "",
-      "date_published": "2026-08-22T18:59:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "b1c2a8bffad323ff",
-      "url": "https://www.wsj.com/lifestyle/careers/british-kids-are-skipping-top-colleges-for-white-collar-apprenticeships-77a47f5c",
-      "title": "British Kids Are Skipping Top Colleges for White-Collar Apprenticeships",
-      "content_text": "British Kids Are Skipping Top Colleges for White-Collar Apprenticeships",
-      "summary": "",
-      "date_published": "2026-08-22T18:31:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "c298a9f8fa0c3325",
-      "url": "https://www.wsj.com/us-news/ride-shotgun-in-a-corvette-on-d-c-s-freedom-250-indycar-track-c17fada7",
-      "title": "Ride Shotgun in a Corvette on D.C.’s Freedom 250 IndyCar Track",
-      "content_text": "Ride Shotgun in a Corvette on D.C.’s Freedom 250 IndyCar Track",
-      "summary": "",
-      "date_published": "2026-08-22T17:08:00+00:00",
-      "tags": [
-        "Us News"
       ]
     }
   ]
