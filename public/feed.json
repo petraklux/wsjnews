@@ -6,6 +6,72 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "39a7a3cb251ed447",
+      "url": "https://www.wsj.com/personal-finance/wsj-callout-sandwich-generation-b7674f33",
+      "title": "Are You Caring For Your Kids and Aging Parents? Tell Us Your Biggest Challenges",
+      "content_text": "Are You Caring For Your Kids and Aging Parents? Tell Us Your Biggest Challenges",
+      "summary": "",
+      "date_published": "2026-08-25T14:37:00+00:00",
+      "tags": [
+        "Personal Finance"
+      ]
+    },
+    {
+      "id": "ee74168ca0d9da4e",
+      "url": "https://www.wsj.com/economy/central-banking/u-s-consumer-sentiment-fell-in-august-conference-board-says-9453f12c",
+      "title": "U.S. Consumer Sentiment Fell in August, Conference Board Says",
+      "content_text": "U.S. Consumer Sentiment Fell in August, Conference Board Says",
+      "summary": "",
+      "date_published": "2026-08-25T14:26:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "250d1ede848a80d0",
+      "url": "https://www.wsj.com/arts-culture/books/fiction-the-disappearers-by-marlon-james-e8eee914",
+      "title": "Fiction: ‘The Disappearers’ by Marlon James",
+      "content_text": "Fiction: ‘The Disappearers’ by Marlon James",
+      "summary": "",
+      "date_published": "2026-08-25T14:18:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "d78019fed02e829d",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/dick-s-sporting-goods-stock-slumps-dragging-nike-nBhSaUKcbrI2TNKYAbNS",
+      "title": "Dick’s Sporting Goods Stock Slumps, Dragging Nike",
+      "content_text": "Dick’s Sporting Goods Stock Slumps, Dragging Nike",
+      "summary": "",
+      "date_published": "2026-08-25T14:12:26+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "37f7600a96f4b536",
+      "url": "https://www.wsj.com/tech/cybersecurity/quantum-computing-threat-cybersecurity-62d293b1",
+      "title": "Why Quantum Computing Is a Threat to Cybersecurity",
+      "content_text": "Why Quantum Computing Is a Threat to Cybersecurity",
+      "summary": "",
+      "date_published": "2026-08-25T14:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "4050c1773ec14bd7",
+      "url": "https://www.wsj.com/finance/regulation/regulators-probing-near-collapse-of-hedge-fund-situational-awareness-dbf5dfc6",
+      "title": "Regulators Probing Near-Collapse of Hedge Fund Situational Awareness",
+      "content_text": "Regulators Probing Near-Collapse of Hedge Fund Situational Awareness",
+      "summary": "",
+      "date_published": "2026-08-25T14:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "a6dcd5ca9655764c",
       "url": "https://www.wsj.com/cio-journal/nvidias-groq-chip-will-shape-ai-agent-usability-b2e076cd",
       "title": "Nvidia’s Groq Chip Will Shape AI Agent Usability",
@@ -2137,72 +2203,6 @@
       "date_published": "2026-08-24T01:00:00+00:00",
       "tags": [
         "Economy"
-      ]
-    },
-    {
-      "id": "feb753189f13e774",
-      "url": "https://www.wsj.com/finance/stocks/wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going-7e7caf0c",
-      "title": "Wall Street Is Counting on Nvidia to Keep the AI Party Going",
-      "content_text": "Wall Street Is Counting on Nvidia to Keep the AI Party Going",
-      "summary": "",
-      "date_published": "2026-08-24T01:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "e7ab42f1925092e0",
-      "url": "https://www.wsj.com/business/shein-looks-to-raise-up-to-1-77-billion-in-long-awaited-hong-kong-offering-e7883ec6",
-      "title": "Shein Looks to Raise Up to $1.77 Billion in Long-Awaited Hong Kong Offering",
-      "content_text": "Shein Looks to Raise Up to $1.77 Billion in Long-Awaited Hong Kong Offering",
-      "summary": "",
-      "date_published": "2026-08-24T00:55:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "b591ed4f0bd6c557",
-      "url": "https://www.wsj.com/finance/jgbs-fall-tracking-declines-in-u-s-treasurys-00d7abec",
-      "title": "JGBs Fall, Tracking Declines in U.S. Treasurys",
-      "content_text": "JGBs Fall, Tracking Declines in U.S. Treasurys",
-      "summary": "",
-      "date_published": "2026-08-24T00:44:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "9528b362d3ba5631",
-      "url": "https://www.wsj.com/world/americas/canadas-carney-puts-his-no-deal-is-better-than-a-bad-deal-doctrine-to-the-test-9d9b5f6e",
-      "title": "Canada’s Carney Puts His ‘No Deal Is Better Than a Bad Deal’ Doctrine to the Test",
-      "content_text": "Canada’s Carney Puts His ‘No Deal Is Better Than a Bad Deal’ Doctrine to the Test",
-      "summary": "",
-      "date_published": "2026-08-24T00:34:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "59c3b88a608442e6",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-possible-position-adjustments-before-potential-u-s-sanctions-on-iran-6d0d22c3",
-      "title": "Oil Falls on Possible Position Adjustments Before Potential U.S. Sanctions on Iran",
-      "content_text": "Oil Falls on Possible Position Adjustments Before Potential U.S. Sanctions on Iran",
-      "summary": "",
-      "date_published": "2026-08-24T00:22:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "a301d53d0c8e8b70",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-edges-0-3-higher-tracking-wall-streets-gains-7da05fa9",
-      "title": "Nikkei Edges 0.3% Higher, Tracking Wall Street’s Gains",
-      "content_text": "Nikkei Edges 0.3% Higher, Tracking Wall Street’s Gains",
-      "summary": "",
-      "date_published": "2026-08-24T00:19:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]
