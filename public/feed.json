@@ -6,6 +6,61 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "a014ad3512995fa1",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/anthropic-s-very-big-number-Tp3WpMroAV80wUMsTVD7",
+      "title": "Anthropic’s Very Big Number",
+      "content_text": "Anthropic’s Very Big Number",
+      "summary": "",
+      "date_published": "2026-08-25T18:30:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "3b32e43599a36140",
+      "url": "https://www.wsj.com/arts-culture/music/dolly-parton-prolific-songwriter-beloved-cultural-icon-dies-at-80-6fb256fa",
+      "title": "Dolly Parton, Prolific Songwriter, Beloved Cultural Icon, Dies at 80",
+      "content_text": "Dolly Parton, Prolific Songwriter, Beloved Cultural Icon, Dies at 80",
+      "summary": "",
+      "date_published": "2026-08-25T18:19:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "246d4d88bbb8a0fc",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/-money-quote-challenges-in-sportswear-8WLN1bR6z2VlRjfYILFH",
+      "title": "💬 Money Quote: Challenges in Sportswear",
+      "content_text": "💬 Money Quote: Challenges in Sportswear",
+      "summary": "",
+      "date_published": "2026-08-25T18:00:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "7685f05c6ce45312",
+      "url": "https://www.wsj.com/lifestyle/travel/camino-de-santiago-pilgrimage-walk-6f611461",
+      "title": "I Walked 500 Miles on the Camino de Santiago to Find What Comes Next",
+      "content_text": "I Walked 500 Miles on the Camino de Santiago to Find What Comes Next",
+      "summary": "",
+      "date_published": "2026-08-25T18:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "3223f00845d3ad02",
+      "url": "https://www.wsj.com/arts-culture/books/notes-of-deception-review-a-mission-for-tourists-51784589",
+      "title": "‘Notes of Deception’ Review: A Mission for Tourists",
+      "content_text": "‘Notes of Deception’ Review: A Mission for Tourists",
+      "summary": "",
+      "date_published": "2026-08-25T17:53:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
       "id": "8bcde4e2958b2ad1",
       "url": "https://www.wsj.com/arts-culture/books/priya-parker-the-art-of-fighting-e1cb9572",
       "title": "The Conflict Resolution Expert Who Thinks We All Need to Fight More",
@@ -2148,61 +2203,6 @@
       "date_published": "2026-08-24T09:30:00+00:00",
       "tags": [
         "Lifestyle"
-      ]
-    },
-    {
-      "id": "8e24213053e1a92b",
-      "url": "https://www.wsj.com/cfo-journal/crocss-plan-to-turn-short-term-pain-into-long-term-gain-4ae32bb6",
-      "title": "Crocs’s Plan to Turn Short-Term Pain Into Long-Term Gain",
-      "content_text": "Crocs’s Plan to Turn Short-Term Pain Into Long-Term Gain",
-      "summary": "",
-      "date_published": "2026-08-24T09:30:00+00:00",
-      "tags": [
-        "Cfo Journal"
-      ]
-    },
-    {
-      "id": "d222ce43245fe8e6",
-      "url": "https://www.wsj.com/finance/currencies/how-trumps-crypto-push-is-linked-to-bessents-treasury-moves-809defdc",
-      "title": "How Trump’s Crypto Push Is Linked to Bessent’s Treasury Moves",
-      "content_text": "How Trump’s Crypto Push Is Linked to Bessent’s Treasury Moves",
-      "summary": "",
-      "date_published": "2026-08-24T09:30:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "a115bb2665d28d94",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/shein-shrinks-in-the-wash-79SKhbSkYg07bFZ1UsOz",
-      "title": "Shein Shrinks in the Wash",
-      "content_text": "Shein Shrinks in the Wash",
-      "summary": "",
-      "date_published": "2026-08-24T09:19:32+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "3faa01eff5171e66",
-      "url": "https://www.wsj.com/finance/investing/nasdaq-futures-tech-stocks-slide-as-u-s-canada-trade-war-in-focus-22023ea9",
-      "title": "Nasdaq Futures, Tech Stocks Slide as U.S.-Canada Trade War in Focus",
-      "content_text": "Nasdaq Futures, Tech Stocks Slide as U.S.-Canada Trade War in Focus",
-      "summary": "",
-      "date_published": "2026-08-24T09:01:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "7e06cdbdc48e47e1",
-      "url": "https://www.wsj.com/finance/investing/global-bond-yields-fall-on-declining-oil-prospects-of-further-treasury-steps-to-tackle-recent-highs-d3794894",
-      "title": "Global Bond Yields Fall on Declining Oil, Prospects of Further Treasury Steps to Tackle Recent Highs",
-      "content_text": "Global Bond Yields Fall on Declining Oil, Prospects of Further Treasury Steps to Tackle Recent Highs",
-      "summary": "",
-      "date_published": "2026-08-24T08:26:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]
