@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "c114e3abb10a63ed",
+      "url": "https://www.wsj.com/business/energy-oil/woodside-puts-everything-on-the-table-in-review-of-beaumont-facility-7abc603b",
+      "title": "Woodside Puts ‘Everything on the Table’ in Review of Beaumont Facility",
+      "content_text": "Woodside Puts ‘Everything on the Table’ in Review of Beaumont Facility",
+      "summary": "",
+      "date_published": "2026-08-25T05:13:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "a5d9c6352faae233",
+      "url": "https://www.wsj.com/finance/currencies/bitcoin-hits-more-than-three-month-high-0dbb50ad",
+      "title": "Bitcoin Hits More Than Three-Month High",
+      "content_text": "Bitcoin Hits More Than Three-Month High",
+      "summary": "",
+      "date_published": "2026-08-25T05:12:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "af2b8e1b997bb11a",
       "url": "https://www.wsj.com/opinion/pepperand-salt-a72f64e2",
       "title": "Pepper…and Salt",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-22T17:08:00+00:00",
       "tags": [
         "Us News"
-      ]
-    },
-    {
-      "id": "bd4dabbd9a08bf16",
-      "url": "https://www.wsj.com/world/asia/canada-announces-new-post-labor-day-tariffs-ef1de8e1",
-      "title": "Canada Announces New Post-Labor Day Tariffs",
-      "content_text": "Canada Announces New Post-Labor Day Tariffs",
-      "summary": "",
-      "date_published": "2026-08-22T16:42:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "e37991e95ed7654c",
-      "url": "https://www.wsj.com/economy/trade/canada-announces-new-post-labor-day-tariffs-ef1de8e1",
-      "title": "Canada Announces New Tariffs on U.S. as Trade War Widens",
-      "content_text": "Canada Announces New Tariffs on U.S. as Trade War Widens",
-      "summary": "",
-      "date_published": "2026-08-22T16:42:00+00:00",
-      "tags": [
-        "Economy"
       ]
     }
   ]
