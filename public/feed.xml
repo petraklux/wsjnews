@@ -8,14 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 23:33:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 23:54:23 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>Economic forecasting survey archive</title>
-      <link>https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998</link>
-      <description>&lt;p&gt;Economic forecasting survey archive&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">a2c51ea641c8e80c</guid>
-      <category>Economy</category>
+      <title>Real estate commercial</title>
+      <link>https://www.wsj.com/news/markets/real-estate-commercial</link>
+      <description>&lt;p&gt;Real estate commercial&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/news/markets/real-estate-commercial"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">67a229f9726f9141</guid>
+      <category>News</category>
       <pubDate>Tue, 25 Aug 2026 23:30:19 +0000</pubDate>
     </item>
     <item>
@@ -27,10 +27,26 @@
       <pubDate>Tue, 25 Aug 2026 23:30:19 +0000</pubDate>
     </item>
     <item>
-      <title>Real estate commercial</title>
-      <link>https://www.wsj.com/news/markets/real-estate-commercial</link>
-      <description>&lt;p&gt;Real estate commercial&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/news/markets/real-estate-commercial"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">67a229f9726f9141</guid>
+      <title>Economic forecasting survey archive</title>
+      <link>https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998</link>
+      <description>&lt;p&gt;Economic forecasting survey archive&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">a2c51ea641c8e80c</guid>
+      <category>Economy</category>
+      <pubDate>Tue, 25 Aug 2026 23:30:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kimberley a strassel</title>
+      <link>https://www.wsj.com/news/author/kimberley-a-strassel</link>
+      <description>&lt;p&gt;Kimberley a strassel&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/news/author/kimberley-a-strassel"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">5bde10fa9f9b2a36</guid>
+      <category>News</category>
+      <pubDate>Tue, 25 Aug 2026 23:30:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>The saturday interview</title>
+      <link>https://www.wsj.com/news/types/the-saturday-interview</link>
+      <description>&lt;p&gt;The saturday interview&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/news/types/the-saturday-interview"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">5a885d497fa8a917</guid>
       <category>News</category>
       <pubDate>Tue, 25 Aug 2026 23:30:19 +0000</pubDate>
     </item>
@@ -1593,22 +1609,6 @@
       <guid isPermaLink="false">90cb4d5963f80f88</guid>
       <category>Opinion</category>
       <pubDate>Mon, 24 Aug 2026 14:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Threatens 50% Tariff on Automobiles and Parts From Canada</title>
-      <link>https://www.wsj.com/economy/trade/trump-threatens-50-tariff-on-automobiles-and-parts-from-canada-83c10448</link>
-      <description>&lt;p&gt;Trump Threatens 50% Tariff on Automobiles and Parts From Canada&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/economy/trade/trump-threatens-50-tariff-on-automobiles-and-parts-from-canada-83c10448"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">b65915d797f64fe4</guid>
-      <category>Economy</category>
-      <pubDate>Mon, 24 Aug 2026 14:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elizabeth anne bernstein</title>
-      <link>https://www.wsj.com/news/author/elizabeth-anne-bernstein</link>
-      <description>&lt;p&gt;Elizabeth anne bernstein&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/news/author/elizabeth-anne-bernstein"&gt;阅读原文 →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">0038b06dd019061e</guid>
-      <category>News</category>
-      <pubDate>Mon, 24 Aug 2026 14:00:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

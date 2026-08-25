@@ -1,18 +1,5 @@
 {
   "items": {
-    "0038b06dd019061e": {
-      "dek": "",
-      "first_seen": "2026-08-24T14:00:39.902274+00:00",
-      "guid": "0038b06dd019061e",
-      "published": "2026-08-24T14:00:19+00:00",
-      "section": "News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Elizabeth anne bernstein",
-      "title": "Elizabeth anne bernstein",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein"
-    },
     "00ad5ca6f9b590fb": {
       "dek": "",
       "first_seen": "2026-08-24T21:38:12.859564+00:00",
@@ -949,6 +936,19 @@
       "title": "Roger Federer Doesn’t Get Mad When He’s Playing Golf, Either",
       "url": "https://www.wsj.com/sports/tennis/roger-federer-us-open-6877db4d"
     },
+    "5a885d497fa8a917": {
+      "dek": "",
+      "first_seen": "2026-08-25T23:54:23.996447+00:00",
+      "guid": "5a885d497fa8a917",
+      "published": "2026-08-25T23:30:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The saturday interview",
+      "title": "The saturday interview",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview"
+    },
     "5b7caa369e69e418": {
       "dek": "",
       "first_seen": "2026-08-25T21:37:45.394061+00:00",
@@ -961,6 +961,19 @@
       "summary": "Zoom Communications Revenue Rises on Enterprise Growth",
       "title": "Zoom Communications Revenue Rises on Enterprise Growth",
       "url": "https://www.wsj.com/business/earnings/zoom-communications-revenue-rises-on-enterprise-growth-7b6d23a5"
+    },
+    "5bde10fa9f9b2a36": {
+      "dek": "",
+      "first_seen": "2026-08-25T23:54:23.996447+00:00",
+      "guid": "5bde10fa9f9b2a36",
+      "published": "2026-08-25T23:30:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Kimberley a strassel",
+      "title": "Kimberley a strassel",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel"
     },
     "5d518e8d29b4dbac": {
       "dek": "",
@@ -1794,19 +1807,6 @@
       "title": "Intuit Forecasts Slower Growth, Takes Steps to Win More TurboTax Users",
       "url": "https://www.wsj.com/business/earnings/intuit-forecasts-slower-growth-takes-steps-to-win-more-turbotax-users-6633b7dc"
     },
-    "b65915d797f64fe4": {
-      "dek": "",
-      "first_seen": "2026-08-24T14:53:44.798574+00:00",
-      "guid": "b65915d797f64fe4",
-      "published": "2026-08-24T14:05:00+00:00",
-      "section": "Economy",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Trump Threatens 50% Tariff on Automobiles and Parts From Canada",
-      "title": "Trump Threatens 50% Tariff on Automobiles and Parts From Canada",
-      "url": "https://www.wsj.com/economy/trade/trump-threatens-50-tariff-on-automobiles-and-parts-from-canada-83c10448"
-    },
     "b6c14b3f4a44fe80": {
       "dek": "",
       "first_seen": "2026-08-25T10:43:04.373563+00:00",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/bessent-mentor-druckenmiller-blasts-bond-intervention-mistake--nhXM2e6TUGOddEWSynLd"
     }
   },
-  "updated": "2026-08-25T23:33:17.791095+00:00"
+  "updated": "2026-08-25T23:54:24.019710+00:00"
 }

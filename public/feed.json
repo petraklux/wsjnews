@@ -6,14 +6,14 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "a2c51ea641c8e80c",
-      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
-      "title": "Economic forecasting survey archive",
-      "content_text": "Economic forecasting survey archive",
+      "id": "67a229f9726f9141",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial",
+      "title": "Real estate commercial",
+      "content_text": "Real estate commercial",
       "summary": "",
       "date_published": "2026-08-25T23:30:19+00:00",
       "tags": [
-        "Economy"
+        "News"
       ]
     },
     {
@@ -28,10 +28,32 @@
       ]
     },
     {
-      "id": "67a229f9726f9141",
-      "url": "https://www.wsj.com/news/markets/real-estate-commercial",
-      "title": "Real estate commercial",
-      "content_text": "Real estate commercial",
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-08-25T23:30:19+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
+      "summary": "",
+      "date_published": "2026-08-25T23:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "5a885d497fa8a917",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview",
+      "title": "The saturday interview",
+      "content_text": "The saturday interview",
       "summary": "",
       "date_published": "2026-08-25T23:30:19+00:00",
       "tags": [
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-24T14:19:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "b65915d797f64fe4",
-      "url": "https://www.wsj.com/economy/trade/trump-threatens-50-tariff-on-automobiles-and-parts-from-canada-83c10448",
-      "title": "Trump Threatens 50% Tariff on Automobiles and Parts From Canada",
-      "content_text": "Trump Threatens 50% Tariff on Automobiles and Parts From Canada",
-      "summary": "",
-      "date_published": "2026-08-24T14:05:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
-      "summary": "",
-      "date_published": "2026-08-24T14:00:19+00:00",
-      "tags": [
-        "News"
       ]
     }
   ]
