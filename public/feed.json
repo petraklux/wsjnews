@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "e071cc92e04add70",
+      "url": "https://www.wsj.com/business/retail/lego-sales-growth-outpaces-global-toy-market-to-hit-new-record-b3403829",
+      "title": "Lego Sales Growth Outpaces Global Toy Market to Hit New Record",
+      "content_text": "Lego Sales Growth Outpaces Global Toy Market to Hit New Record",
+      "summary": "",
+      "date_published": "2026-08-25T07:23:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "93240fa74f683f86",
       "url": "https://www.wsj.com/business/one-of-taiwans-biggest-ai-winners-isnt-a-chip-maker-51768bd5",
       "title": "One of Taiwan’s Biggest AI Winners Isn’t a Chip Maker",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-08-22T23:00:00+00:00",
       "tags": [
         "Personal Finance"
-      ]
-    },
-    {
-      "id": "ba5d5ad2ef974e3f",
-      "url": "https://www.wsj.com/business/media/paramount-prepares-to-begin-early-settlement-talks-with-california-officials-462f68e2",
-      "title": "Paramount Prepares to Begin Early Settlement Talks With California Officials",
-      "content_text": "Paramount Prepares to Begin Early Settlement Talks With California Officials",
-      "summary": "",
-      "date_published": "2026-08-22T19:02:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
