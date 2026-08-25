@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "af2b8e1b997bb11a",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-a72f64e2",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-08-25T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
       "id": "d456dddc7773e291",
       "url": "https://www.wsj.com/politics/national-security/iran-war-warnings-9d7f289a",
       "title": "The Warnings That Came Before a War Now Reaching the Six-Month Mark",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-08-22T16:42:00+00:00",
       "tags": [
         "Economy"
-      ]
-    },
-    {
-      "id": "b0cdb60aac58fa27",
-      "url": "https://www.wsj.com/arts-culture/television/michael-ian-black-hairless-men-fe59b683",
-      "title": "Behold the Hairless He-Men of Summer",
-      "content_text": "Behold the Hairless He-Men of Summer",
-      "summary": "",
-      "date_published": "2026-08-22T16:00:00+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]
