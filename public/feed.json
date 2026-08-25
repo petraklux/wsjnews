@@ -6,6 +6,72 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "8068bf1c1a63c2fc",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/stocks-to-watch-strategy-nvidia-xpeng-Kx8tq1ymH3vYIpb8wZai",
+      "title": "Stocks to Watch: Strategy, Nvidia, XPeng",
+      "content_text": "Stocks to Watch: Strategy, Nvidia, XPeng",
+      "summary": "",
+      "date_published": "2026-08-25T09:35:20+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "e5cc5472f60cdcb5",
+      "url": "https://www.wsj.com/finance/investing/global-bond-markets-stabilize-as-investors-mull-u-s-buybacks-iran-sanctions-cc1356e6",
+      "title": "Global Bond Markets Stabilize as Investors Mull U.S. Buybacks, Iran Sanctions",
+      "content_text": "Global Bond Markets Stabilize as Investors Mull U.S. Buybacks, Iran Sanctions",
+      "summary": "",
+      "date_published": "2026-08-25T09:31:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "8d080ae66dece797",
+      "url": "https://www.wsj.com/lifestyle/transit-speedrunners-competition-subway-bart-24ce1b03",
+      "title": "Competitive Subway Riders Will Stop at Nothing for a World Record",
+      "content_text": "Competitive Subway Riders Will Stop at Nothing for a World Record",
+      "summary": "",
+      "date_published": "2026-08-25T09:30:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "30650bc7b1585404",
+      "url": "https://www.wsj.com/tech/ai/nvidia-has-become-a-banker-to-the-ai-boom-putting-it-on-dangerous-ground-94c03545",
+      "title": "Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground",
+      "content_text": "Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground",
+      "summary": "",
+      "date_published": "2026-08-25T09:30:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "77a8d5706aaa7635",
+      "url": "https://www.wsj.com/real-estate/commercial/investors-are-snapping-up-shabby-hotels-and-whipping-them-into-shape-ca090cf2",
+      "title": "Investors Are Snapping Up Shabby Hotels and Whipping Them Into Shape",
+      "content_text": "Investors Are Snapping Up Shabby Hotels and Whipping Them Into Shape",
+      "summary": "",
+      "date_published": "2026-08-25T09:30:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "5e61ec13866f7770",
+      "url": "https://www.wsj.com/style/fashion/open-ai-vanguart-watch-sam-altman-39b7107e",
+      "title": "Silicon Valley’s Newest Status Symbol Is a Super-Rare Sam Altman Swiss Watch",
+      "content_text": "Silicon Valley’s Newest Status Symbol Is a Super-Rare Sam Altman Swiss Watch",
+      "summary": "",
+      "date_published": "2026-08-25T09:30:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
       "id": "26d9086c56bb7120",
       "url": "https://www.wsj.com/finance/stocks/u-s-futures-higher-yields-steady-after-bessent-iran-speech-573e9dd6",
       "title": "U.S. Futures Higher, Yields Steady after Bessent Iran Speech",
@@ -2137,72 +2203,6 @@
       "date_published": "2026-08-23T10:00:00+00:00",
       "tags": [
         "Lifestyle"
-      ]
-    },
-    {
-      "id": "156982dca88bffb2",
-      "url": "https://www.wsj.com/health/pharma/hype-for-modernas-cancer-vaccine-is-running-ahead-of-the-math-b9b596f5",
-      "title": "Hype for Moderna’s Cancer Vaccine Is Running Ahead of the Math",
-      "content_text": "Hype for Moderna’s Cancer Vaccine Is Running Ahead of the Math",
-      "summary": "",
-      "date_published": "2026-08-23T09:30:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "3ce84add9cae42f9",
-      "url": "https://www.wsj.com/politics/policy/texas-who-is-david-barton-460d7029",
-      "title": "The Texas Activist Putting the Ten Commandments Back Into American Classrooms",
-      "content_text": "The Texas Activist Putting the Ten Commandments Back Into American Classrooms",
-      "summary": "",
-      "date_published": "2026-08-23T09:30:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "944c5539d69628d2",
-      "url": "https://www.wsj.com/health/wellness/baby-boomers-are-smoking-more-pot-their-neighbors-are-fuming-d3d05e5f",
-      "title": "Baby Boomers Are Smoking More Pot. Their Neighbors Are Fuming.",
-      "content_text": "Baby Boomers Are Smoking More Pot. Their Neighbors Are Fuming.",
-      "summary": "",
-      "date_published": "2026-08-23T09:30:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "e9257dd25d241573",
-      "url": "https://www.wsj.com/world/russia/russia-tests-readiness-for-new-round-of-military-mobilization-87d61b96",
-      "title": "Russia Tests Readiness for New Round of Military Mobilization",
-      "content_text": "Russia Tests Readiness for New Round of Military Mobilization",
-      "summary": "",
-      "date_published": "2026-08-23T09:30:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "365583927d9547f3",
-      "url": "https://www.wsj.com/politics/policy/democrats-senate-midterm-election-odds-9844b4aa",
-      "title": "Why Democrats Still Have a Shot at Winning the Senate",
-      "content_text": "Why Democrats Still Have a Shot at Winning the Senate",
-      "summary": "",
-      "date_published": "2026-08-23T09:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "991fd2235aa162a9",
-      "url": "https://www.wsj.com/arts-culture/arts-calendar-happenings-for-the-week-of-august-23-airdigital-841eabc3",
-      "title": "Arts Calendar: Happenings for the Week of August 23",
-      "content_text": "Arts Calendar: Happenings for the Week of August 23",
-      "summary": "",
-      "date_published": "2026-08-23T09:00:00+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]
