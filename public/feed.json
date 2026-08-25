@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "a6dcd5ca9655764c",
+      "url": "https://www.wsj.com/cio-journal/nvidias-groq-chip-will-shape-ai-agent-usability-b2e076cd",
+      "title": "Nvidia’s Groq Chip Will Shape AI Agent Usability",
+      "content_text": "Nvidia’s Groq Chip Will Shape AI Agent Usability",
+      "summary": "",
+      "date_published": "2026-08-25T13:27:00+00:00",
+      "tags": [
+        "Cio Journal"
+      ]
+    },
+    {
+      "id": "7f94973083ba7064",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/bitcoin-rides-debasement-trade-wave-Cq8YWHcAH8vR1k2neNak",
+      "title": "Bitcoin Rides ‘Debasement Trade’ Wave",
+      "content_text": "Bitcoin Rides ‘Debasement Trade’ Wave",
+      "summary": "",
+      "date_published": "2026-08-25T13:11:32+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "b0b904dfcac1b149",
+      "url": "https://www.wsj.com/economy/housing/u-s-home-price-growth-rose-in-june-b0c2a451",
+      "title": "U.S. Home Price Growth Rose in June",
+      "content_text": "U.S. Home Price Growth Rose in June",
+      "summary": "",
+      "date_published": "2026-08-25T13:08:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "fb4c36f4b9fd0bd8",
+      "url": "https://www.wsj.com/cmo-today/good-good-golf-and-callaway-apologize-for-scary-ad-826702ba",
+      "title": "Good Good Golf and Callaway Apologize for ‘Scary’ Ad",
+      "content_text": "Good Good Golf and Callaway Apologize for ‘Scary’ Ad",
+      "summary": "",
+      "date_published": "2026-08-25T13:07:00+00:00",
+      "tags": [
+        "Cmo Today"
+      ]
+    },
+    {
       "id": "42e0990e860ceebd",
       "url": "https://www.wsj.com/tech/personal-tech/mac-mini-mac-studio-apple-ai-memory-chip-41d2a74b",
       "title": "There’s a New Mac Mini and Mac Studio. Good Luck Getting Your Hands on One.",
@@ -2157,50 +2201,6 @@
       "content_text": "Nikkei Edges 0.3% Higher, Tracking Wall Street’s Gains",
       "summary": "",
       "date_published": "2026-08-24T00:19:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "3fdd655e98101723",
-      "url": "https://www.wsj.com/business/media/california-expected-to-seek-tv-channel-sales-from-paramount-warner-91443593",
-      "title": "California Expected to Seek TV Channel Sales From Paramount-Warner",
-      "content_text": "California Expected to Seek TV Channel Sales From Paramount-Warner",
-      "summary": "",
-      "date_published": "2026-08-23T23:25:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "1a4a578bfbf97269",
-      "url": "https://www.wsj.com/business/autos/amazons-toaster-shaped-robotaxis-are-hitting-the-road-111c7b90",
-      "title": "Amazon’s Toaster-Shaped Robotaxis Are Hitting the Road",
-      "content_text": "Amazon’s Toaster-Shaped Robotaxis Are Hitting the Road",
-      "summary": "",
-      "date_published": "2026-08-23T23:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "6dc446721e7af7ce",
-      "url": "https://www.wsj.com/opinion/trump-seeks-a-tariff-do-over-in-court-f73b493d",
-      "title": "Trump Seeks a Tariff Do-Over in Court",
-      "content_text": "Trump Seeks a Tariff Do-Over in Court",
-      "summary": "",
-      "date_published": "2026-08-23T22:41:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "a876724058f71226",
-      "url": "https://www.wsj.com/finance/mark-walter-lieutenant-was-key-to-dodgers-owners-complex-lending-machine-19227374",
-      "title": "Mark Walter Lieutenant Was Key to Dodgers Owner’s Complex Lending Machine",
-      "content_text": "Mark Walter Lieutenant Was Key to Dodgers Owner’s Complex Lending Machine",
-      "summary": "",
-      "date_published": "2026-08-23T22:28:00+00:00",
       "tags": [
         "Finance"
       ]
