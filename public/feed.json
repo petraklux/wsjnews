@@ -6,6 +6,61 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "ad392e24ec084231",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/what-s-moving-the-markets-today--H4UZSt4uiWBPf8J6vj6J",
+      "title": "What’s Moving the Markets Today?",
+      "content_text": "What’s Moving the Markets Today?",
+      "summary": "",
+      "date_published": "2026-08-25T16:29:26+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "be0bfe23ca04921b",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/pound-ridge-ny-home-56d528a1",
+      "title": "It’s a Dog’s $2.9 Million House. They’re Just Living in It.",
+      "content_text": "It’s a Dog’s $2.9 Million House. They’re Just Living in It.",
+      "summary": "",
+      "date_published": "2026-08-25T16:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "4aff4b7df5018801",
+      "url": "https://www.wsj.com/sports/football/daequan-wright-lsu-nfl-lawsuits-eccef757",
+      "title": "He Was in the NFL. Then He Got a Better Offer to Play College Football Again.",
+      "content_text": "He Was in the NFL. Then He Got a Better Offer to Play College Football Again.",
+      "summary": "",
+      "date_published": "2026-08-25T16:00:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "d459db339f827532",
+      "url": "https://www.wsj.com/tech/ai/brain-drain-hits-openai-and-google-but-the-impact-isnt-equal-dedea586",
+      "title": "Brain Drain Hits OpenAI and Google, But the Impact Isn’t Equal",
+      "content_text": "Brain Drain Hits OpenAI and Google, But the Impact Isn’t Equal",
+      "summary": "",
+      "date_published": "2026-08-25T16:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "3cac5b314eeb9fbd",
+      "url": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea",
+      "title": "Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue",
+      "content_text": "Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue",
+      "summary": "",
+      "date_published": "2026-08-25T15:58:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
       "id": "74aa7bf651afb267",
       "url": "https://www.wsj.com/health/pennsylvania-measles-outbreak-deaths-e8ef3eaa",
       "title": "Pennsylvania Reports First Measles Deaths of 2026",
@@ -50,17 +105,6 @@
       ]
     },
     {
-      "id": "edc5765f33fc1e51",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/adam-scott-whisper-man-510ead67",
-      "title": "Before Landing a Lead Role, ‘Severance’ Star Adam Scott Kept Acting a Secret",
-      "content_text": "Before Landing a Lead Role, ‘Severance’ Star Adam Scott Kept Acting a Secret",
-      "summary": "",
-      "date_published": "2026-08-25T15:00:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
       "id": "6f361949b07849e9",
       "url": "https://www.wsj.com/world/americas/canada-targets-u-s-metals-foods-motorcycles-in-retaliatory-tariff-package-f677222b",
       "title": "Canada Targets U.S. Metals, Foods, Motorcycles in Retaliatory Tariff Package",
@@ -69,6 +113,17 @@
       "date_published": "2026-08-25T15:00:00+00:00",
       "tags": [
         "World"
+      ]
+    },
+    {
+      "id": "edc5765f33fc1e51",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/adam-scott-whisper-man-510ead67",
+      "title": "Before Landing a Lead Role, ‘Severance’ Star Adam Scott Kept Acting a Secret",
+      "content_text": "Before Landing a Lead Role, ‘Severance’ Star Adam Scott Kept Acting a Secret",
+      "summary": "",
+      "date_published": "2026-08-25T15:00:00+00:00",
+      "tags": [
+        "Real Estate"
       ]
     },
     {
@@ -2146,61 +2201,6 @@
       "content_text": "Nvidia Earnings, Jackson Hole: What to Watch This Week",
       "summary": "",
       "date_published": "2026-08-24T08:07:41+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "ceec4cc295073a70",
-      "url": "https://www.wsj.com/tech/chinese-chip-maker-ymtc-seeks-4-9-billion-ipo-7e0e6daf",
-      "title": "Chinese Chip Maker YMTC Seeks $4.9 Billion IPO",
-      "content_text": "Chinese Chip Maker YMTC Seeks $4.9 Billion IPO",
-      "summary": "",
-      "date_published": "2026-08-24T05:53:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "b827dd50e6721b08",
-      "url": "https://www.wsj.com/business/softbank-plans-record-retail-bond-issuance-amid-ai-push-b8ebd7b8",
-      "title": "SoftBank Plans Record Retail Bond Issuance Amid AI Push",
-      "content_text": "SoftBank Plans Record Retail Bond Issuance Amid AI Push",
-      "summary": "",
-      "date_published": "2026-08-24T05:11:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "f084cff0c1b909fe",
-      "url": "https://www.wsj.com/opinion/pepperand-salt-47fa8dfc",
-      "title": "Pepper…and Salt",
-      "content_text": "Pepper…and Salt",
-      "summary": "",
-      "date_published": "2026-08-24T04:00:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "f854c677978ae1af",
-      "url": "https://www.wsj.com/articles/whats-news-worldwide-ca6b2cec",
-      "title": "What’s News: Worldwide",
-      "content_text": "What’s News: Worldwide",
-      "summary": "",
-      "date_published": "2026-08-24T03:40:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "54289097e37e7086",
-      "url": "https://www.wsj.com/articles/whats-news-business-finance-139a54e8",
-      "title": "What’s News: Business & Finance",
-      "content_text": "What’s News: Business & Finance",
-      "summary": "",
-      "date_published": "2026-08-24T03:38:00+00:00",
       "tags": [
         "Front Page"
       ]
