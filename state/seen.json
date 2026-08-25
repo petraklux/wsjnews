@@ -156,19 +156,6 @@
       "title": "💬Money Quote: Economic Pain Crossing the Border",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/-money-quote-economic-pain-crossing-the-border-jAgFJiGtRowaikzTeLf0"
     },
-    "11b8ae2e987af881": {
-      "dek": "",
-      "first_seen": "2026-08-24T10:19:49.446728+00:00",
-      "guid": "11b8ae2e987af881",
-      "published": "2026-08-24T09:30:00+00:00",
-      "section": "Us News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Mold Is Driving America’s Homeowners Crazy—and They Want Builders to Pay",
-      "title": "Mold Is Driving America’s Homeowners Crazy—and They Want Builders to Pay",
-      "url": "https://www.wsj.com/us-news/law/mold-is-driving-americas-homeowners-crazyand-they-want-builders-to-pay-5cc180b7"
-    },
     "141150575516291f": {
       "dek": "",
       "first_seen": "2026-08-24T18:53:34.711018+00:00",
@@ -233,6 +220,19 @@
       "summary": "Nikkei Falls 0.8%, Dragged by Electronics Stocks",
       "title": "Nikkei Falls 0.8%, Dragged by Electronics Stocks",
       "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-8-dragged-by-electronics-stocks-961a5697"
+    },
+    "1885b3b01997e367": {
+      "dek": "",
+      "first_seen": "2026-08-25T19:40:03.074697+00:00",
+      "guid": "1885b3b01997e367",
+      "published": "2026-08-25T19:16:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "OpenAI’s Head of Data Centers Has Left the Company",
+      "title": "OpenAI’s Head of Data Centers Has Left the Company",
+      "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83"
     },
     "19f94e2c53d6b8de": {
       "dek": "",
@@ -389,19 +389,6 @@
       "summary": "Energy & Utilities Roundup: Market Talk",
       "title": "Energy & Utilities Roundup: Market Talk",
       "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-8b26e63d"
-    },
-    "3029ec8e18c5b32f": {
-      "dek": "",
-      "first_seen": "2026-08-24T10:19:49.446728+00:00",
-      "guid": "3029ec8e18c5b32f",
-      "published": "2026-08-24T10:12:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Uncle Sam’s $40 Trillion Tab Is Living Rent-Free in Your Mortgage Payment",
-      "title": "Uncle Sam’s $40 Trillion Tab Is Living Rent-Free in Your Mortgage Payment",
-      "url": "https://www.wsj.com/finance/investing/uncle-sams-40-trillion-tab-is-living-rent-free-in-your-mortgage-payment-ec2ff19d"
     },
     "30650bc7b1585404": {
       "dek": "",
@@ -572,6 +559,19 @@
       "title": "FTC Reaches Settlement With Zillow, Redfin Over Antitrust Concerns",
       "url": "https://www.wsj.com/business/ftc-reaches-settlement-with-zillow-redfin-over-antitrust-concerns-9b185f3e"
     },
+    "3b204135526dab6b": {
+      "dek": "",
+      "first_seen": "2026-08-25T19:40:03.074697+00:00",
+      "guid": "3b204135526dab6b",
+      "published": "2026-08-25T19:37:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Kind of a Baby for Me",
+      "title": "The Kind of a Baby for Me",
+      "url": "https://www.wsj.com/opinion/the-kind-of-a-baby-for-me-59196360"
+    },
     "3b32e43599a36140": {
       "dek": "",
       "first_seen": "2026-08-25T18:52:07.537857+00:00",
@@ -597,19 +597,6 @@
       "summary": "Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue",
       "title": "Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue",
       "url": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea"
-    },
-    "3d4f3a19d617ff2a": {
-      "dek": "",
-      "first_seen": "2026-08-24T10:19:49.446728+00:00",
-      "guid": "3d4f3a19d617ff2a",
-      "published": "2026-08-24T09:50:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Leadership Principles Behind a F1 Team Turnaround Plan",
-      "title": "The Leadership Principles Behind a F1 Team Turnaround Plan",
-      "url": "https://www.wsj.com/business/the-leadership-principles-behind-a-f1-team-turnaround-plan-60fecbd0"
     },
     "3f63be44075cdf8f": {
       "dek": "",
@@ -819,6 +806,19 @@
       "title": "Crocs Steps Out of the Discount Bin",
       "url": "https://www.wsj.com/logistics-report/crocs-steps-out-of-the-discount-bin-069c7236"
     },
+    "5306a81aa9ba3ec6": {
+      "dek": "",
+      "first_seen": "2026-08-25T19:40:03.074697+00:00",
+      "guid": "5306a81aa9ba3ec6",
+      "published": "2026-08-25T19:37:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Different Vaccines Work Differently",
+      "title": "Different Vaccines Work Differently",
+      "url": "https://www.wsj.com/opinion/different-vaccines-work-differently-ce0378a2"
+    },
     "53aab10de0360c35": {
       "dek": "",
       "first_seen": "2026-08-24T18:53:34.711018+00:00",
@@ -857,19 +857,6 @@
       "summary": "Auto & Transport Roundup: Market Talk",
       "title": "Auto & Transport Roundup: Market Talk",
       "url": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-7b8feab6"
-    },
-    "55ecdb12d32894bb": {
-      "dek": "",
-      "first_seen": "2026-08-24T10:19:49.446728+00:00",
-      "guid": "55ecdb12d32894bb",
-      "published": "2026-08-24T09:30:00+00:00",
-      "section": "Lifestyle",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Go Ahead, Put Your Most Eccentric Hobbies on Your Résumé",
-      "title": "Go Ahead, Put Your Most Eccentric Hobbies on Your Résumé",
-      "url": "https://www.wsj.com/lifestyle/careers/go-ahead-put-your-most-eccentric-hobbies-on-your-resume-31edf892"
     },
     "5638583eeb5a7b3a": {
       "dek": "",
@@ -923,19 +910,6 @@
       "title": "Kimberley a strassel",
       "url": "https://www.wsj.com/news/author/kimberley-a-strassel"
     },
-    "5be7a3a884c688b1": {
-      "dek": "",
-      "first_seen": "2026-08-24T10:19:49.446728+00:00",
-      "guid": "5be7a3a884c688b1",
-      "published": "2026-08-24T09:30:57+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Stocks to Watch: Alibaba, Marvell Technology, Coinbase",
-      "title": "Stocks to Watch: Alibaba, Marvell Technology, Coinbase",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/stocks-to-watch-alibaba-marvell-technology-coinbase-z7UifElg34jmJFA3YwzG"
-    },
     "5d518e8d29b4dbac": {
       "dek": "",
       "first_seen": "2026-08-25T13:05:27.065355+00:00",
@@ -948,6 +922,19 @@
       "summary": "Extreme Weather Is Hammering Europe’s Summer Harvest, EU Says",
       "title": "Extreme Weather Is Hammering Europe’s Summer Harvest, EU Says",
       "url": "https://www.wsj.com/world/europe/extreme-weather-is-hammering-europes-summer-harvest-eu-says-c607fef0"
+    },
+    "5db5131cc7d27aaf": {
+      "dek": "",
+      "first_seen": "2026-08-25T19:40:03.074697+00:00",
+      "guid": "5db5131cc7d27aaf",
+      "published": "2026-08-25T18:48:00+00:00",
+      "section": "Us News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "SpaceX Rockets Are Coming to Coastal Louisiana, and Locals Are Divided",
+      "title": "SpaceX Rockets Are Coming to Coastal Louisiana, and Locals Are Divided",
+      "url": "https://www.wsj.com/us-news/spacex-rockets-are-coming-to-coastal-louisiana-and-locals-are-divided-e7adc14c"
     },
     "5e61ec13866f7770": {
       "dek": "",
@@ -975,6 +962,19 @@
       "title": "AI Fears, Geopolitics Mark Start of a Busy Markets Week",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/ai-fears-geopolitics-mark-start-of-a-busy-markets-week-79rD5lV8dMc4pJD0zFhd"
     },
+    "603dcb0ee8b42634": {
+      "dek": "",
+      "first_seen": "2026-08-25T19:40:03.074697+00:00",
+      "guid": "603dcb0ee8b42634",
+      "published": "2026-08-25T19:38:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Fedspeak Isn’t Helping Markets—or the Fed",
+      "title": "Fedspeak Isn’t Helping Markets—or the Fed",
+      "url": "https://www.wsj.com/opinion/fedspeak-isnt-helping-marketsor-the-fed-110a5372"
+    },
     "61b8cc04d8910d33": {
       "dek": "",
       "first_seen": "2026-08-25T01:46:46.835594+00:00",
@@ -987,6 +987,19 @@
       "summary": "Trade Headlines, Firm Dollar May Temper Yuan Gains",
       "title": "Trade Headlines, Firm Dollar May Temper Yuan Gains",
       "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-traders-parse-u-s-new-measures-on-iran-40b529c7"
+    },
+    "657e32d46d067105": {
+      "dek": "",
+      "first_seen": "2026-08-25T19:40:03.074697+00:00",
+      "guid": "657e32d46d067105",
+      "published": "2026-08-25T19:35:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Medicare for All, Easy Peasy",
+      "title": "Medicare for All, Easy Peasy",
+      "url": "https://www.wsj.com/opinion/medicare-for-all-easy-peasy-419e0932"
     },
     "67a229f9726f9141": {
       "dek": "",
@@ -1287,19 +1300,6 @@
       "title": "El-Sayed Abandons the Middle",
       "url": "https://www.wsj.com/opinion/el-sayed-abandons-the-middle-9988f792"
     },
-    "868804475ee83671": {
-      "dek": "",
-      "first_seen": "2026-08-24T10:19:49.446728+00:00",
-      "guid": "868804475ee83671",
-      "published": "2026-08-24T09:30:00+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Harry Styles Superfans Spending Thousands to See Him 15 Times in a Row",
-      "title": "The Harry Styles Superfans Spending Thousands to See Him 15 Times in a Row",
-      "url": "https://www.wsj.com/arts-culture/music/harry-styles-ticket-prices-88ab9556"
-    },
     "87c64e3291c29b90": {
       "dek": "",
       "first_seen": "2026-08-24T13:07:12.126392+00:00",
@@ -1313,31 +1313,18 @@
       "title": "U.S. Cancels Marines Drills With South Korea",
       "url": "https://www.wsj.com/world/asia/u-s-cancels-marines-drills-with-south-korea-b592bbb7"
     },
-    "8809228438b18ad6": {
+    "8a3619461537c62f": {
       "dek": "",
-      "first_seen": "2026-08-24T10:19:49.446728+00:00",
-      "guid": "8809228438b18ad6",
-      "published": "2026-08-24T09:30:00+00:00",
-      "section": "Lifestyle",
+      "first_seen": "2026-08-25T19:40:03.074697+00:00",
+      "guid": "8a3619461537c62f",
+      "published": "2026-08-25T18:48:00+00:00",
+      "section": "Us News",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "A Billionaire CEO, a Hamptons Town and the Endless Fight Over a Seafood Shack",
-      "title": "A Billionaire CEO, a Hamptons Town and the Endless Fight Over a Seafood Shack",
-      "url": "https://www.wsj.com/lifestyle/marc-rowan-apollo-montauk-restaurant-1298affe"
-    },
-    "8a099df072ea405e": {
-      "dek": "",
-      "first_seen": "2026-08-24T10:19:49.446728+00:00",
-      "guid": "8a099df072ea405e",
-      "published": "2026-08-24T10:00:00+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Nvidia’s Earnings Will Test Wall Street’s Faith in the AI Boom",
-      "title": "Nvidia’s Earnings Will Test Wall Street’s Faith in the AI Boom",
-      "url": "https://www.wsj.com/articles/nvidias-earnings-will-test-wall-streets-faith-in-the-ai-boom-09865fea"
+      "summary": "Officials Played Down Risks in Ohio Train Disaster, Residents Now Say",
+      "title": "Officials Played Down Risks in Ohio Train Disaster, Residents Now Say",
+      "url": "https://www.wsj.com/us-news/officials-played-down-risks-in-ohio-train-disaster-residents-now-say-6acaed72"
     },
     "8b7c5db7c8328c14": {
       "dek": "",
@@ -2223,6 +2210,19 @@
       "title": "Reserve Bank of Australia Remains Jittery About Inflation Risks",
       "url": "https://www.wsj.com/economy/central-banking/reserve-bank-of-australia-remains-jittery-about-inflation-risks-3d673939"
     },
+    "db3c31fcf22b909c": {
+      "dek": "",
+      "first_seen": "2026-08-25T19:40:03.074697+00:00",
+      "guid": "db3c31fcf22b909c",
+      "published": "2026-08-25T19:00:02+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Consumer Confidence, Home Prices and Sales: Econ Data Recap",
+      "title": "Consumer Confidence, Home Prices and Sales: Econ Data Recap",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/consumer-confidence-home-prices-and-sales-econ-data-recap-7UUPx7KSqljIiJaJohCm"
+    },
     "db988d0908f9fe0b": {
       "dek": "",
       "first_seen": "2026-08-25T11:36:59.915533+00:00",
@@ -2496,19 +2496,6 @@
       "title": "U.S. Consumer Sentiment Fell in August, Conference Board Says",
       "url": "https://www.wsj.com/economy/central-banking/u-s-consumer-sentiment-fell-in-august-conference-board-says-9453f12c"
     },
-    "f0c7fcb99c58f543": {
-      "dek": "",
-      "first_seen": "2026-08-24T10:19:49.446728+00:00",
-      "guid": "f0c7fcb99c58f543",
-      "published": "2026-08-24T10:00:00+00:00",
-      "section": "Sports",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "English Soccer’s Richest Club Begins Its Great Succession Experiment",
-      "title": "English Soccer’s Richest Club Begins Its Great Succession Experiment",
-      "url": "https://www.wsj.com/sports/soccer/manchester-city-enzo-maresca-pep-guardiola-bc02c7cf"
-    },
     "f77426c11571f583": {
       "dek": "",
       "first_seen": "2026-08-25T01:46:46.835594+00:00",
@@ -2587,6 +2574,19 @@
       "title": "The Gap in the Hormuz Math",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/the-gap-in-the-hormuz-math-HXZMTwNlGEfWDJUpNav5"
     },
+    "ff2758d7e4b55d22": {
+      "dek": "",
+      "first_seen": "2026-08-25T19:40:03.074697+00:00",
+      "guid": "ff2758d7e4b55d22",
+      "published": "2026-08-25T19:38:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "If the Big Apple Rots, You’re Welcome in Texas",
+      "title": "If the Big Apple Rots, You’re Welcome in Texas",
+      "url": "https://www.wsj.com/opinion/if-the-big-apple-rots-youre-welcome-in-texas-2fc45a0b"
+    },
     "ff46e443f6a78e70": {
       "dek": "",
       "first_seen": "2026-08-25T10:43:04.373563+00:00",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/bessent-mentor-druckenmiller-blasts-bond-intervention-mistake--nhXM2e6TUGOddEWSynLd"
     }
   },
-  "updated": "2026-08-25T18:52:07.557087+00:00"
+  "updated": "2026-08-25T19:40:03.098464+00:00"
 }

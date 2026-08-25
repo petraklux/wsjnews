@@ -6,6 +6,105 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "ff2758d7e4b55d22",
+      "url": "https://www.wsj.com/opinion/if-the-big-apple-rots-youre-welcome-in-texas-2fc45a0b",
+      "title": "If the Big Apple Rots, You’re Welcome in Texas",
+      "content_text": "If the Big Apple Rots, You’re Welcome in Texas",
+      "summary": "",
+      "date_published": "2026-08-25T19:38:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "603dcb0ee8b42634",
+      "url": "https://www.wsj.com/opinion/fedspeak-isnt-helping-marketsor-the-fed-110a5372",
+      "title": "Fedspeak Isn’t Helping Markets—or the Fed",
+      "content_text": "Fedspeak Isn’t Helping Markets—or the Fed",
+      "summary": "",
+      "date_published": "2026-08-25T19:38:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "3b204135526dab6b",
+      "url": "https://www.wsj.com/opinion/the-kind-of-a-baby-for-me-59196360",
+      "title": "The Kind of a Baby for Me",
+      "content_text": "The Kind of a Baby for Me",
+      "summary": "",
+      "date_published": "2026-08-25T19:37:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "5306a81aa9ba3ec6",
+      "url": "https://www.wsj.com/opinion/different-vaccines-work-differently-ce0378a2",
+      "title": "Different Vaccines Work Differently",
+      "content_text": "Different Vaccines Work Differently",
+      "summary": "",
+      "date_published": "2026-08-25T19:37:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "657e32d46d067105",
+      "url": "https://www.wsj.com/opinion/medicare-for-all-easy-peasy-419e0932",
+      "title": "Medicare for All, Easy Peasy",
+      "content_text": "Medicare for All, Easy Peasy",
+      "summary": "",
+      "date_published": "2026-08-25T19:35:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "1885b3b01997e367",
+      "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
+      "title": "OpenAI’s Head of Data Centers Has Left the Company",
+      "content_text": "OpenAI’s Head of Data Centers Has Left the Company",
+      "summary": "",
+      "date_published": "2026-08-25T19:16:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "db3c31fcf22b909c",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/consumer-confidence-home-prices-and-sales-econ-data-recap-7UUPx7KSqljIiJaJohCm",
+      "title": "Consumer Confidence, Home Prices and Sales: Econ Data Recap",
+      "content_text": "Consumer Confidence, Home Prices and Sales: Econ Data Recap",
+      "summary": "",
+      "date_published": "2026-08-25T19:00:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "5db5131cc7d27aaf",
+      "url": "https://www.wsj.com/us-news/spacex-rockets-are-coming-to-coastal-louisiana-and-locals-are-divided-e7adc14c",
+      "title": "SpaceX Rockets Are Coming to Coastal Louisiana, and Locals Are Divided",
+      "content_text": "SpaceX Rockets Are Coming to Coastal Louisiana, and Locals Are Divided",
+      "summary": "",
+      "date_published": "2026-08-25T18:48:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "8a3619461537c62f",
+      "url": "https://www.wsj.com/us-news/officials-played-down-risks-in-ohio-train-disaster-residents-now-say-6acaed72",
+      "title": "Officials Played Down Risks in Ohio Train Disaster, Residents Now Say",
+      "content_text": "Officials Played Down Risks in Ohio Train Disaster, Residents Now Say",
+      "summary": "",
+      "date_published": "2026-08-25T18:48:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
       "id": "a014ad3512995fa1",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/anthropic-s-very-big-number-Tp3WpMroAV80wUMsTVD7",
       "title": "Anthropic’s Very Big Number",
@@ -2104,105 +2203,6 @@
       "date_published": "2026-08-24T10:26:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "3029ec8e18c5b32f",
-      "url": "https://www.wsj.com/finance/investing/uncle-sams-40-trillion-tab-is-living-rent-free-in-your-mortgage-payment-ec2ff19d",
-      "title": "Uncle Sam’s $40 Trillion Tab Is Living Rent-Free in Your Mortgage Payment",
-      "content_text": "Uncle Sam’s $40 Trillion Tab Is Living Rent-Free in Your Mortgage Payment",
-      "summary": "",
-      "date_published": "2026-08-24T10:12:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "8a099df072ea405e",
-      "url": "https://www.wsj.com/articles/nvidias-earnings-will-test-wall-streets-faith-in-the-ai-boom-09865fea",
-      "title": "Nvidia’s Earnings Will Test Wall Street’s Faith in the AI Boom",
-      "content_text": "Nvidia’s Earnings Will Test Wall Street’s Faith in the AI Boom",
-      "summary": "",
-      "date_published": "2026-08-24T10:00:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "f0c7fcb99c58f543",
-      "url": "https://www.wsj.com/sports/soccer/manchester-city-enzo-maresca-pep-guardiola-bc02c7cf",
-      "title": "English Soccer’s Richest Club Begins Its Great Succession Experiment",
-      "content_text": "English Soccer’s Richest Club Begins Its Great Succession Experiment",
-      "summary": "",
-      "date_published": "2026-08-24T10:00:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "3d4f3a19d617ff2a",
-      "url": "https://www.wsj.com/business/the-leadership-principles-behind-a-f1-team-turnaround-plan-60fecbd0",
-      "title": "The Leadership Principles Behind a F1 Team Turnaround Plan",
-      "content_text": "The Leadership Principles Behind a F1 Team Turnaround Plan",
-      "summary": "",
-      "date_published": "2026-08-24T09:50:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "5be7a3a884c688b1",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/stocks-to-watch-alibaba-marvell-technology-coinbase-z7UifElg34jmJFA3YwzG",
-      "title": "Stocks to Watch: Alibaba, Marvell Technology, Coinbase",
-      "content_text": "Stocks to Watch: Alibaba, Marvell Technology, Coinbase",
-      "summary": "",
-      "date_published": "2026-08-24T09:30:57+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "11b8ae2e987af881",
-      "url": "https://www.wsj.com/us-news/law/mold-is-driving-americas-homeowners-crazyand-they-want-builders-to-pay-5cc180b7",
-      "title": "Mold Is Driving America’s Homeowners Crazy—and They Want Builders to Pay",
-      "content_text": "Mold Is Driving America’s Homeowners Crazy—and They Want Builders to Pay",
-      "summary": "",
-      "date_published": "2026-08-24T09:30:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "55ecdb12d32894bb",
-      "url": "https://www.wsj.com/lifestyle/careers/go-ahead-put-your-most-eccentric-hobbies-on-your-resume-31edf892",
-      "title": "Go Ahead, Put Your Most Eccentric Hobbies on Your Résumé",
-      "content_text": "Go Ahead, Put Your Most Eccentric Hobbies on Your Résumé",
-      "summary": "",
-      "date_published": "2026-08-24T09:30:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "868804475ee83671",
-      "url": "https://www.wsj.com/arts-culture/music/harry-styles-ticket-prices-88ab9556",
-      "title": "The Harry Styles Superfans Spending Thousands to See Him 15 Times in a Row",
-      "content_text": "The Harry Styles Superfans Spending Thousands to See Him 15 Times in a Row",
-      "summary": "",
-      "date_published": "2026-08-24T09:30:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "8809228438b18ad6",
-      "url": "https://www.wsj.com/lifestyle/marc-rowan-apollo-montauk-restaurant-1298affe",
-      "title": "A Billionaire CEO, a Hamptons Town and the Endless Fight Over a Seafood Shack",
-      "content_text": "A Billionaire CEO, a Hamptons Town and the Endless Fight Over a Seafood Shack",
-      "summary": "",
-      "date_published": "2026-08-24T09:30:00+00:00",
-      "tags": [
-        "Lifestyle"
       ]
     }
   ]
