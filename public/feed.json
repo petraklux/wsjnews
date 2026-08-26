@@ -6,6 +6,116 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "335abebfe40974fa",
+      "url": "https://www.wsj.com/articles/the-ceo-who-built-a-company-on-a-technical-impossibility-e26d23eb",
+      "title": "The CEO Who Built a Company on a ‘Technical Impossibility’",
+      "content_text": "The CEO Who Built a Company on a ‘Technical Impossibility’",
+      "summary": "",
+      "date_published": "2026-08-26T09:50:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "bb11975c1f05d921",
+      "url": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-oman-iran-talks-raise-hopes-for-hormuz-reopening-877838a6",
+      "title": "Oil Prices Fall as Oman-Iran Talks Raise Hopes for Hormuz Reopening",
+      "content_text": "Oil Prices Fall as Oman-Iran Talks Raise Hopes for Hormuz Reopening",
+      "summary": "",
+      "date_published": "2026-08-26T09:31:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "b73a991e7def56f4",
+      "url": "https://www.wsj.com/arts-culture/music/olivia-dean-man-i-need-grammy-5b8ffc4a",
+      "title": "Olivia Dean Is Pop’s Breakout Star—and She Almost Didn’t Release Her Biggest Hit",
+      "content_text": "Olivia Dean Is Pop’s Breakout Star—and She Almost Didn’t Release Her Biggest Hit",
+      "summary": "",
+      "date_published": "2026-08-26T09:30:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "a1ad58249849c317",
+      "url": "https://www.wsj.com/lifestyle/where-do-aspiring-actors-go-to-cure-burnout-clown-school-ea67571b",
+      "title": "Where Do Aspiring Actors Go to Cure Burnout? Clown School.",
+      "content_text": "Where Do Aspiring Actors Go to Cure Burnout? Clown School.",
+      "summary": "",
+      "date_published": "2026-08-26T09:30:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "8e8bda18fedaabfe",
+      "url": "https://www.wsj.com/tech/ai/microsoft-is-leaving-investors-flying-blind-on-its-ai-businesses-3607360a",
+      "title": "Microsoft Is Leaving Investors Flying Blind on Its AI Businesses",
+      "content_text": "Microsoft Is Leaving Investors Flying Blind on Its AI Businesses",
+      "summary": "",
+      "date_published": "2026-08-26T09:30:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "b2a0de7e4444a152",
+      "url": "https://www.wsj.com/economy/central-banking/the-fed-chairman-is-heading-to-jackson-hole-without-a-clear-stance-on-inflation-eed625d3",
+      "title": "The Fed Chairman Is Heading to Jackson Hole Without a Clear Stance on Inflation",
+      "content_text": "The Fed Chairman Is Heading to Jackson Hole Without a Clear Stance on Inflation",
+      "summary": "",
+      "date_published": "2026-08-26T09:30:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "fed2060e64d8b7b3",
+      "url": "https://www.wsj.com/business/autos/detroit-needs-canada-more-than-the-rest-of-the-u-s-does-82643b92",
+      "title": "Detroit Needs Canada More Than the Rest of the U.S. Does",
+      "content_text": "Detroit Needs Canada More Than the Rest of the U.S. Does",
+      "summary": "",
+      "date_published": "2026-08-26T09:30:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "db7f2363022b12f5",
+      "url": "https://www.wsj.com/us-news/years-late-billions-over-budget-californias-high-speed-rail-hasnt-laid-a-track-bac525ee",
+      "title": "Years Late, Billions Over Budget: California’s High-Speed Rail Hasn’t Laid a Track",
+      "content_text": "Years Late, Billions Over Budget: California’s High-Speed Rail Hasn’t Laid a Track",
+      "summary": "",
+      "date_published": "2026-08-26T09:30:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "2c919dfe43bae23a",
+      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/stocks-to-watch-nvidia-intuit-meta-8lhnGTlzHTeDfkPmYdMO",
+      "title": "Stocks to Watch: Nvidia, Intuit, Meta",
+      "content_text": "Stocks to Watch: Nvidia, Intuit, Meta",
+      "summary": "",
+      "date_published": "2026-08-26T09:26:35+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "73d3e44e7d08a322",
+      "url": "https://www.wsj.com/world/middle-east/the-u-s-is-trying-to-strangle-irans-economy-heres-how-tehran-is-surviving-ca3d4cae",
+      "title": "The U.S. Is Trying to Strangle Iran’s Economy. Here’s How Tehran Is Surviving.",
+      "content_text": "The U.S. Is Trying to Strangle Iran’s Economy. Here’s How Tehran Is Surviving.",
+      "summary": "",
+      "date_published": "2026-08-26T09:06:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "215ee39ad6f1c30a",
       "url": "https://www.wsj.com/finance/investing/oil-extends-falls-nasdaq-futures-lower-before-nvidia-earnings-579f51f5",
       "title": "Oil Extends Falls, Nasdaq Futures Lower Before Nvidia Earnings",
@@ -2093,116 +2203,6 @@
       "date_published": "2026-08-24T20:18:00+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "0eb6dede974ccf87",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/oil-prices-slip-remain-steady-after-bessent-remarks-1rgg58VoF3U5a7xJMIKI",
-      "title": "Oil Prices Slip, Remain Steady After Bessent Remarks",
-      "content_text": "Oil Prices Slip, Remain Steady After Bessent Remarks",
-      "summary": "",
-      "date_published": "2026-08-24T19:30:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "c8212a79833b823e",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/visa-charges-toward-new-all-time-closing-high-xotwcrOgtpfDSQp8VKTE",
-      "title": "Visa Charges Toward New All-Time Closing High",
-      "content_text": "Visa Charges Toward New All-Time Closing High",
-      "summary": "",
-      "date_published": "2026-08-24T19:17:59+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "da87559e0baa70c0",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/-watch-bessent-threatens-new-sanctions-on-countries-in-business-with-iran-KOjG6dcDqdf3D419bTGK",
-      "title": "🎥 Watch: Bessent Threatens New Sanctions on Countries in Business With Iran",
-      "content_text": "🎥 Watch: Bessent Threatens New Sanctions on Countries in Business With Iran",
-      "summary": "",
-      "date_published": "2026-08-24T19:05:54+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "53aab10de0360c35",
-      "url": "https://www.wsj.com/us-news/chicago-dug-itself-out-of-a-financial-hole-now-its-sliding-back-in-9cc9c818",
-      "title": "Chicago Dug Itself Out of a Financial Hole. Now It’s Sliding Back In.",
-      "content_text": "Chicago Dug Itself Out of a Financial Hole. Now It’s Sliding Back In.",
-      "summary": "",
-      "date_published": "2026-08-24T18:47:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "33cde5662f5ee9f2",
-      "url": "https://www.wsj.com/arts-culture/books/the-jackal-review-a-killer-in-a-beret-49119bfb",
-      "title": "‘The Jackal’ Review: A Killer in a Beret",
-      "content_text": "‘The Jackal’ Review: A Killer in a Beret",
-      "summary": "",
-      "date_published": "2026-08-24T18:23:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "331e671c7a8cb491",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/nvidia-headed-for-longest-losing-streak-since-2022-as-tech-stocks-slide-8cDllVMijZSgshSpSR3t",
-      "title": "Nvidia Headed for Longest Losing Streak Since 2022 as Tech Stocks Slide",
-      "content_text": "Nvidia Headed for Longest Losing Streak Since 2022 as Tech Stocks Slide",
-      "summary": "",
-      "date_published": "2026-08-24T18:03:41+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "e5fc21247ad82d8a",
-      "url": "https://www.wsj.com/world/uk/prodigal-prince-harrys-return-to-u-k-poses-dilemma-for-william-41eb9e7b",
-      "title": "Prodigal Prince Harry’s Return to U.K. Poses Dilemma for William",
-      "content_text": "Prodigal Prince Harry’s Return to U.K. Poses Dilemma for William",
-      "summary": "",
-      "date_published": "2026-08-24T17:43:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "141150575516291f",
-      "url": "https://www.wsj.com/opinion/a-strong-yemen-can-overcome-the-houthi-threat-6cabc35f",
-      "title": "A Strong Yemen Can Overcome the Houthi Threat",
-      "content_text": "A Strong Yemen Can Overcome the Houthi Threat",
-      "summary": "",
-      "date_published": "2026-08-24T17:42:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "8b7c5db7c8328c14",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/bessent-offers-few-new-details-on-treasury-debt-plans-6sRfyN7UdhpBVwHHuvoO",
-      "title": "Bessent Offers Few New Details on Treasury Debt Plans",
-      "content_text": "Bessent Offers Few New Details on Treasury Debt Plans",
-      "summary": "",
-      "date_published": "2026-08-24T17:41:33+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "9daee761b09e78aa",
-      "url": "https://www.wsj.com/opinion/can-david-hume-save-the-democratic-party-1d555fc7",
-      "title": "Can David Hume Save the Democratic Party?",
-      "content_text": "Can David Hume Save the Democratic Party?",
-      "summary": "",
-      "date_published": "2026-08-24T17:41:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
