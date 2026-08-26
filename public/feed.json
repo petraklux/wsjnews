@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "a5742c098701fe3a",
+      "url": "https://www.wsj.com/business/siemens-energy-plans-to-spin-off-transformation-of-industry-unit-94ae315c",
+      "title": "Siemens Energy Plans to Spin Off Transformation of Industry Unit",
+      "content_text": "Siemens Energy Plans to Spin Off Transformation of Industry Unit",
+      "summary": "",
+      "date_published": "2026-08-26T06:08:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "7ed81d7e0b58234c",
       "url": "https://www.wsj.com/opinion/pepperand-salt-c38d307a",
       "title": "Pepper…and Salt",
@@ -2190,17 +2201,6 @@
       "content_text": "Chicago Fed Activity Index Pulls Back in July",
       "summary": "",
       "date_published": "2026-08-24T16:47:33+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "55ea3caa44c71233",
-      "url": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-7b8feab6",
-      "title": "Auto & Transport Roundup: Market Talk",
-      "content_text": "Auto & Transport Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-24T16:32:00+00:00",
       "tags": [
         "Front Page"
       ]
