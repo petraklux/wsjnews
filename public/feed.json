@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "937468c0a90dddd5",
+      "url": "https://www.wsj.com/economy/stubborn-australian-inflation-adds-pressure-on-rba-572bfc69",
+      "title": "Stubborn Australian Inflation Adds Pressure on RBA",
+      "content_text": "Stubborn Australian Inflation Adds Pressure on RBA",
+      "summary": "",
+      "date_published": "2026-08-26T02:05:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "0f493fa04aeac6e0",
+      "url": "https://www.wsj.com/world/how-the-iranian-shahed-drone-transformed-warwith-chinas-help-2671bb43",
+      "title": "How the Iranian Shahed Drone Transformed War—With China’s Help",
+      "content_text": "How the Iranian Shahed Drone Transformed War—With China’s Help",
+      "summary": "",
+      "date_published": "2026-08-26T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "0038b06dd019061e",
       "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
       "title": "Elizabeth anne bernstein",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-24T16:09:43+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "ece7ab65a36dcdd5",
-      "url": "https://www.wsj.com/sports/baseball/sam-fuld-wharton-phillies-460a9768",
-      "title": "The Major Leaguer Who Went to Wharton—and Learned to Run a Baseball Team",
-      "content_text": "The Major Leaguer Who Went to Wharton—and Learned to Run a Baseball Team",
-      "summary": "",
-      "date_published": "2026-08-24T16:00:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "27a16b024f74b43c",
-      "url": "https://www.wsj.com/business/autos/ev-maker-polestar-says-trump-administration-strung-it-along-before-u-s-ban-d172b3b9",
-      "title": "EV-Maker Polestar Says Trump Administration Strung It Along Before U.S. Ban",
-      "content_text": "EV-Maker Polestar Says Trump Administration Strung It Along Before U.S. Ban",
-      "summary": "",
-      "date_published": "2026-08-24T15:51:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
