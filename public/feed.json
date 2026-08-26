@@ -6,6 +6,226 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "97cfe1e472cadf23",
+      "url": "https://www.wsj.com/economy/u-s-2q-gdp-growth-unchanged-at-1-5-in-second-estimate-9358397e",
+      "title": "U.S. 2Q GDP Growth Unchanged at 1.5% in Second Estimate",
+      "content_text": "U.S. 2Q GDP Growth Unchanged at 1.5% in Second Estimate",
+      "summary": "",
+      "date_published": "2026-08-26T13:02:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "ef22cd7e2307e16b",
+      "url": "https://www.wsj.com/cio-journal/anthropic-contemplates-the-ultimate-total-addressable-market-4cc2deed",
+      "title": "Anthropic Contemplates the Ultimate Total Addressable Market",
+      "content_text": "Anthropic Contemplates the Ultimate Total Addressable Market",
+      "summary": "",
+      "date_published": "2026-08-26T13:01:00+00:00",
+      "tags": [
+        "Cio Journal"
+      ]
+    },
+    {
+      "id": "be8f834544520fb5",
+      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/nvidia-earnings-no-longer-move-the-market-like-they-used-to-f6MneuXzSUOOWCl2Axhc",
+      "title": "Nvidia Earnings No Longer Move the Market Like They Used to",
+      "content_text": "Nvidia Earnings No Longer Move the Market Like They Used to",
+      "summary": "",
+      "date_published": "2026-08-26T12:51:27+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "05e1d495cf6a2216",
+      "url": "https://www.wsj.com/economy/central-banking/feds-preferred-inflation-gauge-remains-above-target-range-cd9100c9",
+      "title": "Fed’s Preferred Inflation Gauge Remains Above Target Range",
+      "content_text": "Fed’s Preferred Inflation Gauge Remains Above Target Range",
+      "summary": "",
+      "date_published": "2026-08-26T12:51:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "6e5c6a3597ce7a42",
+      "url": "https://www.wsj.com/economy/u-s-durable-goods-orders-rose-more-than-expected-in-july-3d0e2c90",
+      "title": "U.S. Durable-Goods Orders Rose More than Expected in July",
+      "content_text": "U.S. Durable-Goods Orders Rose More than Expected in July",
+      "summary": "",
+      "date_published": "2026-08-26T12:49:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "675828a01305a562",
+      "url": "https://www.wsj.com/world/foreign-tourists-among-hundreds-missing-after-flash-floods-in-nepal-and-tibet-39e73ce7",
+      "title": "Foreign Tourists Among Hundreds Missing After Flash Floods in Nepal and Tibet",
+      "content_text": "Foreign Tourists Among Hundreds Missing After Flash Floods in Nepal and Tibet",
+      "summary": "",
+      "date_published": "2026-08-26T12:35:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "d5a3d0e1d7148469",
+      "url": "https://www.wsj.com/cmo-today/creator-first-answer-engine-optimization-takes-the-stage-04b28060",
+      "title": "Creator-First Answer Engine Optimization Takes the Stage",
+      "content_text": "Creator-First Answer Engine Optimization Takes the Stage",
+      "summary": "",
+      "date_published": "2026-08-26T12:27:00+00:00",
+      "tags": [
+        "Cmo Today"
+      ]
+    },
+    {
+      "id": "a8dbd51a39332fa5",
+      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-a1cbbf47",
+      "title": "Health Care Roundup: Market Talk",
+      "content_text": "Health Care Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-26T12:27:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "f1768c73248a30e0",
+      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b8d08e06",
+      "title": "Auto & Transport Roundup: Market Talk",
+      "content_text": "Auto & Transport Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-26T12:24:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "cd2203750411514b",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d146f3e5",
+      "title": "Basic Materials Roundup: Market Talk",
+      "content_text": "Basic Materials Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-26T12:22:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "16362ee73b3396b7",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-c85dc2a4",
+      "title": "Financial Services Roundup: Market Talk",
+      "content_text": "Financial Services Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-26T12:19:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "3a6ae5079714229e",
+      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-83b71882",
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "content_text": "Energy & Utilities Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-26T12:15:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "2e2f4b3902e92afd",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-5c4993d4",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-26T12:12:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "a2ad8c0d2f336e9e",
+      "url": "https://www.wsj.com/business/retail/abercrombie-lifts-outlook-as-profit-sales-rise-dc5bf32f",
+      "title": "Abercrombie Lifts Outlook as Profit, Sales Rise",
+      "content_text": "Abercrombie Lifts Outlook as Profit, Sales Rise",
+      "summary": "",
+      "date_published": "2026-08-26T12:04:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "29be5763bc7ed86a",
+      "url": "https://www.wsj.com/business/earnings/kohls-profit-sales-fall-despite-tariff-refund-boost-d7e95dcb",
+      "title": "Kohl’s Profit, Sales Fall Despite Tariff Refund Boost",
+      "content_text": "Kohl’s Profit, Sales Fall Despite Tariff Refund Boost",
+      "summary": "",
+      "date_published": "2026-08-26T11:49:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "69834d77f6169f8e",
+      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/the-question-nvidia-s-earnings-can-t-answer-CLWzSGAhpW7smenGAnQr",
+      "title": "The Question Nvidia’s Earnings Can’t Answer",
+      "content_text": "The Question Nvidia’s Earnings Can’t Answer",
+      "summary": "",
+      "date_published": "2026-08-26T11:45:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "47eca0edb07dfc96",
+      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+      "title": "U.S. State Department Pauses Immigrant Visa Applications",
+      "content_text": "U.S. State Department Pauses Immigrant Visa Applications",
+      "summary": "",
+      "date_published": "2026-08-26T11:43:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "3445721a92620fd4",
+      "url": "https://www.wsj.com/business/earnings/j-m-smucker-lifts-outlook-swings-to-profit-as-sales-climb-8bc33e9e",
+      "title": "J.M. Smucker Lifts Outlook, Swings to Profit as Sales Climb",
+      "content_text": "J.M. Smucker Lifts Outlook, Swings to Profit as Sales Climb",
+      "summary": "",
+      "date_published": "2026-08-26T11:41:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "e90a806b2e4d2699",
+      "url": "https://www.wsj.com/business/deals/vanguard-buys-wealth-management-platform-altruist-in-4-billion-deal-68e7260c",
+      "title": "Vanguard Buys Wealth Management Platform Altruist in $4 Billion Deal",
+      "content_text": "Vanguard Buys Wealth Management Platform Altruist in $4 Billion Deal",
+      "summary": "",
+      "date_published": "2026-08-26T11:40:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "626ba64e85a9fcb1",
+      "url": "https://www.wsj.com/business/earnings/hochschild-mining-shares-jump-after-earnings-soar-on-higher-gold-silver-prices-a328e5a5",
+      "title": "Hochschild Mining Shares Jump After Earnings Soar on Higher Gold, Silver Prices",
+      "content_text": "Hochschild Mining Shares Jump After Earnings Soar on Higher Gold, Silver Prices",
+      "summary": "",
+      "date_published": "2026-08-26T11:37:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "eb850048e97f2900",
       "url": "https://www.wsj.com/business/deals/victory-capital-to-buy-first-eagle-for-7-billion-ff0286f0",
       "title": "Victory Capital to Buy First Eagle for $7 Billion",
@@ -28,17 +248,6 @@
       ]
     },
     {
-      "id": "c8f813cdcdbc0d01",
-      "url": "https://www.wsj.com/cfo-journal/intuits-cfo-on-the-tough-choice-to-lower-guidance-a01785b5",
-      "title": "Intuit’s CFO on the Tough Choice to Lower Guidance",
-      "content_text": "Intuit’s CFO on the Tough Choice to Lower Guidance",
-      "summary": "",
-      "date_published": "2026-08-26T11:21:00+00:00",
-      "tags": [
-        "Cfo Journal"
-      ]
-    },
-    {
       "id": "187dbaa7d3bc0b2e",
       "url": "https://www.wsj.com/business/retail/bath-body-works-raises-earnings-outlook-on-higher-profit-2b8f2b3c",
       "title": "Bath & Body Works Raises Earnings Outlook on Higher Profit",
@@ -47,6 +256,17 @@
       "date_published": "2026-08-26T11:21:00+00:00",
       "tags": [
         "Business"
+      ]
+    },
+    {
+      "id": "c8f813cdcdbc0d01",
+      "url": "https://www.wsj.com/cfo-journal/intuits-cfo-on-the-tough-choice-to-lower-guidance-a01785b5",
+      "title": "Intuit’s CFO on the Tough Choice to Lower Guidance",
+      "content_text": "Intuit’s CFO on the Tough Choice to Lower Guidance",
+      "summary": "",
+      "date_published": "2026-08-26T11:21:00+00:00",
+      "tags": [
+        "Cfo Journal"
       ]
     },
     {
@@ -1983,226 +2203,6 @@
       "date_published": "2026-08-25T05:13:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "a5d9c6352faae233",
-      "url": "https://www.wsj.com/finance/currencies/bitcoin-hits-more-than-three-month-high-0dbb50ad",
-      "title": "Bitcoin Hits More Than Three-Month High",
-      "content_text": "Bitcoin Hits More Than Three-Month High",
-      "summary": "",
-      "date_published": "2026-08-25T05:12:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "af2b8e1b997bb11a",
-      "url": "https://www.wsj.com/opinion/pepperand-salt-a72f64e2",
-      "title": "Pepper…and Salt",
-      "content_text": "Pepper…and Salt",
-      "summary": "",
-      "date_published": "2026-08-25T04:00:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "d456dddc7773e291",
-      "url": "https://www.wsj.com/politics/national-security/iran-war-warnings-9d7f289a",
-      "title": "The Warnings That Came Before a War Now Reaching the Six-Month Mark",
-      "content_text": "The Warnings That Came Before a War Now Reaching the Six-Month Mark",
-      "summary": "",
-      "date_published": "2026-08-25T03:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "dae3178495720d21",
-      "url": "https://www.wsj.com/economy/central-banking/reserve-bank-of-australia-remains-jittery-about-inflation-risks-3d673939",
-      "title": "Reserve Bank of Australia Remains Jittery About Inflation Risks",
-      "content_text": "Reserve Bank of Australia Remains Jittery About Inflation Risks",
-      "summary": "",
-      "date_published": "2026-08-25T02:56:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "cb11a5952ee7df9d",
-      "url": "https://www.wsj.com/business/autos/hyundai-motor-union-reach-wage-deal-to-end-walkouts-49a68157",
-      "title": "Hyundai Motor, Union Reach Wage Deal to End Walkouts",
-      "content_text": "Hyundai Motor, Union Reach Wage Deal to End Walkouts",
-      "summary": "",
-      "date_published": "2026-08-25T02:30:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "4f2eb6cc9b5de784",
-      "url": "https://www.wsj.com/tech/flock-cameras-are-spreading-across-america-the-backlash-is-growing-just-as-fast-fff74ed2",
-      "title": "Flock Cameras Are Spreading Across America. The Backlash Is Growing Just as Fast.",
-      "content_text": "Flock Cameras Are Spreading Across America. The Backlash Is Growing Just as Fast.",
-      "summary": "",
-      "date_published": "2026-08-25T01:01:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "468fd125d1d1aae5",
-      "url": "https://www.wsj.com/finance/stocks/stock-market-crash-south-korea-ai-ccb00cba",
-      "title": "The World’s Craziest Stock Market Has Turned Into a Fright Ride",
-      "content_text": "The World’s Craziest Stock Market Has Turned Into a Fright Ride",
-      "summary": "",
-      "date_published": "2026-08-25T01:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "c3a998d481496ac8",
-      "url": "https://www.wsj.com/finance/stocks/oura-and-dunkin-get-ready-to-join-ipo-bonanza-a6ff0633",
-      "title": "Oura and Dunkin’ Get Ready to Join IPO Bonanza",
-      "content_text": "Oura and Dunkin’ Get Ready to Join IPO Bonanza",
-      "summary": "",
-      "date_published": "2026-08-25T01:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "61b8cc04d8910d33",
-      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-traders-parse-u-s-new-measures-on-iran-40b529c7",
-      "title": "Trade Headlines, Firm Dollar May Temper Yuan Gains",
-      "content_text": "Trade Headlines, Firm Dollar May Temper Yuan Gains",
-      "summary": "",
-      "date_published": "2026-08-25T00:34:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "ce5099aff8db4656",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-gains-potential-to-rise-to-5-000-intact-c72d3508",
-      "title": "Gold Gains; Potential to Rise to $5,000 Intact",
-      "content_text": "Gold Gains; Potential to Rise to $5,000 Intact",
-      "summary": "",
-      "date_published": "2026-08-25T00:31:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "4f5e77b816f712b5",
-      "url": "https://www.wsj.com/finance/jgb-futures-mixed-may-be-supported-by-u-s-treasurys-gains-ca3035c2",
-      "title": "JGB Futures Mixed; May Be Supported by U.S. Treasurys Gains",
-      "content_text": "JGB Futures Mixed; May Be Supported by U.S. Treasurys Gains",
-      "summary": "",
-      "date_published": "2026-08-25T00:18:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "1863440e0bb37bf6",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-8-dragged-by-electronics-stocks-961a5697",
-      "title": "Nikkei Falls 0.8%, Dragged by Electronics Stocks",
-      "content_text": "Nikkei Falls 0.8%, Dragged by Electronics Stocks",
-      "summary": "",
-      "date_published": "2026-08-25T00:15:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "e894e593d25cc1b3",
-      "url": "https://www.wsj.com/politics/policy/trump-administration-prepares-to-revoke-up-to-200-000-visas-from-asylum-seekers-5b4d4264",
-      "title": "Trump Administration Prepares to Revoke Up to 200,000 Visas From Asylum Seekers",
-      "content_text": "Trump Administration Prepares to Revoke Up to 200,000 Visas From Asylum Seekers",
-      "summary": "",
-      "date_published": "2026-08-25T00:04:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "3440109eed96c0cd",
-      "url": "https://www.wsj.com/arts-culture/food-cooking/how-being-a-wine-connoisseur-became-the-ultimate-business-flex-055cb2d8",
-      "title": "How Being a Wine Connoisseur Became the Ultimate Business Flex",
-      "content_text": "How Being a Wine Connoisseur Became the Ultimate Business Flex",
-      "summary": "",
-      "date_published": "2026-08-25T00:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "406816ea13205660",
-      "url": "https://www.wsj.com/tech/ai/why-your-boss-wants-to-make-sure-ai-can-read-your-slack-messages-b6c149c1",
-      "title": "Why Your Boss Wants to Make Sure AI Can Read Your Slack Messages",
-      "content_text": "Why Your Boss Wants to Make Sure AI Can Read Your Slack Messages",
-      "summary": "",
-      "date_published": "2026-08-25T00:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "f77426c11571f583",
-      "url": "https://www.wsj.com/business/retail/zohran-mamdani-is-turning-his-fire-on-amazon-aa206cce",
-      "title": "Zohran Mamdani Is Turning His Fire on Amazon",
-      "content_text": "Zohran Mamdani Is Turning His Fire on Amazon",
-      "summary": "",
-      "date_published": "2026-08-25T00:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "1f060834f0b424e0",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-as-traders-assess-u-s-measures-against-iran-2291fac0",
-      "title": "Oil Edges Higher as Traders Assess U.S. Measures Against Iran",
-      "content_text": "Oil Edges Higher as Traders Assess U.S. Measures Against Iran",
-      "summary": "",
-      "date_published": "2026-08-24T23:46:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "263b612ebabcbf99",
-      "url": "https://www.wsj.com/politics/elections/trump-aligned-group-opens-its-wallet-to-boost-darline-graham-in-south-carolina-f054410f",
-      "title": "Trump-Aligned Group Opens Its Wallet to Boost Darline Graham in South Carolina",
-      "content_text": "Trump-Aligned Group Opens Its Wallet to Boost Darline Graham in South Carolina",
-      "summary": "",
-      "date_published": "2026-08-24T23:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "5f0becbf2e862179",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/ai-fears-geopolitics-mark-start-of-a-busy-markets-week-79rD5lV8dMc4pJD0zFhd",
-      "title": "AI Fears, Geopolitics Mark Start of a Busy Markets Week",
-      "content_text": "AI Fears, Geopolitics Mark Start of a Busy Markets Week",
-      "summary": "",
-      "date_published": "2026-08-24T22:35:09+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "d8dedf2ece61b39a",
-      "url": "https://www.wsj.com/politics/policy/he-has-a-lot-of-room-to-kiss-my-ass-trump-vs-canada-is-getting-personal-592dcc6e",
-      "title": "‘He Has a Lot of Room to Kiss My Ass’: Trump vs. Canada Is Getting Personal",
-      "content_text": "‘He Has a Lot of Room to Kiss My Ass’: Trump vs. Canada Is Getting Personal",
-      "summary": "",
-      "date_published": "2026-08-24T22:19:00+00:00",
-      "tags": [
-        "Politics"
       ]
     }
   ]
