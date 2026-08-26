@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "cd8b1d66fb14d204",
+      "url": "https://www.wsj.com/economy/central-banking/thailand-central-bank-holds-rate-steady-c57eeaee",
+      "title": "Thailand Central Bank Holds Rate Steady",
+      "content_text": "Thailand Central Bank Holds Rate Steady",
+      "summary": "",
+      "date_published": "2026-08-26T07:26:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "9fedefdba787395e",
+      "url": "https://www.wsj.com/tech/ai/three-takeaways-from-bill-gatess-5-784-word-warning-on-ai-there-is-no-plan-aa0c3441",
+      "title": "Three Takeaways From Bill Gates’s 5,784-Word Warning on AI: ‘There Is No Plan’",
+      "content_text": "Three Takeaways From Bill Gates’s 5,784-Word Warning on AI: ‘There Is No Plan’",
+      "summary": "",
+      "date_published": "2026-08-26T07:12:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
       "id": "a5742c098701fe3a",
       "url": "https://www.wsj.com/business/siemens-energy-plans-to-spin-off-transformation-of-industry-unit-94ae315c",
       "title": "Siemens Energy Plans to Spin Off Transformation of Industry Unit",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-08-24T17:08:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "d2197355d2142e8c",
-      "url": "https://www.wsj.com/politics/policy/government-proposes-new-six-figure-fee-for-h1-b-visas-a0da2d01",
-      "title": "Government Proposes New Six-Figure Fee for H1-B Visas",
-      "content_text": "Government Proposes New Six-Figure Fee for H1-B Visas",
-      "summary": "",
-      "date_published": "2026-08-24T16:50:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "781a90eaacf045a1",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/chicago-fed-activity-index-pulls-back-in-july-pOVyGwO6XgFLFUr5XG4w",
-      "title": "Chicago Fed Activity Index Pulls Back in July",
-      "content_text": "Chicago Fed Activity Index Pulls Back in July",
-      "summary": "",
-      "date_published": "2026-08-24T16:47:33+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
