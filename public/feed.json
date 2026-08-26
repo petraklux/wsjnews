@@ -6,6 +6,105 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "0f18f6e5c766945a",
+      "url": "https://www.wsj.com/politics/elections/what-darline-grahams-runoff-win-means-for-november-828c9a5d",
+      "title": "What Darline Graham’s Runoff Win Means for November",
+      "content_text": "What Darline Graham’s Runoff Win Means for November",
+      "summary": "",
+      "date_published": "2026-08-26T10:42:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "3d9e66f335271b62",
+      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/where-will-canadian-tariffs-hit-hardest--21jIBKrTtKmgMlDAZyUC",
+      "title": "Where Will Canadian Tariffs Hit Hardest?",
+      "content_text": "Where Will Canadian Tariffs Hit Hardest?",
+      "summary": "",
+      "date_published": "2026-08-26T10:28:08+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "cb24d9afa75dfd8a",
+      "url": "https://www.wsj.com/business/autos/chinas-li-auto-posts-another-loss-on-subdued-demand-47707009",
+      "title": "China’s Li Auto Posts Another Loss on Subdued Demand",
+      "content_text": "China’s Li Auto Posts Another Loss on Subdued Demand",
+      "summary": "",
+      "date_published": "2026-08-26T10:23:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "3af5c561f2f85a87",
+      "url": "https://www.wsj.com/business/ben-jerrys-to-name-new-board-members-after-long-process-rejection-be1b4ced",
+      "title": "Ben & Jerry’s to Name New Board Members After Long Process, Rejection",
+      "content_text": "Ben & Jerry’s to Name New Board Members After Long Process, Rejection",
+      "summary": "",
+      "date_published": "2026-08-26T10:19:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "d1458c3185339955",
+      "url": "https://www.wsj.com/tech/ai/the-1-5-trillion-question-nvidias-earnings-cant-answer-a3a951c3",
+      "title": "The $1.5 Trillion Question Nvidia’s Earnings Can’t Answer",
+      "content_text": "The $1.5 Trillion Question Nvidia’s Earnings Can’t Answer",
+      "summary": "",
+      "date_published": "2026-08-26T10:11:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "7a54c2aea211324a",
+      "url": "https://www.wsj.com/opinion/the-path-to-zero-how-the-war-in-afghanistan-ended-ccb2e22c",
+      "title": "The Path to Zero: How the War in Afghanistan Ended",
+      "content_text": "The Path to Zero: How the War in Afghanistan Ended",
+      "summary": "",
+      "date_published": "2026-08-26T10:09:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "37a407f04e7f4320",
+      "url": "https://www.wsj.com/world/the-ai-prodigy-who-won-over-silicon-valleyand-lost-45-billion-24603833",
+      "title": "The AI Prodigy Who Won Over Silicon Valley—and Lost $45 Billion",
+      "content_text": "The AI Prodigy Who Won Over Silicon Valley—and Lost $45 Billion",
+      "summary": "",
+      "date_published": "2026-08-26T10:03:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "1bab326644b7bc54",
+      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/what-to-expect-from-today-s-pce-inflation-reading-AfFvC8ukElpSgJ7gP3Qw",
+      "title": "What to Expect From Today’s PCE Inflation Reading",
+      "content_text": "What to Expect From Today’s PCE Inflation Reading",
+      "summary": "",
+      "date_published": "2026-08-26T10:00:03+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "0a3fa505a0fd4de6",
+      "url": "https://www.wsj.com/lifestyle/travel/maine-puffin-watching-ecotourism-69e7f215",
+      "title": "Thousands Are Flocking to Maine to See the Elusive Puffin",
+      "content_text": "Thousands Are Flocking to Maine to See the Elusive Puffin",
+      "summary": "",
+      "date_published": "2026-08-26T10:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
       "id": "335abebfe40974fa",
       "url": "https://www.wsj.com/articles/the-ceo-who-built-a-company-on-a-technical-impossibility-e26d23eb",
       "title": "The CEO Who Built a Company on a ‘Technical Impossibility’",
@@ -28,14 +127,14 @@
       ]
     },
     {
-      "id": "b73a991e7def56f4",
-      "url": "https://www.wsj.com/arts-culture/music/olivia-dean-man-i-need-grammy-5b8ffc4a",
-      "title": "Olivia Dean Is Pop’s Breakout Star—and She Almost Didn’t Release Her Biggest Hit",
-      "content_text": "Olivia Dean Is Pop’s Breakout Star—and She Almost Didn’t Release Her Biggest Hit",
+      "id": "8e8bda18fedaabfe",
+      "url": "https://www.wsj.com/tech/ai/microsoft-is-leaving-investors-flying-blind-on-its-ai-businesses-3607360a",
+      "title": "Microsoft Is Leaving Investors Flying Blind on Its AI Businesses",
+      "content_text": "Microsoft Is Leaving Investors Flying Blind on Its AI Businesses",
       "summary": "",
       "date_published": "2026-08-26T09:30:00+00:00",
       "tags": [
-        "Arts Culture"
+        "Tech"
       ]
     },
     {
@@ -50,17 +149,6 @@
       ]
     },
     {
-      "id": "8e8bda18fedaabfe",
-      "url": "https://www.wsj.com/tech/ai/microsoft-is-leaving-investors-flying-blind-on-its-ai-businesses-3607360a",
-      "title": "Microsoft Is Leaving Investors Flying Blind on Its AI Businesses",
-      "content_text": "Microsoft Is Leaving Investors Flying Blind on Its AI Businesses",
-      "summary": "",
-      "date_published": "2026-08-26T09:30:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
       "id": "b2a0de7e4444a152",
       "url": "https://www.wsj.com/economy/central-banking/the-fed-chairman-is-heading-to-jackson-hole-without-a-clear-stance-on-inflation-eed625d3",
       "title": "The Fed Chairman Is Heading to Jackson Hole Without a Clear Stance on Inflation",
@@ -72,14 +160,14 @@
       ]
     },
     {
-      "id": "fed2060e64d8b7b3",
-      "url": "https://www.wsj.com/business/autos/detroit-needs-canada-more-than-the-rest-of-the-u-s-does-82643b92",
-      "title": "Detroit Needs Canada More Than the Rest of the U.S. Does",
-      "content_text": "Detroit Needs Canada More Than the Rest of the U.S. Does",
+      "id": "b73a991e7def56f4",
+      "url": "https://www.wsj.com/arts-culture/music/olivia-dean-man-i-need-grammy-5b8ffc4a",
+      "title": "Olivia Dean Is Pop’s Breakout Star—and She Almost Didn’t Release Her Biggest Hit",
+      "content_text": "Olivia Dean Is Pop’s Breakout Star—and She Almost Didn’t Release Her Biggest Hit",
       "summary": "",
       "date_published": "2026-08-26T09:30:00+00:00",
       "tags": [
-        "Business"
+        "Arts Culture"
       ]
     },
     {
@@ -91,6 +179,17 @@
       "date_published": "2026-08-26T09:30:00+00:00",
       "tags": [
         "Us News"
+      ]
+    },
+    {
+      "id": "fed2060e64d8b7b3",
+      "url": "https://www.wsj.com/business/autos/detroit-needs-canada-more-than-the-rest-of-the-u-s-does-82643b92",
+      "title": "Detroit Needs Canada More Than the Rest of the U.S. Does",
+      "content_text": "Detroit Needs Canada More Than the Rest of the U.S. Does",
+      "summary": "",
+      "date_published": "2026-08-26T09:30:00+00:00",
+      "tags": [
+        "Business"
       ]
     },
     {
@@ -2104,105 +2203,6 @@
       "date_published": "2026-08-24T21:27:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "55762ea8b853941c",
-      "url": "https://www.wsj.com/politics/elections/supreme-court-removes-hurdle-to-trump-directive-on-mail-voting-f2a1437a",
-      "title": "Supreme Court Removes Hurdle to Trump Directive on Mail Voting",
-      "content_text": "Supreme Court Removes Hurdle to Trump Directive on Mail Voting",
-      "summary": "",
-      "date_published": "2026-08-24T21:26:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "866f1714482d4824",
-      "url": "https://www.wsj.com/opinion/el-sayed-abandons-the-middle-9988f792",
-      "title": "El-Sayed Abandons the Middle",
-      "content_text": "El-Sayed Abandons the Middle",
-      "summary": "",
-      "date_published": "2026-08-24T21:26:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "c6a8440600d8b476",
-      "url": "https://www.wsj.com/opinion/may-the-post-trump-era-begin-asap-bbef233e",
-      "title": "May the Post-Trump Era Begin ASAP",
-      "content_text": "May the Post-Trump Era Begin ASAP",
-      "summary": "",
-      "date_published": "2026-08-24T21:25:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "df07fd1ef920578a",
-      "url": "https://www.wsj.com/opinion/america-faces-the-constraints-of-democracy-738a6af5",
-      "title": "America Faces the Constraints of Democracy",
-      "content_text": "America Faces the Constraints of Democracy",
-      "summary": "",
-      "date_published": "2026-08-24T21:25:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "fdc212120d3f1c51",
-      "url": "https://www.wsj.com/finance/investing/ai-jitters-and-geopolitical-threats-mark-start-of-busy-week-in-markets-a192c22a",
-      "title": "AI Jitters and Geopolitical Threats Mark Start of Busy Week in Markets",
-      "content_text": "AI Jitters and Geopolitical Threats Mark Start of Busy Week in Markets",
-      "summary": "",
-      "date_published": "2026-08-24T20:51:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "51659299a755e9f6",
-      "url": "https://www.wsj.com/finance/investing/canada-tariffs-again-6bc52ff1",
-      "title": "Canada Tariffs, Again",
-      "content_text": "Canada Tariffs, Again",
-      "summary": "",
-      "date_published": "2026-08-24T20:33:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "e1e3760d47a6f8bc",
-      "url": "https://www.wsj.com/business/media/former-forbes-editor-got-6-million-for-helping-magazines-partner-with-sale-e892131a",
-      "title": "Former Forbes Editor Got $6 Million for Helping Magazine’s Partner With Sale",
-      "content_text": "Former Forbes Editor Got $6 Million for Helping Magazine’s Partner With Sale",
-      "summary": "",
-      "date_published": "2026-08-24T20:33:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "1434439056f30082",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-on-artificial-intelligence-jitters-fb7a3260",
-      "title": "U.S. Stocks Mixed on Artificial-Intelligence Jitters",
-      "content_text": "U.S. Stocks Mixed on Artificial-Intelligence Jitters",
-      "summary": "",
-      "date_published": "2026-08-24T20:21:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "b5343177a7ef65ae",
-      "url": "https://www.wsj.com/arts-culture/music/sanctuary-park-by-the-jayhawks-review-still-fresh-at-40-710f1961",
-      "title": "‘Sanctuary Park’ by the Jayhawks Review: Still Fresh at 40",
-      "content_text": "‘Sanctuary Park’ by the Jayhawks Review: Still Fresh at 40",
-      "summary": "",
-      "date_published": "2026-08-24T20:18:00+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]
