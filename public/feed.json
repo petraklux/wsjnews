@@ -6,6 +6,83 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "814a14022d9b30ef",
+      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/wealth-management-stocks-fall-after-vanguard-aquires-tech-platform-49Q2PoRCDbrxg0szHcKW",
+      "title": "Wealth Management Stocks Fall After Vanguard Aquires Tech Platform",
+      "content_text": "Wealth Management Stocks Fall After Vanguard Aquires Tech Platform",
+      "summary": "",
+      "date_published": "2026-08-26T14:19:09+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "1299ab86ff6fc5d5",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/modern-shingle-style-homes-2b576efa",
+      "title": "The Shingle-Style Home Gets Reinvented for the 21st Century",
+      "content_text": "The Shingle-Style Home Gets Reinvented for the 21st Century",
+      "summary": "",
+      "date_published": "2026-08-26T14:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "2c344f71a4b9d6d7",
+      "url": "https://www.wsj.com/real-estate/mold-is-giving-home-builders-legal-headaches-00d844ff",
+      "title": "Mold Is Giving Home Builders Legal Headaches",
+      "content_text": "Mold Is Giving Home Builders Legal Headaches",
+      "summary": "",
+      "date_published": "2026-08-26T14:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "b86f75f4b8e2e637",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-see-continued-weather-support-85b403e3",
+      "title": "U.S. Natural Gas Futures See Continued Weather Support",
+      "content_text": "U.S. Natural Gas Futures See Continued Weather Support",
+      "summary": "",
+      "date_published": "2026-08-26T13:44:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "bbc4f7e94fc1b8e1",
+      "url": "https://www.wsj.com/sports/football/college-football-vs-nfl-ab1e9f2f",
+      "title": "College Football vs. the NFL—Is it Really Just Capitalism vs. Socialism?",
+      "content_text": "College Football vs. the NFL—Is it Really Just Capitalism vs. Socialism?",
+      "summary": "",
+      "date_published": "2026-08-26T13:37:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "9e5b5c9f4bbb01db",
+      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/meta-settles-child-safety-suit-8uB0VqrPY6cN1cR8zZvG",
+      "title": "Meta Stock Rises on Child-Safety Suit Settlement",
+      "content_text": "Meta Stock Rises on Child-Safety Suit Settlement",
+      "summary": "",
+      "date_published": "2026-08-26T13:30:32+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "34ecfc9afa51826b",
+      "url": "https://www.wsj.com/tech/meta-reaches-18-billion-settlement-with-48-states-over-child-safety-claims-cf725a2b",
+      "title": "Meta Reaches $18 Billion Settlement With 48 States Over Child-Safety Claims",
+      "content_text": "Meta Reaches $18 Billion Settlement With 48 States Over Child-Safety Claims",
+      "summary": "",
+      "date_published": "2026-08-26T13:30:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
       "id": "97cfe1e472cadf23",
       "url": "https://www.wsj.com/economy/u-s-2q-gdp-growth-unchanged-at-1-5-in-second-estimate-9358397e",
       "title": "U.S. 2Q GDP Growth Unchanged at 1.5% in Second Estimate",
@@ -72,17 +149,6 @@
       ]
     },
     {
-      "id": "d5a3d0e1d7148469",
-      "url": "https://www.wsj.com/cmo-today/creator-first-answer-engine-optimization-takes-the-stage-04b28060",
-      "title": "Creator-First Answer Engine Optimization Takes the Stage",
-      "content_text": "Creator-First Answer Engine Optimization Takes the Stage",
-      "summary": "",
-      "date_published": "2026-08-26T12:27:00+00:00",
-      "tags": [
-        "Cmo Today"
-      ]
-    },
-    {
       "id": "a8dbd51a39332fa5",
       "url": "https://www.wsj.com/business/health-care-roundup-market-talk-a1cbbf47",
       "title": "Health Care Roundup: Market Talk",
@@ -91,6 +157,17 @@
       "date_published": "2026-08-26T12:27:00+00:00",
       "tags": [
         "Business"
+      ]
+    },
+    {
+      "id": "d5a3d0e1d7148469",
+      "url": "https://www.wsj.com/cmo-today/creator-first-answer-engine-optimization-takes-the-stage-04b28060",
+      "title": "Creator-First Answer Engine Optimization Takes the Stage",
+      "content_text": "Creator-First Answer Engine Optimization Takes the Stage",
+      "summary": "",
+      "date_published": "2026-08-26T12:27:00+00:00",
+      "tags": [
+        "Cmo Today"
       ]
     },
     {
@@ -2126,83 +2203,6 @@
       "date_published": "2026-08-25T08:19:40+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "152de20604b5ddc7",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/monday-market-recap-heard-on-the-street-Pr5PxdeMRpQnV1edOCUO",
-      "title": "Monday Market Recap — Heard on the Street",
-      "content_text": "Monday Market Recap — Heard on the Street",
-      "summary": "",
-      "date_published": "2026-08-25T08:19:12+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "ebf416bf4e808bd7",
-      "url": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-holds-above-68-euros-on-winter-supply-concerns-e2775bb6",
-      "title": "European TTF Gas Holds Above 68 Euros on Winter Supply Concerns",
-      "content_text": "European TTF Gas Holds Above 68 Euros on Winter Supply Concerns",
-      "summary": "",
-      "date_published": "2026-08-25T07:55:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "e071cc92e04add70",
-      "url": "https://www.wsj.com/business/retail/lego-sales-growth-outpaces-global-toy-market-to-hit-new-record-b3403829",
-      "title": "Lego Sales Growth Outpaces Global Toy Market to Hit New Record",
-      "content_text": "Lego Sales Growth Outpaces Global Toy Market to Hit New Record",
-      "summary": "",
-      "date_published": "2026-08-25T07:23:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "93240fa74f683f86",
-      "url": "https://www.wsj.com/business/one-of-taiwans-biggest-ai-winners-isnt-a-chip-maker-51768bd5",
-      "title": "One of Taiwan’s Biggest AI Winners Isn’t a Chip Maker",
-      "content_text": "One of Taiwan’s Biggest AI Winners Isn’t a Chip Maker",
-      "summary": "",
-      "date_published": "2026-08-25T06:45:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "ee6f0014a07c07aa",
-      "url": "https://www.wsj.com/economy/german-economy-gets-upward-revision-for-second-quarter-on-resilient-exports-c6a4525d",
-      "title": "German Economy Gets Upward Revision for Second Quarter on Resilient Exports",
-      "content_text": "German Economy Gets Upward Revision for Second Quarter on Resilient Exports",
-      "summary": "",
-      "date_published": "2026-08-25T06:39:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "e7e490781a3aa229",
-      "url": "https://www.wsj.com/business/earnings/gold-fields-returns-more-cash-to-shareholders-as-earnings-jump-on-higher-prices-d164eb2e",
-      "title": "Gold Fields Returns More Cash to Shareholders as Earnings Jump on Higher Prices",
-      "content_text": "Gold Fields Returns More Cash to Shareholders as Earnings Jump on Higher Prices",
-      "summary": "",
-      "date_published": "2026-08-25T06:04:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "c114e3abb10a63ed",
-      "url": "https://www.wsj.com/business/energy-oil/woodside-puts-everything-on-the-table-in-review-of-beaumont-facility-7abc603b",
-      "title": "Woodside Puts ‘Everything on the Table’ in Review of Beaumont Facility",
-      "content_text": "Woodside Puts ‘Everything on the Table’ in Review of Beaumont Facility",
-      "summary": "",
-      "date_published": "2026-08-25T05:13:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
