@@ -6,6 +6,105 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "e708b792e81a7f99",
+      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/wall-street-is-back-from-summer-camp-and-ready-for-nvidia-earnings-VdCQGcDhtbgSW7QWUENv",
+      "title": "Wall Street Is Back From Summer Camp…And Ready for Nvidia Earnings",
+      "content_text": "Wall Street Is Back From Summer Camp…And Ready for Nvidia Earnings",
+      "summary": "",
+      "date_published": "2026-08-26T18:45:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "2c73946dbd68ee7a",
+      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/one-nvidia-risk-transition-to-next-gen-ai-architecture-G5o2tbUb3y9V6iMSA4Kl",
+      "title": "One Nvidia Risk: Transition to Next-Gen AI Architecture",
+      "content_text": "One Nvidia Risk: Transition to Next-Gen AI Architecture",
+      "summary": "",
+      "date_published": "2026-08-26T18:32:26+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "aa4af40829dbcc1e",
+      "url": "https://www.wsj.com/opinion/the-gops-november-ethics-problem-833de577",
+      "title": "The GOP’s November Ethics Problem",
+      "content_text": "The GOP’s November Ethics Problem",
+      "summary": "",
+      "date_published": "2026-08-26T18:26:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "4f60590981d83f54",
+      "url": "https://www.wsj.com/politics/policy/florida-governor-says-public-is-right-to-be-concerned-about-flock-cameras-0fd0efdd",
+      "title": "Florida Governor Says Public Is ‘Right to Be Concerned’ About Flock Cameras",
+      "content_text": "Florida Governor Says Public Is ‘Right to Be Concerned’ About Flock Cameras",
+      "summary": "",
+      "date_published": "2026-08-26T18:23:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "012340a7d567ac5a",
+      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/three-numbers-to-watch-in-nvidia-s-earnings-report-8Sg16FEc3bZ1ybb6dubq",
+      "title": "Three Numbers to Watch in Nvidia’s Earnings Report",
+      "content_text": "Three Numbers to Watch in Nvidia’s Earnings Report",
+      "summary": "",
+      "date_published": "2026-08-26T18:00:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "3d26e8378c3c3b1a",
+      "url": "https://www.wsj.com/tech/ai/the-latest-viral-ai-assistant-rocketing-across-silicon-valley-abb46276",
+      "title": "The Latest Viral AI Assistant Rocketing Across Silicon Valley",
+      "content_text": "The Latest Viral AI Assistant Rocketing Across Silicon Valley",
+      "summary": "",
+      "date_published": "2026-08-26T17:39:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "c5102dbc4f95f194",
+      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/what-options-traders-expect-after-nvidia-earnings-VeDpE9AwfgPRGhFHgnlz",
+      "title": "What Options Traders Expect After Nvidia Earnings",
+      "content_text": "What Options Traders Expect After Nvidia Earnings",
+      "summary": "",
+      "date_published": "2026-08-26T17:28:34+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "63587bb8a39ecbdf",
+      "url": "https://www.wsj.com/politics/policy/states-face-election-confusion-after-postal-service-upends-mail-ballot-rules-6525fe7d",
+      "title": "States Face Election Confusion as Postal Service Upends Mail-Ballot Rules",
+      "content_text": "States Face Election Confusion as Postal Service Upends Mail-Ballot Rules",
+      "summary": "",
+      "date_published": "2026-08-26T17:27:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "73739fd4e939c2d5",
+      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/how-nvidia-blew-up-wall-street-s-expectations-game-VRjyhs4gYyDNTtixZkP1",
+      "title": "How Nvidia Blew Up Wall Street’s Expectations Game",
+      "content_text": "How Nvidia Blew Up Wall Street’s Expectations Game",
+      "summary": "",
+      "date_published": "2026-08-26T17:00:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "8328742ef852e620",
       "url": "https://www.wsj.com/articles/rhinoceros-review-john-turturro-paul-giamatti-and-man-vs-beast-6d9f3114",
       "title": "‘Rhinoceros’ Review: John Turturro, Paul Giamatti and Man vs. Beast",
@@ -2104,105 +2203,6 @@
       "date_published": "2026-08-25T11:06:00+00:00",
       "tags": [
         "Logistics Report"
-      ]
-    },
-    {
-      "id": "d48babe9eeb85a32",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/u-s-sanctions-avoid-ruffling-china-s-feathers-xi9VTnNEfrCFUJsFxQhi",
-      "title": "U.S. Sanctions Avoid Ruffling China’s Feathers",
-      "content_text": "U.S. Sanctions Avoid Ruffling China’s Feathers",
-      "summary": "",
-      "date_published": "2026-08-25T11:04:16+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "9720d9753e00c12f",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/united-plans-biggest-international-expansion-yet-with-help-from-airbus-jet-aET98CW2TuehqBhMbxfP",
-      "title": "United Plans Biggest International Expansion Yet, With Help from Airbus Jet",
-      "content_text": "United Plans Biggest International Expansion Yet, With Help from Airbus Jet",
-      "summary": "",
-      "date_published": "2026-08-25T11:00:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "995450a2ff1be879",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-bessent-launches-operation-economic-outcast-to-isolate-and-squeeze-iran-13057c7f",
-      "title": "The Morning Risk Report: Bessent Launches ‘Operation Economic Outcast’ to Isolate and Squeeze Iran",
-      "content_text": "The Morning Risk Report: Bessent Launches ‘Operation Economic Outcast’ to Isolate and Squeeze Iran",
-      "summary": "",
-      "date_published": "2026-08-25T10:51:00+00:00",
-      "tags": [
-        "Risk Compliance Journal"
-      ]
-    },
-    {
-      "id": "41fae6d90053cf01",
-      "url": "https://www.wsj.com/business/earnings/scotiabank-earnings-lifted-by-record-result-in-wealth-management-1fd50f60",
-      "title": "Scotiabank Earnings Lifted by Record Result in Wealth Management",
-      "content_text": "Scotiabank Earnings Lifted by Record Result in Wealth Management",
-      "summary": "",
-      "date_published": "2026-08-25T10:47:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "041119e1a22c486d",
-      "url": "https://www.wsj.com/economy/global/world-trade-flows-continue-recovery-in-june-88e06ec5",
-      "title": "World Trade Flows Continue Recovery in June",
-      "content_text": "World Trade Flows Continue Recovery in June",
-      "summary": "",
-      "date_published": "2026-08-25T10:42:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "ff46e443f6a78e70",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/bessent-mentor-druckenmiller-blasts-bond-intervention-mistake--nhXM2e6TUGOddEWSynLd",
-      "title": "Bessent Mentor Druckenmiller Blasts Bond Intervention ‘Mistake’",
-      "content_text": "Bessent Mentor Druckenmiller Blasts Bond Intervention ‘Mistake’",
-      "summary": "",
-      "date_published": "2026-08-25T10:39:14+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "0e5ef2c97e02c580",
-      "url": "https://www.wsj.com/world/middle-east/u-s-squeezes-iran-but-avoids-targeting-its-biggest-lifeline-china-b8d2ee88",
-      "title": "U.S. Squeezes Iran But Avoids Targeting Its Biggest Lifeline: China",
-      "content_text": "U.S. Squeezes Iran But Avoids Targeting Its Biggest Lifeline: China",
-      "summary": "",
-      "date_published": "2026-08-25T10:34:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "35be9d53771b87db",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-f88a9a4a",
-      "title": "Auto & Transport Roundup: Market Talk",
-      "content_text": "Auto & Transport Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-25T10:34:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "6e16e8643117fc57",
-      "url": "https://www.wsj.com/finance/banking/bank-of-montreal-plans-to-buy-back-shares-after-earnings-hit-by-charge-f5979a80",
-      "title": "Bank of Montreal Plans to Buy Back Shares After Earnings Hit by Charge",
-      "content_text": "Bank of Montreal Plans to Buy Back Shares After Earnings Hit by Charge",
-      "summary": "",
-      "date_published": "2026-08-25T10:31:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]
