@@ -1,5 +1,18 @@
 {
   "items": {
+    "0038b06dd019061e": {
+      "dek": "",
+      "first_seen": "2026-08-26T01:52:42.351582+00:00",
+      "guid": "0038b06dd019061e",
+      "published": "2026-08-26T01:30:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Elizabeth anne bernstein",
+      "title": "Elizabeth anne bernstein",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein"
+    },
     "00ad5ca6f9b590fb": {
       "dek": "",
       "first_seen": "2026-08-24T21:38:12.859564+00:00",
@@ -169,6 +182,19 @@
       "title": "Monday Market Recap — Heard on the Street",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/monday-market-recap-heard-on-the-street-Pr5PxdeMRpQnV1edOCUO"
     },
+    "15332c8bc619de18": {
+      "dek": "",
+      "first_seen": "2026-08-26T01:52:42.351582+00:00",
+      "guid": "15332c8bc619de18",
+      "published": "2026-08-26T00:19:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Nikkei Falls 0.4%, Dragged by Chip-Related Stocks",
+      "title": "Nikkei Falls 0.4%, Dragged by Chip-Related Stocks",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-4-dragged-by-chip-related-stocks-472365b8"
+    },
     "1863440e0bb37bf6": {
       "dek": "",
       "first_seen": "2026-08-25T01:46:46.835594+00:00",
@@ -233,19 +259,6 @@
       "summary": "Oil Edges Higher as Traders Assess U.S. Measures Against Iran",
       "title": "Oil Edges Higher as Traders Assess U.S. Measures Against Iran",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-as-traders-assess-u-s-measures-against-iran-2291fac0"
-    },
-    "206f771124c28197": {
-      "dek": "",
-      "first_seen": "2026-08-24T15:50:31.711208+00:00",
-      "guid": "206f771124c28197",
-      "published": "2026-08-24T14:52:31+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "What’s Moving the Markets Today?",
-      "title": "What’s Moving the Markets Today?",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/what-s-moving-the-markets-today--fBnuNRQshmwHaNJQ5slE"
     },
     "21308e97357737da": {
       "dek": "",
@@ -468,18 +481,31 @@
       "title": "How Being a Wine Connoisseur Became the Ultimate Business Flex",
       "url": "https://www.wsj.com/arts-culture/food-cooking/how-being-a-wine-connoisseur-became-the-ultimate-business-flex-055cb2d8"
     },
-    "34a500f4f4a43ca0": {
+    "34a3211ef0027f5e": {
       "dek": "",
-      "first_seen": "2026-08-24T15:50:31.711208+00:00",
-      "guid": "34a500f4f4a43ca0",
-      "published": "2026-08-24T15:31:00+00:00",
-      "section": "Arts Culture",
+      "first_seen": "2026-08-26T01:52:42.351582+00:00",
+      "guid": "34a3211ef0027f5e",
+      "published": "2026-08-26T00:27:00+00:00",
+      "section": "World",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Five Best Books on the Human Side of Science",
-      "title": "Five Best Books on the Human Side of Science",
-      "url": "https://www.wsj.com/arts-culture/books/five-best-books-on-the-human-side-of-science-a9976754"
+      "summary": "Chinese Court Sentences Artist Who Lampooned Mao",
+      "title": "Chinese Court Sentences Artist Who Lampooned Mao",
+      "url": "https://www.wsj.com/world/china/chinese-court-sentences-artist-who-lampooned-mao-218aca0d"
+    },
+    "34bfec4ff90bc546": {
+      "dek": "",
+      "first_seen": "2026-08-26T01:52:42.351582+00:00",
+      "guid": "34bfec4ff90bc546",
+      "published": "2026-08-26T00:36:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Gold Slips as Markets Await Fed Chairman Comments at Jackson Hole",
+      "title": "Gold Slips as Markets Await Fed Chairman Comments at Jackson Hole",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-slips-as-markets-await-fed-chairman-comments-at-jackson-hole-5a931818"
     },
     "356e4ff819a6b380": {
       "dek": "",
@@ -558,19 +584,6 @@
       "summary": "Tech, Media & Telecom Roundup: Market Talk",
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-f2fa5e99"
-    },
-    "3a97e01f4c1e38c3": {
-      "dek": "",
-      "first_seen": "2026-08-24T14:53:44.798574+00:00",
-      "guid": "3a97e01f4c1e38c3",
-      "published": "2026-08-24T14:50:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "FTC Reaches Settlement With Zillow, Redfin Over Antitrust Concerns",
-      "title": "FTC Reaches Settlement With Zillow, Redfin Over Antitrust Concerns",
-      "url": "https://www.wsj.com/business/ftc-reaches-settlement-with-zillow-redfin-over-antitrust-concerns-9b185f3e"
     },
     "3b204135526dab6b": {
       "dek": "",
@@ -727,19 +740,6 @@
       "summary": "Should the Fed Raise Rates? That’s Clear as Mud",
       "title": "Should the Fed Raise Rates? That’s Clear as Mud",
       "url": "https://www.wsj.com/opinion/should-the-fed-raise-rates-thats-clear-as-mud-90abb9b7"
-    },
-    "451a329e028ac8a2": {
-      "dek": "",
-      "first_seen": "2026-08-24T14:53:44.798574+00:00",
-      "guid": "451a329e028ac8a2",
-      "published": "2026-08-24T14:20:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Colorado and the Battle for Parental Authority",
-      "title": "Colorado and the Battle for Parental Authority",
-      "url": "https://www.wsj.com/opinion/colorado-and-the-battle-for-parental-authority-f8e03a76"
     },
     "468fd125d1d1aae5": {
       "dek": "",
@@ -1131,6 +1131,19 @@
       "title": "Bank of Montreal Plans to Buy Back Shares After Earnings Hit by Charge",
       "url": "https://www.wsj.com/finance/banking/bank-of-montreal-plans-to-buy-back-shares-after-earnings-hit-by-charge-f5979a80"
     },
+    "6ec99546a9244043": {
+      "dek": "",
+      "first_seen": "2026-08-26T01:52:42.351582+00:00",
+      "guid": "6ec99546a9244043",
+      "published": "2026-08-26T01:00:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Connections That Turned a Precocious Teen Into the Fallen ‘Nostradamus of AI’",
+      "title": "The Connections That Turned a Precocious Teen Into the Fallen ‘Nostradamus of AI’",
+      "url": "https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4"
+    },
     "6f361949b07849e9": {
       "dek": "",
       "first_seen": "2026-08-25T15:54:00.626714+00:00",
@@ -1143,19 +1156,6 @@
       "summary": "Canada Targets U.S. Metals, Foods, Motorcycles in Retaliatory Tariff Package",
       "title": "Canada Targets U.S. Metals, Foods, Motorcycles in Retaliatory Tariff Package",
       "url": "https://www.wsj.com/world/americas/canada-targets-u-s-metals-foods-motorcycles-in-retaliatory-tariff-package-f677222b"
-    },
-    "6f4a1db379fd51f5": {
-      "dek": "",
-      "first_seen": "2026-08-24T14:53:44.798574+00:00",
-      "guid": "6f4a1db379fd51f5",
-      "published": "2026-08-24T14:19:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Don’t Put Off Having Kids",
-      "title": "Don’t Put Off Having Kids",
-      "url": "https://www.wsj.com/opinion/dont-put-off-having-kids-10e2bf6d"
     },
     "702cd188cacf62b4": {
       "dek": "",
@@ -1221,6 +1221,19 @@
       "summary": "I Walked 500 Miles on the Camino de Santiago to Find What Comes Next",
       "title": "I Walked 500 Miles on the Camino de Santiago to Find What Comes Next",
       "url": "https://www.wsj.com/lifestyle/travel/camino-de-santiago-pilgrimage-walk-6f611461"
+    },
+    "769e2be26dcad9e0": {
+      "dek": "",
+      "first_seen": "2026-08-26T01:52:42.351582+00:00",
+      "guid": "769e2be26dcad9e0",
+      "published": "2026-08-26T00:00:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Mark Walter’s Troubles Are Disrupting the Insurance World’s Hottest Trade",
+      "title": "Mark Walter’s Troubles Are Disrupting the Insurance World’s Hottest Trade",
+      "url": "https://www.wsj.com/finance/investing/mark-walters-troubles-are-disrupting-the-insurance-worlds-hottest-trade-7aa61866"
     },
     "76acd7316eefbe16": {
       "dek": "",
@@ -1469,19 +1482,6 @@
       "title": "‘An Eye for an Eye’ Review: Justice With Blind Spots in Iran",
       "url": "https://www.wsj.com/arts-culture/television/an-eye-for-an-eye-review-justice-with-blind-spots-in-iran-be3455a3"
     },
-    "90cb4d5963f80f88": {
-      "dek": "",
-      "first_seen": "2026-08-24T14:53:44.798574+00:00",
-      "guid": "90cb4d5963f80f88",
-      "published": "2026-08-24T14:19:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Let AI Get Ahead of Disease",
-      "title": "Let AI Get Ahead of Disease",
-      "url": "https://www.wsj.com/opinion/let-ai-get-ahead-of-disease-c5d3643b"
-    },
     "921146c18926906a": {
       "dek": "",
       "first_seen": "2026-08-25T22:37:52.696984+00:00",
@@ -1507,6 +1507,19 @@
       "summary": "One of Taiwan’s Biggest AI Winners Isn’t a Chip Maker",
       "title": "One of Taiwan’s Biggest AI Winners Isn’t a Chip Maker",
       "url": "https://www.wsj.com/business/one-of-taiwans-biggest-ai-winners-isnt-a-chip-maker-51768bd5"
+    },
+    "955cd5c2af6c5b55": {
+      "dek": "",
+      "first_seen": "2026-08-26T01:52:42.351582+00:00",
+      "guid": "955cd5c2af6c5b55",
+      "published": "2026-08-26T01:05:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Trump Senate Pick Darline Graham Wins GOP Runoff in South Carolina",
+      "title": "Trump Senate Pick Darline Graham Wins GOP Runoff in South Carolina",
+      "url": "https://www.wsj.com/politics/elections/trump-senate-pick-darline-graham-wins-gop-runoff-295b08aa"
     },
     "96a6f828a9899109": {
       "dek": "",
@@ -1572,19 +1585,6 @@
       "summary": "Canada Wholesale Sales Estimated to Have Fallen 0.6% in July",
       "title": "Canada Wholesale Sales Estimated to Have Fallen 0.6% in July",
       "url": "https://www.wsj.com/economy/canada-wholesale-sales-estimated-to-have-fallen-0-6-in-july-89466837"
-    },
-    "9c5850141749be65": {
-      "dek": "",
-      "first_seen": "2026-08-24T14:53:44.798574+00:00",
-      "guid": "9c5850141749be65",
-      "published": "2026-08-24T14:34:00+00:00",
-      "section": "Politics",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The High-Stakes Rematch That Could Decide the House",
-      "title": "The High-Stakes Rematch That Could Decide the House",
-      "url": "https://www.wsj.com/politics/elections/the-high-stakes-rematch-that-could-decide-the-house-637a1fbe"
     },
     "9daee761b09e78aa": {
       "dek": "",
@@ -1872,19 +1872,6 @@
       "title": "It’s a Dog’s $2.9 Million House. They’re Just Living in It.",
       "url": "https://www.wsj.com/real-estate/luxury-homes/pound-ridge-ny-home-56d528a1"
     },
-    "bea20fa2e6003149": {
-      "dek": "",
-      "first_seen": "2026-08-24T14:53:44.798574+00:00",
-      "guid": "bea20fa2e6003149",
-      "published": "2026-08-24T14:22:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Makings of a College Campus Socialist",
-      "title": "The Makings of a College Campus Socialist",
-      "url": "https://www.wsj.com/opinion/the-makings-of-a-college-campus-socialist-7733a079"
-    },
     "c114e3abb10a63ed": {
       "dek": "",
       "first_seen": "2026-08-25T06:00:42.862291+00:00",
@@ -1924,19 +1911,6 @@
       "title": "May the Post-Trump Era Begin ASAP",
       "url": "https://www.wsj.com/opinion/may-the-post-trump-era-begin-asap-bbef233e"
     },
-    "c757a7e8c72638ea": {
-      "dek": "",
-      "first_seen": "2026-08-24T14:53:44.798574+00:00",
-      "guid": "c757a7e8c72638ea",
-      "published": "2026-08-24T14:20:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Syria’s Nuclear Saga Needs a Clean Ending",
-      "title": "Syria’s Nuclear Saga Needs a Clean Ending",
-      "url": "https://www.wsj.com/opinion/syrias-nuclear-saga-needs-a-clean-ending-72bba1d0"
-    },
     "c7e480583f8ad0fd": {
       "dek": "",
       "first_seen": "2026-08-25T22:37:52.696984+00:00",
@@ -1963,6 +1937,19 @@
       "title": "Visa Charges Toward New All-Time Closing High",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/visa-charges-toward-new-all-time-closing-high-xotwcrOgtpfDSQp8VKTE"
     },
+    "caa4e225b918a4d8": {
+      "dek": "",
+      "first_seen": "2026-08-26T01:52:42.351582+00:00",
+      "guid": "caa4e225b918a4d8",
+      "published": "2026-08-26T00:05:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Oil Falls on Signs of Middle East Talks",
+      "title": "Oil Falls on Signs of Middle East Talks",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-signs-of-middle-east-talks-b6581385"
+    },
     "cb11a5952ee7df9d": {
       "dek": "",
       "first_seen": "2026-08-25T03:08:33.736246+00:00",
@@ -1988,19 +1975,6 @@
       "summary": "Gold Gains; Potential to Rise to $5,000 Intact",
       "title": "Gold Gains; Potential to Rise to $5,000 Intact",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-gains-potential-to-rise-to-5-000-intact-c72d3508"
-    },
-    "cf1ba3afd5769f22": {
-      "dek": "",
-      "first_seen": "2026-08-25T08:54:05.097980+00:00",
-      "guid": "cf1ba3afd5769f22",
-      "published": "2026-08-24T14:46:01+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Stock Market Today: Markets Shrug at Mideast Tensions, Canada Trade Dispute",
-      "title": "Stock Market Today: Markets Shrug at Mideast Tensions, Canada Trade Dispute",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026"
     },
     "d2197355d2142e8c": {
       "dek": "",
@@ -2079,6 +2053,19 @@
       "summary": "United Airlines Ups Its Bet on Instagrammable International Destinations",
       "title": "United Airlines Ups Its Bet on Instagrammable International Destinations",
       "url": "https://www.wsj.com/business/airlines/united-airlines-ups-its-bet-on-instagrammable-international-destinations-fb8d9acc"
+    },
+    "d55337d98f10db0e": {
+      "dek": "",
+      "first_seen": "2026-08-26T01:52:42.351582+00:00",
+      "guid": "d55337d98f10db0e",
+      "published": "2026-08-26T00:18:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "JGBs Rise, Tracking Gains in U.S. Treasury Market",
+      "title": "JGBs Rise, Tracking Gains in U.S. Treasury Market",
+      "url": "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasury-market-1c64c2f4"
     },
     "d57d0945b721ffc5": {
       "dek": "",
@@ -2262,19 +2249,6 @@
       "title": "Former Forbes Editor Got $6 Million for Helping Magazine’s Partner With Sale",
       "url": "https://www.wsj.com/business/media/former-forbes-editor-got-6-million-for-helping-magazines-partner-with-sale-e892131a"
     },
-    "e5429fc97bb0ca49": {
-      "dek": "",
-      "first_seen": "2026-08-24T14:53:44.798574+00:00",
-      "guid": "e5429fc97bb0ca49",
-      "published": "2026-08-24T14:27:44+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Nasdaq’s Biggest Losers Today",
-      "title": "The Nasdaq’s Biggest Losers Today",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/the-nasdaq-s-biggest-losers-today-QgIez3jwTwA9H9qbumLC"
-    },
     "e5cc5472f60cdcb5": {
       "dek": "",
       "first_seen": "2026-08-25T09:46:35.928278+00:00",
@@ -2352,6 +2326,19 @@
       "summary": "Gold Fields Returns More Cash to Shareholders as Earnings Jump on Higher Prices",
       "title": "Gold Fields Returns More Cash to Shareholders as Earnings Jump on Higher Prices",
       "url": "https://www.wsj.com/business/earnings/gold-fields-returns-more-cash-to-shareholders-as-earnings-jump-on-higher-prices-d164eb2e"
+    },
+    "e88a788a8bcbba97": {
+      "dek": "",
+      "first_seen": "2026-08-26T01:52:42.351582+00:00",
+      "guid": "e88a788a8bcbba97",
+      "published": "2026-08-26T00:16:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Asian Currencies Consolidate, May Be Buoyed by Signs of Mideast Talks",
+      "title": "Asian Currencies Consolidate, May Be Buoyed by Signs of Mideast Talks",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-buoyed-by-signs-of-mideast-talks-7515073a"
     },
     "e894e593d25cc1b3": {
       "dek": "",
@@ -2599,7 +2586,20 @@
       "summary": "Bessent Mentor Druckenmiller Blasts Bond Intervention ‘Mistake’",
       "title": "Bessent Mentor Druckenmiller Blasts Bond Intervention ‘Mistake’",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/bessent-mentor-druckenmiller-blasts-bond-intervention-mistake--nhXM2e6TUGOddEWSynLd"
+    },
+    "ff8fd7719e1a68c3": {
+      "dek": "",
+      "first_seen": "2026-08-26T01:52:42.351582+00:00",
+      "guid": "ff8fd7719e1a68c3",
+      "published": "2026-08-26T01:00:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Canadian Bad Cop on the Front Lines of the U.S. Trade War",
+      "title": "The Canadian Bad Cop on the Front Lines of the U.S. Trade War",
+      "url": "https://www.wsj.com/world/americas/the-canadian-bad-cop-on-the-front-lines-of-the-u-s-trade-war-23cc7454"
     }
   },
-  "updated": "2026-08-25T23:54:24.019710+00:00"
+  "updated": "2026-08-26T01:52:42.370575+00:00"
 }
