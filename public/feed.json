@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "7ed81d7e0b58234c",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-c38d307a",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-08-26T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "a3cc817df0c485c5",
+      "url": "https://www.wsj.com/business/autos/xpeng-bets-robots-will-be-more-profitable-than-its-cars-c946383e",
+      "title": "XPeng Bets Robots Will Be More Profitable Than Its Cars",
+      "content_text": "XPeng Bets Robots Will Be More Profitable Than Its Cars",
+      "summary": "",
+      "date_published": "2026-08-26T03:46:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "937468c0a90dddd5",
       "url": "https://www.wsj.com/economy/stubborn-australian-inflation-adds-pressure-on-rba-572bfc69",
       "title": "Stubborn Australian Inflation Adds Pressure on RBA",
@@ -2179,28 +2201,6 @@
       "content_text": "Auto & Transport Roundup: Market Talk",
       "summary": "",
       "date_published": "2026-08-24T16:32:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "43acbb853db0a401",
-      "url": "https://www.wsj.com/opinion/trump-persuades-europe-740e8549",
-      "title": "Trump Persuades Europe",
-      "content_text": "Trump Persuades Europe",
-      "summary": "",
-      "date_published": "2026-08-24T16:16:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "bac0b9fd45e193f7",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/fresh-tariffs-boost-domestic-steel-dent-automakers-vyCiQBaMtqGJwtQWXFBK",
-      "title": "Fresh Tariffs Boost Domestic Steel, Dent Automakers",
-      "content_text": "Fresh Tariffs Boost Domestic Steel, Dent Automakers",
-      "summary": "",
-      "date_published": "2026-08-24T16:09:43+00:00",
       "tags": [
         "Front Page"
       ]
