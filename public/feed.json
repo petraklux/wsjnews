@@ -6,6 +6,39 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "8328742ef852e620",
+      "url": "https://www.wsj.com/articles/rhinoceros-review-john-turturro-paul-giamatti-and-man-vs-beast-6d9f3114",
+      "title": "‘Rhinoceros’ Review: John Turturro, Paul Giamatti and Man vs. Beast",
+      "content_text": "‘Rhinoceros’ Review: John Turturro, Paul Giamatti and Man vs. Beast",
+      "summary": "",
+      "date_published": "2026-08-26T16:45:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "2494df92df2937a4",
+      "url": "https://www.wsj.com/style/fashion/dolly-parton-glamorous-trash-style-f9019d91",
+      "title": "13 Looks That Defined Dolly Parton’s ‘Glamorous Trash’ Style",
+      "content_text": "13 Looks That Defined Dolly Parton’s ‘Glamorous Trash’ Style",
+      "summary": "",
+      "date_published": "2026-08-26T16:12:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
+      "id": "695ff9ef1b94108c",
+      "url": "https://www.wsj.com/arts-culture/books/childrens-books-making-the-case-for-storytime-7ace56bc",
+      "title": "Children’s Books: Making the Case for Storytime",
+      "content_text": "Children’s Books: Making the Case for Storytime",
+      "summary": "",
+      "date_published": "2026-08-26T16:04:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
       "id": "6b12ce7d33aec917",
       "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/-money-quote-intuit-cfo-styNbE6PP2G267D6HeMO",
       "title": "💬Money Quote: Intuit CFO",
@@ -2170,39 +2203,6 @@
       "date_published": "2026-08-25T10:31:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "b6c14b3f4a44fe80",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-a4a0f91f",
-      "title": "Basic Materials Roundup: Market Talk",
-      "content_text": "Basic Materials Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-25T10:31:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "bd7c10466026a041",
-      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-cdd13cd1",
-      "title": "Financial Services Roundup: Market Talk",
-      "content_text": "Financial Services Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-25T10:27:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "2c3ea5bd962238dc",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-8b26e63d",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "content_text": "Energy & Utilities Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-25T10:24:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
