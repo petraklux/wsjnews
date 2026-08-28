@@ -13,19 +13,6 @@
       "title": "Elizabeth anne bernstein",
       "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein"
     },
-    "012340a7d567ac5a": {
-      "dek": "",
-      "first_seen": "2026-08-26T19:15:04.575816+00:00",
-      "guid": "012340a7d567ac5a",
-      "published": "2026-08-26T18:00:02+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Three Numbers to Watch in Nvidia’s Earnings Report",
-      "title": "Three Numbers to Watch in Nvidia’s Earnings Report",
-      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/three-numbers-to-watch-in-nvidia-s-earnings-report-8Sg16FEc3bZ1ybb6dubq"
-    },
     "01e26be1414be9a2": {
       "dek": "",
       "first_seen": "2026-08-27T14:34:39.857267+00:00",
@@ -51,6 +38,19 @@
       "summary": "Dying for Medicare for All",
       "title": "Dying for Medicare for All",
       "url": "https://www.wsj.com/opinion/jama-surgery-study-cancer-patients-wait-times-insurance-medicare-6340928f"
+    },
+    "04d90092981f97c3": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "04d90092981f97c3",
+      "published": "2026-08-28T20:13:00+00:00",
+      "section": "Health",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Juul Labs Gets FDA Authorization to Sell New E-Cigarette",
+      "title": "Juul Labs Gets FDA Authorization to Sell New E-Cigarette",
+      "url": "https://www.wsj.com/health/healthcare/juul-labs-gets-fda-authorization-to-sell-new-e-cigarette-b3fb009a"
     },
     "061c579cd9a56990": {
       "dek": "",
@@ -143,19 +143,6 @@
       "title": "A Pancreatic Cancer Revolution",
       "url": "https://www.wsj.com/opinion/fda-approves-daraxonrasib-pancreatic-cancer-drug-revolution-medicines-5a7ff903"
     },
-    "0d22dc274438dca6": {
-      "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "0d22dc274438dca6",
-      "published": "2026-08-26T21:00:00+00:00",
-      "section": "Style",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Family Flowers Behind Chanel’s Signature Scent",
-      "title": "The Family Flowers Behind Chanel’s Signature Scent",
-      "url": "https://www.wsj.com/style/fashion/chanel-flowers-roses-jasmine-e5e68ab4"
-    },
     "0dbe63daf433e481": {
       "dek": "",
       "first_seen": "2026-08-27T14:34:39.857267+00:00",
@@ -208,19 +195,6 @@
       "title": "One Great Chart: How Nvidia’s Quarterly Earnings Break Down",
       "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/by-the-numbers-how-nvidia-s-quarterly-earnings-break-down-gkxik949hf0pkFTXUCwK"
     },
-    "173a5858c83f6b26": {
-      "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "173a5858c83f6b26",
-      "published": "2026-08-26T20:50:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "U.S. Stocks Tick Down as Traders Weigh Inflation Data",
-      "title": "U.S. Stocks Tick Down as Traders Weigh Inflation Data",
-      "url": "https://www.wsj.com/finance/investing/u-s-stocks-tick-down-as-traders-weigh-inflation-data-f49901a5"
-    },
     "17f246bffb1b5c27": {
       "dek": "",
       "first_seen": "2026-08-28T11:14:12.031098+00:00",
@@ -247,18 +221,31 @@
       "title": "The Day I Finally Saw Dolly—and the Day I Went Back After She Died",
       "url": "https://www.wsj.com/arts-culture/music/dollywood-dolly-parton-tribute-79098537"
     },
-    "20192af900bba3a3": {
+    "1b1b3fdf06d99071": {
       "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "20192af900bba3a3",
-      "published": "2026-08-26T20:14:00+00:00",
-      "section": "Opinion",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "1b1b3fdf06d99071",
+      "published": "2026-08-28T19:56:49+00:00",
+      "section": "Front Page",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "New York Misses Moishe Davis",
-      "title": "New York Misses Moishe Davis",
-      "url": "https://www.wsj.com/opinion/new-york-misses-moishe-davis-cb03cae3"
+      "summary": "Deutsche Bank: Expect Rate Hikes in September and December",
+      "title": "Deutsche Bank: Expect Rate Hikes in September and December",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/deutsche-bank-expect-rate-hikes-in-september-and-december-cCP1x04jIYUGIZcCWtrf"
+    },
+    "1e81e8e20ca5f6c0": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "1e81e8e20ca5f6c0",
+      "published": "2026-08-28T16:46:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Privacy vs. Security: Readers Clash Over Flock License-Plate Cameras",
+      "title": "Privacy vs. Security: Readers Clash Over Flock License-Plate Cameras",
+      "url": "https://www.wsj.com/tech/ai/privacy-vs-security-readers-clash-over-flock-license-plate-cameras-6cce1152"
     },
     "211f60afcbb90c84": {
       "dek": "",
@@ -273,18 +260,18 @@
       "title": "What’s News: Business & Finance",
       "url": "https://www.wsj.com/articles/whats-news-business-finance-d200312f"
     },
-    "22bc639ce6293823": {
+    "235a1502543ad300": {
       "dek": "",
-      "first_seen": "2026-08-27T03:31:47.149391+00:00",
-      "guid": "22bc639ce6293823",
-      "published": "2026-08-26T19:45:02+00:00",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "235a1502543ad300",
+      "published": "2026-08-28T19:45:02+00:00",
       "section": "Front Page",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Investors Don’t Seem to Believe Nvidia’s Earnings Story",
-      "title": "Investors Don’t Seem to Believe Nvidia’s Earnings Story",
-      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/investors-don-t-seem-to-believe-nvidia-s-earnings-story-tV5qvjFRcJFLGuVPSItn"
+      "summary": "Watch: Nick Timiraos on Key Takeaways From Kevin Warsh’s Jackson Hole Speech",
+      "title": "Watch: Nick Timiraos on Key Takeaways From Kevin Warsh’s Jackson Hole Speech",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/watch-nick-timiraos-on-key-takeaways-from-kevin-warsh-s-jackson-hole-speech-0CvKtqyODQ2lEHcOojW3"
     },
     "249392690dd9f46f": {
       "dek": "",
@@ -312,19 +299,6 @@
       "title": "TD Bank Earnings Lifted by Growth in Canada, Capital Markets Activity",
       "url": "https://www.wsj.com/business/earnings/td-banky-earnings-lifted-by-growth-in-canada-capital-markets-activity-ba64e9cd"
     },
-    "28123048fc37ef05": {
-      "dek": "",
-      "first_seen": "2026-08-27T03:31:47.149391+00:00",
-      "guid": "28123048fc37ef05",
-      "published": "2026-08-26T19:37:00+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Kazuo Hara and Sachiko Kobayashi: Documentary Voyeurism",
-      "title": "Kazuo Hara and Sachiko Kobayashi: Documentary Voyeurism",
-      "url": "https://www.wsj.com/arts-culture/film/kazuo-hara-and-sachiko-kobayashi-documentary-voyeurism-9d6d207c"
-    },
     "28af61acca40fc70": {
       "dek": "",
       "first_seen": "2026-08-27T14:34:39.857267+00:00",
@@ -337,6 +311,19 @@
       "summary": "Novo Nordisk Shares Drop as Bank Downgrade Reflects Growth Concerns",
       "title": "Novo Nordisk Shares Drop as Bank Downgrade Reflects Growth Concerns",
       "url": "https://www.wsj.com/health/pharma/novo-nordisk-shares-drop-as-bank-downgrade-reflects-growth-concerns-8939d3f8"
+    },
+    "290a9b078929cccd": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "290a9b078929cccd",
+      "published": "2026-08-28T20:57:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "A Food Crisis May Be Coming to the U.S.",
+      "title": "A Food Crisis May Be Coming to the U.S.",
+      "url": "https://www.wsj.com/opinion/a-food-crisis-may-be-coming-to-the-u-s-01026585"
     },
     "2a919858b98c0327": {
       "dek": "",
@@ -351,19 +338,6 @@
       "title": "Gap Stock Jumps After Naming Retail Veteran to Helm Old Navy",
       "url": "https://www.wsj.com/business/retail/gap-cuts-sales-outlook-on-old-navy-weakness-cdc5f239"
     },
-    "2c73946dbd68ee7a": {
-      "dek": "",
-      "first_seen": "2026-08-26T19:15:04.575816+00:00",
-      "guid": "2c73946dbd68ee7a",
-      "published": "2026-08-26T18:32:26+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "One Nvidia Risk: Transition to Next-Gen AI Architecture",
-      "title": "One Nvidia Risk: Transition to Next-Gen AI Architecture",
-      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/one-nvidia-risk-transition-to-next-gen-ai-architecture-G5o2tbUb3y9V6iMSA4Kl"
-    },
     "2c84e87a9ff6065d": {
       "dek": "",
       "first_seen": "2026-08-26T22:27:29.796287+00:00",
@@ -376,6 +350,19 @@
       "summary": "Haitian Town’s Pleas for Help Went Unanswered Before Massacre",
       "title": "Haitian Town’s Pleas for Help Went Unanswered Before Massacre",
       "url": "https://www.wsj.com/world/americas/haitian-towns-pleas-for-help-went-unanswered-before-massacre-c654eb41"
+    },
+    "2d1004322bbee984": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "2d1004322bbee984",
+      "published": "2026-08-28T20:20:00+00:00",
+      "section": "Cio Journal",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Warsh Delivers",
+      "title": "Warsh Delivers",
+      "url": "https://www.wsj.com/cio-journal/warsh-delivers-3ddc018a"
     },
     "2eb724f908c994fc": {
       "dek": "",
@@ -415,6 +402,19 @@
       "summary": "Meta’s Sensible Social-Media Settlement",
       "title": "Meta’s Sensible Social-Media Settlement",
       "url": "https://www.wsj.com/opinion/meta-18-billion-settlement-social-media-teens-state-attorneys-general-7d010e6a"
+    },
+    "30251e22ff42167a": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "30251e22ff42167a",
+      "published": "2026-08-28T19:00:00+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Vote for WSJ’s House of the Month",
+      "title": "Vote for WSJ’s House of the Month",
+      "url": "https://www.wsj.com/articles/vote-for-wsjs-house-of-the-month-bdfbf446"
     },
     "302f63d17504359d": {
       "dek": "",
@@ -481,6 +481,19 @@
       "title": "Enbridge Forms $1.95 Billion Joint Venture to Expand British Columbia Pipeline",
       "url": "https://www.wsj.com/finance/investing/enbridge-forms-1-95-billion-joint-venture-to-expand-british-columbia-pipeline-a800282d"
     },
+    "35272e1561018b2b": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "35272e1561018b2b",
+      "published": "2026-08-28T20:58:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Trump Discovers His Inner Nixon on Rock Concerts",
+      "title": "Trump Discovers His Inner Nixon on Rock Concerts",
+      "url": "https://www.wsj.com/opinion/trump-discovers-his-inner-nixon-on-rock-concerts-c5ec084f"
+    },
     "3825f20ac36108df": {
       "dek": "",
       "first_seen": "2026-08-27T14:34:39.857267+00:00",
@@ -494,18 +507,18 @@
       "title": "Dollar Tree Issues Underwhelming Outlook on Tariff Reinvestment Costs",
       "url": "https://www.wsj.com/business/retail/dollar-tree-lifts-earnings-outlook-after-notching-higher-profit-deef94e4"
     },
-    "39f2eaa380d6db80": {
+    "388abe4c10c22538": {
       "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "39f2eaa380d6db80",
-      "published": "2026-08-26T21:08:05+00:00",
-      "section": "Front Page",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "388abe4c10c22538",
+      "published": "2026-08-28T21:02:00+00:00",
+      "section": "Opinion",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Nvidia Shares Turn Higher As Call Starts",
-      "title": "Nvidia Shares Turn Higher As Call Starts",
-      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/nvidia-shares-turn-higher-as-call-starts-KNu026A20wDllctuVXea"
+      "summary": "Mike Rogers’s Plan to Defeat Abdul El-Sayed",
+      "title": "Mike Rogers’s Plan to Defeat Abdul El-Sayed",
+      "url": "https://www.wsj.com/opinion/mike-rogerss-plan-to-defeat-abdul-el-sayed-7f6313d7"
     },
     "3b0128de8cfd24ec": {
       "dek": "",
@@ -519,19 +532,6 @@
       "summary": "Healthcare Exec Lists $18.25 Million French Chateau-Style Home Outside Atlanta",
       "title": "Healthcare Exec Lists $18.25 Million French Chateau-Style Home Outside Atlanta",
       "url": "https://www.wsj.com/real-estate/luxury-homes/sandy-springs-georgia-home-d0477122"
-    },
-    "3d26e8378c3c3b1a": {
-      "dek": "",
-      "first_seen": "2026-08-26T19:15:04.575816+00:00",
-      "guid": "3d26e8378c3c3b1a",
-      "published": "2026-08-26T17:39:00+00:00",
-      "section": "Tech",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Latest Viral AI Assistant Rocketing Across Silicon Valley",
-      "title": "The Latest Viral AI Assistant Rocketing Across Silicon Valley",
-      "url": "https://www.wsj.com/tech/ai/the-latest-viral-ai-assistant-rocketing-across-silicon-valley-abb46276"
     },
     "3d6dc08623bdd656": {
       "dek": "",
@@ -571,19 +571,6 @@
       "summary": "Generali Mulling Monte dei Paschi’s $10 Billion Takeover Bid for Banca Generali",
       "title": "Generali Mulling Monte dei Paschi’s $10 Billion Takeover Bid for Banca Generali",
       "url": "https://www.wsj.com/business/deals/banca-generali-mulling-monte-di-paschis-10-billion-takeover-bid-6f17eaf5"
-    },
-    "4516965003f3fe08": {
-      "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "4516965003f3fe08",
-      "published": "2026-08-26T21:04:23+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Nvidia Investors Still Asking: Where’s the Value?",
-      "title": "Nvidia Investors Still Asking: Where’s the Value?",
-      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/nvidia-investors-still-asking-where-s-the-value--wLH9g0Vv3unYmBZAwCje"
     },
     "463b5b04b877c33f": {
       "dek": "",
@@ -650,6 +637,19 @@
       "title": "Thursday Market Recap: Heard on the Street",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/thursday-market-recap-heard-on-the-street-gAuyAeg6JoX0hhQXOLHM"
     },
+    "4b90c4a2ba3fa2b2": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "4b90c4a2ba3fa2b2",
+      "published": "2026-08-28T21:19:00+00:00",
+      "section": "Economy",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Warsh Speaks and Rate-Cut Odds Rise",
+      "title": "Warsh Speaks and Rate-Cut Odds Rise",
+      "url": "https://www.wsj.com/economy/warsh-speaks-and-rate-cut-odds-rise-22689ee5"
+    },
     "4b989a282a46e0a4": {
       "dek": "",
       "first_seen": "2026-08-28T11:14:12.031098+00:00",
@@ -663,18 +663,18 @@
       "title": "💬Money Quote: Nvidia CFO Colette Kress",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/-money-quote-nvidia-cfo-colette-kress-YG8WRqppRcKuwhDThxMl"
     },
-    "4d0d1da86b5f5021": {
+    "4c157c4ff5b1efff": {
       "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "4d0d1da86b5f5021",
-      "published": "2026-08-26T20:50:40+00:00",
-      "section": "Front Page",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "4c157c4ff5b1efff",
+      "published": "2026-08-28T18:37:00+00:00",
+      "section": "Opinion",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Nvidia’s Spending to Secure Memory Is Set to Surge",
-      "title": "Nvidia’s Spending to Secure Memory Is Set to Surge",
-      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/nvidia-s-spending-to-secure-memory-is-set-to-surge-O6newjzMXwOeNVozrx6E"
+      "summary": "Gag Treasury, You Gag the Market, Too",
+      "title": "Gag Treasury, You Gag the Market, Too",
+      "url": "https://www.wsj.com/opinion/gag-treasury-you-gag-the-market-too-c1fbb45e"
     },
     "4db2cc357c02eb6f": {
       "dek": "",
@@ -702,6 +702,19 @@
       "title": "Kalshi and the Weather Co. Join Forces on Climate Trades",
       "url": "https://www.wsj.com/finance/kalshi-and-the-weather-co-join-forces-on-climate-trades-76b7e307"
     },
+    "4f0773767bf8e4a1": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "4f0773767bf8e4a1",
+      "published": "2026-08-28T16:09:24+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Stocks Tied to Economy’s Health Fall After Warsh’s Speech",
+      "title": "Stocks Tied to Economy’s Health Fall After Warsh’s Speech",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/stocks-tied-to-economy-s-health-fall-after-warsh-s-speech-zFeFdKxv5m3Mbd8pQ6Bp"
+    },
     "4f526f4c949f8139": {
       "dek": "",
       "first_seen": "2026-08-27T14:34:39.857267+00:00",
@@ -714,19 +727,6 @@
       "summary": "SK Telecom to Create AI Data-Center Company",
       "title": "SK Telecom to Create AI Data-Center Company",
       "url": "https://www.wsj.com/business/telecom/sk-telecom-to-create-ai-data-center-company-4d71b9a0"
-    },
-    "4f60590981d83f54": {
-      "dek": "",
-      "first_seen": "2026-08-26T19:15:04.575816+00:00",
-      "guid": "4f60590981d83f54",
-      "published": "2026-08-26T18:23:00+00:00",
-      "section": "Politics",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Florida Governor Says Public Is ‘Right to Be Concerned’ About Flock Cameras",
-      "title": "Florida Governor Says Public Is ‘Right to Be Concerned’ About Flock Cameras",
-      "url": "https://www.wsj.com/politics/policy/florida-governor-says-public-is-right-to-be-concerned-about-flock-cameras-0fd0efdd"
     },
     "501b2eb8fcdac185": {
       "dek": "",
@@ -780,6 +780,32 @@
       "title": "El-Sayed Tries to Sell Himself as Mainstream to Michigan Voters",
       "url": "https://www.wsj.com/politics/elections/michigan-senate-campaign-el-sayed-6ac213d1"
     },
+    "52f1710e295228af": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "52f1710e295228af",
+      "published": "2026-08-28T17:51:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Iceland Weighs Security Versus Sovereignty in Vote on EU Membership Talks",
+      "title": "Iceland Weighs Security Versus Sovereignty in Vote on EU Membership Talks",
+      "url": "https://www.wsj.com/world/europe/iceland-weighs-security-versus-sovereignty-in-vote-over-eu-membership-talks-c1158126"
+    },
+    "54192699451245f5": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "54192699451245f5",
+      "published": "2026-08-28T18:32:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Where’d All That Medicaid Money Go?",
+      "title": "Where’d All That Medicaid Money Go?",
+      "url": "https://www.wsj.com/opinion/whered-all-that-medicaid-money-go-e6dfabb9"
+    },
     "5643c91e7824e668": {
       "dek": "",
       "first_seen": "2026-08-27T14:34:39.857267+00:00",
@@ -793,18 +819,18 @@
       "title": "Auto & Transport Roundup: Market Talk",
       "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-a1b66406"
     },
-    "57b2f2155f889199": {
+    "5760330e15ac4e05": {
       "dek": "",
-      "first_seen": "2026-08-27T03:31:47.149391+00:00",
-      "guid": "57b2f2155f889199",
-      "published": "2026-08-26T19:26:00+00:00",
-      "section": "Style",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "5760330e15ac4e05",
+      "published": "2026-08-28T20:30:02+00:00",
+      "section": "Front Page",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "The Conservative Commentator Who Became MAGA’s Favorite Makeup Artist",
-      "title": "The Conservative Commentator Who Became MAGA’s Favorite Makeup Artist",
-      "url": "https://www.wsj.com/style/fashion/adrienne-gray-makeup-maga-dc-75aeb344"
+      "summary": "Jackson Hole: Economist Rogoff Says a ‘Shock’ Needed to Trigger Action on Debt",
+      "title": "Jackson Hole: Economist Rogoff Says a ‘Shock’ Needed to Trigger Action on Debt",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/jackson-hole-economist-kevin-rogoff-says-a-shock-needed-to-trigger-action-on-debt-uXKibSf3v3XSSO1Y7Jwe"
     },
     "5a885d497fa8a917": {
       "dek": "",
@@ -858,6 +884,19 @@
       "title": "Parents, Know Your Rights as School Begins",
       "url": "https://www.wsj.com/opinion/parents-know-your-rights-as-school-begins-c86912af"
     },
+    "5c22e310c45f691c": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "5c22e310c45f691c",
+      "published": "2026-08-28T18:51:00+00:00",
+      "section": "Real Estate",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Palm Beach’s ‘Ham and Cheese House’ Hits the Market for $105 Million",
+      "title": "Palm Beach’s ‘Ham and Cheese House’ Hits the Market for $105 Million",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/ham-and-cheese-house-palm-beach-559d77e1"
+    },
     "5d21a2b6942cfdb5": {
       "dek": "",
       "first_seen": "2026-08-27T14:34:39.857267+00:00",
@@ -870,6 +909,32 @@
       "summary": "Tungsten Stocks Are Hot (Again)",
       "title": "Tungsten Stocks Are Hot (Again)",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-27-2026/card/tungsten-stocks-are-hot-again--iXBbIRlqDyIxPubCyLpU"
+    },
+    "5e88189b403b488e": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "5e88189b403b488e",
+      "published": "2026-08-28T20:40:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "I Let Google’s Personal Intelligence Access My Life—and It’s a Huge Help",
+      "title": "I Let Google’s Personal Intelligence Access My Life—and It’s a Huge Help",
+      "url": "https://www.wsj.com/tech/ai/google-personal-intelligence-dreambeans-gemini-review-81f12a16"
+    },
+    "5f7fce4c2b6bd361": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "5f7fce4c2b6bd361",
+      "published": "2026-08-28T19:25:00+00:00",
+      "section": "Science",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "From the Alps to the Himalayas, Vanishing Ice Leaves Mountain Communities in Danger",
+      "title": "From the Alps to the Himalayas, Vanishing Ice Leaves Mountain Communities in Danger",
+      "url": "https://www.wsj.com/science/environment/from-the-alps-to-the-himalayas-vanishing-ice-leaves-mountain-communities-in-danger-3c663733"
     },
     "5fcc29c964933619": {
       "dek": "",
@@ -897,18 +962,18 @@
       "title": "A walk around dubai shows no signs of trumps d day for iran",
       "url": "https://www.wsj.com/world/middle-east/a-walk-around-dubai-shows-no-signs-of-trumps-d-day-for-iran-a51d28e7"
     },
-    "63587bb8a39ecbdf": {
+    "657df6f79ac290a0": {
       "dek": "",
-      "first_seen": "2026-08-26T19:15:04.575816+00:00",
-      "guid": "63587bb8a39ecbdf",
-      "published": "2026-08-26T17:27:00+00:00",
-      "section": "Politics",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "657df6f79ac290a0",
+      "published": "2026-08-28T19:31:00+00:00",
+      "section": "Economy",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "States Face Election Confusion as Postal Service Upends Mail-Ballot Rules",
-      "title": "States Face Election Confusion as Postal Service Upends Mail-Ballot Rules",
-      "url": "https://www.wsj.com/politics/policy/states-face-election-confusion-after-postal-service-upends-mail-ballot-rules-6525fe7d"
+      "summary": "Week Ahead for FX, Bonds: U.S. Jobs Data in Focus; Bank of Canada Decision Due",
+      "title": "Week Ahead for FX, Bonds: U.S. Jobs Data in Focus; Bank of Canada Decision Due",
+      "url": "https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-u-s-jobs-data-in-focus-bank-of-canada-decision-due-d4581c92"
     },
     "659e3e50b6ebb62e": {
       "dek": "",
@@ -1001,6 +1066,19 @@
       "title": "Jgbs fall tracking declines in u s treasurys",
       "url": "https://www.wsj.com/finance/jgbs-fall-tracking-declines-in-u-s-treasurys-3f6e2e57"
     },
+    "6bfa8b02b16a1f6d": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "6bfa8b02b16a1f6d",
+      "published": "2026-08-28T19:41:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "A West Point for Space? Trump Calls for New Academy to Train Space Personnel",
+      "title": "A West Point for Space? Trump Calls for New Academy to Train Space Personnel",
+      "url": "https://www.wsj.com/politics/national-security/a-west-point-for-space-trump-calls-for-new-academy-to-train-space-personnel-3d3bb9a7"
+    },
     "6c1ea934cd65814a": {
       "dek": "",
       "first_seen": "2026-08-27T03:31:47.149391+00:00",
@@ -1026,32 +1104,6 @@
       "summary": "Global Bond Yields Rise Ahead of Fed’s Warsh Speech; 10-Year Bund Yield Hits 15-Year High",
       "title": "Global Bond Yields Rise Ahead of Fed’s Warsh Speech; 10-Year Bund Yield Hits 15-Year High",
       "url": "https://www.wsj.com/finance/investing/global-bond-yields-rise-ahead-of-feds-warsh-speech-10-year-bund-yield-hits-15-year-high-c7ac0da3"
-    },
-    "6d9a6aefcf5691cc": {
-      "dek": "",
-      "first_seen": "2026-08-27T03:31:47.149391+00:00",
-      "guid": "6d9a6aefcf5691cc",
-      "published": "2026-08-26T19:55:42+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Nvidia Earnings Call: Where to Listen Live",
-      "title": "Nvidia Earnings Call: Where to Listen Live",
-      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/nvidia-earnings-call-where-to-listen-live-EJmP3AlHNzF1KujIrpsY"
-    },
-    "6e43e33e602f8148": {
-      "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "6e43e33e602f8148",
-      "published": "2026-08-26T20:24:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Salesforce Profit, Revenue Rise, Expands Partnership with Anthropic’s Claude",
-      "title": "Salesforce Profit, Revenue Rise, Expands Partnership with Anthropic’s Claude",
-      "url": "https://www.wsj.com/business/earnings/salesforce-profit-revenue-rise-expands-partnership-with-anthropics-claude-f17aa26f"
     },
     "6efad321552a02bb": {
       "dek": "",
@@ -1091,45 +1143,6 @@
       "summary": "Build-A-Bear Cuts Outlook, Fires Exec After Sales Fall",
       "title": "Build-A-Bear Cuts Outlook, Fires Exec After Sales Fall",
       "url": "https://www.wsj.com/business/earnings/build-a-bear-cuts-outlook-fires-exec-after-sales-fall-54a7d6a4"
-    },
-    "71a65d9e6c96e813": {
-      "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "71a65d9e6c96e813",
-      "published": "2026-08-26T21:13:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Investors Brace for Less-Than-Perfect Nvidia Results, Pull Stocks Lower",
-      "title": "Investors Brace for Less-Than-Perfect Nvidia Results, Pull Stocks Lower",
-      "url": "https://www.wsj.com/finance/stocks/investors-brace-for-less-than-perfect-nvidia-results-pull-stocks-lower-2ef52443"
-    },
-    "71c9a5c9b698490a": {
-      "dek": "",
-      "first_seen": "2026-08-27T03:31:47.149391+00:00",
-      "guid": "71c9a5c9b698490a",
-      "published": "2026-08-26T19:36:00+00:00",
-      "section": "Tech",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Google Moves AI-Responsibility Team Out of DeepMind Lab in Latest Shake-Up",
-      "title": "Google Moves AI-Responsibility Team Out of DeepMind Lab in Latest Shake-Up",
-      "url": "https://www.wsj.com/tech/ai/google-moves-ai-responsibility-team-out-of-deepmind-lab-in-latest-shake-up-ed01e40c"
-    },
-    "73739fd4e939c2d5": {
-      "dek": "",
-      "first_seen": "2026-08-26T19:15:04.575816+00:00",
-      "guid": "73739fd4e939c2d5",
-      "published": "2026-08-26T17:00:02+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "How Nvidia Blew Up Wall Street’s Expectations Game",
-      "title": "How Nvidia Blew Up Wall Street’s Expectations Game",
-      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/how-nvidia-blew-up-wall-street-s-expectations-game-VRjyhs4gYyDNTtixZkP1"
     },
     "743fe07783b12b99": {
       "dek": "",
@@ -1209,6 +1222,32 @@
       "title": "Nvidia’s Victory Lap",
       "url": "https://www.wsj.com/finance/stocks/nvidias-victory-lap-bbe710b5"
     },
+    "7cb821e693381d06": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "7cb821e693381d06",
+      "published": "2026-08-28T19:25:00+00:00",
+      "section": "Real Estate",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "A Dog’s New York ‘Retreat’ Hits the Market for $2.9 Million",
+      "title": "A Dog’s New York ‘Retreat’ Hits the Market for $2.9 Million",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/a-dogs-new-york-retreat-hits-the-market-for-2-9-million-e725d22f"
+    },
+    "7e4132dc8b357d5e": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "7e4132dc8b357d5e",
+      "published": "2026-08-28T21:03:00+00:00",
+      "section": "Real Estate",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "A ‘Glowing’ Fort Lauderdale Spec Home Set to Fetch $51 Million",
+      "title": "A ‘Glowing’ Fort Lauderdale Spec Home Set to Fetch $51 Million",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/fort-lauderdale-spec-home-51-million-0f18ba9a"
+    },
     "7edb4c1b3acfcc8a": {
       "dek": "",
       "first_seen": "2026-08-27T23:57:08.709701+00:00",
@@ -1222,31 +1261,31 @@
       "title": "Mary anastasia ogrady",
       "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady"
     },
-    "80fee3b2ef0b1953": {
+    "80713796477e99c0": {
       "dek": "",
-      "first_seen": "2026-08-27T03:31:47.149391+00:00",
-      "guid": "80fee3b2ef0b1953",
-      "published": "2026-08-26T20:04:24+00:00",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "80713796477e99c0",
+      "published": "2026-08-28T19:31:41+00:00",
       "section": "Front Page",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "💬 Money Quote: Upside for Nvidia?",
-      "title": "💬 Money Quote: Upside for Nvidia?",
-      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/-money-quote-upside-for-nvidia--VBixB1lZbLShdtFSno0m"
+      "summary": "Why Today’s Jobs Revisions Are Actually Fairly Small",
+      "title": "Why Today’s Jobs Revisions Are Actually Fairly Small",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/why-today-s-jobs-revisions-are-actually-fairly-small-Se97S5o4g7XPu43I7deu"
     },
-    "820ea3bb20501f4f": {
+    "80a27717bac0a4f0": {
       "dek": "",
-      "first_seen": "2026-08-27T03:31:47.149391+00:00",
-      "guid": "820ea3bb20501f4f",
-      "published": "2026-08-26T20:13:00+00:00",
-      "section": "Opinion",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "80a27717bac0a4f0",
+      "published": "2026-08-28T18:02:00+00:00",
+      "section": "Politics",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Leash Your E-Bikes",
-      "title": "Leash Your E-Bikes",
-      "url": "https://www.wsj.com/opinion/leash-your-e-bikes-fc63deab"
+      "summary": "Hegseth Weighs Summoning Top Military Leaders to Quantico for Second Time",
+      "title": "Hegseth Weighs Summoning Top Military Leaders to Quantico for Second Time",
+      "url": "https://www.wsj.com/politics/policy/pete-hegseth-general-meeting-quantico-560cc230"
     },
     "827ef4066de044c6": {
       "dek": "",
@@ -1286,19 +1325,6 @@
       "summary": "Eurozone Businesses More Upbeat Despite Prolonged War in Middle East",
       "title": "Eurozone Businesses More Upbeat Despite Prolonged War in Middle East",
       "url": "https://www.wsj.com/world/europe/french-inflation-accelerated-in-august-8dc6e124"
-    },
-    "87ca01950dba3d9c": {
-      "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "87ca01950dba3d9c",
-      "published": "2026-08-26T20:15:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Sleight-of-Hand Campus Economy",
-      "title": "The Sleight-of-Hand Campus Economy",
-      "url": "https://www.wsj.com/opinion/the-sleight-of-hand-campus-economy-38c787aa"
     },
     "8ba126085263c07c": {
       "dek": "",
@@ -1430,19 +1456,6 @@
       "title": "U.S. Stock Futures Mixed Ahead of Fed Chair Warsh’s Jackson Hole Debut",
       "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-mixed-ahead-of-fed-chair-warshs-jackson-hole-debut-5c045a6d"
     },
-    "9384047efca5dbc4": {
-      "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "9384047efca5dbc4",
-      "published": "2026-08-26T20:21:00+00:00",
-      "section": "Us News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Blake Lively Awarded $400,000 In Legal Fees",
-      "title": "Blake Lively Awarded $400,000 In Legal Fees",
-      "url": "https://www.wsj.com/us-news/law/blake-lively-awarded-400-000-in-legal-fees-9d85f95a"
-    },
     "950d0cdd8305a880": {
       "dek": "",
       "first_seen": "2026-08-28T11:14:12.031098+00:00",
@@ -1468,6 +1481,19 @@
       "summary": "Trump Limits Internships for International College Students",
       "title": "Trump Limits Internships for International College Students",
       "url": "https://www.wsj.com/us-news/education/trump-limits-internships-for-international-college-students-5b668796"
+    },
+    "97df9acc98896f55": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "97df9acc98896f55",
+      "published": "2026-08-28T20:41:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "U.S. Stocks Fall After Warsh Speech Boosts Bond Yields",
+      "title": "U.S. Stocks Fall After Warsh Speech Boosts Bond Yields",
+      "url": "https://www.wsj.com/finance/investing/u-s-stocks-fall-after-warsh-speech-boosts-bond-yields-c96bb5da"
     },
     "980e1fb3fa99c5b1": {
       "dek": "",
@@ -1521,6 +1547,19 @@
       "title": "Energy & Utilities Roundup: Market Talk",
       "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-b93b414d"
     },
+    "99c0252e704dd61d": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "99c0252e704dd61d",
+      "published": "2026-08-28T21:01:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "How Did a Nonprofit Become America’s Insurance Regulator?",
+      "title": "How Did a Nonprofit Become America’s Insurance Regulator?",
+      "url": "https://www.wsj.com/opinion/how-did-a-nonprofit-become-americas-insurance-regulator-f3da377e"
+    },
     "9a4055c2f8d28163": {
       "dek": "",
       "first_seen": "2026-08-27T03:31:47.149391+00:00",
@@ -1573,6 +1612,19 @@
       "title": "Nvidia’s Big Day Adds $442 Billion in Market Cap",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-27-2026/card/nvidia-s-big-day-adds-442-billion-in-market-cap-2yM3kcZctiPE7OHcVJJ2"
     },
+    "a065ef725c117d04": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "a065ef725c117d04",
+      "published": "2026-08-28T16:55:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Should You Use AI for Mental Health?",
+      "title": "Should You Use AI for Mental Health?",
+      "url": "https://www.wsj.com/tech/ai/ai-mental-health-therapy-chatbots-98985539"
+    },
     "a2c51ea641c8e80c": {
       "dek": "",
       "first_seen": "2026-08-27T23:57:08.709701+00:00",
@@ -1585,19 +1637,6 @@
       "summary": "Economic forecasting survey archive",
       "title": "Economic forecasting survey archive",
       "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998"
-    },
-    "a3747e0c69ea59a0": {
-      "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "a3747e0c69ea59a0",
-      "published": "2026-08-26T20:42:49+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "💬Money Quote: Nvidia CEO Jensen Huang",
-      "title": "💬Money Quote: Nvidia CEO Jensen Huang",
-      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/-money-quote-nvidia-ceo-jensen-huang-4ZdAgZjnfrFPEvQw4lbq"
     },
     "a38fe99b8db14ee5": {
       "dek": "",
@@ -1638,6 +1677,32 @@
       "title": "Stock Futures Tick Up After Strong Nvidia Earnings",
       "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/stock-futures-tick-up-after-strong-nvidia-earnings-eP7d0x5ApShigiDpK5PS"
     },
+    "a76418afbbc08629": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "a76418afbbc08629",
+      "published": "2026-08-28T17:19:41+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "📹 Watch: Why Nvidia Stock Looks Cheap Even After Blockbuster Earnings",
+      "title": "📹 Watch: Why Nvidia Stock Looks Cheap Even After Blockbuster Earnings",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/-watch-why-nvidia-stock-looks-cheap-even-after-blockbuster-earnings-rqIjX9LrnukIll6VA6bI"
+    },
+    "a8738eeeb6e6843e": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "a8738eeeb6e6843e",
+      "published": "2026-08-28T20:44:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "ICE Has Detained British Media Provocateur Milo Yiannopoulos",
+      "title": "ICE Has Detained British Media Provocateur Milo Yiannopoulos",
+      "url": "https://www.wsj.com/politics/policy/ice-has-detained-british-media-provocateur-milo-yiannopoulos-a9c1010e"
+    },
     "a9922d6462170dca": {
       "dek": "",
       "first_seen": "2026-08-27T23:57:08.709701+00:00",
@@ -1651,19 +1716,6 @@
       "title": "Dementia Doesn’t Have to Be the End of Travel",
       "url": "https://www.wsj.com/health/wellness/travel-dementia-family-trips-5c28e0bc"
     },
-    "aa4af40829dbcc1e": {
-      "dek": "",
-      "first_seen": "2026-08-26T19:15:04.575816+00:00",
-      "guid": "aa4af40829dbcc1e",
-      "published": "2026-08-26T18:26:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The GOP’s November Ethics Problem",
-      "title": "The GOP’s November Ethics Problem",
-      "url": "https://www.wsj.com/opinion/the-gops-november-ethics-problem-833de577"
-    },
     "aa791ba1843061b7": {
       "dek": "",
       "first_seen": "2026-08-28T11:14:12.031098+00:00",
@@ -1676,19 +1728,6 @@
       "summary": "South Korea’s ‘AI for All’ Push Gives Free Access to Every Citizen",
       "title": "South Korea’s ‘AI for All’ Push Gives Free Access to Every Citizen",
       "url": "https://www.wsj.com/tech/ai/south-koreas-ai-for-all-push-gives-free-access-to-every-citizen-451f6b2c"
-    },
-    "ab35fadb5c88b039": {
-      "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "ab35fadb5c88b039",
-      "published": "2026-08-26T20:24:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Okta Lifts Full-Year Outlook as AI Agents Spur Demand",
-      "title": "Okta Lifts Full-Year Outlook as AI Agents Spur Demand",
-      "url": "https://www.wsj.com/business/earnings/okta-lifts-full-year-outlook-as-ai-agents-spur-demand-e1d7df05"
     },
     "aca10a4184589d24": {
       "dek": "",
@@ -1729,19 +1768,6 @@
       "title": "‘Ghosts of Sicily’ Review: The Italian Connection",
       "url": "https://www.wsj.com/arts-culture/books/ghosts-of-sicily-review-the-italian-connection-ce0adf11"
     },
-    "aecf137b7fb70090": {
-      "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "aecf137b7fb70090",
-      "published": "2026-08-26T21:00:00+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "‘Fed Up’ Review: Dietary Guidelines",
-      "title": "‘Fed Up’ Review: Dietary Guidelines",
-      "url": "https://www.wsj.com/arts-culture/books/fed-up-review-dietary-guidelines-260c9426"
-    },
     "b242799fda211095": {
       "dek": "",
       "first_seen": "2026-08-27T14:34:39.857267+00:00",
@@ -1754,19 +1780,6 @@
       "summary": "Republican Efforts to Prosecute Fauci for Contempt Are Hitting a Wall",
       "title": "Republican Efforts to Prosecute Fauci for Contempt Are Hitting a Wall",
       "url": "https://www.wsj.com/politics/policy/republican-efforts-to-prosecute-fauci-for-contempt-are-hitting-a-wall-7cc5475a"
-    },
-    "b28c2a0a594e4a35": {
-      "dek": "",
-      "first_seen": "2026-08-27T03:31:47.149391+00:00",
-      "guid": "b28c2a0a594e4a35",
-      "published": "2026-08-26T20:11:00+00:00",
-      "section": "World",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Labor Protests and Panic Buying Signal Growing Pressure in Iran",
-      "title": "Labor Protests and Panic Buying Signal Growing Pressure in Iran",
-      "url": "https://www.wsj.com/world/middle-east/labor-protests-and-panic-buying-signal-growing-pressure-in-iran-3f039fab"
     },
     "b30949e63a5f5079": {
       "dek": "",
@@ -1807,6 +1820,19 @@
       "title": "Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies",
       "url": "https://www.wsj.com/tech/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-9c71454e"
     },
+    "b4714220b0e3b12a": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "b4714220b0e3b12a",
+      "published": "2026-08-28T18:27:00+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "‘An Exquisite Eye: Introducing the Aso O. Tavitian Collection’ at the Clark Art Institute",
+      "title": "‘An Exquisite Eye: Introducing the Aso O. Tavitian Collection’ at the Clark Art Institute",
+      "url": "https://www.wsj.com/articles/an-exquisite-eye-introducing-the-aso-o-tavitian-collection-at-the-clark-art-institute-33d14456"
+    },
     "b56fb523c660ef3c": {
       "dek": "",
       "first_seen": "2026-08-28T11:14:12.031098+00:00",
@@ -1845,19 +1871,6 @@
       "summary": "Asian Stocks Mixed After Nvidia Earnings",
       "title": "Asian Stocks Mixed After Nvidia Earnings",
       "url": "https://www.wsj.com/finance/stocks/asian-stocks-mixed-after-nvidia-earnings-25af2b68"
-    },
-    "b8b62ddc3f2c2479": {
-      "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "b8b62ddc3f2c2479",
-      "published": "2026-08-26T20:15:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Give Leery Towns a Slice of the Data Center Pie",
-      "title": "Give Leery Towns a Slice of the Data Center Pie",
-      "url": "https://www.wsj.com/opinion/give-leery-towns-a-slice-of-the-data-center-pie-d3f3be53"
     },
     "ba1205c0f30a72b3": {
       "dek": "",
@@ -1937,6 +1950,19 @@
       "title": "Here Are the Business Executives Who Have Mamdani’s Ear",
       "url": "https://www.wsj.com/business/here-are-the-business-executives-who-have-mamdanis-ear-94648858"
     },
+    "c0ab54abb347f466": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "c0ab54abb347f466",
+      "published": "2026-08-28T17:45:00+00:00",
+      "section": "Arts Culture",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Frank Lloyd Wright’s Fallingwater: A House at One With Nature",
+      "title": "Frank Lloyd Wright’s Fallingwater: A House at One With Nature",
+      "url": "https://www.wsj.com/arts-culture/books/frank-lloyd-wrights-fallingwater-a-house-at-one-with-nature-8735053b"
+    },
     "c1a8c94149555623": {
       "dek": "",
       "first_seen": "2026-08-26T22:27:29.796287+00:00",
@@ -1963,18 +1989,18 @@
       "title": "Dolly Parton Leaves Us Wanting More",
       "url": "https://www.wsj.com/opinion/dolly-parton-leaves-us-wanting-more-132e5c70"
     },
-    "c2f7e075de96d029": {
+    "c227e91be5b67684": {
       "dek": "",
-      "first_seen": "2026-08-27T03:31:47.149391+00:00",
-      "guid": "c2f7e075de96d029",
-      "published": "2026-08-26T20:12:00+00:00",
-      "section": "Opinion",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "c227e91be5b67684",
+      "published": "2026-08-28T17:51:00+00:00",
+      "section": "World",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "How’s VA Healthcare for All Sound?",
-      "title": "How’s VA Healthcare for All Sound?",
-      "url": "https://www.wsj.com/opinion/hows-va-healthcare-for-all-sound-a8131ea6"
+      "summary": "We Tested a Smartphone Smuggled From North Korea",
+      "title": "We Tested a Smartphone Smuggled From North Korea",
+      "url": "https://www.wsj.com/world/asia/we-tested-a-smartphone-smuggled-from-north-korea-c2915548"
     },
     "c4372a85b301126a": {
       "dek": "",
@@ -1988,19 +2014,6 @@
       "summary": "Drone-Defense Startup Needed Connections, so It Hired Eric Trump",
       "title": "Drone-Defense Startup Needed Connections, so It Hired Eric Trump",
       "url": "https://www.wsj.com/business/drone-defense-startup-needed-connections-so-it-hired-eric-trump-e6ec7f93"
-    },
-    "c5102dbc4f95f194": {
-      "dek": "",
-      "first_seen": "2026-08-26T19:15:04.575816+00:00",
-      "guid": "c5102dbc4f95f194",
-      "published": "2026-08-26T17:28:34+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "What Options Traders Expect After Nvidia Earnings",
-      "title": "What Options Traders Expect After Nvidia Earnings",
-      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/what-options-traders-expect-after-nvidia-earnings-VeDpE9AwfgPRGhFHgnlz"
     },
     "c545f9315608e1ba": {
       "dek": "",
@@ -2080,6 +2093,19 @@
       "title": "What’s News: Worldwide",
       "url": "https://www.wsj.com/articles/whats-news-worldwide-831664ae"
     },
+    "ca228521c101911d": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "ca228521c101911d",
+      "published": "2026-08-28T21:05:00+00:00",
+      "section": "Arts Culture",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "13 Books We Read This Week",
+      "title": "13 Books We Read This Week",
+      "url": "https://www.wsj.com/arts-culture/books/13-books-we-read-this-week-da28c47b"
+    },
     "cae34be0486565d6": {
       "dek": "",
       "first_seen": "2026-08-27T14:34:39.857267+00:00",
@@ -2132,44 +2158,31 @@
       "title": "Fertilizer Giants Ready New Plants to Boost U.S. Supplies",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-27-2026/card/fertilizer-giants-ready-new-plants-to-boost-u-s-supplies-6BLC0PQ8jaqCoxNzySAt"
     },
-    "cdfc2fa7e989df8c": {
+    "d0acc449f5a1095e": {
       "dek": "",
-      "first_seen": "2026-08-27T03:31:47.149391+00:00",
-      "guid": "cdfc2fa7e989df8c",
-      "published": "2026-08-26T19:34:00+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "A Refreshed Calouste Gulbenkian Museum in Lisbon",
-      "title": "A Refreshed Calouste Gulbenkian Museum in Lisbon",
-      "url": "https://www.wsj.com/arts-culture/fine-art/a-refreshed-calouste-gulbenkian-museum-in-lisbon-8a785354"
-    },
-    "ce397084a02af10d": {
-      "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "ce397084a02af10d",
-      "published": "2026-08-26T20:34:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Meta Settles for $18 Billion",
-      "title": "Meta Settles for $18 Billion",
-      "url": "https://www.wsj.com/finance/investing/meta-settles-for-18-billion-c8b5636b"
-    },
-    "d217238920556725": {
-      "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "d217238920556725",
-      "published": "2026-08-26T21:16:00+00:00",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "d0acc449f5a1095e",
+      "published": "2026-08-28T18:33:00+00:00",
       "section": "Opinion",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "How George Washington’s Defeat Led to America’s Victory",
-      "title": "How George Washington’s Defeat Led to America’s Victory",
-      "url": "https://www.wsj.com/opinion/how-george-washingtons-defeat-led-to-americas-victory-e9940677"
+      "summary": "America's 1.27-Million-Year Debt",
+      "title": "America's 1.27-Million-Year Debt",
+      "url": "https://www.wsj.com/opinion/america-s-1-27-million-year-debt-953d8aaf"
+    },
+    "d22f54f6e0d35e9b": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "d22f54f6e0d35e9b",
+      "published": "2026-08-28T18:34:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "And There Go the Midterms",
+      "title": "And There Go the Midterms",
+      "url": "https://www.wsj.com/opinion/and-there-go-the-midterms-33fdae8c"
     },
     "d2a811dd56082ad7": {
       "dek": "",
@@ -2183,6 +2196,19 @@
       "summary": "Nvidia’s Outside Investments Are Ballooning",
       "title": "Nvidia’s Outside Investments Are Ballooning",
       "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/nvidia-s-outside-investments-are-ballooning-Cg8aVq4jcqXW2mXGJxmy"
+    },
+    "d2dd6de0a4d6ce0e": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "d2dd6de0a4d6ce0e",
+      "published": "2026-08-28T16:18:17+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "📹 Watch: Fed’s ‘Predominant Focus Should Be on Prices,’ Warsh Says",
+      "title": "📹 Watch: Fed’s ‘Predominant Focus Should Be on Prices,’ Warsh Says",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/-watch-fed-s-predominant-focus-should-be-on-prices-warsh-says-hAELWqLpRDhwqW8rwca3"
     },
     "d3243eb014b3867d": {
       "dek": "",
@@ -2223,6 +2249,32 @@
       "title": "This Investor Wants to Turn El Niño Into a Windfall",
       "url": "https://www.wsj.com/cmo-today/this-investor-wants-to-turn-el-nino-into-a-windfall-f241eae7"
     },
+    "d62096298209d3f5": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "d62096298209d3f5",
+      "published": "2026-08-28T18:55:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "What’s Left of Russian Democracy? Some Say a Debate Over a Statue",
+      "title": "What’s Left of Russian Democracy? Some Say a Debate Over a Statue",
+      "url": "https://www.wsj.com/world/russia/whats-left-of-russian-democracy-some-say-a-debate-over-a-statue-9483bcb8"
+    },
+    "d764e172418060db": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "d764e172418060db",
+      "published": "2026-08-28T18:38:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Prelude to the Decline and Fall of a Republic",
+      "title": "Prelude to the Decline and Fall of a Republic",
+      "url": "https://www.wsj.com/opinion/prelude-to-the-decline-and-fall-of-a-republic-a1d65c80"
+    },
     "d7f746481a4e42db": {
       "dek": "",
       "first_seen": "2026-08-27T23:57:08.709701+00:00",
@@ -2262,6 +2314,19 @@
       "title": "People Are Saving Up Their Vacation Days to Binge ‘Grand Theft Auto VI’",
       "url": "https://www.wsj.com/arts-culture/people-are-saving-up-their-vacation-days-to-binge-grand-theft-auto-vi-90cda437"
     },
+    "db6b440ee21fb530": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "db6b440ee21fb530",
+      "published": "2026-08-28T19:56:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "A Core Egyptian Bank Gets Caught Up in Treasury’s Iran Crackdown",
+      "title": "A Core Egyptian Bank Gets Caught Up in Treasury’s Iran Crackdown",
+      "url": "https://www.wsj.com/world/middle-east/a-core-egyptian-bank-gets-caught-up-in-treasurys-iran-crackdown-bb867772"
+    },
     "dea6ec2569a2d42b": {
       "dek": "",
       "first_seen": "2026-08-27T23:57:08.709701+00:00",
@@ -2274,19 +2339,6 @@
       "summary": "America 250 calendar ways to celebrate the nation across the nation airdigital",
       "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
       "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23"
-    },
-    "decf460fcbb53e4a": {
-      "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "decf460fcbb53e4a",
-      "published": "2026-08-26T20:39:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Urban Outfitters Sales Rise as Free People Strength Continues",
-      "title": "Urban Outfitters Sales Rise as Free People Strength Continues",
-      "url": "https://www.wsj.com/business/earnings/urban-outfitters-sales-rise-as-free-people-strength-continues-32118683"
     },
     "e04673d49ada7da1": {
       "dek": "",
@@ -2326,32 +2378,6 @@
       "summary": "Solstice Advanced Materials, Element Solutions Cancel Deal After Shareholder Feedback",
       "title": "Solstice Advanced Materials, Element Solutions Cancel Deal After Shareholder Feedback",
       "url": "https://www.wsj.com/business/solstice-advanced-materials-element-solutions-cancel-deal-after-shareholder-feedback-22f863a4"
-    },
-    "e64cfb9af115c245": {
-      "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "e64cfb9af115c245",
-      "published": "2026-08-26T20:29:00+00:00",
-      "section": "Tech",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Nvidia’s Blowout Quarter and Upbeat Outlook Send Shares Higher",
-      "title": "Nvidia’s Blowout Quarter and Upbeat Outlook Send Shares Higher",
-      "url": "https://www.wsj.com/tech/nvidia-earnings-q2-2027-nvda-stock-8983c8d1"
-    },
-    "e708b792e81a7f99": {
-      "dek": "",
-      "first_seen": "2026-08-26T19:15:04.575816+00:00",
-      "guid": "e708b792e81a7f99",
-      "published": "2026-08-26T18:45:02+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Wall Street Is Back From Summer Camp…And Ready for Nvidia Earnings",
-      "title": "Wall Street Is Back From Summer Camp…And Ready for Nvidia Earnings",
-      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/wall-street-is-back-from-summer-camp-and-ready-for-nvidia-earnings-VdCQGcDhtbgSW7QWUENv"
     },
     "e8ccacce074f06e6": {
       "dek": "",
@@ -2483,19 +2509,6 @@
       "title": "Nikkei Rises 0.7%, Led by Chip Stocks",
       "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-7-led-by-chip-stocks-1cae7bf0"
     },
-    "f44e3ecd53eb8747": {
-      "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "f44e3ecd53eb8747",
-      "published": "2026-08-26T20:36:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "HP Revenue Rises as Higher Prices Offset Fewer PC Sales",
-      "title": "HP Revenue Rises as Higher Prices Offset Fewer PC Sales",
-      "url": "https://www.wsj.com/business/earnings/hp-revenue-rises-as-higher-prices-offset-fewer-pc-sales-5c0d8754"
-    },
     "f4915b00ed92774f": {
       "dek": "",
       "first_seen": "2026-08-28T11:14:12.031098+00:00",
@@ -2522,32 +2535,6 @@
       "title": "Hakeem Jeffries Confronts Left-Wing Backlash to Jared Kushner Meeting",
       "url": "https://www.wsj.com/politics/elections/hakeem-jeffries-confronts-left-wing-backlash-to-jared-kushner-meeting-62790b06"
     },
-    "f6fab5e05a919002": {
-      "dek": "",
-      "first_seen": "2026-08-26T22:27:29.796287+00:00",
-      "guid": "f6fab5e05a919002",
-      "published": "2026-08-26T20:29:23+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Nvidia Stock Edges Lower After Results Beat Expectations",
-      "title": "Nvidia Stock Edges Lower After Results Beat Expectations",
-      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/nvidia-stocks-edges-lower-after-results-beat-expectations-ID201C5WrCdGF6jJetpj"
-    },
-    "fa2adc497cd5ae9a": {
-      "dek": "",
-      "first_seen": "2026-08-27T03:31:47.149391+00:00",
-      "guid": "fa2adc497cd5ae9a",
-      "published": "2026-08-26T20:14:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The GOP’s Half-Century-Old Welfare Problem",
-      "title": "The GOP’s Half-Century-Old Welfare Problem",
-      "url": "https://www.wsj.com/opinion/the-gops-half-century-old-welfare-problem-015d7670"
-    },
     "fa6e6f8d1070db11": {
       "dek": "",
       "first_seen": "2026-08-27T03:31:47.149391+00:00",
@@ -2560,6 +2547,19 @@
       "summary": "Yen Mostly Edges Higher as Traders Await BOJ Himino’s Speech",
       "title": "Yen Mostly Edges Higher as Traders Await BOJ Himino’s Speech",
       "url": "https://www.wsj.com/finance/currencies/yen-mostly-edges-higher-as-traders-await-boj-himinos-speech-0d06acc5"
+    },
+    "fb5ec2f2b3f8ac68": {
+      "dek": "",
+      "first_seen": "2026-08-28T21:29:58.849760+00:00",
+      "guid": "fb5ec2f2b3f8ac68",
+      "published": "2026-08-28T18:00:00+00:00",
+      "section": "Style",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "These Outfits Will Sell You on Fall Textures",
+      "title": "These Outfits Will Sell You on Fall Textures",
+      "url": "https://www.wsj.com/style/fashion/fall-layered-ensembles-4b3cb00e"
     },
     "fc3be20d2623b1e6": {
       "dek": "",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/finance/investing/trump-family-crypto-bank-backed-by-abu-dhabi-royal-f18bb424"
     }
   },
-  "updated": "2026-08-28T11:14:12.054814+00:00"
+  "updated": "2026-08-28T21:29:58.868158+00:00"
 }
