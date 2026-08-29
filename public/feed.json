@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "a7c42fbc7545bed0",
+      "url": "https://www.wsj.com/world/americas/this-right-wing-stronghold-in-brazil-is-getting-pummeled-by-trumps-tariffs-059aa7db",
+      "title": "This Right-Wing Stronghold in Brazil Is Getting Pummeled by Trump’s Tariffs",
+      "content_text": "This Right-Wing Stronghold in Brazil Is Getting Pummeled by Trump’s Tariffs",
+      "summary": "",
+      "date_published": "2026-08-29T17:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "ccd5bb6aaa5a1502",
+      "url": "https://www.wsj.com/world/europe/ammunition-explosion-in-ukraine-kills-at-least-37-0db28d94",
+      "title": "Russian Strike on Ukraine Ammo Depot Kills at Least 37",
+      "content_text": "Russian Strike on Ukraine Ammo Depot Kills at Least 37",
+      "summary": "",
+      "date_published": "2026-08-29T16:22:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "a0533d2581ba94fb",
+      "url": "https://www.wsj.com/articles/a-disinherited-niece-takes-on-her-aunts-care-and-is-now-facing-theft-charges-3cd0fa21",
+      "title": "A Disinherited Niece Takes On Her Aunt’s Care, and Is Now Facing Theft Charges",
+      "content_text": "A Disinherited Niece Takes On Her Aunt’s Care, and Is Now Facing Theft Charges",
+      "summary": "",
+      "date_published": "2026-08-29T16:03:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "e0d4d2b1867b44a0",
+      "url": "https://www.wsj.com/sports/golf/good-good-golf-video-controversy-5874e6af",
+      "title": "Good Good Was Golf’s Hottest Company—Until an Ad Went Badly, Badly Wrong",
+      "content_text": "Good Good Was Golf’s Hottest Company—Until an Ad Went Badly, Badly Wrong",
+      "summary": "",
+      "date_published": "2026-08-29T16:00:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
       "id": "6549570307e2ebc5",
       "url": "https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169",
       "title": "Nvidia Wants to Run the World’s Robots. China Is an Eager Customer.",
@@ -2159,50 +2203,6 @@
       "date_published": "2026-08-27T11:32:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "0dbe63daf433e481",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7e48ef50",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "content_text": "Energy & Utilities Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-27T11:30:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "e8ccacce074f06e6",
-      "url": "https://www.wsj.com/tech/kioxia-sandisk-to-invest-more-than-31-billion-in-memory-chips-bb6bddbf",
-      "title": "Kioxia, Sandisk to Invest More Than $31 Billion in Memory Chips",
-      "content_text": "Kioxia, Sandisk to Invest More Than $31 Billion in Memory Chips",
-      "summary": "",
-      "date_published": "2026-08-27T11:29:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "25ebec7acef2c791",
-      "url": "https://www.wsj.com/business/earnings/td-banky-earnings-lifted-by-growth-in-canada-capital-markets-activity-ba64e9cd",
-      "title": "TD Bank Earnings Lifted by Growth in Canada, Capital Markets Activity",
-      "content_text": "TD Bank Earnings Lifted by Growth in Canada, Capital Markets Activity",
-      "summary": "",
-      "date_published": "2026-08-27T11:28:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "743fe07783b12b99",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-27-2026/card/nvidia-pushes-back-on-circular-financing-criticism-XdHmb8VRy4xMH42k7Z2M",
-      "title": "Nvidia Pushes Back on Circular Financing Criticism",
-      "content_text": "Nvidia Pushes Back on Circular Financing Criticism",
-      "summary": "",
-      "date_published": "2026-08-27T11:26:10+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
