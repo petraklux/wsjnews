@@ -6,6 +6,116 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "28fd35cc54e3f94a",
+      "url": "https://www.wsj.com/world/asia/close-to-3-000-missing-in-floods-in-nepal-and-china-75f61b42",
+      "title": "Close to 3,000 Missing in Floods in Nepal and China",
+      "content_text": "Close to 3,000 Missing in Floods in Nepal and China",
+      "summary": "",
+      "date_published": "2026-08-29T10:17:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "5fde675b13472d42",
+      "url": "https://www.wsj.com/business/media/news-quiz-for-august-29-2026-97be30eb",
+      "title": "News Quiz for August 29, 2026",
+      "content_text": "News Quiz for August 29, 2026",
+      "summary": "",
+      "date_published": "2026-08-29T10:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "733d5f19d8374272",
+      "url": "https://www.wsj.com/economy/global/the-strongest-el-nino-in-a-generation-is-wreaking-havoc-on-global-economy-b6fece16",
+      "title": "The Strongest El Niño in a Generation Is Wreaking Havoc on Global Economy",
+      "content_text": "The Strongest El Niño in a Generation Is Wreaking Havoc on Global Economy",
+      "summary": "",
+      "date_published": "2026-08-29T09:30:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "f4cea7bb781df5e5",
+      "url": "https://www.wsj.com/lifestyle/cars/2026-ducati-multistrada-v4-rally-review-ef5b6a1e",
+      "title": "Dan Neil Tames a Heavyweight Adventure Bike",
+      "content_text": "Dan Neil Tames a Heavyweight Adventure Bike",
+      "summary": "",
+      "date_published": "2026-08-29T09:30:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "239008b158304ed6",
+      "url": "https://www.wsj.com/us-news/education/school-phone-ban-effectiveness-4dd792c2",
+      "title": "More Schools Are Imposing Phone Bans. Do They Really Work?",
+      "content_text": "More Schools Are Imposing Phone Bans. Do They Really Work?",
+      "summary": "",
+      "date_published": "2026-08-29T09:30:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "0c27eb857e1186f6",
+      "url": "https://www.wsj.com/lifestyle/travel/maine-oyster-season-summer-d1170a17",
+      "title": "As Summer Winds Down in Maine, Oyster Season Hits Its Peak",
+      "content_text": "As Summer Winds Down in Maine, Oyster Season Hits Its Peak",
+      "summary": "",
+      "date_published": "2026-08-29T09:30:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "c9382df13545fe0c",
+      "url": "https://www.wsj.com/arts-culture/fine-art/an-exquisite-eye-introducing-the-aso-o-tavitian-collection-review-the-clarks-new-trove-953b9266",
+      "title": "‘An Exquisite Eye: Introducing the Aso O. Tavitian Collection’ Review: The Clark’s New Trove",
+      "content_text": "‘An Exquisite Eye: Introducing the Aso O. Tavitian Collection’ Review: The Clark’s New Trove",
+      "summary": "",
+      "date_published": "2026-08-29T09:01:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "c5b176743e341bdd",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-aafcf5b4",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-08-29T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "c1f09fa2fada318f",
+      "url": "https://www.wsj.com/articles/whats-news-worldwide-36566dcf",
+      "title": "What’s News: Worldwide",
+      "content_text": "What’s News: Worldwide",
+      "summary": "",
+      "date_published": "2026-08-29T03:36:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "ca3df2c3070cb5ad",
+      "url": "https://www.wsj.com/articles/whats-news-business-finance-ac970f80",
+      "title": "What’s News: Business & Finance",
+      "content_text": "What’s News: Business & Finance",
+      "summary": "",
+      "date_published": "2026-08-29T03:07:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "176d4d515a2754e2",
       "url": "https://www.wsj.com/world/china/china-oil-market-edf57588",
       "title": "How Xi Jinping Turned Oil From a Weakness Into a Geopolitical Weapon",
@@ -28,21 +138,21 @@
       ]
     },
     {
-      "id": "e656bca1b58e6b44",
-      "url": "https://www.wsj.com/business/power-betrayal-and-the-fall-of-leon-black-654192b8",
-      "title": "Power, Betrayal and the Fall of Leon Black",
-      "content_text": "Power, Betrayal and the Fall of Leon Black",
-      "summary": "",
-      "date_published": "2026-08-29T01:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
       "id": "0477c7695ce6f348",
       "url": "https://www.wsj.com/politics/national-security/drain-on-u-s-munitions-from-iran-war-raises-fears-over-ability-to-deter-china-russia-c7d4512d",
       "title": "Drain on U.S. Munitions From Iran War Raises Fears Over Ability to Deter China, Russia",
       "content_text": "Drain on U.S. Munitions From Iran War Raises Fears Over Ability to Deter China, Russia",
+      "summary": "",
+      "date_published": "2026-08-29T01:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "421ab1b0084bc073",
+      "url": "https://www.wsj.com/politics/republicans-are-worried-about-the-midterms-trump-is-focused-on-his-legacy-597e5512",
+      "title": "Republicans Are Worried About the Midterms. Trump Is Focused on His Legacy.",
+      "content_text": "Republicans Are Worried About the Midterms. Trump Is Focused on His Legacy.",
       "summary": "",
       "date_published": "2026-08-29T01:00:00+00:00",
       "tags": [
@@ -61,14 +171,14 @@
       ]
     },
     {
-      "id": "421ab1b0084bc073",
-      "url": "https://www.wsj.com/politics/republicans-are-worried-about-the-midterms-trump-is-focused-on-his-legacy-597e5512",
-      "title": "Republicans Are Worried About the Midterms. Trump Is Focused on His Legacy.",
-      "content_text": "Republicans Are Worried About the Midterms. Trump Is Focused on His Legacy.",
+      "id": "e656bca1b58e6b44",
+      "url": "https://www.wsj.com/business/power-betrayal-and-the-fall-of-leon-black-654192b8",
+      "title": "Power, Betrayal and the Fall of Leon Black",
+      "content_text": "Power, Betrayal and the Fall of Leon Black",
       "summary": "",
       "date_published": "2026-08-29T01:00:00+00:00",
       "tags": [
-        "Politics"
+        "Business"
       ]
     },
     {
@@ -113,6 +223,17 @@
       "date_published": "2026-08-28T23:11:00+00:00",
       "tags": [
         "Front Page"
+      ]
+    },
+    {
+      "id": "9524da8b1b148899",
+      "url": "https://www.wsj.com/politics/elections/the-2026-races-that-could-determine-house-control-9500c90d",
+      "title": "The 2026 Races That Could Determine House Control",
+      "content_text": "The 2026 Races That Could Determine House Control",
+      "summary": "",
+      "date_published": "2026-08-28T23:11:00+00:00",
+      "tags": [
+        "Politics"
       ]
     },
     {
@@ -344,6 +465,17 @@
       "date_published": "2026-08-28T20:40:00+00:00",
       "tags": [
         "Tech"
+      ]
+    },
+    {
+      "id": "90f7de61fc4f56ae",
+      "url": "https://www.wsj.com/business/energy-oil/trump-administration-in-advanced-talks-for-stake-in-venezuelan-oil-fields-819546d3",
+      "title": "Trump administration in advanced talks for stake in venezuelan oil fields",
+      "content_text": "Trump administration in advanced talks for stake in venezuelan oil fields",
+      "summary": "",
+      "date_published": "2026-08-28T20:36:00+00:00",
+      "tags": [
+        "Business"
       ]
     },
     {
@@ -2071,138 +2203,6 @@
       "date_published": "2026-08-27T11:01:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "fc3be20d2623b1e6",
-      "url": "https://www.wsj.com/politics/flock-cameras-the-surveillance-state-and-a-political-reckoning-dd155412",
-      "title": "Flock Cameras, the ‘Surveillance State’ and a Political Reckoning",
-      "content_text": "Flock Cameras, the ‘Surveillance State’ and a Political Reckoning",
-      "summary": "",
-      "date_published": "2026-08-27T11:01:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "4e492e747a93ba7e",
-      "url": "https://www.wsj.com/finance/kalshi-and-the-weather-co-join-forces-on-climate-trades-76b7e307",
-      "title": "Kalshi and the Weather Co. Join Forces on Climate Trades",
-      "content_text": "Kalshi and the Weather Co. Join Forces on Climate Trades",
-      "summary": "",
-      "date_published": "2026-08-27T11:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "f2433b4fae00b4c5",
-      "url": "https://www.wsj.com/economy/central-banking/boj-deputy-gov-himino-vows-inflation-vigilance-as-rate-hike-bets-mount-41245641",
-      "title": "BOJ Deputy Gov. Himino Vows Inflation Vigilance as Rate-Hike Bets Mount",
-      "content_text": "BOJ Deputy Gov. Himino Vows Inflation Vigilance as Rate-Hike Bets Mount",
-      "summary": "",
-      "date_published": "2026-08-27T02:46:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "8e1c1d63424f96d7",
-      "url": "https://www.wsj.com/articles/corrections-amplifications-c1dd3600",
-      "title": "Corrections &Amplifications",
-      "content_text": "Corrections &Amplifications",
-      "summary": "",
-      "date_published": "2026-08-27T02:45:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "b7378655f80312f2",
-      "url": "https://www.wsj.com/finance/stocks/asian-stocks-mixed-after-nvidia-earnings-25af2b68",
-      "title": "Asian Stocks Mixed After Nvidia Earnings",
-      "content_text": "Asian Stocks Mixed After Nvidia Earnings",
-      "summary": "",
-      "date_published": "2026-08-27T02:16:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "9a4055c2f8d28163",
-      "url": "https://www.wsj.com/tech/ai/thinking-machines-lab-co-founder-barret-zoph-joins-google-49f594e6",
-      "title": "Thinking Machines Lab Co-Founder Barret Zoph Joins Google",
-      "content_text": "Thinking Machines Lab Co-Founder Barret Zoph Joins Google",
-      "summary": "",
-      "date_published": "2026-08-27T01:46:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "980e1fb3fa99c5b1",
-      "url": "https://www.wsj.com/economy/central-banking/bank-of-korea-delivers-back-to-back-rate-increase-acaee303",
-      "title": "Bank of Korea Delivers Back-to-Back Rate Increase",
-      "content_text": "Bank of Korea Delivers Back-to-Back Rate Increase",
-      "summary": "",
-      "date_published": "2026-08-27T01:09:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "6788b4de0ba16d68",
-      "url": "https://www.wsj.com/world/the-russia-ukraine-air-war-has-entered-a-new-deadlier-phase-6d15cce1",
-      "title": "The Russia-Ukraine Air War Has Entered a New, Deadlier Phase",
-      "content_text": "The Russia-Ukraine Air War Has Entered a New, Deadlier Phase",
-      "summary": "",
-      "date_published": "2026-08-27T01:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "8cb82781137eb581",
-      "url": "https://www.wsj.com/tech/personal-tech/meta-teen-safety-instagram-facebook-ae83287d",
-      "title": "New Teen Safety Measures for Instagram and Facebook Are Coming. Will They Work?",
-      "content_text": "New Teen Safety Measures for Instagram and Facebook Are Coming. Will They Work?",
-      "summary": "",
-      "date_published": "2026-08-27T01:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "c5c8d6c621ee4938",
-      "url": "https://www.wsj.com/world/americas/costa-rica-drug-violence-political-earthquake-e2094f2e",
-      "title": "Runaway Drug Violence Sets Off a Political Earthquake in Costa Rica",
-      "content_text": "Runaway Drug Violence Sets Off a Political Earthquake in Costa Rica",
-      "summary": "",
-      "date_published": "2026-08-27T01:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "332dfd9b35edc86f",
-      "url": "https://www.wsj.com/business/earnings/qantas-profit-falls-as-fuel-costs-surge-on-iran-conflict-6e07add8",
-      "title": "Qantas Profit Falls as Fuel Costs Surge on Iran Conflict",
-      "content_text": "Qantas Profit Falls as Fuel Costs Surge on Iran Conflict",
-      "summary": "",
-      "date_published": "2026-08-27T00:58:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "fa6e6f8d1070db11",
-      "url": "https://www.wsj.com/finance/currencies/yen-mostly-edges-higher-as-traders-await-boj-himinos-speech-0d06acc5",
-      "title": "Yen Mostly Edges Higher as Traders Await BOJ Himino’s Speech",
-      "content_text": "Yen Mostly Edges Higher as Traders Await BOJ Himino’s Speech",
-      "summary": "",
-      "date_published": "2026-08-27T00:37:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]
