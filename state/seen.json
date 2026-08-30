@@ -104,19 +104,6 @@
       "title": "PayPal Shares Sink Premarket on Report of Abandoned Takeover Offer",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/paypal-shares-sink-premarket-on-report-of-abandoned-takeover-offer-i3M3JG48UjaD9pTUm9qC"
     },
-    "0c14c0718ed2f8a1": {
-      "dek": "",
-      "first_seen": "2026-08-27T23:57:08.709701+00:00",
-      "guid": "0c14c0718ed2f8a1",
-      "published": "2026-08-27T21:32:08+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Truist Names Harold Ford Jr. as Adviser",
-      "title": "Truist Names Harold Ford Jr. as Adviser",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-27-2026/card/truist-names-harold-ford-jr-as-adviser-TLRv3GfC58HygENy7qXM"
-    },
     "0c27eb857e1186f6": {
       "dek": "",
       "first_seen": "2026-08-29T10:23:34.539464+00:00",
@@ -142,6 +129,19 @@
       "summary": "Top White House Aides Were in the Dark on Ratcliffe Russia Trip",
       "title": "Top White House Aides Were in the Dark on Ratcliffe Russia Trip",
       "url": "https://www.wsj.com/world/russia/john-ratcliffe-moscow-russia-visit-cia-068e8ef4"
+    },
+    "0f0a146d0fcf33fa": {
+      "dek": "",
+      "first_seen": "2026-08-30T19:25:28.138658+00:00",
+      "guid": "0f0a146d0fcf33fa",
+      "published": "2026-08-30T18:29:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "America’s Systemic Munitions Shortfall",
+      "title": "America’s Systemic Munitions Shortfall",
+      "url": "https://www.wsj.com/opinion/americas-systemic-munitions-shortfall-21206b43"
     },
     "0f122b41c68939c0": {
       "dek": "",
@@ -1053,6 +1053,19 @@
       "title": "Artificial Criticism of Artificial Intelligence?",
       "url": "https://www.wsj.com/opinion/artificial-criticism-of-artificial-intelligence-83d794b3"
     },
+    "6c40a104e248e35d": {
+      "dek": "",
+      "first_seen": "2026-08-30T19:25:28.138658+00:00",
+      "guid": "6c40a104e248e35d",
+      "published": "2026-08-30T17:16:00+00:00",
+      "section": "Arts Culture",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "‘Twilight of the Dons’ Review: The Prestige of the Professors",
+      "title": "‘Twilight of the Dons’ Review: The Prestige of the Professors",
+      "url": "https://www.wsj.com/arts-culture/books/twilight-of-the-dons-review-the-prestige-of-the-professors-f98b6064"
+    },
     "6cabcc045864130c": {
       "dek": "",
       "first_seen": "2026-08-28T11:14:12.031098+00:00",
@@ -1131,18 +1144,18 @@
       "title": "The Strongest El Niño in a Generation Is Wreaking Havoc on Global Economy",
       "url": "https://www.wsj.com/economy/global/the-strongest-el-nino-in-a-generation-is-wreaking-havoc-on-global-economy-b6fece16"
     },
-    "747b20842bd62f7c": {
+    "7613551604928cc8": {
       "dek": "",
-      "first_seen": "2026-08-27T23:57:08.709701+00:00",
-      "guid": "747b20842bd62f7c",
-      "published": "2026-08-27T21:32:00+00:00",
-      "section": "Opinion",
+      "first_seen": "2026-08-30T19:25:28.138658+00:00",
+      "guid": "7613551604928cc8",
+      "published": "2026-08-30T17:00:00+00:00",
+      "section": "Lifestyle",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "California Leads a Climate Insurrection",
-      "title": "California Leads a Climate Insurrection",
-      "url": "https://www.wsj.com/opinion/california-leads-a-climate-insurrection-70c65285"
+      "summary": "Can’t You Take a Joke? When Trash Talk Crosses the Line",
+      "title": "Can’t You Take a Joke? When Trash Talk Crosses the Line",
+      "url": "https://www.wsj.com/lifestyle/relationships/cant-you-take-a-joke-when-trash-talk-crosses-the-line-a6cb0f63"
     },
     "782dc168fd50a2c2": {
       "dek": "",
@@ -1273,6 +1286,19 @@
       "summary": "Hegseth Weighs Summoning Top Military Leaders to Quantico for Second Time",
       "title": "Hegseth Weighs Summoning Top Military Leaders to Quantico for Second Time",
       "url": "https://www.wsj.com/politics/policy/pete-hegseth-general-meeting-quantico-560cc230"
+    },
+    "8336d9c076a4bbc1": {
+      "dek": "",
+      "first_seen": "2026-08-30T19:25:28.138658+00:00",
+      "guid": "8336d9c076a4bbc1",
+      "published": "2026-08-30T18:00:00+00:00",
+      "section": "Economy",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Canadian Small Businesses to Bear Brunt of New U.S. Tariffs",
+      "title": "Canadian Small Businesses to Bear Brunt of New U.S. Tariffs",
+      "url": "https://www.wsj.com/economy/trade/canadian-small-businesses-to-bear-brunt-of-new-u-s-tariffs-7a434c08"
     },
     "841791d2eed69ccc": {
       "dek": "",
@@ -2522,19 +2548,6 @@
       "title": "Google Tweaks Site Ranking Policy in Most of Europe to Avert Antitrust Fine",
       "url": "https://www.wsj.com/tech/google-tweaks-site-ranking-policy-in-most-of-europe-to-avert-antitrust-fine-7327a1f4"
     },
-    "f24ee0b6d868979e": {
-      "dek": "",
-      "first_seen": "2026-08-27T23:57:08.709701+00:00",
-      "guid": "f24ee0b6d868979e",
-      "published": "2026-08-27T21:33:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Man Who Stared Into Oblivion",
-      "title": "The Man Who Stared Into Oblivion",
-      "url": "https://www.wsj.com/opinion/the-man-who-stared-into-oblivion-6fe2c6e8"
-    },
     "f4915b00ed92774f": {
       "dek": "",
       "first_seen": "2026-08-28T11:14:12.031098+00:00",
@@ -2586,20 +2599,7 @@
       "summary": "These Outfits Will Sell You on Fall Textures",
       "title": "These Outfits Will Sell You on Fall Textures",
       "url": "https://www.wsj.com/style/fashion/fall-layered-ensembles-4b3cb00e"
-    },
-    "fc9b2b146fc15b44": {
-      "dek": "",
-      "first_seen": "2026-08-27T23:57:08.709701+00:00",
-      "guid": "fc9b2b146fc15b44",
-      "published": "2026-08-27T21:23:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Trump Family Crypto Bank Backed by Abu Dhabi Royal",
-      "title": "Trump Family Crypto Bank Backed by Abu Dhabi Royal",
-      "url": "https://www.wsj.com/finance/investing/trump-family-crypto-bank-backed-by-abu-dhabi-royal-f18bb424"
     }
   },
-  "updated": "2026-08-30T16:35:48.337226+00:00"
+  "updated": "2026-08-30T19:25:28.154678+00:00"
 }
