@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "b0b08d2809d42dd9",
+      "url": "https://www.wsj.com/world/europe/russia-is-bombarding-europe-with-a-new-wave-of-gray-zone-attacks-c5eab3fa",
+      "title": "Russia Is Bombarding Europe With a New Wave of ‘Gray Zone’ Attacks",
+      "content_text": "Russia Is Bombarding Europe With a New Wave of ‘Gray Zone’ Attacks",
+      "summary": "",
+      "date_published": "2026-08-30T03:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "7e879dd864fbad23",
+      "url": "https://www.wsj.com/world/the-icc-tried-to-take-on-the-worlds-big-powers-now-its-fighting-for-survival-0a37648f",
+      "title": "The ICC Tried to Take On the World’s Big Powers. Now It’s Fighting for Survival.",
+      "content_text": "The ICC Tried to Take On the World’s Big Powers. Now It’s Fighting for Survival.",
+      "summary": "",
+      "date_published": "2026-08-30T02:02:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "989a3a18a0df0357",
+      "url": "https://www.wsj.com/us-news/education/syracuse-student-application-enrollment-crisis-budget-ff142896",
+      "title": "Why Syracuse Can’t Attract the Students It Needs to Pay the Bills",
+      "content_text": "Why Syracuse Can’t Attract the Students It Needs to Pay the Bills",
+      "summary": "",
+      "date_published": "2026-08-30T01:00:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "54712a0280b7e3dc",
+      "url": "https://www.wsj.com/business/energy-oil/inside-trumps-plan-to-give-the-pentagon-a-stake-in-venezuelas-oil-riches-f054cdc2",
+      "title": "Inside Trump’s Plan to Give the Pentagon a Stake in Venezuela’s Oil Riches",
+      "content_text": "Inside Trump’s Plan to Give the Pentagon a Stake in Venezuela’s Oil Riches",
+      "summary": "",
+      "date_published": "2026-08-30T00:17:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "2471447f4cb666a7",
       "url": "https://www.wsj.com/science/space-astronomy/spacex-and-rivals-dodge-traffic-as-satellites-debris-crowd-low-earth-orbit-2a870efe",
       "title": "SpaceX and Rivals Dodge Traffic as Satellites, Debris Crowd Low-Earth Orbit",
@@ -14,17 +58,6 @@
       "date_published": "2026-08-30T00:00:00+00:00",
       "tags": [
         "Science"
-      ]
-    },
-    {
-      "id": "db6f97b1fa77cf9a",
-      "url": "https://www.wsj.com/arts-culture/music/how-i-will-always-love-you-almost-cost-dolly-parton-3-million-850e18ca",
-      "title": "How ‘I Will Always Love You’ Almost Cost Dolly Parton $3 Million",
-      "content_text": "How ‘I Will Always Love You’ Almost Cost Dolly Parton $3 Million",
-      "summary": "",
-      "date_published": "2026-08-30T00:00:00+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     },
     {
@@ -47,6 +80,17 @@
       "date_published": "2026-08-30T00:00:00+00:00",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "db6f97b1fa77cf9a",
+      "url": "https://www.wsj.com/arts-culture/music/how-i-will-always-love-you-almost-cost-dolly-parton-3-million-850e18ca",
+      "title": "How ‘I Will Always Love You’ Almost Cost Dolly Parton $3 Million",
+      "content_text": "How ‘I Will Always Love You’ Almost Cost Dolly Parton $3 Million",
+      "summary": "",
+      "date_published": "2026-08-30T00:00:00+00:00",
+      "tags": [
+        "Arts Culture"
       ]
     },
     {
@@ -2159,50 +2203,6 @@
       "date_published": "2026-08-27T12:43:00+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "f16f7507b4cebf6e",
-      "url": "https://www.wsj.com/cmo-today/the-secret-ai-lives-of-gen-z-2d33acbb",
-      "title": "The Secret AI Lives of Gen Z",
-      "content_text": "The Secret AI Lives of Gen Z",
-      "summary": "",
-      "date_published": "2026-08-27T12:28:00+00:00",
-      "tags": [
-        "Cmo Today"
-      ]
-    },
-    {
-      "id": "cd3369fceeb0d379",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-27-2026/card/fertilizer-giants-ready-new-plants-to-boost-u-s-supplies-6BLC0PQ8jaqCoxNzySAt",
-      "title": "Fertilizer Giants Ready New Plants to Boost U.S. Supplies",
-      "content_text": "Fertilizer Giants Ready New Plants to Boost U.S. Supplies",
-      "summary": "",
-      "date_published": "2026-08-27T12:26:35+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "ace7d98205ece73d",
-      "url": "https://www.wsj.com/finance/commodities-futures/wheat-soars-to-highest-level-in-three-years-as-black-sea-crisis-deepens-75fa41b4",
-      "title": "Wheat Soars to Highest Level in Three Years as Black Sea Crisis Deepens",
-      "content_text": "Wheat Soars to Highest Level in Three Years as Black Sea Crisis Deepens",
-      "summary": "",
-      "date_published": "2026-08-27T12:18:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "6f918a4d59e0985e",
-      "url": "https://www.wsj.com/business/earnings/build-a-bear-cuts-outlook-fires-exec-after-sales-fall-54a7d6a4",
-      "title": "Build-A-Bear Cuts Outlook, Fires Exec After Sales Fall",
-      "content_text": "Build-A-Bear Cuts Outlook, Fires Exec After Sales Fall",
-      "summary": "",
-      "date_published": "2026-08-27T12:01:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
