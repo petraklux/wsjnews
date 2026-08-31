@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "01f21b3464524176",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-stocks-4c65d615",
+      "title": "Nikkei Falls 2.2%, Dragged by Chip Stocks",
+      "content_text": "Nikkei Falls 2.2%, Dragged by Chip Stocks",
+      "summary": "",
+      "date_published": "2026-08-31T00:18:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "23ca3ac2d20d9cef",
+      "url": "https://www.wsj.com/finance/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-2bcf9be9",
+      "title": "JGBs Edge Lower, Tracking Declines in U.S. Treasurys",
+      "content_text": "JGBs Edge Lower, Tracking Declines in U.S. Treasurys",
+      "summary": "",
+      "date_published": "2026-08-31T00:16:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "4c2e3828a7450d67",
+      "url": "https://www.wsj.com/economy/housing/these-young-new-yorkers-scored-the-ultimate-deal-a-rent-stabilized-apartment-b130a6a2",
+      "title": "These Young New Yorkers Scored the Ultimate Deal: A Rent-Stabilized Apartment",
+      "content_text": "These Young New Yorkers Scored the Ultimate Deal: A Rent-Stabilized Apartment",
+      "summary": "",
+      "date_published": "2026-08-31T00:00:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "22867e710a7a0dcf",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-renewed-fighting-in-middle-east-add7b187",
+      "title": "Oil Rises Amid Renewed Fighting in Middle East",
+      "content_text": "Oil Rises Amid Renewed Fighting in Middle East",
+      "summary": "",
+      "date_published": "2026-08-30T23:37:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "c80b0bec793227db",
       "url": "https://www.wsj.com/world/middle-east/u-s-strikes-two-iranian-rocket-launchers-in-first-attack-in-weeks-17602dcf",
       "title": "U.S. Strikes Two Iranian Rocket Launchers in First Attack in Weeks",
@@ -2159,50 +2203,6 @@
       "date_published": "2026-08-27T23:30:19+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "e40a8d3763d56029",
-      "url": "https://www.wsj.com/business/solstice-advanced-materials-element-solutions-cancel-deal-after-shareholder-feedback-22f863a4",
-      "title": "Solstice Advanced Materials, Element Solutions Cancel Deal After Shareholder Feedback",
-      "content_text": "Solstice Advanced Materials, Element Solutions Cancel Deal After Shareholder Feedback",
-      "summary": "",
-      "date_published": "2026-08-27T23:09:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "667fe7d9466bf61f",
-      "url": "https://www.wsj.com/tech/ai/claude-family-ai-chatbot-vacation-boomers-b6b7b25e",
-      "title": "The Uninvited Guest Who Crashed Our Family Vacation: My Mom’s AI Chatbot",
-      "content_text": "The Uninvited Guest Who Crashed Our Family Vacation: My Mom’s AI Chatbot",
-      "summary": "",
-      "date_published": "2026-08-27T23:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "0c79084a33e1e3bd",
-      "url": "https://www.wsj.com/world/russia/john-ratcliffe-moscow-russia-visit-cia-068e8ef4",
-      "title": "Top White House Aides Were in the Dark on Ratcliffe Russia Trip",
-      "content_text": "Top White House Aides Were in the Dark on Ratcliffe Russia Trip",
-      "summary": "",
-      "date_published": "2026-08-27T22:28:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "96156bdb4e7a4669",
-      "url": "https://www.wsj.com/us-news/education/trump-limits-internships-for-international-college-students-5b668796",
-      "title": "Trump Limits Internships for International College Students",
-      "content_text": "Trump Limits Internships for International College Students",
-      "summary": "",
-      "date_published": "2026-08-27T22:18:00+00:00",
-      "tags": [
-        "Us News"
       ]
     }
   ]
