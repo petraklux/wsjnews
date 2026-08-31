@@ -6,6 +6,446 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
+      "summary": "",
+      "date_published": "2026-08-31T13:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-08-31T13:30:19+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-08-31T13:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
+      "summary": "",
+      "date_published": "2026-08-31T13:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "5a885d497fa8a917",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview",
+      "title": "The saturday interview",
+      "content_text": "The saturday interview",
+      "summary": "",
+      "date_published": "2026-08-31T13:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "dea6ec2569a2d42b",
+      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
+      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "summary": "",
+      "date_published": "2026-08-31T13:30:19+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
+      "summary": "",
+      "date_published": "2026-08-31T13:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "67a229f9726f9141",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial",
+      "title": "Real estate commercial",
+      "content_text": "Real estate commercial",
+      "summary": "",
+      "date_published": "2026-08-31T13:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "8b15b6ac5255a0c0",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/nvidia-invests-3-5-billion-in-mediatek-yMu4lyLYOu8wH4GNKMj2",
+      "title": "Nvidia Invests $3.5 Billion in MediaTek",
+      "content_text": "Nvidia Invests $3.5 Billion in MediaTek",
+      "summary": "",
+      "date_published": "2026-08-31T13:23:57+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "04b4fbd0bb898fb3",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/strategy-buys-bitcoin-for-first-time-since-june-0kohYt5o5BdAL0SnLPf5",
+      "title": "Strategy Buys Bitcoin for First Time Since June",
+      "content_text": "Strategy Buys Bitcoin for First Time Since June",
+      "summary": "",
+      "date_published": "2026-08-31T13:17:13+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "15066082b719bcf9",
+      "url": "https://www.wsj.com/economy/global/german-inflation-rises-but-few-signs-of-energy-shock-spillover-e22ff3b0",
+      "title": "German Inflation Rises But Few Signs of Energy-Shock Spillover",
+      "content_text": "German Inflation Rises But Few Signs of Energy-Shock Spillover",
+      "summary": "",
+      "date_published": "2026-08-31T13:00:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "4274aee9df95d7e2",
+      "url": "https://www.wsj.com/cio-journal/the-ai-boom-may-resemble-social-media-more-than-telecom-1865ff81",
+      "title": "The AI Boom May Resemble Social Media More than Telecom",
+      "content_text": "The AI Boom May Resemble Social Media More than Telecom",
+      "summary": "",
+      "date_published": "2026-08-31T12:58:00+00:00",
+      "tags": [
+        "Cio Journal"
+      ]
+    },
+    {
+      "id": "4ff266975831a721",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-31abf6a0",
+      "title": "U.S. Natural Gas Futures Start Week Lower",
+      "content_text": "U.S. Natural Gas Futures Start Week Lower",
+      "summary": "",
+      "date_published": "2026-08-31T12:55:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "23f566a0d9e9aa85",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/kkr-expects-3-3-billion-gain-from-usi-sale-py4XeiZCiHwgTO6r9RH5",
+      "title": "KKR Expects $3.3 Billion Gain From USI Sale",
+      "content_text": "KKR Expects $3.3 Billion Gain From USI Sale",
+      "summary": "",
+      "date_published": "2026-08-31T12:49:12+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "42bb0760acdd1883",
+      "url": "https://www.wsj.com/cmo-today/courting-consumers-at-the-u-s-open-e6dad38c",
+      "title": "Courting Consumers at the U.S. Open",
+      "content_text": "Courting Consumers at the U.S. Open",
+      "summary": "",
+      "date_published": "2026-08-31T12:48:00+00:00",
+      "tags": [
+        "Cmo Today"
+      ]
+    },
+    {
+      "id": "a1cc20b596f10ffa",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/stock-market-heads-for-august-gains-thanks-to-unusual-winners-rVCkVtDS7vtvduzWWa9g",
+      "title": "Stock Market Heads for August Gains—Thanks to Unusual Winners",
+      "content_text": "Stock Market Heads for August Gains—Thanks to Unusual Winners",
+      "summary": "",
+      "date_published": "2026-08-31T12:36:16+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "2395234242fdc15c",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/slb-stock-rises-on-deal-for-data-center-cooling-firm-kelvion-zPkvKOwVfmDMXW4mg82w",
+      "title": "SLB Stock Rises on Deal for Data Center Cooling Firm Kelvion",
+      "content_text": "SLB Stock Rises on Deal for Data Center Cooling Firm Kelvion",
+      "summary": "",
+      "date_published": "2026-08-31T12:02:01+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "bff7d7073121ce1d",
+      "url": "https://www.wsj.com/style/the-devil-wears-prada-producer-wendy-finerman-dc959442",
+      "title": "‘The Devil Wears Prada’ Producer Runs on the Treadmill to ‘Law & Order’",
+      "content_text": "‘The Devil Wears Prada’ Producer Runs on the Treadmill to ‘Law & Order’",
+      "summary": "",
+      "date_published": "2026-08-31T12:00:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
+      "id": "0b63eb4c49b86768",
+      "url": "https://www.wsj.com/business/energy-oil/slb-to-buy-data-center-cooling-firm-kelvion-for-4-1-billion-72d2b2b7",
+      "title": "SLB to Buy Data Center Cooling Firm Kelvion for $4.1 Billion",
+      "content_text": "SLB to Buy Data Center Cooling Firm Kelvion for $4.1 Billion",
+      "summary": "",
+      "date_published": "2026-08-31T11:29:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "aac8ba422a120c68",
+      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-u-s-hits-bank-with-outcast-action-e1976fd0",
+      "title": "The Morning Risk Report: U.S. Hits Bank With ‘Outcast’ Action",
+      "content_text": "The Morning Risk Report: U.S. Hits Bank With ‘Outcast’ Action",
+      "summary": "",
+      "date_published": "2026-08-31T11:19:00+00:00",
+      "tags": [
+        "Risk Compliance Journal"
+      ]
+    },
+    {
+      "id": "0b9268828d425ff9",
+      "url": "https://www.wsj.com/health/pharma/eli-lilly-to-buy-merida-biosciences-for-up-to-2-875-billion-91c1d351",
+      "title": "Eli Lilly to Buy Merida Biosciences for Up to $2.875 Billion",
+      "content_text": "Eli Lilly to Buy Merida Biosciences for Up to $2.875 Billion",
+      "summary": "",
+      "date_published": "2026-08-31T11:13:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "1e64cd759e65677b",
+      "url": "https://www.wsj.com/finance/investing/oneok-to-buy-brazos-midstreams-permian-assets-for-4-43-billion-2d0d08f6",
+      "title": "ONEOK to Buy Brazos Midstream’s Permian Assets for $4.43 Billion",
+      "content_text": "ONEOK to Buy Brazos Midstream’s Permian Assets for $4.43 Billion",
+      "summary": "",
+      "date_published": "2026-08-31T11:03:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "f8d2d34658a1ec8b",
+      "url": "https://www.wsj.com/sports/tennis/novak-djokovic-us-open-a898a702",
+      "title": "Novak Djokovic Crashes Out Early at the U.S. Open. Could This Be It?",
+      "content_text": "Novak Djokovic Crashes Out Early at the U.S. Open. Could This Be It?",
+      "summary": "",
+      "date_published": "2026-08-31T11:00:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "408eb36ffecce547",
+      "url": "https://www.wsj.com/cfo-journal/companies-are-paying-for-price-cuts-with-their-tariff-refunds-1d10e91c",
+      "title": "Companies Are Paying for Price Cuts With Their Tariff Refunds",
+      "content_text": "Companies Are Paying for Price Cuts With Their Tariff Refunds",
+      "summary": "",
+      "date_published": "2026-08-31T10:58:00+00:00",
+      "tags": [
+        "Cfo Journal"
+      ]
+    },
+    {
+      "id": "921e8bba4809f770",
+      "url": "https://www.wsj.com/logistics-report/el-nino-threatens-to-disrupt-industries-worldwide-3caac621",
+      "title": "El Niño Threatens to Disrupt Industries Worldwide",
+      "content_text": "El Niño Threatens to Disrupt Industries Worldwide",
+      "summary": "",
+      "date_published": "2026-08-31T10:58:00+00:00",
+      "tags": [
+        "Logistics Report"
+      ]
+    },
+    {
+      "id": "28124e407d4a6c05",
+      "url": "https://www.wsj.com/politics/ken-paxton-is-in-texas-trouble-but-he-has-history-and-trump-c128eab2",
+      "title": "Ken Paxton Is in Texas Trouble, But He Has History (and Trump)",
+      "content_text": "Ken Paxton Is in Texas Trouble, But He Has History (and Trump)",
+      "summary": "",
+      "date_published": "2026-08-31T10:55:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "665ba525bb99c612",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-34f1819a",
+      "title": "Basic Materials Roundup: Market Talk",
+      "content_text": "Basic Materials Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-31T10:53:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "0fa44dc2dcbdea2a",
+      "url": "https://www.wsj.com/economy/central-banking/indias-economy-posts-robust-growth-despite-mideast-energy-shock-5094156a",
+      "title": "India’s Economy Posts Robust Growth Despite Mideast Energy Shock",
+      "content_text": "India’s Economy Posts Robust Growth Despite Mideast Energy Shock",
+      "summary": "",
+      "date_published": "2026-08-31T10:52:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "2f4bbfe5e60a73c3",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-78769fa5",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-31T10:50:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "f569e34d9257da46",
+      "url": "https://www.wsj.com/business/earnings/gamestop-expects-higher-profit-despite-lower-sales-9fceb2a2",
+      "title": "GameStop Sees Higher Profit as eBay Investment Offsets Lower Sales",
+      "content_text": "GameStop Sees Higher Profit as eBay Investment Offsets Lower Sales",
+      "summary": "",
+      "date_published": "2026-08-31T10:49:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "502734441f6a73da",
+      "url": "https://www.wsj.com/tech/eu-to-hold-chatgpt-reddit-roblox-to-higher-standard-of-scrutiny-5299a651",
+      "title": "EU to Hold ChatGPT, Reddit, Roblox to Higher Standard of Scrutiny",
+      "content_text": "EU to Hold ChatGPT, Reddit, Roblox to Higher Standard of Scrutiny",
+      "summary": "",
+      "date_published": "2026-08-31T10:33:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "935a804d3040ca61",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/wild-ride-leaves-oil-prices-not-far-from-where-they-started-xv47vOXHkLV9dSM01WQ0",
+      "title": "Wild Ride Leaves Oil Prices Not Far From Where They Started",
+      "content_text": "Wild Ride Leaves Oil Prices Not Far From Where They Started",
+      "summary": "",
+      "date_published": "2026-08-31T10:31:22+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "a816de5ac4690eac",
+      "url": "https://www.wsj.com/business/earnings/huawei-profit-slumps-by-a-third-on-r-d-expenses-raw-material-costs-3533ebad",
+      "title": "Huawei Profit Slumps by a Third on R&D Expenses, Raw-Material Costs",
+      "content_text": "Huawei Profit Slumps by a Third on R&D Expenses, Raw-Material Costs",
+      "summary": "",
+      "date_published": "2026-08-31T10:16:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "6027231967854385",
+      "url": "https://www.wsj.com/finance/stocks/the-index-fund-strategy-quietly-beating-big-tech-this-year-c74bb58e",
+      "title": "The Index-Fund Strategy Quietly Beating Big Tech This Year",
+      "content_text": "The Index-Fund Strategy Quietly Beating Big Tech This Year",
+      "summary": "",
+      "date_published": "2026-08-31T10:12:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "b35c503efe438805",
+      "url": "https://www.wsj.com/cfo-journal/companies-plow-tariff-refunds-into-price-cuts-appealing-to-stretched-consumers-c5f683b1",
+      "title": "Companies Plow Tariff Refunds Into Price Cuts, Appealing to Stretched Consumers",
+      "content_text": "Companies Plow Tariff Refunds Into Price Cuts, Appealing to Stretched Consumers",
+      "summary": "",
+      "date_published": "2026-08-31T10:00:00+00:00",
+      "tags": [
+        "Cfo Journal"
+      ]
+    },
+    {
+      "id": "ef126fbbb7ba1ba7",
+      "url": "https://www.wsj.com/world/americas-biggest-companies-ring-up-hefty-sales-and-raise-their-outlooks-1b78875a",
+      "title": "America’s Biggest Companies Ring Up Hefty Sales and Raise Their Outlooks",
+      "content_text": "America’s Biggest Companies Ring Up Hefty Sales and Raise Their Outlooks",
+      "summary": "",
+      "date_published": "2026-08-31T10:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "992648b8ee590f1c",
+      "url": "https://www.wsj.com/business/autos/nissan-honda-team-up-on-systems-software-0a1889e5",
+      "title": "Nissan, Honda Team Up on Systems, Software",
+      "content_text": "Nissan, Honda Team Up on Systems, Software",
+      "summary": "",
+      "date_published": "2026-08-31T10:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "a2f2418c05a4df31",
+      "url": "https://www.wsj.com/world/asia/nepal-focuses-on-dangerous-tunnel-rescues-as-flood-toll-tops-900-712e3a57",
+      "title": "Nepal Focuses on Dangerous Tunnel Rescues as Flood Toll Tops 900",
+      "content_text": "Nepal Focuses on Dangerous Tunnel Rescues as Flood Toll Tops 900",
+      "summary": "",
+      "date_published": "2026-08-31T09:57:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "a089da5e569343f1",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/the-momentum-trade-takes-a-hit-BYEnOJbXKmKpsuXAFYvP",
+      "title": "The Momentum Trade Takes a Hit",
+      "content_text": "The Momentum Trade Takes a Hit",
+      "summary": "",
+      "date_published": "2026-08-31T09:52:30+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "84c94cccc310647c",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/stocks-to-watch-pg-e-intel-chevron-eLbKJqWCN3hjlHXGy9qp",
+      "title": "Stocks to Watch: PG&E, Intel, Chevron",
+      "content_text": "Stocks to Watch: PG&E, Intel, Chevron",
+      "summary": "",
+      "date_published": "2026-08-31T09:45:31+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "7680f9242897e62a",
       "url": "https://www.wsj.com/business/airlines/chinas-biggest-airlines-post-over-1-billion-loss-in-first-half-as-fuel-shock-bites-3deb78fe",
       "title": "China’s Biggest Airlines Post Over $1 Billion Loss in First Half as Fuel Shock Bites",
@@ -105,14 +545,14 @@
       ]
     },
     {
-      "id": "98205bf335e87668",
-      "url": "https://www.wsj.com/world/europe/the-summer-that-scorched-french-grapes-english-gardensand-europes-economy-a7b33771",
-      "title": "The Summer That Scorched French Grapes, English Gardens—and Europe’s Economy",
-      "content_text": "The Summer That Scorched French Grapes, English Gardens—and Europe’s Economy",
+      "id": "205a0671eb139366",
+      "url": "https://www.wsj.com/finance/stocks/the-sudden-unraveling-of-wall-streets-momentum-trade-fe79b4fa",
+      "title": "The Sudden Unraveling of Wall Street’s Momentum Trade",
+      "content_text": "The Sudden Unraveling of Wall Street’s Momentum Trade",
       "summary": "",
       "date_published": "2026-08-31T01:00:00+00:00",
       "tags": [
-        "World"
+        "Finance"
       ]
     },
     {
@@ -127,6 +567,17 @@
       ]
     },
     {
+      "id": "98205bf335e87668",
+      "url": "https://www.wsj.com/world/europe/the-summer-that-scorched-french-grapes-english-gardensand-europes-economy-a7b33771",
+      "title": "The Summer That Scorched French Grapes, English Gardens—and Europe’s Economy",
+      "content_text": "The Summer That Scorched French Grapes, English Gardens—and Europe’s Economy",
+      "summary": "",
+      "date_published": "2026-08-31T01:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "b9d5c2d069715313",
       "url": "https://www.wsj.com/business/earnings/corporate-profit-america-44836dc6",
       "title": "Corporate America’s Profits Are Booming—and Signal More Good Times Ahead",
@@ -135,17 +586,6 @@
       "date_published": "2026-08-31T01:00:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "205a0671eb139366",
-      "url": "https://www.wsj.com/finance/stocks/the-sudden-unraveling-of-wall-streets-momentum-trade-fe79b4fa",
-      "title": "The Sudden Unraveling of Wall Street’s Momentum Trade",
-      "content_text": "The Sudden Unraveling of Wall Street’s Momentum Trade",
-      "summary": "",
-      "date_published": "2026-08-31T01:00:00+00:00",
-      "tags": [
-        "Finance"
       ]
     },
     {
@@ -1763,446 +2203,6 @@
       "date_published": "2026-08-28T15:59:00+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "90b9a87661abab39",
-      "url": "https://www.wsj.com/arts-culture/books/evocations-of-italy-review-a-russians-renaissance-ee188ad2",
-      "title": "‘Evocations of Italy’ Review: A Russian’s Renaissance",
-      "content_text": "‘Evocations of Italy’ Review: A Russian’s Renaissance",
-      "summary": "",
-      "date_published": "2026-08-28T15:56:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "85e72c59948fffd6",
-      "url": "https://www.wsj.com/health/wellness/the-new-techlash-against-the-surveillance-state-c736e202",
-      "title": "The New Techlash Against the Surveillance State",
-      "content_text": "The New Techlash Against the Surveillance State",
-      "summary": "",
-      "date_published": "2026-08-28T15:55:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "f9d5233ef4ebf504",
-      "url": "https://www.wsj.com/arts-culture/books/snake-men-review-scandals-in-serpentine-science-bdb33428",
-      "title": "‘Snake Men’ Review: Scandals in Serpentine Science",
-      "content_text": "‘Snake Men’ Review: Scandals in Serpentine Science",
-      "summary": "",
-      "date_published": "2026-08-28T15:52:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "9e01b872f3b85071",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/warsh-highlights-his-top-questions-on-ai-xqILEaVkK0pEZGK018D7",
-      "title": "Warsh Highlights His Top Questions on AI",
-      "content_text": "Warsh Highlights His Top Questions on AI",
-      "summary": "",
-      "date_published": "2026-08-28T15:45:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "3a35ab15d2cd9790",
-      "url": "https://www.wsj.com/arts-culture/books/agrippa-review-empire-builders-3a0ead51",
-      "title": "‘Agrippa’ Review: Empire Builders",
-      "content_text": "‘Agrippa’ Review: Empire Builders",
-      "summary": "",
-      "date_published": "2026-08-28T15:41:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "b56fb523c660ef3c",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-9f0b1244",
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-28T11:09:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "302f63d17504359d",
-      "url": "https://www.wsj.com/logistics-report/pulpwood-market-collapse-hits-souths-forest-economy-2fa73ff8",
-      "title": "Pulpwood Market Collapse Hits South’s Forest Economy",
-      "content_text": "Pulpwood Market Collapse Hits South’s Forest Economy",
-      "summary": "",
-      "date_published": "2026-08-28T11:07:00+00:00",
-      "tags": [
-        "Logistics Report"
-      ]
-    },
-    {
-      "id": "9932912ad804372e",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-b93b414d",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "content_text": "Energy & Utilities Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-28T11:05:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "4719b4df9764646c",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-8c60e7d6",
-      "title": "Auto & Transport Roundup: Market Talk",
-      "content_text": "Auto & Transport Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-28T10:57:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "f4915b00ed92774f",
-      "url": "https://www.wsj.com/politics/cia-chiefs-trip-to-moscow-has-everyone-on-edge-fdba3700",
-      "title": "CIA Chief’s Trip to Moscow Has Everyone On Edge",
-      "content_text": "CIA Chief’s Trip to Moscow Has Everyone On Edge",
-      "summary": "",
-      "date_published": "2026-08-28T10:57:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "3d6dc08623bdd656",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-a-walk-around-dubai-shows-no-signs-of-trumps-d-day-for-iran-5b70a53d",
-      "title": "The Morning Risk Report: A Walk Around Dubai Shows No Signs of Trump’s ‘D-Day’ for Iran",
-      "content_text": "The Morning Risk Report: A Walk Around Dubai Shows No Signs of Trump’s ‘D-Day’ for Iran",
-      "summary": "",
-      "date_published": "2026-08-28T10:52:00+00:00",
-      "tags": [
-        "Risk Compliance Journal"
-      ]
-    },
-    {
-      "id": "6efad321552a02bb",
-      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-319c8fd4",
-      "title": "Financial Services Roundup: Market Talk",
-      "content_text": "Financial Services Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-28T10:52:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "b4131ec041ec95f6",
-      "url": "https://www.wsj.com/tech/chip-maker-cxmts-revenue-surges-on-ai-driven-memory-shortage-5f808e03",
-      "title": "Chip Maker CXMT’s Revenue Surges on AI-Driven Memory Shortage",
-      "content_text": "Chip Maker CXMT’s Revenue Surges on AI-Driven Memory Shortage",
-      "summary": "",
-      "date_published": "2026-08-28T10:52:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "07bf49abc6733a8e",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-b6e32b36",
-      "title": "Basic Materials Roundup: Market Talk",
-      "content_text": "Basic Materials Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-08-28T10:48:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "f07a2a5fdae6b46f",
-      "url": "https://www.wsj.com/tech/google-tweaks-site-ranking-policy-in-most-of-europe-to-avert-antitrust-fine-7327a1f4",
-      "title": "Google Tweaks Site Ranking Policy in Most of Europe to Avert Antitrust Fine",
-      "content_text": "Google Tweaks Site Ranking Policy in Most of Europe to Avert Antitrust Fine",
-      "summary": "",
-      "date_published": "2026-08-28T10:36:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "0f122b41c68939c0",
-      "url": "https://www.wsj.com/finance/stocks/china-is-a-threat-to-biotechs-massive-bull-run-d6a8e314",
-      "title": "China is a Threat to Biotech’s Massive Bull Run",
-      "content_text": "China is a Threat to Biotech’s Massive Bull Run",
-      "summary": "",
-      "date_published": "2026-08-28T10:11:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "904a45791304a8ed",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/ceo-exit-leaves-l3harris-stock-in-the-discount-bin-14uQThMv3qZV3RsktEIm",
-      "title": "CEO Exit Leaves L3Harris Stock in the Discount Bin",
-      "content_text": "CEO Exit Leaves L3Harris Stock in the Discount Bin",
-      "summary": "",
-      "date_published": "2026-08-28T10:10:21+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "bbdc98b4f334a689",
-      "url": "https://www.wsj.com/politics/policy/corporate-america-backed-trump-now-its-hedging-against-a-democratic-house-4219da12",
-      "title": "Corporate America Backed Trump. Now It’s Hedging Against a Democratic House.",
-      "content_text": "Corporate America Backed Trump. Now It’s Hedging Against a Democratic House.",
-      "summary": "",
-      "date_published": "2026-08-28T10:09:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "0c073edbfbcaa104",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/paypal-shares-sink-premarket-on-report-of-abandoned-takeover-offer-i3M3JG48UjaD9pTUm9qC",
-      "title": "PayPal Shares Sink Premarket on Report of Abandoned Takeover Offer",
-      "content_text": "PayPal Shares Sink Premarket on Report of Abandoned Takeover Offer",
-      "summary": "",
-      "date_published": "2026-08-28T10:01:58+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "9000fdd84be788b1",
-      "url": "https://www.wsj.com/business/earnings/meituan-returns-to-profit-as-food-delivery-competition-eases-1026a0e9",
-      "title": "Meituan Returns to Profit as Food-Delivery Competition Eases",
-      "content_text": "Meituan Returns to Profit as Food-Delivery Competition Eases",
-      "summary": "",
-      "date_published": "2026-08-28T10:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "c77cf180b74c1d26",
-      "url": "https://www.wsj.com/business/the-view-from-canadian-businessesempathy-for-workers-no-panic-2e737764",
-      "title": "The View From Canadian Businesses—Empathy for Workers, No Panic",
-      "content_text": "The View From Canadian Businesses—Empathy for Workers, No Panic",
-      "summary": "",
-      "date_published": "2026-08-28T09:57:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "950d0cdd8305a880",
-      "url": "https://www.wsj.com/finance/investing/the-l3harris-shake-up-is-an-opportunity-to-bet-on-missile-rearmament-b94616c1",
-      "title": "The L3Harris Shake-Up Is an Opportunity to Bet on Missile Rearmament",
-      "content_text": "The L3Harris Shake-Up Is an Opportunity to Bet on Missile Rearmament",
-      "summary": "",
-      "date_published": "2026-08-28T09:30:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "aca10a4184589d24",
-      "url": "https://www.wsj.com/lifestyle/careers/how-to-be-a-cool-boss-without-getting-fired-cf9cb3f2",
-      "title": "How to Be a ‘Cool’ Boss Without Getting Fired",
-      "content_text": "How to Be a ‘Cool’ Boss Without Getting Fired",
-      "summary": "",
-      "date_published": "2026-08-28T09:30:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "db1e2287be580e0c",
-      "url": "https://www.wsj.com/arts-culture/people-are-saving-up-their-vacation-days-to-binge-grand-theft-auto-vi-90cda437",
-      "title": "People Are Saving Up Their Vacation Days to Binge ‘Grand Theft Auto VI’",
-      "content_text": "People Are Saving Up Their Vacation Days to Binge ‘Grand Theft Auto VI’",
-      "summary": "",
-      "date_published": "2026-08-28T09:30:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "ee00e2fa0b20048d",
-      "url": "https://www.wsj.com/sports/football/nfl-rams-les-snead-the-playbook-06146155",
-      "title": "The Warren Buffett of the NFL and His Quest to Win in a League Built for Losers",
-      "content_text": "The Warren Buffett of the NFL and His Quest to Win in a League Built for Losers",
-      "summary": "",
-      "date_published": "2026-08-28T09:30:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "8be80d5b73df1e58",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/stocks-to-watch-paypal-marvell-gap-msaQbKYsTf4lc4gmwXUW",
-      "title": "Stocks to Watch: PayPal, Marvell, Gap",
-      "content_text": "Stocks to Watch: PayPal, Marvell, Gap",
-      "summary": "",
-      "date_published": "2026-08-28T09:29:05+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "6cabcc045864130c",
-      "url": "https://www.wsj.com/finance/investing/global-bond-yields-rise-ahead-of-feds-warsh-speech-10-year-bund-yield-hits-15-year-high-c7ac0da3",
-      "title": "Global Bond Yields Rise Ahead of Fed’s Warsh Speech; 10-Year Bund Yield Hits 15-Year High",
-      "content_text": "Global Bond Yields Rise Ahead of Fed’s Warsh Speech; 10-Year Bund Yield Hits 15-Year High",
-      "summary": "",
-      "date_published": "2026-08-28T09:27:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "aa791ba1843061b7",
-      "url": "https://www.wsj.com/tech/ai/south-koreas-ai-for-all-push-gives-free-access-to-every-citizen-451f6b2c",
-      "title": "South Korea’s ‘AI for All’ Push Gives Free Access to Every Citizen",
-      "content_text": "South Korea’s ‘AI for All’ Push Gives Free Access to Every Citizen",
-      "summary": "",
-      "date_published": "2026-08-28T09:08:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "bbf3a3596d238fa8",
-      "url": "https://www.wsj.com/business/deals/paypal-shares-dive-premarket-on-report-of-advent-stripe-abandoning-takeover-plan-ffeaabf2",
-      "title": "PayPal Shares Dive Premarket on Report of Advent, Stripe Abandoning Takeover Plan",
-      "content_text": "PayPal Shares Dive Premarket on Report of Advent, Stripe Abandoning Takeover Plan",
-      "summary": "",
-      "date_published": "2026-08-28T09:01:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "529beb36e6c2a19a",
-      "url": "https://www.wsj.com/politics/elections/michigan-senate-campaign-el-sayed-6ac213d1",
-      "title": "El-Sayed Tries to Sell Himself as Mainstream to Michigan Voters",
-      "content_text": "El-Sayed Tries to Sell Himself as Mainstream to Michigan Voters",
-      "summary": "",
-      "date_published": "2026-08-28T09:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "91d836909fcc942c",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-mixed-ahead-of-fed-chair-warshs-jackson-hole-debut-5c045a6d",
-      "title": "U.S. Stock Futures Mixed Ahead of Fed Chair Warsh’s Jackson Hole Debut",
-      "content_text": "U.S. Stock Futures Mixed Ahead of Fed Chair Warsh’s Jackson Hole Debut",
-      "summary": "",
-      "date_published": "2026-08-28T08:39:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "4db2cc357c02eb6f",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/warsh-s-less-communicative-stance-means-an-unpredictable-day-for-markets-3ip4nkfJjvIxZY44AULT",
-      "title": "Warsh's Less Communicative Stance Means an Unpredictable Day for Markets",
-      "content_text": "Warsh's Less Communicative Stance Means an Unpredictable Day for Markets",
-      "summary": "",
-      "date_published": "2026-08-28T08:26:24+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "4b989a282a46e0a4",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/-money-quote-nvidia-cfo-colette-kress-YG8WRqppRcKuwhDThxMl",
-      "title": "💬Money Quote: Nvidia CFO Colette Kress",
-      "content_text": "💬Money Quote: Nvidia CFO Colette Kress",
-      "summary": "",
-      "date_published": "2026-08-28T08:15:59+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "497f6ca342a78d67",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/thursday-market-recap-heard-on-the-street-gAuyAeg6JoX0hhQXOLHM",
-      "title": "Thursday Market Recap: Heard on the Street",
-      "content_text": "Thursday Market Recap: Heard on the Street",
-      "summary": "",
-      "date_published": "2026-08-28T08:01:16+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "862a7f1f393dcbed",
-      "url": "https://www.wsj.com/world/europe/french-inflation-accelerated-in-august-8dc6e124",
-      "title": "Eurozone Businesses More Upbeat Despite Prolonged War in Middle East",
-      "content_text": "Eurozone Businesses More Upbeat Despite Prolonged War in Middle East",
-      "summary": "",
-      "date_published": "2026-08-28T07:19:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "2eb724f908c994fc",
-      "url": "https://www.wsj.com/world/asia/death-toll-rises-as-rescuers-search-for-victims-of-nepal-flood-5a4c4c6e",
-      "title": "Death Toll Rises as Rescuers Search for Victims of Nepal Flood",
-      "content_text": "Death Toll Rises as Rescuers Search for Victims of Nepal Flood",
-      "summary": "",
-      "date_published": "2026-08-28T07:11:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "438c6ed2a06acae1",
-      "url": "https://www.wsj.com/business/deals/banca-generali-mulling-monte-di-paschis-10-billion-takeover-bid-6f17eaf5",
-      "title": "Generali Mulling Monte dei Paschi’s $10 Billion Takeover Bid for Banca Generali",
-      "content_text": "Generali Mulling Monte dei Paschi’s $10 Billion Takeover Bid for Banca Generali",
-      "summary": "",
-      "date_published": "2026-08-28T05:51:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "ba1205c0f30a72b3",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-await-jackson-hole-4f46864e",
-      "title": "Gold falls as markets await jackson hole",
-      "content_text": "Gold falls as markets await jackson hole",
-      "summary": "",
-      "date_published": "2026-08-28T04:44:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "17f246bffb1b5c27",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-it-services-stocks-579fdd38",
-      "title": "Nikkei rises 0 4 led by it services stocks",
-      "content_text": "Nikkei rises 0 4 led by it services stocks",
-      "summary": "",
-      "date_published": "2026-08-28T04:17:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "eaa8fecb6283c186",
-      "url": "https://www.wsj.com/opinion/pepperand-salt-34986017",
-      "title": "Pepper…and Salt",
-      "content_text": "Pepper…and Salt",
-      "summary": "",
-      "date_published": "2026-08-28T04:00:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
