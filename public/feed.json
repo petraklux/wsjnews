@@ -6,43 +6,417 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "c7e480583f8ad0fd",
-      "url": "https://www.wsj.com/news/business/small-business-marketing",
-      "title": "Small business marketing",
-      "content_text": "Small business marketing",
+      "id": "38a6cf644e6dc362",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/freedom-mortgage-ceo-palm-beach-county-fl-14def9b9",
+      "title": "Freedom Mortgage CEO Asks $59.95 Million for Oceanfront Florida Home",
+      "content_text": "Freedom Mortgage CEO Asks $59.95 Million for Oceanfront Florida Home",
       "summary": "",
-      "date_published": "2026-08-31T13:30:19+00:00",
+      "date_published": "2026-08-31T19:30:00+00:00",
       "tags": [
-        "News"
+        "Real Estate"
       ]
     },
     {
-      "id": "a2c51ea641c8e80c",
-      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
-      "title": "Economic forecasting survey archive",
-      "content_text": "Economic forecasting survey archive",
+      "id": "0938b27984a9cf4f",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/amazon-shares-slip-as-ftc-lawsuit-looms-4H956RJGgyfl58zZYrnB",
+      "title": "Amazon Shares Slip as FTC Lawsuit Looms",
+      "content_text": "Amazon Shares Slip as FTC Lawsuit Looms",
       "summary": "",
-      "date_published": "2026-08-31T13:30:19+00:00",
+      "date_published": "2026-08-31T19:08:53+00:00",
       "tags": [
-        "Economy"
+        "Front Page"
       ]
     },
     {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
+      "id": "5b6f8df5e6ef5ff6",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/at-g-20-warsh-says-global-economy-faces-new-period-of-secular-growth--VTfhFGQlo6ZGTOS7gGbe",
+      "title": "Warsh Says Global Economy Faces New Period of ‘Secular Growth’",
+      "content_text": "Warsh Says Global Economy Faces New Period of ‘Secular Growth’",
       "summary": "",
-      "date_published": "2026-08-31T13:30:19+00:00",
+      "date_published": "2026-08-31T18:49:35+00:00",
       "tags": [
-        "News"
+        "Front Page"
       ]
     },
     {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
+      "id": "57c59088116e9f24",
+      "url": "https://www.wsj.com/style/beauty/filler-removal-b67b3c7b",
+      "title": "America Fell in Love With Filler. Then Came the Great Deflate",
+      "content_text": "America Fell in Love With Filler. Then Came the Great Deflate",
+      "summary": "",
+      "date_published": "2026-08-31T18:40:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
+      "id": "74e1e0befb75057d",
+      "url": "https://www.wsj.com/us-news/state-farm-sued-by-los-angeles-county-over-handling-of-wildfire-claims-a79424b8",
+      "title": "State Farm Sued by Los Angeles County Over Handling of Wildfire Claims",
+      "content_text": "State Farm Sued by Los Angeles County Over Handling of Wildfire Claims",
+      "summary": "",
+      "date_published": "2026-08-31T18:40:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "267efb7013037f37",
+      "url": "https://www.wsj.com/business/energy-oil/westinghouse-electric-wants-to-ride-a-nuclear-power-revival-to-an-ipo-9ad2b196",
+      "title": "Westinghouse Electric Wants to Ride a Nuclear Power Revival to an IPO",
+      "content_text": "Westinghouse Electric Wants to Ride a Nuclear Power Revival to an IPO",
+      "summary": "",
+      "date_published": "2026-08-31T18:35:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "f606d6854deae3cd",
+      "url": "https://www.wsj.com/arts-culture/books/the-final-solution-to-the-jewish-question-review-confronting-the-oldest-hatred-abbe087f",
+      "title": "‘The Final Solution to the Jewish Question’ Review: Confronting the Oldest Hatred",
+      "content_text": "‘The Final Solution to the Jewish Question’ Review: Confronting the Oldest Hatred",
+      "summary": "",
+      "date_published": "2026-08-31T18:23:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "13dd775240dae240",
+      "url": "https://www.wsj.com/opinion/california-wealth-tax-would-spare-no-one-fa7ac4eb",
+      "title": "California Wealth Tax Would Spare No One",
+      "content_text": "California Wealth Tax Would Spare No One",
+      "summary": "",
+      "date_published": "2026-08-31T18:12:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "6e1dd8d758ca2b35",
+      "url": "https://www.wsj.com/opinion/they-forget-who-started-the-war-38da2793",
+      "title": "They Forget Who Started the War",
+      "content_text": "They Forget Who Started the War",
+      "summary": "",
+      "date_published": "2026-08-31T18:11:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "89329ca2c797d3da",
+      "url": "https://www.wsj.com/tech/ftc-to-file-lawsuit-alleging-amazon-deceived-advertisers-d71039ee",
+      "title": "FTC to File Lawsuit Alleging Amazon Deceived Advertisers",
+      "content_text": "FTC to File Lawsuit Alleging Amazon Deceived Advertisers",
+      "summary": "",
+      "date_published": "2026-08-31T18:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "a2537490e9db9c14",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/tim-cook-s-tough-act-to-follow-at-apple-I6v6hqTyKshKe08sDXQL",
+      "title": "Tim Cook’s Tough Act to Follow at Apple",
+      "content_text": "Tim Cook’s Tough Act to Follow at Apple",
+      "summary": "",
+      "date_published": "2026-08-31T17:45:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "c425f584b5492f44",
+      "url": "https://www.wsj.com/business/hospitality/the-rapid-expansion-that-built-ballys-is-now-under-pressure-4f7c8656",
+      "title": "The Rapid Expansion That Built Bally’s Is Now Under Pressure",
+      "content_text": "The Rapid Expansion That Built Bally’s Is Now Under Pressure",
+      "summary": "",
+      "date_published": "2026-08-31T17:30:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "4aeb624f6ceb41ee",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/warren-buffett-turned-96-on-sunday-here-are-some-of-his-best-quotes-tTR1Yjxn2Lwf1Q5gBNQP",
+      "title": "Warren Buffett Turned 96 on Sunday. Here Are Some of His Best Quotes",
+      "content_text": "Warren Buffett Turned 96 on Sunday. Here Are Some of His Best Quotes",
+      "summary": "",
+      "date_published": "2026-08-31T17:26:21+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "5eef7b8a45509406",
+      "url": "https://www.wsj.com/politics/policy/trump-says-communities-that-oppose-data-centers-risk-becoming-backwards-and-poor-601f41d7",
+      "title": "Trump Says Communities That Oppose Data Centers Risk Becoming ‘Backwards and Poor’",
+      "content_text": "Trump Says Communities That Oppose Data Centers Risk Becoming ‘Backwards and Poor’",
+      "summary": "",
+      "date_published": "2026-08-31T16:31:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "677d6efb0dc40eba",
+      "url": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-b86bb6b5",
+      "title": "Auto & Transport Roundup: Market Talk",
+      "content_text": "Auto & Transport Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-31T16:30:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "9706a6ee99cd8209",
+      "url": "https://www.wsj.com/finance/investing/financial-services-roundup-market-talk-0b283a40",
+      "title": "Financial Services Roundup: Market Talk",
+      "content_text": "Financial Services Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-31T16:30:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "a257497a14ca6fa3",
+      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-c6daca08",
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "content_text": "Energy & Utilities Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-08-31T16:29:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "f0029b1a2fd53495",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/goldman-ceo-solomon-long-term-treasury-rates-aren-t-a-calamity-SaIO2jQonLi4sEJ1q7CM",
+      "title": "Goldman CEO Solomon: Long-Term Treasury Rates Aren’t a Calamity",
+      "content_text": "Goldman CEO Solomon: Long-Term Treasury Rates Aren’t a Calamity",
+      "summary": "",
+      "date_published": "2026-08-31T16:17:52+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "87139ee3cd5fd2b4",
+      "url": "https://www.wsj.com/world/europe/icelands-rejection-of-eu-keeps-it-a-nato-island-straddling-u-s-and-europe-21e133e7",
+      "title": "Iceland’s Rejection of EU Keeps It a NATO Island Straddling U.S. and Europe",
+      "content_text": "Iceland’s Rejection of EU Keeps It a NATO Island Straddling U.S. and Europe",
+      "summary": "",
+      "date_published": "2026-08-31T16:16:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "3e64ade9f612c584",
+      "url": "https://www.wsj.com/business/ernst-young-is-giving-100-million-in-bonuses-to-staff-for-human-skills-9320e93d",
+      "title": "Ernst & Young Is Giving $100 Million in Bonuses to Staff for ‘Human’ Skills",
+      "content_text": "Ernst & Young Is Giving $100 Million in Bonuses to Staff for ‘Human’ Skills",
+      "summary": "",
+      "date_published": "2026-08-31T16:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "4cba4b73d75ca12b",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/bessent-outlines-reasons-the-fed-might-want-to-avoid-a-rate-hike-2kfMl9ByiFAalf1VCmsr",
+      "title": "Bessent Outlines Reasons the Fed Might Want to Avoid a Rate Hike",
+      "content_text": "Bessent Outlines Reasons the Fed Might Want to Avoid a Rate Hike",
+      "summary": "",
+      "date_published": "2026-08-31T15:38:03+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "1d43f8023e45f706",
+      "url": "https://www.wsj.com/arts-culture/books/10-books-to-read-the-best-reviews-of-august-9cc43f6c",
+      "title": "10 Books to Read: The Best Reviews of August",
+      "content_text": "10 Books to Read: The Best Reviews of August",
+      "summary": "",
+      "date_published": "2026-08-31T15:28:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "07b2e7f70ef0f24d",
+      "url": "https://www.wsj.com/arts-culture/books/five-best-tales-of-the-bohemian-life-2c0c7e15",
+      "title": "Five Best Tales of the Bohemian Life",
+      "content_text": "Five Best Tales of the Bohemian Life",
+      "summary": "",
+      "date_published": "2026-08-31T15:18:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "7aa1a99f9305780e",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/bessent-druckenmiller-probably-lost-money-before-critical-op-ed-t8R5rg5CePevrrJTYib7",
+      "title": "Bessent: Druckenmiller Probably Lost Money Before Critical Op-Ed",
+      "content_text": "Bessent: Druckenmiller Probably Lost Money Before Critical Op-Ed",
+      "summary": "",
+      "date_published": "2026-08-31T15:14:24+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "3515a0e50aef0ac0",
+      "url": "https://www.wsj.com/opinion/let-ukraine-aim-for-the-archer-32eacefd",
+      "title": "Let Ukraine Aim for the Archer",
+      "content_text": "Let Ukraine Aim for the Archer",
+      "summary": "",
+      "date_published": "2026-08-31T15:13:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "b74d41d567f4997d",
+      "url": "https://www.wsj.com/world/russia-turns-to-new-generation-drones-and-all-day-attacks-to-wear-down-ukrainians-b492ec1b",
+      "title": "Russia Turns to New-Generation Drones and All-Day Attacks to Wear Down Ukrainians",
+      "content_text": "Russia Turns to New-Generation Drones and All-Day Attacks to Wear Down Ukrainians",
+      "summary": "",
+      "date_published": "2026-08-31T15:04:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "7e494d18f55bc714",
+      "url": "https://www.wsj.com/style/fashion/met-museum-cancels-controversial-john-galliano-exhibition-and-gala-56a45fe7",
+      "title": "Met Museum Cancels Controversial John Galliano Exhibition and Gala",
+      "content_text": "Met Museum Cancels Controversial John Galliano Exhibition and Gala",
+      "summary": "",
+      "date_published": "2026-08-31T15:00:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
+      "id": "0e63454d16518cb7",
+      "url": "https://www.wsj.com/opinion/the-quiet-bond-risk-of-bloated-state-spending-7a8b89a2",
+      "title": "The Quiet Bond Risk of Bloated State Spending",
+      "content_text": "The Quiet Bond Risk of Bloated State Spending",
+      "summary": "",
+      "date_published": "2026-08-31T14:30:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "e44c5c404bf6c6c2",
+      "url": "https://www.wsj.com/opinion/real-education-is-what-helps-underprivileged-kids-d986eefe",
+      "title": "Real Education Is What Helps Underprivileged Kids",
+      "content_text": "Real Education Is What Helps Underprivileged Kids",
+      "summary": "",
+      "date_published": "2026-08-31T14:29:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "1b959e05df8053b9",
+      "url": "https://www.wsj.com/opinion/dolly-was-more-than-a-crystal-clear-voice-32c7d966",
+      "title": "Dolly Was More Than a Crystal-Clear Voice",
+      "content_text": "Dolly Was More Than a Crystal-Clear Voice",
+      "summary": "",
+      "date_published": "2026-08-31T14:28:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "810ca4a2147625a2",
+      "url": "https://www.wsj.com/opinion/young-hip-fans-of-murdering-a-ceo-dc3677f1",
+      "title": "Young, Hip Fans of Murdering a CEO",
+      "content_text": "Young, Hip Fans of Murdering a CEO",
+      "summary": "",
+      "date_published": "2026-08-31T14:28:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "473270728352305e",
+      "url": "https://www.wsj.com/opinion/can-washington-cut-15-of-spending-4ae991ba",
+      "title": "Can Washington Cut 15% of Spending?",
+      "content_text": "Can Washington Cut 15% of Spending?",
+      "summary": "",
+      "date_published": "2026-08-31T14:26:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "7fffef950da3af4b",
+      "url": "https://www.wsj.com/personal-finance/a-hedge-fund-titans-divorce-is-putting-wall-streets-staggering-wealth-on-public-view-6c419f4c",
+      "title": "A Hedge-Fund Titan’s Divorce Is Putting Wall Street’s Staggering Wealth on Public View",
+      "content_text": "A Hedge-Fund Titan’s Divorce Is Putting Wall Street’s Staggering Wealth on Public View",
+      "summary": "",
+      "date_published": "2026-08-31T14:22:00+00:00",
+      "tags": [
+        "Personal Finance"
+      ]
+    },
+    {
+      "id": "99ed8680c7ce04dd",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/pg-e-edison-head-for-biggest-stock-drop-in-years-on-california-wildfire-legislation-M0IinB8pyEibcOyZpMbQ",
+      "title": "PG&E, Edison Head for Biggest Stock Drop in Years on California Wildfire Legislation",
+      "content_text": "PG&E, Edison Head for Biggest Stock Drop in Years on California Wildfire Legislation",
+      "summary": "",
+      "date_published": "2026-08-31T14:17:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "dc3dc4dd0ab84aae",
+      "url": "https://www.wsj.com/sports/golf/scottie-scheffler-pga-tour-championship-3abcbcff",
+      "title": "The World’s No. 1 Golfer Just Ended His Agonizing Season With a $10 Million Payday",
+      "content_text": "The World’s No. 1 Golfer Just Ended His Agonizing Season With a $10 Million Payday",
+      "summary": "",
+      "date_published": "2026-08-31T14:00:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "a8245218dbcb5b10",
+      "url": "https://www.wsj.com/arts-culture/books/august-in-fiction-7-books-to-read-now-bc5293bf",
+      "title": "August in Fiction: 7 Books to Read Now",
+      "content_text": "August in Fiction: 7 Books to Read Now",
+      "summary": "",
+      "date_published": "2026-08-31T13:53:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "e50b254ec28cb288",
+      "url": "https://www.wsj.com/business/ex-congressman-george-santos-receives-kalshis-first-ever-lifetime-ban-b50eeaf1",
+      "title": "Ex-Congressman George Santos Receives Kalshi’s First-Ever Lifetime Ban",
+      "content_text": "Ex-Congressman George Santos Receives Kalshi’s First-Ever Lifetime Ban",
+      "summary": "",
+      "date_published": "2026-08-31T13:49:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
       "summary": "",
       "date_published": "2026-08-31T13:30:19+00:00",
       "tags": [
@@ -61,21 +435,10 @@
       ]
     },
     {
-      "id": "dea6ec2569a2d42b",
-      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
-      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "summary": "",
-      "date_published": "2026-08-31T13:30:19+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
       "summary": "",
       "date_published": "2026-08-31T13:30:19+00:00",
       "tags": [
@@ -91,6 +454,50 @@
       "date_published": "2026-08-31T13:30:19+00:00",
       "tags": [
         "News"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-08-31T13:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-08-31T13:30:19+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
+      "summary": "",
+      "date_published": "2026-08-31T13:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "dea6ec2569a2d42b",
+      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
+      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "summary": "",
+      "date_published": "2026-08-31T13:30:19+00:00",
+      "tags": [
+        "Arts Culture"
       ]
     },
     {
@@ -380,6 +787,17 @@
       ]
     },
     {
+      "id": "992648b8ee590f1c",
+      "url": "https://www.wsj.com/business/autos/nissan-honda-team-up-on-systems-software-0a1889e5",
+      "title": "Nissan, Honda Team Up on Systems, Software",
+      "content_text": "Nissan, Honda Team Up on Systems, Software",
+      "summary": "",
+      "date_published": "2026-08-31T10:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "b35c503efe438805",
       "url": "https://www.wsj.com/cfo-journal/companies-plow-tariff-refunds-into-price-cuts-appealing-to-stretched-consumers-c5f683b1",
       "title": "Companies Plow Tariff Refunds Into Price Cuts, Appealing to Stretched Consumers",
@@ -399,17 +817,6 @@
       "date_published": "2026-08-31T10:00:00+00:00",
       "tags": [
         "World"
-      ]
-    },
-    {
-      "id": "992648b8ee590f1c",
-      "url": "https://www.wsj.com/business/autos/nissan-honda-team-up-on-systems-software-0a1889e5",
-      "title": "Nissan, Honda Team Up on Systems, Software",
-      "content_text": "Nissan, Honda Team Up on Systems, Software",
-      "summary": "",
-      "date_published": "2026-08-31T10:00:00+00:00",
-      "tags": [
-        "Business"
       ]
     },
     {
@@ -443,6 +850,39 @@
       "date_published": "2026-08-31T09:45:31+00:00",
       "tags": [
         "Front Page"
+      ]
+    },
+    {
+      "id": "413b81979a5a3629",
+      "url": "https://www.wsj.com/tech/ai/what-ceos-can-learn-from-the-ai-backlash-5738590d",
+      "title": "What CEOs Can Learn From the AI Backlash",
+      "content_text": "What CEOs Can Learn From the AI Backlash",
+      "summary": "",
+      "date_published": "2026-08-31T09:45:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "84badec8e93c645b",
+      "url": "https://www.wsj.com/world/asia/japan-targets-record-defense-spend-as-china-pressure-grows-c30a382e",
+      "title": "Japan Targets Record Defense Spend as China Pressure Grows",
+      "content_text": "Japan Targets Record Defense Spend as China Pressure Grows",
+      "summary": "",
+      "date_published": "2026-08-31T09:33:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "bb3b7eb8a9b3c562",
+      "url": "https://www.wsj.com/lifestyle/aerin-frankel-caesar-salad-olympics-hockey-team-usa-770fb530",
+      "title": "The Olympic Hockey Player Who Became a Global Expert on Caesar Salads",
+      "content_text": "The Olympic Hockey Player Who Became a Global Expert on Caesar Salads",
+      "summary": "",
+      "date_published": "2026-08-31T09:30:00+00:00",
+      "tags": [
+        "Lifestyle"
       ]
     },
     {
@@ -1763,446 +2203,6 @@
       "date_published": "2026-08-28T21:01:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "35272e1561018b2b",
-      "url": "https://www.wsj.com/opinion/trump-discovers-his-inner-nixon-on-rock-concerts-c5ec084f",
-      "title": "Trump Discovers His Inner Nixon on Rock Concerts",
-      "content_text": "Trump Discovers His Inner Nixon on Rock Concerts",
-      "summary": "",
-      "date_published": "2026-08-28T20:58:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "290a9b078929cccd",
-      "url": "https://www.wsj.com/opinion/a-food-crisis-may-be-coming-to-the-u-s-01026585",
-      "title": "A Food Crisis May Be Coming to the U.S.",
-      "content_text": "A Food Crisis May Be Coming to the U.S.",
-      "summary": "",
-      "date_published": "2026-08-28T20:57:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "a8738eeeb6e6843e",
-      "url": "https://www.wsj.com/politics/policy/ice-has-detained-british-media-provocateur-milo-yiannopoulos-a9c1010e",
-      "title": "ICE Has Detained British Media Provocateur Milo Yiannopoulos",
-      "content_text": "ICE Has Detained British Media Provocateur Milo Yiannopoulos",
-      "summary": "",
-      "date_published": "2026-08-28T20:44:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "97df9acc98896f55",
-      "url": "https://www.wsj.com/finance/investing/u-s-stocks-fall-after-warsh-speech-boosts-bond-yields-c96bb5da",
-      "title": "U.S. Stocks Fall After Warsh Speech Boosts Bond Yields",
-      "content_text": "U.S. Stocks Fall After Warsh Speech Boosts Bond Yields",
-      "summary": "",
-      "date_published": "2026-08-28T20:41:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "5e88189b403b488e",
-      "url": "https://www.wsj.com/tech/ai/google-personal-intelligence-dreambeans-gemini-review-81f12a16",
-      "title": "I Let Google’s Personal Intelligence Access My Life—and It’s a Huge Help",
-      "content_text": "I Let Google’s Personal Intelligence Access My Life—and It’s a Huge Help",
-      "summary": "",
-      "date_published": "2026-08-28T20:40:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "90f7de61fc4f56ae",
-      "url": "https://www.wsj.com/business/energy-oil/trump-administration-in-advanced-talks-for-stake-in-venezuelan-oil-fields-819546d3",
-      "title": "Trump administration in advanced talks for stake in venezuelan oil fields",
-      "content_text": "Trump administration in advanced talks for stake in venezuelan oil fields",
-      "summary": "",
-      "date_published": "2026-08-28T20:36:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "5760330e15ac4e05",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/jackson-hole-economist-kevin-rogoff-says-a-shock-needed-to-trigger-action-on-debt-uXKibSf3v3XSSO1Y7Jwe",
-      "title": "Jackson Hole: Economist Rogoff Says a ‘Shock’ Needed to Trigger Action on Debt",
-      "content_text": "Jackson Hole: Economist Rogoff Says a ‘Shock’ Needed to Trigger Action on Debt",
-      "summary": "",
-      "date_published": "2026-08-28T20:30:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "2d1004322bbee984",
-      "url": "https://www.wsj.com/cio-journal/warsh-delivers-3ddc018a",
-      "title": "Warsh Delivers",
-      "content_text": "Warsh Delivers",
-      "summary": "",
-      "date_published": "2026-08-28T20:20:00+00:00",
-      "tags": [
-        "Cio Journal"
-      ]
-    },
-    {
-      "id": "04d90092981f97c3",
-      "url": "https://www.wsj.com/health/healthcare/juul-labs-gets-fda-authorization-to-sell-new-e-cigarette-b3fb009a",
-      "title": "Juul Labs Gets FDA Authorization to Sell New E-Cigarette",
-      "content_text": "Juul Labs Gets FDA Authorization to Sell New E-Cigarette",
-      "summary": "",
-      "date_published": "2026-08-28T20:13:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "1b1b3fdf06d99071",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/deutsche-bank-expect-rate-hikes-in-september-and-december-cCP1x04jIYUGIZcCWtrf",
-      "title": "Deutsche Bank: Expect Rate Hikes in September and December",
-      "content_text": "Deutsche Bank: Expect Rate Hikes in September and December",
-      "summary": "",
-      "date_published": "2026-08-28T19:56:49+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "db6b440ee21fb530",
-      "url": "https://www.wsj.com/world/middle-east/a-core-egyptian-bank-gets-caught-up-in-treasurys-iran-crackdown-bb867772",
-      "title": "A Core Egyptian Bank Gets Caught Up in Treasury’s Iran Crackdown",
-      "content_text": "A Core Egyptian Bank Gets Caught Up in Treasury’s Iran Crackdown",
-      "summary": "",
-      "date_published": "2026-08-28T19:56:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "235a1502543ad300",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/watch-nick-timiraos-on-key-takeaways-from-kevin-warsh-s-jackson-hole-speech-0CvKtqyODQ2lEHcOojW3",
-      "title": "Watch: Nick Timiraos on Key Takeaways From Kevin Warsh’s Jackson Hole Speech",
-      "content_text": "Watch: Nick Timiraos on Key Takeaways From Kevin Warsh’s Jackson Hole Speech",
-      "summary": "",
-      "date_published": "2026-08-28T19:45:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "6bfa8b02b16a1f6d",
-      "url": "https://www.wsj.com/politics/national-security/a-west-point-for-space-trump-calls-for-new-academy-to-train-space-personnel-3d3bb9a7",
-      "title": "A West Point for Space? Trump Calls for New Academy to Train Space Personnel",
-      "content_text": "A West Point for Space? Trump Calls for New Academy to Train Space Personnel",
-      "summary": "",
-      "date_published": "2026-08-28T19:41:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "80713796477e99c0",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/why-today-s-jobs-revisions-are-actually-fairly-small-Se97S5o4g7XPu43I7deu",
-      "title": "Why Today’s Jobs Revisions Are Actually Fairly Small",
-      "content_text": "Why Today’s Jobs Revisions Are Actually Fairly Small",
-      "summary": "",
-      "date_published": "2026-08-28T19:31:41+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "657df6f79ac290a0",
-      "url": "https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-u-s-jobs-data-in-focus-bank-of-canada-decision-due-d4581c92",
-      "title": "Week Ahead for FX, Bonds: U.S. Jobs Data in Focus; Bank of Canada Decision Due",
-      "content_text": "Week Ahead for FX, Bonds: U.S. Jobs Data in Focus; Bank of Canada Decision Due",
-      "summary": "",
-      "date_published": "2026-08-28T19:31:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "5f7fce4c2b6bd361",
-      "url": "https://www.wsj.com/science/environment/from-the-alps-to-the-himalayas-vanishing-ice-leaves-mountain-communities-in-danger-3c663733",
-      "title": "From the Alps to the Himalayas, Vanishing Ice Leaves Mountain Communities in Danger",
-      "content_text": "From the Alps to the Himalayas, Vanishing Ice Leaves Mountain Communities in Danger",
-      "summary": "",
-      "date_published": "2026-08-28T19:25:00+00:00",
-      "tags": [
-        "Science"
-      ]
-    },
-    {
-      "id": "7cb821e693381d06",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/a-dogs-new-york-retreat-hits-the-market-for-2-9-million-e725d22f",
-      "title": "A Dog’s New York ‘Retreat’ Hits the Market for $2.9 Million",
-      "content_text": "A Dog’s New York ‘Retreat’ Hits the Market for $2.9 Million",
-      "summary": "",
-      "date_published": "2026-08-28T19:25:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "30251e22ff42167a",
-      "url": "https://www.wsj.com/articles/vote-for-wsjs-house-of-the-month-bdfbf446",
-      "title": "Vote for WSJ’s House of the Month",
-      "content_text": "Vote for WSJ’s House of the Month",
-      "summary": "",
-      "date_published": "2026-08-28T19:00:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "d62096298209d3f5",
-      "url": "https://www.wsj.com/world/russia/whats-left-of-russian-democracy-some-say-a-debate-over-a-statue-9483bcb8",
-      "title": "What’s Left of Russian Democracy? Some Say a Debate Over a Statue",
-      "content_text": "What’s Left of Russian Democracy? Some Say a Debate Over a Statue",
-      "summary": "",
-      "date_published": "2026-08-28T18:55:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "5c22e310c45f691c",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/ham-and-cheese-house-palm-beach-559d77e1",
-      "title": "Palm Beach’s ‘Ham and Cheese House’ Hits the Market for $105 Million",
-      "content_text": "Palm Beach’s ‘Ham and Cheese House’ Hits the Market for $105 Million",
-      "summary": "",
-      "date_published": "2026-08-28T18:51:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "d764e172418060db",
-      "url": "https://www.wsj.com/opinion/prelude-to-the-decline-and-fall-of-a-republic-a1d65c80",
-      "title": "Prelude to the Decline and Fall of a Republic",
-      "content_text": "Prelude to the Decline and Fall of a Republic",
-      "summary": "",
-      "date_published": "2026-08-28T18:38:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "4c157c4ff5b1efff",
-      "url": "https://www.wsj.com/opinion/gag-treasury-you-gag-the-market-too-c1fbb45e",
-      "title": "Gag Treasury, You Gag the Market, Too",
-      "content_text": "Gag Treasury, You Gag the Market, Too",
-      "summary": "",
-      "date_published": "2026-08-28T18:37:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "d22f54f6e0d35e9b",
-      "url": "https://www.wsj.com/opinion/and-there-go-the-midterms-33fdae8c",
-      "title": "And There Go the Midterms",
-      "content_text": "And There Go the Midterms",
-      "summary": "",
-      "date_published": "2026-08-28T18:34:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "d0acc449f5a1095e",
-      "url": "https://www.wsj.com/opinion/america-s-1-27-million-year-debt-953d8aaf",
-      "title": "America's 1.27-Million-Year Debt",
-      "content_text": "America's 1.27-Million-Year Debt",
-      "summary": "",
-      "date_published": "2026-08-28T18:33:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "54192699451245f5",
-      "url": "https://www.wsj.com/opinion/whered-all-that-medicaid-money-go-e6dfabb9",
-      "title": "Where’d All That Medicaid Money Go?",
-      "content_text": "Where’d All That Medicaid Money Go?",
-      "summary": "",
-      "date_published": "2026-08-28T18:32:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "b4714220b0e3b12a",
-      "url": "https://www.wsj.com/articles/an-exquisite-eye-introducing-the-aso-o-tavitian-collection-at-the-clark-art-institute-33d14456",
-      "title": "‘An Exquisite Eye: Introducing the Aso O. Tavitian Collection’ at the Clark Art Institute",
-      "content_text": "‘An Exquisite Eye: Introducing the Aso O. Tavitian Collection’ at the Clark Art Institute",
-      "summary": "",
-      "date_published": "2026-08-28T18:27:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "80a27717bac0a4f0",
-      "url": "https://www.wsj.com/politics/policy/pete-hegseth-general-meeting-quantico-560cc230",
-      "title": "Hegseth Weighs Summoning Top Military Leaders to Quantico for Second Time",
-      "content_text": "Hegseth Weighs Summoning Top Military Leaders to Quantico for Second Time",
-      "summary": "",
-      "date_published": "2026-08-28T18:02:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "fb5ec2f2b3f8ac68",
-      "url": "https://www.wsj.com/style/fashion/fall-layered-ensembles-4b3cb00e",
-      "title": "These Outfits Will Sell You on Fall Textures",
-      "content_text": "These Outfits Will Sell You on Fall Textures",
-      "summary": "",
-      "date_published": "2026-08-28T18:00:00+00:00",
-      "tags": [
-        "Style"
-      ]
-    },
-    {
-      "id": "52f1710e295228af",
-      "url": "https://www.wsj.com/world/europe/iceland-weighs-security-versus-sovereignty-in-vote-over-eu-membership-talks-c1158126",
-      "title": "Iceland Weighs Security Versus Sovereignty in Vote on EU Membership Talks",
-      "content_text": "Iceland Weighs Security Versus Sovereignty in Vote on EU Membership Talks",
-      "summary": "",
-      "date_published": "2026-08-28T17:51:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "c227e91be5b67684",
-      "url": "https://www.wsj.com/world/asia/we-tested-a-smartphone-smuggled-from-north-korea-c2915548",
-      "title": "We Tested a Smartphone Smuggled From North Korea",
-      "content_text": "We Tested a Smartphone Smuggled From North Korea",
-      "summary": "",
-      "date_published": "2026-08-28T17:51:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "c0ab54abb347f466",
-      "url": "https://www.wsj.com/arts-culture/books/frank-lloyd-wrights-fallingwater-a-house-at-one-with-nature-8735053b",
-      "title": "Frank Lloyd Wright’s Fallingwater: A House at One With Nature",
-      "content_text": "Frank Lloyd Wright’s Fallingwater: A House at One With Nature",
-      "summary": "",
-      "date_published": "2026-08-28T17:45:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "a76418afbbc08629",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/-watch-why-nvidia-stock-looks-cheap-even-after-blockbuster-earnings-rqIjX9LrnukIll6VA6bI",
-      "title": "📹 Watch: Why Nvidia Stock Looks Cheap Even After Blockbuster Earnings",
-      "content_text": "📹 Watch: Why Nvidia Stock Looks Cheap Even After Blockbuster Earnings",
-      "summary": "",
-      "date_published": "2026-08-28T17:19:41+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "a065ef725c117d04",
-      "url": "https://www.wsj.com/tech/ai/ai-mental-health-therapy-chatbots-98985539",
-      "title": "Should You Use AI for Mental Health?",
-      "content_text": "Should You Use AI for Mental Health?",
-      "summary": "",
-      "date_published": "2026-08-28T16:55:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "1e81e8e20ca5f6c0",
-      "url": "https://www.wsj.com/tech/ai/privacy-vs-security-readers-clash-over-flock-license-plate-cameras-6cce1152",
-      "title": "Privacy vs. Security: Readers Clash Over Flock License-Plate Cameras",
-      "content_text": "Privacy vs. Security: Readers Clash Over Flock License-Plate Cameras",
-      "summary": "",
-      "date_published": "2026-08-28T16:46:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "d2dd6de0a4d6ce0e",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/-watch-fed-s-predominant-focus-should-be-on-prices-warsh-says-hAELWqLpRDhwqW8rwca3",
-      "title": "📹 Watch: Fed’s ‘Predominant Focus Should Be on Prices,’ Warsh Says",
-      "content_text": "📹 Watch: Fed’s ‘Predominant Focus Should Be on Prices,’ Warsh Says",
-      "summary": "",
-      "date_published": "2026-08-28T16:18:17+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "4f0773767bf8e4a1",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/stocks-tied-to-economy-s-health-fall-after-warsh-s-speech-zFeFdKxv5m3Mbd8pQ6Bp",
-      "title": "Stocks Tied to Economy’s Health Fall After Warsh’s Speech",
-      "content_text": "Stocks Tied to Economy’s Health Fall After Warsh’s Speech",
-      "summary": "",
-      "date_published": "2026-08-28T16:09:24+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "8ea38e3077a59821",
-      "url": "https://www.wsj.com/arts-culture/books/we-want-to-believe-and-faith-in-space-signs-in-the-sky-f05596b1",
-      "title": "‘We Want to Believe’ and ‘Faith in Space’: Signs in the Sky",
-      "content_text": "‘We Want to Believe’ and ‘Faith in Space’: Signs in the Sky",
-      "summary": "",
-      "date_published": "2026-08-28T16:07:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "63df7f94a902fe27",
-      "url": "https://www.wsj.com/sports/golf/jon-rahm-liv-golf-future-f722521c",
-      "title": "The Two-Time Major Champion Who Could Decide the Fate of LIV Golf",
-      "content_text": "The Two-Time Major Champion Who Could Decide the Fate of LIV Golf",
-      "summary": "",
-      "date_published": "2026-08-28T16:00:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "48943ca8b5b89bed",
-      "url": "https://www.wsj.com/arts-culture/books/homer-haunted-review-all-sailing-the-wine-dark-sea-9c9fd47e",
-      "title": "‘Homer-Haunted’ Review: All Sailing the Wine-Dark Sea",
-      "content_text": "‘Homer-Haunted’ Review: All Sailing the Wine-Dark Sea",
-      "summary": "",
-      "date_published": "2026-08-28T15:59:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "58bc94eb26d51943",
-      "url": "https://www.wsj.com/articles/u-s-natural-gas-futures-give-back-some-gains-a266ce55",
-      "title": "U s natural gas futures give back some gains",
-      "content_text": "U s natural gas futures give back some gains",
-      "summary": "",
-      "date_published": "2026-08-28T15:59:00+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
