@@ -6,6 +6,116 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "f86d842751a1ac43",
+      "url": "https://www.wsj.com/business/frasers-aims-to-increase-hugo-boss-stake-above-50-58b4c186",
+      "title": "Frasers Aims to Increase Hugo Boss Stake Above 50%",
+      "content_text": "Frasers Aims to Increase Hugo Boss Stake Above 50%",
+      "summary": "",
+      "date_published": "2026-09-01T06:41:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "483ec0c6f3c78ff3",
+      "url": "https://www.wsj.com/finance/investing/asia-u-s-bond-yields-rise-as-oil-prices-stoke-inflation-fears-e56e99d7",
+      "title": "Japan’s Ten-Year Bond Yield Hits 3.00% for First Time in Three Decades",
+      "content_text": "Japan’s Ten-Year Bond Yield Hits 3.00% for First Time in Three Decades",
+      "summary": "",
+      "date_published": "2026-09-01T04:14:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "6c747bc3b3858d62",
+      "url": "https://www.wsj.com/health/pharma/novartis-pauses-autoimmune-cell-therapy-studies-after-deaths-62113d35",
+      "title": "Novartis Pauses Autoimmune Cell Therapy Studies After Deaths",
+      "content_text": "Novartis Pauses Autoimmune Cell Therapy Studies After Deaths",
+      "summary": "",
+      "date_published": "2026-09-01T04:14:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "83c33551a761ae34",
+      "url": "https://www.wsj.com/opinion/the-rich-worlds-climate-distraction-fe33cf14",
+      "title": "The Rich World’s Climate Distraction",
+      "content_text": "The Rich World’s Climate Distraction",
+      "summary": "",
+      "date_published": "2026-09-01T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "b92a02405e89795d",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-ab7e131e",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-09-01T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "0325f435e4e2d75a",
+      "url": "https://www.wsj.com/articles/whats-news-worldwide-8ab665bf",
+      "title": "What’s News: Worldwide",
+      "content_text": "What’s News: Worldwide",
+      "summary": "",
+      "date_published": "2026-09-01T03:50:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "5d8d675008e9aa8a",
+      "url": "https://www.wsj.com/articles/whats-news-business-finance-ca899d0e",
+      "title": "What’s News: Business & Finance",
+      "content_text": "What’s News: Business & Finance",
+      "summary": "",
+      "date_published": "2026-09-01T03:33:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "2ee92a3d835171fd",
+      "url": "https://www.wsj.com/world/europe/the-ukraine-drones-that-are-carrying-a-bigger-punch-deeper-into-russia-db8a6409",
+      "title": "The Ukraine Drones That Are Carrying a Bigger Punch, Deeper Into Russia",
+      "content_text": "The Ukraine Drones That Are Carrying a Bigger Punch, Deeper Into Russia",
+      "summary": "",
+      "date_published": "2026-09-01T03:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "4c4e70eb083ff6ab",
+      "url": "https://www.wsj.com/business/sheins-shares-fall-in-long-awaited-hong-kong-debut-52058d2b",
+      "title": "Shein’s Shares Fall in Long-Awaited Hong Kong Debut",
+      "content_text": "Shein’s Shares Fall in Long-Awaited Hong Kong Debut",
+      "summary": "",
+      "date_published": "2026-09-01T02:51:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "b38c69d6c705691a",
+      "url": "https://www.wsj.com/business/media/how-amazons-secret-ad-pricing-system-worked-according-to-the-ftc-24c0d78a",
+      "title": "How Amazon’s ‘Secret’ Ad Pricing System Worked, According to the FTC",
+      "content_text": "How Amazon’s ‘Secret’ Ad Pricing System Worked, According to the FTC",
+      "summary": "",
+      "date_published": "2026-09-01T02:25:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "d5e5e2fce1c3d300",
       "url": "https://www.wsj.com/politics/policy/trump-administration-steps-up-immigration-crackdown-on-truck-drivers-e78844fa",
       "title": "Trump Administration Steps Up Immigration Crackdown on Truck Drivers",
@@ -39,10 +149,10 @@
       ]
     },
     {
-      "id": "90c46592c18a8717",
-      "url": "https://www.wsj.com/world/middle-east/iran-oil-houthis-shipping-terrorism-bfa4fd9b",
-      "title": "Washington’s Deadly New Headache: an al Qaeda-Houthi Terrorist Alliance",
-      "content_text": "Washington’s Deadly New Headache: an al Qaeda-Houthi Terrorist Alliance",
+      "id": "7feb39e2850b3887",
+      "url": "https://www.wsj.com/world/europe/mine-warfare-with-iran-hampers-u-s-efforts-to-win-control-of-hormuz-45abc6b0",
+      "title": "Mine Warfare With Iran Hampers U.S. Efforts to Win Control of Hormuz",
+      "content_text": "Mine Warfare With Iran Hampers U.S. Efforts to Win Control of Hormuz",
       "summary": "",
       "date_published": "2026-09-01T01:00:00+00:00",
       "tags": [
@@ -50,10 +160,10 @@
       ]
     },
     {
-      "id": "7feb39e2850b3887",
-      "url": "https://www.wsj.com/world/europe/mine-warfare-with-iran-hampers-u-s-efforts-to-win-control-of-hormuz-45abc6b0",
-      "title": "Mine Warfare With Iran Hampers U.S. Efforts to Win Control of Hormuz",
-      "content_text": "Mine Warfare With Iran Hampers U.S. Efforts to Win Control of Hormuz",
+      "id": "90c46592c18a8717",
+      "url": "https://www.wsj.com/world/middle-east/iran-oil-houthis-shipping-terrorism-bfa4fd9b",
+      "title": "Washington’s Deadly New Headache: an al Qaeda-Houthi Terrorist Alliance",
+      "content_text": "Washington’s Deadly New Headache: an al Qaeda-Houthi Terrorist Alliance",
       "summary": "",
       "date_published": "2026-09-01T01:00:00+00:00",
       "tags": [
@@ -160,6 +270,17 @@
       ]
     },
     {
+      "id": "2169b90a57722c19",
+      "url": "https://www.wsj.com/politics/policy/how-a-brazilian-billionaire-helped-shape-trumps-beef-import-plan-9f969669",
+      "title": "How a Brazilian Billionaire Helped Shape Trump’s Beef Import Plan",
+      "content_text": "How a Brazilian Billionaire Helped Shape Trump’s Beef Import Plan",
+      "summary": "",
+      "date_published": "2026-09-01T00:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "3c6292644e450363",
       "url": "https://www.wsj.com/us-news/seattle-and-d-c-are-bucking-the-trend-by-attracting-families-with-kids-ed9cecec",
       "title": "Seattle and D.C. Are Bucking the Trend by Attracting Families With Kids",
@@ -179,17 +300,6 @@
       "date_published": "2026-09-01T00:00:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "2169b90a57722c19",
-      "url": "https://www.wsj.com/politics/policy/how-a-brazilian-billionaire-helped-shape-trumps-beef-import-plan-9f969669",
-      "title": "How a Brazilian Billionaire Helped Shape Trump’s Beef Import Plan",
-      "content_text": "How a Brazilian Billionaire Helped Shape Trump’s Beef Import Plan",
-      "summary": "",
-      "date_published": "2026-09-01T00:00:00+00:00",
-      "tags": [
-        "Politics"
       ]
     },
     {
@@ -2093,116 +2203,6 @@
       "date_published": "2026-08-30T09:00:00+00:00",
       "tags": [
         "Politics"
-      ]
-    },
-    {
-      "id": "61475b8c4d2a6963",
-      "url": "https://www.wsj.com/world/europe/icelanders-reject-eu-membership-talks-national-broadcaster-projects-05a2c74d",
-      "title": "Icelanders Reject EU Membership Talks, National Broadcaster Says",
-      "content_text": "Icelanders Reject EU Membership Talks, National Broadcaster Says",
-      "summary": "",
-      "date_published": "2026-08-30T08:58:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "b0b08d2809d42dd9",
-      "url": "https://www.wsj.com/world/europe/russia-is-bombarding-europe-with-a-new-wave-of-gray-zone-attacks-c5eab3fa",
-      "title": "Russia Is Bombarding Europe With a New Wave of ‘Gray Zone’ Attacks",
-      "content_text": "Russia Is Bombarding Europe With a New Wave of ‘Gray Zone’ Attacks",
-      "summary": "",
-      "date_published": "2026-08-30T03:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "7e879dd864fbad23",
-      "url": "https://www.wsj.com/world/the-icc-tried-to-take-on-the-worlds-big-powers-now-its-fighting-for-survival-0a37648f",
-      "title": "The ICC Tried to Take On the World’s Big Powers. Now It’s Fighting for Survival.",
-      "content_text": "The ICC Tried to Take On the World’s Big Powers. Now It’s Fighting for Survival.",
-      "summary": "",
-      "date_published": "2026-08-30T02:02:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "989a3a18a0df0357",
-      "url": "https://www.wsj.com/us-news/education/syracuse-student-application-enrollment-crisis-budget-ff142896",
-      "title": "Why Syracuse Can’t Attract the Students It Needs to Pay the Bills",
-      "content_text": "Why Syracuse Can’t Attract the Students It Needs to Pay the Bills",
-      "summary": "",
-      "date_published": "2026-08-30T01:00:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "54712a0280b7e3dc",
-      "url": "https://www.wsj.com/business/energy-oil/inside-trumps-plan-to-give-the-pentagon-a-stake-in-venezuelas-oil-riches-f054cdc2",
-      "title": "Inside Trump’s Plan to Give the Pentagon a Stake in Venezuela’s Oil Riches",
-      "content_text": "Inside Trump’s Plan to Give the Pentagon a Stake in Venezuela’s Oil Riches",
-      "summary": "",
-      "date_published": "2026-08-30T00:17:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "2471447f4cb666a7",
-      "url": "https://www.wsj.com/science/space-astronomy/spacex-and-rivals-dodge-traffic-as-satellites-debris-crowd-low-earth-orbit-2a870efe",
-      "title": "SpaceX and Rivals Dodge Traffic as Satellites, Debris Crowd Low-Earth Orbit",
-      "content_text": "SpaceX and Rivals Dodge Traffic as Satellites, Debris Crowd Low-Earth Orbit",
-      "summary": "",
-      "date_published": "2026-08-30T00:00:00+00:00",
-      "tags": [
-        "Science"
-      ]
-    },
-    {
-      "id": "ad36cec9520a79f9",
-      "url": "https://www.wsj.com/finance/investing/a-roth-ira-on-steroids-wealthy-americans-find-another-tax-free-way-to-invest-82816ffc",
-      "title": "‘A Roth IRA on Steroids’: Wealthy Americans Find Another Tax-Free Way to Invest",
-      "content_text": "‘A Roth IRA on Steroids’: Wealthy Americans Find Another Tax-Free Way to Invest",
-      "summary": "",
-      "date_published": "2026-08-30T00:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "b42ff90b675ee829",
-      "url": "https://www.wsj.com/finance/mark-walter-insurance-investments-b5f81bfb",
-      "title": "Most Insurers Invest for the Long Term. Mark Walter’s Did the Opposite.",
-      "content_text": "Most Insurers Invest for the Long Term. Mark Walter’s Did the Opposite.",
-      "summary": "",
-      "date_published": "2026-08-30T00:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "db6f97b1fa77cf9a",
-      "url": "https://www.wsj.com/arts-culture/music/how-i-will-always-love-you-almost-cost-dolly-parton-3-million-850e18ca",
-      "title": "How ‘I Will Always Love You’ Almost Cost Dolly Parton $3 Million",
-      "content_text": "How ‘I Will Always Love You’ Almost Cost Dolly Parton $3 Million",
-      "summary": "",
-      "date_published": "2026-08-30T00:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "a7c42fbc7545bed0",
-      "url": "https://www.wsj.com/world/americas/this-right-wing-stronghold-in-brazil-is-getting-pummeled-by-trumps-tariffs-059aa7db",
-      "title": "This Right-Wing Stronghold in Brazil Is Getting Pummeled by Trump’s Tariffs",
-      "content_text": "This Right-Wing Stronghold in Brazil Is Getting Pummeled by Trump’s Tariffs",
-      "summary": "",
-      "date_published": "2026-08-29T17:00:00+00:00",
-      "tags": [
-        "World"
       ]
     }
   ]
