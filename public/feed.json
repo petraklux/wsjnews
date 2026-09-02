@@ -6,6 +6,105 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "2c4f37c5068c1483",
+      "url": "https://www.wsj.com/finance/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-999492da",
+      "title": "JGBs Edge Lower, Tracking Declines in U.S. Treasurys",
+      "content_text": "JGBs Edge Lower, Tracking Declines in U.S. Treasurys",
+      "summary": "",
+      "date_published": "2026-09-02T00:49:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "2ad961c6eec13f2f",
+      "url": "https://www.wsj.com/finance/currencies/yen-consolidates-traders-digest-remarks-from-katayama-ueda-70108fc2",
+      "title": "Yen Consolidates; Traders Digest Remarks From Katayama, Ueda",
+      "content_text": "Yen Consolidates; Traders Digest Remarks From Katayama, Ueda",
+      "summary": "",
+      "date_published": "2026-09-02T00:45:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "dd4e7f7d75991128",
+      "url": "https://www.wsj.com/politics/elections/sen-ed-markey-defeats-younger-challenger-in-massachusetts-bf4379fe",
+      "title": "Sen. Ed Markey Defeats Younger Challenger in Massachusetts",
+      "content_text": "Sen. Ed Markey Defeats Younger Challenger in Massachusetts",
+      "summary": "",
+      "date_published": "2026-09-02T00:43:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "567b544da0fe6dc2",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-related-stocks-f002ef39",
+      "title": "Nikkei Falls 2.2%, Dragged by Chip-Related Stocks",
+      "content_text": "Nikkei Falls 2.2%, Dragged by Chip-Related Stocks",
+      "summary": "",
+      "date_published": "2026-09-02T00:39:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
+      "summary": "",
+      "date_published": "2026-09-02T00:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "42bd757de1d3567f",
+      "url": "https://www.wsj.com/politics/national-security/trump-picks-veteran-hung-cao-to-become-navy-secretary-6de2aef4",
+      "title": "Trump Picks Veteran Hung Cao to Become Navy Secretary",
+      "content_text": "Trump Picks Veteran Hung Cao to Become Navy Secretary",
+      "summary": "",
+      "date_published": "2026-09-02T00:16:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "d67cb47d2dc0964c",
+      "url": "https://www.wsj.com/tech/can-evan-spiegel-sell-the-world-on-2-195-smart-glasses-3fb9b8ca",
+      "title": "Can Evan Spiegel Sell the World on $2,195 Smart Glasses?",
+      "content_text": "Can Evan Spiegel Sell the World on $2,195 Smart Glasses?",
+      "summary": "",
+      "date_published": "2026-09-02T00:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "3c738d7f81d2d235",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-u-s-iran-hostilities-e12fa4f2",
+      "title": "Oil Rises Amid Growing U.S.-Iran Hostilities",
+      "content_text": "Oil Rises Amid Growing U.S.-Iran Hostilities",
+      "summary": "",
+      "date_published": "2026-09-01T23:50:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "0eae7645982d477b",
+      "url": "https://www.wsj.com/economy/south-koreas-inflation-rebounds-above-3-6a68d2c0",
+      "title": "South Korea’s Inflation Rebounds Above 3%",
+      "content_text": "South Korea’s Inflation Rebounds Above 3%",
+      "summary": "",
+      "date_published": "2026-09-01T23:38:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
       "id": "93f779b499d43b5f",
       "url": "https://www.wsj.com/politics/policy/in-surprise-twist-california-lawmakers-fail-to-pass-watered-down-wildfire-bill-f54df9bc",
       "title": "In Surprise Twist, California Lawmakers Fail to Pass Watered-Down Wildfire Bill",
@@ -28,32 +127,10 @@
       ]
     },
     {
-      "id": "c7e480583f8ad0fd",
-      "url": "https://www.wsj.com/news/business/small-business-marketing",
-      "title": "Small business marketing",
-      "content_text": "Small business marketing",
-      "summary": "",
-      "date_published": "2026-09-01T22:30:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "a2c51ea641c8e80c",
-      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
-      "title": "Economic forecasting survey archive",
-      "content_text": "Economic forecasting survey archive",
-      "summary": "",
-      "date_published": "2026-09-01T22:30:19+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
+      "id": "5a885d497fa8a917",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview",
+      "title": "The saturday interview",
+      "content_text": "The saturday interview",
       "summary": "",
       "date_published": "2026-09-01T22:30:19+00:00",
       "tags": [
@@ -72,10 +149,43 @@
       ]
     },
     {
-      "id": "5a885d497fa8a917",
-      "url": "https://www.wsj.com/news/types/the-saturday-interview",
-      "title": "The saturday interview",
-      "content_text": "The saturday interview",
+      "id": "67a229f9726f9141",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial",
+      "title": "Real estate commercial",
+      "content_text": "Real estate commercial",
+      "summary": "",
+      "date_published": "2026-09-01T22:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-09-01T22:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-09-01T22:30:19+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
       "summary": "",
       "date_published": "2026-09-01T22:30:19+00:00",
       "tags": [
@@ -91,17 +201,6 @@
       "date_published": "2026-09-01T22:30:19+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "67a229f9726f9141",
-      "url": "https://www.wsj.com/news/markets/real-estate-commercial",
-      "title": "Real estate commercial",
-      "content_text": "Real estate commercial",
-      "summary": "",
-      "date_published": "2026-09-01T22:30:19+00:00",
-      "tags": [
-        "News"
       ]
     },
     {
@@ -237,17 +336,6 @@
       ]
     },
     {
-      "id": "e29bf07cc09d6595",
-      "url": "https://www.wsj.com/opinion/the-segal-issue-and-u-s-canada-trade-fb28bc6f",
-      "title": "The ‘Segal Issue’ and U.S.-Canada Trade",
-      "content_text": "The ‘Segal Issue’ and U.S.-Canada Trade",
-      "summary": "",
-      "date_published": "2026-09-01T21:07:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
       "id": "4fd3a61e1c17c820",
       "url": "https://www.wsj.com/arts-culture/books/emily-benjamin-the-immortalists-under-story-6a2dd992",
       "title": "Treatment for Her Debilitating Migraines Inspired This Author’s New Novel",
@@ -256,6 +344,17 @@
       "date_published": "2026-09-01T21:07:00+00:00",
       "tags": [
         "Arts Culture"
+      ]
+    },
+    {
+      "id": "e29bf07cc09d6595",
+      "url": "https://www.wsj.com/opinion/the-segal-issue-and-u-s-canada-trade-fb28bc6f",
+      "title": "The ‘Segal Issue’ and U.S.-Canada Trade",
+      "content_text": "The ‘Segal Issue’ and U.S.-Canada Trade",
+      "summary": "",
+      "date_published": "2026-09-01T21:07:00+00:00",
+      "tags": [
+        "Opinion"
       ]
     },
     {
@@ -281,10 +380,10 @@
       ]
     },
     {
-      "id": "10c232e1be398304",
-      "url": "https://www.wsj.com/opinion/notable-quotable-dana-nessel-eed686e9",
-      "title": "Notable & Quotable: Dana Nessel",
-      "content_text": "Notable & Quotable: Dana Nessel",
+      "id": "07adc348efa21f5b",
+      "url": "https://www.wsj.com/opinion/protect-the-earthbuild-more-data-centers-5daf794a",
+      "title": "Protect the Earth—Build More Data Centers",
+      "content_text": "Protect the Earth—Build More Data Centers",
       "summary": "",
       "date_published": "2026-09-01T21:01:00+00:00",
       "tags": [
@@ -292,10 +391,10 @@
       ]
     },
     {
-      "id": "07adc348efa21f5b",
-      "url": "https://www.wsj.com/opinion/protect-the-earthbuild-more-data-centers-5daf794a",
-      "title": "Protect the Earth—Build More Data Centers",
-      "content_text": "Protect the Earth—Build More Data Centers",
+      "id": "10c232e1be398304",
+      "url": "https://www.wsj.com/opinion/notable-quotable-dana-nessel-eed686e9",
+      "title": "Notable & Quotable: Dana Nessel",
+      "content_text": "Notable & Quotable: Dana Nessel",
       "summary": "",
       "date_published": "2026-09-01T21:01:00+00:00",
       "tags": [
@@ -2104,105 +2203,6 @@
       "date_published": "2026-08-31T20:03:00+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "246c7d4592c7451d",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/strategic-petroleum-reserve-reduced-further-as-trump-pledges-venezuelan-refill-MEfasHPOZcdt8xv9Wbaw",
-      "title": "Strategic Petroleum Reserve Reduced Further as Trump Pledges Venezuelan Refill",
-      "content_text": "Strategic Petroleum Reserve Reduced Further as Trump Pledges Venezuelan Refill",
-      "summary": "",
-      "date_published": "2026-08-31T19:49:09+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "d083df7656b131e9",
-      "url": "https://www.wsj.com/us-news/climate-environment/grand-canyon-flood-deaths-missing-people-58d52a8c",
-      "title": "Two Deaths in Grand Canyon Floods; Over a Dozen Still Missing",
-      "content_text": "Two Deaths in Grand Canyon Floods; Over a Dozen Still Missing",
-      "summary": "",
-      "date_published": "2026-08-31T19:40:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "38a6cf644e6dc362",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/freedom-mortgage-ceo-palm-beach-county-fl-14def9b9",
-      "title": "Freedom Mortgage CEO Asks $59.95 Million for Oceanfront Florida Home",
-      "content_text": "Freedom Mortgage CEO Asks $59.95 Million for Oceanfront Florida Home",
-      "summary": "",
-      "date_published": "2026-08-31T19:30:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "0938b27984a9cf4f",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/amazon-shares-slip-as-ftc-lawsuit-looms-4H956RJGgyfl58zZYrnB",
-      "title": "Amazon Shares Slip as FTC Lawsuit Looms",
-      "content_text": "Amazon Shares Slip as FTC Lawsuit Looms",
-      "summary": "",
-      "date_published": "2026-08-31T19:08:53+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "5b6f8df5e6ef5ff6",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/at-g-20-warsh-says-global-economy-faces-new-period-of-secular-growth--VTfhFGQlo6ZGTOS7gGbe",
-      "title": "Warsh Says Global Economy Faces New Period of ‘Secular Growth’",
-      "content_text": "Warsh Says Global Economy Faces New Period of ‘Secular Growth’",
-      "summary": "",
-      "date_published": "2026-08-31T18:49:35+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "57c59088116e9f24",
-      "url": "https://www.wsj.com/style/beauty/filler-removal-b67b3c7b",
-      "title": "America Fell in Love With Filler. Then Came the Great Deflate",
-      "content_text": "America Fell in Love With Filler. Then Came the Great Deflate",
-      "summary": "",
-      "date_published": "2026-08-31T18:40:00+00:00",
-      "tags": [
-        "Style"
-      ]
-    },
-    {
-      "id": "74e1e0befb75057d",
-      "url": "https://www.wsj.com/us-news/state-farm-sued-by-los-angeles-county-over-handling-of-wildfire-claims-a79424b8",
-      "title": "State Farm Sued by Los Angeles County Over Handling of Wildfire Claims",
-      "content_text": "State Farm Sued by Los Angeles County Over Handling of Wildfire Claims",
-      "summary": "",
-      "date_published": "2026-08-31T18:40:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "267efb7013037f37",
-      "url": "https://www.wsj.com/business/energy-oil/westinghouse-electric-wants-to-ride-a-nuclear-power-revival-to-an-ipo-9ad2b196",
-      "title": "Westinghouse Electric Wants to Ride a Nuclear Power Revival to an IPO",
-      "content_text": "Westinghouse Electric Wants to Ride a Nuclear Power Revival to an IPO",
-      "summary": "",
-      "date_published": "2026-08-31T18:35:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "f606d6854deae3cd",
-      "url": "https://www.wsj.com/arts-culture/books/the-final-solution-to-the-jewish-question-review-confronting-the-oldest-hatred-abbe087f",
-      "title": "‘The Final Solution to the Jewish Question’ Review: Confronting the Oldest Hatred",
-      "content_text": "‘The Final Solution to the Jewish Question’ Review: Confronting the Oldest Hatred",
-      "summary": "",
-      "date_published": "2026-08-31T18:23:00+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]

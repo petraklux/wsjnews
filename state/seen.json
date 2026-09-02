@@ -1,5 +1,18 @@
 {
   "items": {
+    "0038b06dd019061e": {
+      "dek": "",
+      "first_seen": "2026-09-02T00:59:09.292288+00:00",
+      "guid": "0038b06dd019061e",
+      "published": "2026-09-02T00:30:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Elizabeth anne bernstein",
+      "title": "Elizabeth anne bernstein",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein"
+    },
     "00b14ba49f581fb7": {
       "dek": "",
       "first_seen": "2026-09-01T02:01:09.874463+00:00",
@@ -104,19 +117,6 @@
       "title": "💬 Money Quote: A Global Bond Repricing",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-01-2026/card/-money-quote-a-global-bond-repricing-2uJYlpnWKPp86tC3b7aW"
     },
-    "0938b27984a9cf4f": {
-      "dek": "",
-      "first_seen": "2026-08-31T19:36:54.910192+00:00",
-      "guid": "0938b27984a9cf4f",
-      "published": "2026-08-31T19:08:53+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Amazon Shares Slip as FTC Lawsuit Looms",
-      "title": "Amazon Shares Slip as FTC Lawsuit Looms",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/amazon-shares-slip-as-ftc-lawsuit-looms-4H956RJGgyfl58zZYrnB"
-    },
     "0ab86de202c6b572": {
       "dek": "",
       "first_seen": "2026-09-01T13:27:15.996678+00:00",
@@ -142,6 +142,19 @@
       "summary": "Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia",
       "title": "Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia",
       "url": "https://www.wsj.com/tech/ai/anthropic-signs-35-billion-cloud-deal-backed-by-nvidia-f12622f1"
+    },
+    "0eae7645982d477b": {
+      "dek": "",
+      "first_seen": "2026-09-02T00:59:09.292288+00:00",
+      "guid": "0eae7645982d477b",
+      "published": "2026-09-01T23:38:00+00:00",
+      "section": "Economy",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "South Korea’s Inflation Rebounds Above 3%",
+      "title": "South Korea’s Inflation Rebounds Above 3%",
+      "url": "https://www.wsj.com/economy/south-koreas-inflation-rebounds-above-3-6a68d2c0"
     },
     "0ede17dc274a45ad": {
       "dek": "",
@@ -364,31 +377,31 @@
       "title": "What to Know About Mail-Ballot Allegations Against the Postal Service",
       "url": "https://www.wsj.com/politics/policy/what-to-know-about-mail-ballot-allegations-against-the-postal-service-684519be"
     },
-    "246c7d4592c7451d": {
+    "2ad961c6eec13f2f": {
       "dek": "",
-      "first_seen": "2026-08-31T23:21:25.094225+00:00",
-      "guid": "246c7d4592c7451d",
-      "published": "2026-08-31T19:49:09+00:00",
-      "section": "Front Page",
+      "first_seen": "2026-09-02T00:59:09.292288+00:00",
+      "guid": "2ad961c6eec13f2f",
+      "published": "2026-09-02T00:45:00+00:00",
+      "section": "Finance",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Strategic Petroleum Reserve Reduced Further as Trump Pledges Venezuelan Refill",
-      "title": "Strategic Petroleum Reserve Reduced Further as Trump Pledges Venezuelan Refill",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/strategic-petroleum-reserve-reduced-further-as-trump-pledges-venezuelan-refill-MEfasHPOZcdt8xv9Wbaw"
+      "summary": "Yen Consolidates; Traders Digest Remarks From Katayama, Ueda",
+      "title": "Yen Consolidates; Traders Digest Remarks From Katayama, Ueda",
+      "url": "https://www.wsj.com/finance/currencies/yen-consolidates-traders-digest-remarks-from-katayama-ueda-70108fc2"
     },
-    "267efb7013037f37": {
+    "2c4f37c5068c1483": {
       "dek": "",
-      "first_seen": "2026-08-31T19:36:54.910192+00:00",
-      "guid": "267efb7013037f37",
-      "published": "2026-08-31T18:35:00+00:00",
-      "section": "Business",
+      "first_seen": "2026-09-02T00:59:09.292288+00:00",
+      "guid": "2c4f37c5068c1483",
+      "published": "2026-09-02T00:49:00+00:00",
+      "section": "Finance",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Westinghouse Electric Wants to Ride a Nuclear Power Revival to an IPO",
-      "title": "Westinghouse Electric Wants to Ride a Nuclear Power Revival to an IPO",
-      "url": "https://www.wsj.com/business/energy-oil/westinghouse-electric-wants-to-ride-a-nuclear-power-revival-to-an-ipo-9ad2b196"
+      "summary": "JGBs Edge Lower, Tracking Declines in U.S. Treasurys",
+      "title": "JGBs Edge Lower, Tracking Declines in U.S. Treasurys",
+      "url": "https://www.wsj.com/finance/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-999492da"
     },
     "2ceda9e026d07060": {
       "dek": "",
@@ -546,19 +559,6 @@
       "title": "House Censures GOP Lawmaker Over Sexual Harassment Allegations",
       "url": "https://www.wsj.com/politics/chuck-edwards-house-ethics-committee-censure-vote-755f9947"
     },
-    "38a6cf644e6dc362": {
-      "dek": "",
-      "first_seen": "2026-08-31T19:36:54.910192+00:00",
-      "guid": "38a6cf644e6dc362",
-      "published": "2026-08-31T19:30:00+00:00",
-      "section": "Real Estate",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Freedom Mortgage CEO Asks $59.95 Million for Oceanfront Florida Home",
-      "title": "Freedom Mortgage CEO Asks $59.95 Million for Oceanfront Florida Home",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/freedom-mortgage-ceo-palm-beach-county-fl-14def9b9"
-    },
     "38c676626de67e2c": {
       "dek": "",
       "first_seen": "2026-09-01T17:25:56.750793+00:00",
@@ -637,6 +637,19 @@
       "title": "Seattle and D.C. Are Bucking the Trend by Attracting Families With Kids",
       "url": "https://www.wsj.com/us-news/seattle-and-d-c-are-bucking-the-trend-by-attracting-families-with-kids-ed9cecec"
     },
+    "3c738d7f81d2d235": {
+      "dek": "",
+      "first_seen": "2026-09-02T00:59:09.292288+00:00",
+      "guid": "3c738d7f81d2d235",
+      "published": "2026-09-01T23:50:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Oil Rises Amid Growing U.S.-Iran Hostilities",
+      "title": "Oil Rises Amid Growing U.S.-Iran Hostilities",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-u-s-iran-hostilities-e12fa4f2"
+    },
     "3daa58bffda5dca1": {
       "dek": "",
       "first_seen": "2026-09-01T22:47:34.380488+00:00",
@@ -662,6 +675,19 @@
       "summary": "The Odds of a Fed Rate Hike, According to Traders",
       "title": "The Odds of a Fed Rate Hike, According to Traders",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-01-2026/card/the-odds-of-a-fed-rate-hike-according-to-traders-VIz6t9G5ZXbtCaHXFUf6"
+    },
+    "42bd757de1d3567f": {
+      "dek": "",
+      "first_seen": "2026-09-02T00:59:09.292288+00:00",
+      "guid": "42bd757de1d3567f",
+      "published": "2026-09-02T00:16:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Trump Picks Veteran Hung Cao to Become Navy Secretary",
+      "title": "Trump Picks Veteran Hung Cao to Become Navy Secretary",
+      "url": "https://www.wsj.com/politics/national-security/trump-picks-veteran-hung-cao-to-become-navy-secretary-6de2aef4"
     },
     "434f30a6d6efa50c": {
       "dek": "",
@@ -910,6 +936,19 @@
       "title": "The Novel Solution Powering Baseball’s Biggest Turnaround: Swinging Harder",
       "url": "https://www.wsj.com/sports/baseball/white-sox-bat-speed-vargas-murakami-565fd781"
     },
+    "567b544da0fe6dc2": {
+      "dek": "",
+      "first_seen": "2026-09-02T00:59:09.292288+00:00",
+      "guid": "567b544da0fe6dc2",
+      "published": "2026-09-02T00:39:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Nikkei Falls 2.2%, Dragged by Chip-Related Stocks",
+      "title": "Nikkei Falls 2.2%, Dragged by Chip-Related Stocks",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-related-stocks-f002ef39"
+    },
     "56c4098adeebfd7a": {
       "dek": "",
       "first_seen": "2026-08-31T23:21:25.094225+00:00",
@@ -922,19 +961,6 @@
       "summary": "Donald Trump Jr.’s Fund Boosts Polymarket Investment by Around $300 Million",
       "title": "Donald Trump Jr.’s Fund Boosts Polymarket Investment by Around $300 Million",
       "url": "https://www.wsj.com/finance/investing/donald-trump-jr-s-fund-boosts-polymarket-investment-by-around-300-million-45270bba"
-    },
-    "57c59088116e9f24": {
-      "dek": "",
-      "first_seen": "2026-08-31T19:36:54.910192+00:00",
-      "guid": "57c59088116e9f24",
-      "published": "2026-08-31T18:40:00+00:00",
-      "section": "Style",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "America Fell in Love With Filler. Then Came the Great Deflate",
-      "title": "America Fell in Love With Filler. Then Came the Great Deflate",
-      "url": "https://www.wsj.com/style/beauty/filler-removal-b67b3c7b"
     },
     "5a885d497fa8a917": {
       "dek": "",
@@ -974,19 +1000,6 @@
       "summary": "Alimentation Couche-Tard First-Quarter Profit Gains on Fuel Sales Growth",
       "title": "Alimentation Couche-Tard First-Quarter Profit Gains on Fuel Sales Growth",
       "url": "https://www.wsj.com/business/earnings/alimentation-couche-tard-first-quarter-profit-gains-on-fuel-sales-growth-7615dcb5"
-    },
-    "5b6f8df5e6ef5ff6": {
-      "dek": "",
-      "first_seen": "2026-08-31T19:36:54.910192+00:00",
-      "guid": "5b6f8df5e6ef5ff6",
-      "published": "2026-08-31T18:49:35+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Warsh Says Global Economy Faces New Period of ‘Secular Growth’",
-      "title": "Warsh Says Global Economy Faces New Period of ‘Secular Growth’",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/at-g-20-warsh-says-global-economy-faces-new-period-of-secular-growth--VTfhFGQlo6ZGTOS7gGbe"
     },
     "5bde10fa9f9b2a36": {
       "dek": "",
@@ -1286,19 +1299,6 @@
       "summary": "Carnival Revamps Loyalty Program to Encourage Spending",
       "title": "Carnival Revamps Loyalty Program to Encourage Spending",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-01-2026/card/carnival-revamps-loyalty-program-to-encourage-spending-YeNB74Lp0JEXg4gnzKbU"
-    },
-    "74e1e0befb75057d": {
-      "dek": "",
-      "first_seen": "2026-08-31T19:36:54.910192+00:00",
-      "guid": "74e1e0befb75057d",
-      "published": "2026-08-31T18:40:00+00:00",
-      "section": "Us News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "State Farm Sued by Los Angeles County Over Handling of Wildfire Claims",
-      "title": "State Farm Sued by Los Angeles County Over Handling of Wildfire Claims",
-      "url": "https://www.wsj.com/us-news/state-farm-sued-by-los-angeles-county-over-handling-of-wildfire-claims-a79424b8"
     },
     "7bf648ddb52af638": {
       "dek": "",
@@ -2041,19 +2041,6 @@
       "title": "Nikkei Falls 1.0%, Dragged by Chip Stocks",
       "url": "https://www.wsj.com/finance/stocks/nikkei-falls-1-0-dragged-by-chip-stocks-f0ceaeae"
     },
-    "d083df7656b131e9": {
-      "dek": "",
-      "first_seen": "2026-08-31T23:21:25.094225+00:00",
-      "guid": "d083df7656b131e9",
-      "published": "2026-08-31T19:40:00+00:00",
-      "section": "Us News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Two Deaths in Grand Canyon Floods; Over a Dozen Still Missing",
-      "title": "Two Deaths in Grand Canyon Floods; Over a Dozen Still Missing",
-      "url": "https://www.wsj.com/us-news/climate-environment/grand-canyon-flood-deaths-missing-people-58d52a8c"
-    },
     "d184965ee56141d7": {
       "dek": "",
       "first_seen": "2026-09-01T02:01:09.874463+00:00",
@@ -2132,6 +2119,19 @@
       "title": "Trump Administration Steps Up Immigration Crackdown on Truck Drivers",
       "url": "https://www.wsj.com/politics/policy/trump-administration-steps-up-immigration-crackdown-on-truck-drivers-e78844fa"
     },
+    "d67cb47d2dc0964c": {
+      "dek": "",
+      "first_seen": "2026-09-02T00:59:09.292288+00:00",
+      "guid": "d67cb47d2dc0964c",
+      "published": "2026-09-02T00:00:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Can Evan Spiegel Sell the World on $2,195 Smart Glasses?",
+      "title": "Can Evan Spiegel Sell the World on $2,195 Smart Glasses?",
+      "url": "https://www.wsj.com/tech/can-evan-spiegel-sell-the-world-on-2-195-smart-glasses-3fb9b8ca"
+    },
     "d68df8122d21c8ba": {
       "dek": "",
       "first_seen": "2026-09-01T17:25:56.750793+00:00",
@@ -2209,6 +2209,19 @@
       "summary": "U.S. Factory Activity Growth Slowed in August",
       "title": "U.S. Factory Activity Growth Slowed in August",
       "url": "https://www.wsj.com/economy/u-s-factory-activity-growth-slowed-in-august-c3b66b11"
+    },
+    "dd4e7f7d75991128": {
+      "dek": "",
+      "first_seen": "2026-09-02T00:59:09.292288+00:00",
+      "guid": "dd4e7f7d75991128",
+      "published": "2026-09-02T00:43:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Sen. Ed Markey Defeats Younger Challenger in Massachusetts",
+      "title": "Sen. Ed Markey Defeats Younger Challenger in Massachusetts",
+      "url": "https://www.wsj.com/politics/elections/sen-ed-markey-defeats-younger-challenger-in-massachusetts-bf4379fe"
     },
     "dd69cf37f58e14aa": {
       "dek": "",
@@ -2483,19 +2496,6 @@
       "title": "What to Watch: The 17 Best Movies and TV Shows of August",
       "url": "https://www.wsj.com/arts-culture/film/what-to-watch-the-17-best-movies-and-tv-shows-of-august-8938b4c3"
     },
-    "f606d6854deae3cd": {
-      "dek": "",
-      "first_seen": "2026-08-31T19:36:54.910192+00:00",
-      "guid": "f606d6854deae3cd",
-      "published": "2026-08-31T18:23:00+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "‘The Final Solution to the Jewish Question’ Review: Confronting the Oldest Hatred",
-      "title": "‘The Final Solution to the Jewish Question’ Review: Confronting the Oldest Hatred",
-      "url": "https://www.wsj.com/arts-culture/books/the-final-solution-to-the-jewish-question-review-confronting-the-oldest-hatred-abbe087f"
-    },
     "f69f442a3309038e": {
       "dek": "",
       "first_seen": "2026-09-01T20:07:56.897904+00:00",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/tech/ai/openai-to-restrict-astra-model-after-rating-it-critical-cyber-risk-499b5a46"
     }
   },
-  "updated": "2026-09-01T22:47:34.399441+00:00"
+  "updated": "2026-09-02T00:59:09.306984+00:00"
 }
