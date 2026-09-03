@@ -6,6 +6,116 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "24332cf938fa39a1",
+      "url": "https://www.wsj.com/arts-culture/music/what-we-listened-to-this-summer-airdigital-a0382c7e",
+      "title": "What We Listened to This Summer",
+      "content_text": "What We Listened to This Summer",
+      "summary": "",
+      "date_published": "2026-09-03T09:00:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "3db455ddd6458539",
+      "url": "https://www.wsj.com/economy/germanys-ifo-institute-revises-up-growth-estimates-3cbcd8c2",
+      "title": "Germany’s Ifo Institute Revises Up Growth Estimates",
+      "content_text": "Germany’s Ifo Institute Revises Up Growth Estimates",
+      "summary": "",
+      "date_published": "2026-09-03T08:57:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "626a5d370c02fe99",
+      "url": "https://www.wsj.com/finance/stocks/bond-selloff-pauses-stocks-tread-water-as-traders-watch-for-yen-intervention-25a7e983",
+      "title": "Bond Selloff Pauses, Stocks Tread Water as Traders Watch for Yen Intervention",
+      "content_text": "Bond Selloff Pauses, Stocks Tread Water as Traders Watch for Yen Intervention",
+      "summary": "",
+      "date_published": "2026-09-03T08:39:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "e22d3f2d95183b78",
+      "url": "https://www.wsj.com/economy/central-banking/global-bond-markets-take-a-breather-1572d1e3",
+      "title": "Global Bond Markets Take a Breather",
+      "content_text": "Global Bond Markets Take a Breather",
+      "summary": "",
+      "date_published": "2026-09-03T08:24:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "7b8f69409dff9a5c",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026/card/watch-tech-ceos-warn-g-20-leaders-against-over-regulating-ai-MNCFJGKrcItsXKmCxh1L",
+      "title": "Watch: Tech CEOs Warn G-20 Leaders Against Over-Regulating AI",
+      "content_text": "Watch: Tech CEOs Warn G-20 Leaders Against Over-Regulating AI",
+      "summary": "",
+      "date_published": "2026-09-03T07:44:57+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "c2ad69762fa0ba38",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026/card/fed-speakers-jobs-report-what-s-ahead-the-rest-of-the-week-uG2cRsX0M93mco2oJ2et",
+      "title": "Fed Speakers, Jobs Report: What’s Ahead the Rest of the Week",
+      "content_text": "Fed Speakers, Jobs Report: What’s Ahead the Rest of the Week",
+      "summary": "",
+      "date_published": "2026-09-03T07:44:51+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "86ab219dabdce636",
+      "url": "https://www.wsj.com/economy/central-banking/malaysia-central-bank-holds-rates-as-growth-stays-firm-a7b16bb7",
+      "title": "Malaysia Central Bank Holds Rates as Growth Stays Firm",
+      "content_text": "Malaysia Central Bank Holds Rates as Growth Stays Firm",
+      "summary": "",
+      "date_published": "2026-09-03T07:11:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "6dd039dd78786678",
+      "url": "https://www.wsj.com/economy/global/swiss-inflation-jumps-on-higher-energy-prices-9ff7cde6",
+      "title": "Swiss Inflation Jumps on Higher Energy Prices",
+      "content_text": "Swiss Inflation Jumps on Higher Energy Prices",
+      "summary": "",
+      "date_published": "2026-09-03T06:53:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "51244caeede14147",
+      "url": "https://www.wsj.com/finance/currencies/japanese-yen-strengthens-amid-intervention-chatter-1fe5ad1d",
+      "title": "Japanese Yen Strengthens Amid Intervention Chatter",
+      "content_text": "Japanese Yen Strengthens Amid Intervention Chatter",
+      "summary": "",
+      "date_published": "2026-09-03T06:36:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "ea077fd298203388",
+      "url": "https://www.wsj.com/business/earnings/impala-platinum-profit-surges-on-higher-precious-metal-prices-893496dc",
+      "title": "Impala Platinum Profit Surges on Higher Precious-Metal Prices",
+      "content_text": "Impala Platinum Profit Surges on Higher Precious-Metal Prices",
+      "summary": "",
+      "date_published": "2026-09-03T05:51:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "497d6e7149165fe0",
       "url": "https://www.wsj.com/opinion/pepperand-salt-c56212c9",
       "title": "Pepper…and Salt",
@@ -28,17 +138,6 @@
       ]
     },
     {
-      "id": "fb0beb80375de6cb",
-      "url": "https://www.wsj.com/business/energy-oil/why-trumps-venezuela-oil-grab-is-no-quick-fix-for-gas-prices-744f52a7",
-      "title": "Why Trump’s Venezuela Oil Grab Is No Quick Fix for Gas Prices",
-      "content_text": "Why Trump’s Venezuela Oil Grab Is No Quick Fix for Gas Prices",
-      "summary": "",
-      "date_published": "2026-09-03T02:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
       "id": "01ac56aa0ec4bf9a",
       "url": "https://www.wsj.com/tech/ai/the-hunt-for-ai-proof-assets-is-leading-investors-to-sports-casinos-and-travel-30ad23a3",
       "title": "The Hunt for AI-Proof Assets Is Leading Investors to Sports, Casinos and Travel",
@@ -47,6 +146,17 @@
       "date_published": "2026-09-03T02:00:00+00:00",
       "tags": [
         "Tech"
+      ]
+    },
+    {
+      "id": "fb0beb80375de6cb",
+      "url": "https://www.wsj.com/business/energy-oil/why-trumps-venezuela-oil-grab-is-no-quick-fix-for-gas-prices-744f52a7",
+      "title": "Why Trump’s Venezuela Oil Grab Is No Quick Fix for Gas Prices",
+      "content_text": "Why Trump’s Venezuela Oil Grab Is No Quick Fix for Gas Prices",
+      "summary": "",
+      "date_published": "2026-09-03T02:00:00+00:00",
+      "tags": [
+        "Business"
       ]
     },
     {
@@ -72,21 +182,21 @@
       ]
     },
     {
-      "id": "ef5ec13aae91eda5",
-      "url": "https://www.wsj.com/world/asia/china-warships-japan-defense-10978aba",
-      "title": "Chinese Warships Are Cruising Too Close for Comfort Off Japan’s Shores",
-      "content_text": "Chinese Warships Are Cruising Too Close for Comfort Off Japan’s Shores",
-      "summary": "",
-      "date_published": "2026-09-03T01:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
       "id": "40071e4977bcec50",
       "url": "https://www.wsj.com/politics/policy/bernie-aoc-and-bannon-can-agree-on-one-thing-the-fight-against-data-centers-7f13159a",
       "title": "Bernie, AOC and Bannon Can Agree on One Thing: the Fight Against Data Centers",
       "content_text": "Bernie, AOC and Bannon Can Agree on One Thing: the Fight Against Data Centers",
+      "summary": "",
+      "date_published": "2026-09-03T01:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "6390221976f7869f",
+      "url": "https://www.wsj.com/politics/national-security/hegseth-extends-mideast-deployments-into-2027-escalating-strain-on-troops-c10fc533",
+      "title": "Hegseth Extends Mideast Deployments Into 2027, Escalating Strain on Troops",
+      "content_text": "Hegseth Extends Mideast Deployments Into 2027, Escalating Strain on Troops",
       "summary": "",
       "date_published": "2026-09-03T01:00:00+00:00",
       "tags": [
@@ -105,14 +215,14 @@
       ]
     },
     {
-      "id": "6390221976f7869f",
-      "url": "https://www.wsj.com/politics/national-security/hegseth-extends-mideast-deployments-into-2027-escalating-strain-on-troops-c10fc533",
-      "title": "Hegseth Extends Mideast Deployments Into 2027, Escalating Strain on Troops",
-      "content_text": "Hegseth Extends Mideast Deployments Into 2027, Escalating Strain on Troops",
+      "id": "ef5ec13aae91eda5",
+      "url": "https://www.wsj.com/world/asia/china-warships-japan-defense-10978aba",
+      "title": "Chinese Warships Are Cruising Too Close for Comfort Off Japan’s Shores",
+      "content_text": "Chinese Warships Are Cruising Too Close for Comfort Off Japan’s Shores",
       "summary": "",
       "date_published": "2026-09-03T01:00:00+00:00",
       "tags": [
-        "Politics"
+        "World"
       ]
     },
     {
@@ -938,6 +1048,17 @@
       "date_published": "2026-09-02T14:55:00+00:00",
       "tags": [
         "Lifestyle"
+      ]
+    },
+    {
+      "id": "b734a60016e88f5f",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026",
+      "title": "Stock Market Today: Treasury Yields Edge Lower, Yen Jumps",
+      "content_text": "Stock Market Today: Treasury Yields Edge Lower, Yen Jumps",
+      "summary": "",
+      "date_published": "2026-09-02T14:47:26+00:00",
+      "tags": [
+        "Front Page"
       ]
     },
     {
@@ -2082,127 +2203,6 @@
       "date_published": "2026-09-01T22:00:03+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "141392d227efa859",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/travis-kelce-ohio-home-550ef5fc",
-      "title": "Travis Kelce Buys Lakefront Ohio Home for $5.35 Million",
-      "content_text": "Travis Kelce Buys Lakefront Ohio Home for $5.35 Million",
-      "summary": "",
-      "date_published": "2026-09-01T21:56:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "5b111833d4ec82e1",
-      "url": "https://www.wsj.com/business/earnings/alimentation-couche-tard-first-quarter-profit-gains-on-fuel-sales-growth-7615dcb5",
-      "title": "Alimentation Couche-Tard First-Quarter Profit Gains on Fuel Sales Growth",
-      "content_text": "Alimentation Couche-Tard First-Quarter Profit Gains on Fuel Sales Growth",
-      "summary": "",
-      "date_published": "2026-09-01T21:45:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "434f30a6d6efa50c",
-      "url": "https://www.wsj.com/opinion/bond-market-yields-rise-government-debt-b7941611",
-      "title": "Hurray for the Bond Market",
-      "content_text": "Hurray for the Bond Market",
-      "summary": "",
-      "date_published": "2026-09-01T21:43:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "30ac337011abe86d",
-      "url": "https://www.wsj.com/opinion/supreme-court-donald-trump-ballroom-alison-hoagland-standing-29f937fe",
-      "title": "The Supreme Court’s Ballroom Standing",
-      "content_text": "The Supreme Court’s Ballroom Standing",
-      "summary": "",
-      "date_published": "2026-09-01T21:37:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "325d441e4a12a3e5",
-      "url": "https://www.wsj.com/opinion/germany-leipzig-airport-drone-russia-nato-iran-1df66c1e",
-      "title": "Germany Calls Out Putin’s ‘Hybrid’ War",
-      "content_text": "Germany Calls Out Putin’s ‘Hybrid’ War",
-      "summary": "",
-      "date_published": "2026-09-01T21:33:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "5438045498c9a0f2",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-01-2026/card/the-numbers-john-ternus-inherits-at-apple-y1MqEyoz9TtRGeLTpauo",
-      "title": "The Numbers John Ternus Inherits at Apple",
-      "content_text": "The Numbers John Ternus Inherits at Apple",
-      "summary": "",
-      "date_published": "2026-09-01T21:30:03+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "735208f4e1899ef2",
-      "url": "https://www.wsj.com/politics/policy/u-s-launches-new-strikes-on-iranian-targets-1a695368",
-      "title": "U.S. Launches New Strikes on Iranian Targets",
-      "content_text": "U.S. Launches New Strikes on Iranian Targets",
-      "summary": "",
-      "date_published": "2026-09-01T21:22:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "7ccde746d24a7d85",
-      "url": "https://www.wsj.com/tech/apple-updates-maps-to-show-lake-america-to-u-s-users-053d23ee",
-      "title": "Apple Updates Maps to Show Lake America to U.S. Users",
-      "content_text": "Apple Updates Maps to Show Lake America to U.S. Users",
-      "summary": "",
-      "date_published": "2026-09-01T21:14:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "732cca1a2e71d3bf",
-      "url": "https://www.wsj.com/opinion/when-ais-say-theyre-sentient-6b41c09a",
-      "title": "When AIs Say They’re Sentient",
-      "content_text": "When AIs Say They’re Sentient",
-      "summary": "",
-      "date_published": "2026-09-01T21:08:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "4fd3a61e1c17c820",
-      "url": "https://www.wsj.com/arts-culture/books/emily-benjamin-the-immortalists-under-story-6a2dd992",
-      "title": "Treatment for Her Debilitating Migraines Inspired This Author’s New Novel",
-      "content_text": "Treatment for Her Debilitating Migraines Inspired This Author’s New Novel",
-      "summary": "",
-      "date_published": "2026-09-01T21:07:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "e29bf07cc09d6595",
-      "url": "https://www.wsj.com/opinion/the-segal-issue-and-u-s-canada-trade-fb28bc6f",
-      "title": "The ‘Segal Issue’ and U.S.-Canada Trade",
-      "content_text": "The ‘Segal Issue’ and U.S.-Canada Trade",
-      "summary": "",
-      "date_published": "2026-09-01T21:07:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
