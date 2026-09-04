@@ -6,6 +6,72 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "a346173c8939b421",
+      "url": "https://www.wsj.com/business/former-labor-secretary-oversaw-a-toxic-intimidating-workplace-report-finds-a40521ec",
+      "title": "Former Labor Secretary Oversaw a ‘Toxic, Intimidating’ Workplace, Report Finds",
+      "content_text": "Former Labor Secretary Oversaw a ‘Toxic, Intimidating’ Workplace, Report Finds",
+      "summary": "",
+      "date_published": "2026-09-04T04:45:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "469d42c5912cd78e",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-5c6b4373",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-09-04T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "2b8dfb9d51de3136",
+      "url": "https://www.wsj.com/economy/japan-finance-minister-vows-to-keep-eye-on-fiscal-balance-fbe9ca41",
+      "title": "Japan Finance Minister Vows to Keep Eye on Fiscal Balance",
+      "content_text": "Japan Finance Minister Vows to Keep Eye on Fiscal Balance",
+      "summary": "",
+      "date_published": "2026-09-04T03:38:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "8adfccd8d40dded0",
+      "url": "https://www.wsj.com/tech/ai/the-deeply-nerdy-founders-behind-nvidias-13-billion-bet-on-hugging-face-3a4b5227",
+      "title": "The ‘Deeply Nerdy’ Founders Behind Nvidia’s $13 Billion Bet on Hugging Face",
+      "content_text": "The ‘Deeply Nerdy’ Founders Behind Nvidia’s $13 Billion Bet on Hugging Face",
+      "summary": "",
+      "date_published": "2026-09-04T02:18:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "76bfaf9ae5e66364",
+      "url": "https://www.wsj.com/world/ukraines-next-goal-is-to-shut-down-russias-commercial-airspace-6f9369d9",
+      "title": "Ukraine’s Next Goal Is to Shut Down Russia’s Commercial Airspace",
+      "content_text": "Ukraine’s Next Goal Is to Shut Down Russia’s Commercial Airspace",
+      "summary": "",
+      "date_published": "2026-09-04T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "fb1a30a165b4d14b",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-weaker-u-s-dollar-821f948d",
+      "title": "Gold Rises on Weaker U.S. Dollar",
+      "content_text": "Gold Rises on Weaker U.S. Dollar",
+      "summary": "",
+      "date_published": "2026-09-04T01:20:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "908a2955f02721b4",
       "url": "https://www.wsj.com/politics/policy/john-fetterman-little-interest-senator-be74e7a3",
       "title": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
@@ -2137,72 +2203,6 @@
       "date_published": "2026-09-02T19:51:00+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "a19d9887c71a1392",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026/card/one-great-chart-europe-is-running-low-on-natural-gas-2JhS98zGI4OWoe9o4uCV",
-      "title": "One Great Chart: Europe Is Running Low on Natural Gas",
-      "content_text": "One Great Chart: Europe Is Running Low on Natural Gas",
-      "summary": "",
-      "date_published": "2026-09-02T19:30:03+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "610663c5701bb9ef",
-      "url": "https://www.wsj.com/arts-culture/fine-art/christo-and-jeanne-claude-running-fence-at-50-years-review-commemorating-a-shimmering-spectacle-34227b3e",
-      "title": "‘Christo and Jeanne-Claude: Running Fence at 50 Years’ Review: Commemorating a Shimmering Spectacle",
-      "content_text": "‘Christo and Jeanne-Claude: Running Fence at 50 Years’ Review: Commemorating a Shimmering Spectacle",
-      "summary": "",
-      "date_published": "2026-09-02T19:18:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "867ef6464dc0d96b",
-      "url": "https://www.wsj.com/tech/cybersecurity/thoma-bravo-owned-proofpoint-in-talks-to-buy-cybersecurity-firm-varonis-a44f83d9",
-      "title": "Thoma Bravo-Owned Proofpoint in Advanced Talks to Buy Varonis",
-      "content_text": "Thoma Bravo-Owned Proofpoint in Advanced Talks to Buy Varonis",
-      "summary": "",
-      "date_published": "2026-09-02T19:08:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "251f9994b7f014db",
-      "url": "https://www.wsj.com/arts-culture/music/two-views-of-henry-threadgills-vision-0ea0a80c",
-      "title": "Two Views of Henry Threadgill’s Vision",
-      "content_text": "Two Views of Henry Threadgill’s Vision",
-      "summary": "",
-      "date_published": "2026-09-02T19:04:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "e8164f6c916a5559",
-      "url": "https://www.wsj.com/tech/ai/u-s-government-backs-openai-in-copyright-fight-with-publishers-64a0735b",
-      "title": "U.S. Government Backs OpenAI in Copyright Fight With Publishers",
-      "content_text": "U.S. Government Backs OpenAI in Copyright Fight With Publishers",
-      "summary": "",
-      "date_published": "2026-09-02T19:01:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "43e74e7d665f2d2c",
-      "url": "https://www.wsj.com/finance/commodities-futures/winter-is-approaching-and-europe-is-running-low-on-natural-gas-ee52167a",
-      "title": "Winter Is Approaching and Europe Is Running Low on Natural Gas",
-      "content_text": "Winter Is Approaching and Europe Is Running Low on Natural Gas",
-      "summary": "",
-      "date_published": "2026-09-02T18:39:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]
