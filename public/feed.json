@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "ea2eca5ce9f01c68",
+      "url": "https://www.wsj.com/politics/elections/trump-aligned-group-pouring-money-into-texas-for-ken-paxton-00778eec",
+      "title": "Trump-Aligned Group Pouring Money Into Texas for Ken Paxton",
+      "content_text": "Trump-Aligned Group Pouring Money Into Texas for Ken Paxton",
+      "summary": "",
+      "date_published": "2026-09-05T19:39:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "fdd06ebd21ddfcc5",
+      "url": "https://www.wsj.com/us-news/law/how-two-men-without-lawyers-got-their-cases-to-the-supreme-court-abb63eb0",
+      "title": "How Two Men Without Lawyers Got Their Cases to the Supreme Court",
+      "content_text": "How Two Men Without Lawyers Got Their Cases to the Supreme Court",
+      "summary": "",
+      "date_published": "2026-09-05T19:00:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
       "id": "970b8ff746c88e10",
       "url": "https://www.wsj.com/finance/the-next-big-opportunity-in-data-centers-insuring-them-f133f3cb",
       "title": "The Next Big Opportunity in Data Centers: Insuring Them",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-09-03T21:30:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "b4b75ae90ef48f74",
-      "url": "https://www.wsj.com/opinion/trump-picks-the-wrong-christian-charity-7f6a0aef",
-      "title": "Trump Picks the Wrong Christian Charity",
-      "content_text": "Trump Picks the Wrong Christian Charity",
-      "summary": "",
-      "date_published": "2026-09-03T21:29:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "bb1e25b010259d32",
-      "url": "https://www.wsj.com/opinion/make-mark-ruffalo-great-again-5639c2ff",
-      "title": "Make Mark Ruffalo Great Again",
-      "content_text": "Make Mark Ruffalo Great Again",
-      "summary": "",
-      "date_published": "2026-09-03T21:28:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
