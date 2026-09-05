@@ -1,5 +1,18 @@
 {
   "items": {
+    "0038b06dd019061e": {
+      "dek": "",
+      "first_seen": "2026-09-05T10:53:09.637974+00:00",
+      "guid": "0038b06dd019061e",
+      "published": "2026-09-05T10:30:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Elizabeth anne bernstein",
+      "title": "Elizabeth anne bernstein",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein"
+    },
     "0054bcd140b09e89": {
       "dek": "",
       "first_seen": "2026-09-03T23:13:39.213332+00:00",
@@ -91,19 +104,6 @@
       "title": "Travel Hacks You (Probably) Haven’t Heard Before",
       "url": "https://www.wsj.com/lifestyle/travel/travel-hacks-you-probably-havent-heard-before-0d125e65"
     },
-    "05d9df83be5e5a86": {
-      "dek": "",
-      "first_seen": "2026-09-03T20:55:39.003195+00:00",
-      "guid": "05d9df83be5e5a86",
-      "published": "2026-09-03T18:39:00+00:00",
-      "section": "Us News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "ICE Officer Charged With Lying About Shooting",
-      "title": "ICE Officer Charged With Lying About Shooting",
-      "url": "https://www.wsj.com/us-news/law/ice-officer-charged-with-lying-about-shooting-ba5f7aca"
-    },
     "0723a59ef110b4b4": {
       "dek": "",
       "first_seen": "2026-09-03T23:13:39.213332+00:00",
@@ -116,6 +116,19 @@
       "summary": "The $400,000 Keys That Get You Into Martha’s Vineyard’s Private Beaches",
       "title": "The $400,000 Keys That Get You Into Martha’s Vineyard’s Private Beaches",
       "url": "https://www.wsj.com/real-estate/luxury-homes/marthas-vineyard-beach-keys-1897aade"
+    },
+    "096a546da41df067": {
+      "dek": "",
+      "first_seen": "2026-09-05T10:53:09.637974+00:00",
+      "guid": "096a546da41df067",
+      "published": "2026-09-05T09:30:00+00:00",
+      "section": "Lifestyle",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Porsche Cayenne Turbo EV is Quiet, Composed and Terrifyingly Fast",
+      "title": "The Porsche Cayenne Turbo EV is Quiet, Composed and Terrifyingly Fast",
+      "url": "https://www.wsj.com/lifestyle/cars/porsche-cayenne-turbo-electric-65ceac23"
     },
     "0ad3df226defced5": {
       "dek": "",
@@ -233,19 +246,6 @@
       "summary": "Zscaler Loss Narrows As Revenue Soars, Boosted by AI",
       "title": "Zscaler Loss Narrows As Revenue Soars, Boosted by AI",
       "url": "https://www.wsj.com/business/earnings/zscaler-loss-narrows-as-revenue-soars-boosted-by-ai-8dceaf02"
-    },
-    "18314709ceeda3aa": {
-      "dek": "",
-      "first_seen": "2026-09-03T20:55:39.003195+00:00",
-      "guid": "18314709ceeda3aa",
-      "published": "2026-09-03T17:50:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Handouts for Hollywood—Really?",
-      "title": "Handouts for Hollywood—Really?",
-      "url": "https://www.wsj.com/opinion/donald-trump-hollywood-subsidies-movies-tv-show-production-jobs-b2ee8b3c"
     },
     "1f23871c5d436895": {
       "dek": "",
@@ -376,6 +376,19 @@
       "summary": "Volkswagen Aims to Revive U.S. Business",
       "title": "Volkswagen Aims to Revive U.S. Business",
       "url": "https://www.wsj.com/logistics-report/volkswagen-aims-to-revive-u-s-business-492ff7da"
+    },
+    "296114b27a8568ac": {
+      "dek": "",
+      "first_seen": "2026-09-05T10:53:09.637974+00:00",
+      "guid": "296114b27a8568ac",
+      "published": "2026-09-05T10:00:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "News Quiz for September 5, 2026",
+      "title": "News Quiz for September 5, 2026",
+      "url": "https://www.wsj.com/business/media/news-quiz-for-september-5-2026-fa84dae0"
     },
     "2a669b4010f4498c": {
       "dek": "",
@@ -519,19 +532,6 @@
       "summary": "Can U.S. Growth Outrun Mounting Debt?",
       "title": "Can U.S. Growth Outrun Mounting Debt?",
       "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/can-u-s-growth-outrun-mounting-debt--0rLBAtswOBnZDWSBfBME"
-    },
-    "375d369342fdea8e": {
-      "dek": "",
-      "first_seen": "2026-09-03T20:55:39.003195+00:00",
-      "guid": "375d369342fdea8e",
-      "published": "2026-09-03T18:00:00+00:00",
-      "section": "Style",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The ‘Claw Grip’ Goes Glam",
-      "title": "The ‘Claw Grip’ Goes Glam",
-      "url": "https://www.wsj.com/style/fashion/fall-statement-rings-e626a804"
     },
     "37ca7d4140aeb850": {
       "dek": "",
@@ -689,19 +689,6 @@
       "title": "Pepper…and Salt",
       "url": "https://www.wsj.com/opinion/pepperand-salt-5c6b4373"
     },
-    "4704b677a47c0cdb": {
-      "dek": "",
-      "first_seen": "2026-09-03T20:55:39.003195+00:00",
-      "guid": "4704b677a47c0cdb",
-      "published": "2026-09-03T17:46:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Maria Bartiromo Out at Fox News",
-      "title": "Maria Bartiromo Out at Fox News",
-      "url": "https://www.wsj.com/business/media/maria-bartiromo-out-at-fox-news-83dbb6ac"
-    },
     "49d355d69bcd568f": {
       "dek": "",
       "first_seen": "2026-09-04T01:18:15.327545+00:00",
@@ -753,19 +740,6 @@
       "summary": "The NFL’s $230 Million Bust Is Now Its Bargain Reclamation Project",
       "title": "The NFL’s $230 Million Bust Is Now Its Bargain Reclamation Project",
       "url": "https://www.wsj.com/sports/football/kyler-murray-vikings-5e279723"
-    },
-    "525a2b04a6326ce4": {
-      "dek": "",
-      "first_seen": "2026-09-03T20:55:39.003195+00:00",
-      "guid": "525a2b04a6326ce4",
-      "published": "2026-09-03T17:45:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Lessons From Clinton to Cut Child Poverty",
-      "title": "Lessons From Clinton to Cut Child Poverty",
-      "url": "https://www.wsj.com/opinion/lessons-from-clinton-to-cut-child-poverty-eb0883ef"
     },
     "52b74bc7a2a3ba97": {
       "dek": "",
@@ -832,19 +806,6 @@
       "title": "Trump Lauds Jobs Report, Says the Fed Should Lower Rates",
       "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/trump-lauds-jobs-report-says-the-fed-should-lower-rates-8aisvTaO7w1wxeGX02RP"
     },
-    "55e921349166a7b2": {
-      "dek": "",
-      "first_seen": "2026-09-03T20:55:39.003195+00:00",
-      "guid": "55e921349166a7b2",
-      "published": "2026-09-03T17:47:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Tolstoy’s Debt Crisis: Each Country Unhappy in Its Own Way",
-      "title": "Tolstoy’s Debt Crisis: Each Country Unhappy in Its Own Way",
-      "url": "https://www.wsj.com/opinion/tolstoys-debt-crisis-each-country-unhappy-in-its-own-way-acaa8705"
-    },
     "56a4357801fc9e3f": {
       "dek": "",
       "first_seen": "2026-09-04T11:41:20.508548+00:00",
@@ -910,6 +871,19 @@
       "title": "Stocks Slump Amid Fears of Rate Hikes Ahead",
       "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/stocks-slump-after-jobs-report-opqDNlVchW2Be9MHwNbT"
     },
+    "5a885d497fa8a917": {
+      "dek": "",
+      "first_seen": "2026-09-05T10:53:09.637974+00:00",
+      "guid": "5a885d497fa8a917",
+      "published": "2026-09-05T10:30:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The saturday interview",
+      "title": "The saturday interview",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview"
+    },
     "5bbff59705a31dda": {
       "dek": "",
       "first_seen": "2026-09-04T16:15:45.123315+00:00",
@@ -922,6 +896,32 @@
       "summary": "U.K.’s Reform Party Hit With Fresh Funding Allegations",
       "title": "U.K.’s Reform Party Hit With Fresh Funding Allegations",
       "url": "https://www.wsj.com/world/europe/u-k-s-reform-party-hit-with-fresh-funding-allegations-fc4cd7d2"
+    },
+    "5bde10fa9f9b2a36": {
+      "dek": "",
+      "first_seen": "2026-09-05T10:53:09.637974+00:00",
+      "guid": "5bde10fa9f9b2a36",
+      "published": "2026-09-05T10:30:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Kimberley a strassel",
+      "title": "Kimberley a strassel",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel"
+    },
+    "5c629710f85bc477": {
+      "dek": "",
+      "first_seen": "2026-09-05T10:53:09.637974+00:00",
+      "guid": "5c629710f85bc477",
+      "published": "2026-09-05T09:00:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Vance Called AI Satanic. He Struck a Chord Among Christian Republicans.",
+      "title": "Vance Called AI Satanic. He Struck a Chord Among Christian Republicans.",
+      "url": "https://www.wsj.com/tech/ai/vance-called-ai-satanic-he-struck-a-chord-among-christian-republicans-dcc34048"
     },
     "5db2bfbb718eb8b6": {
       "dek": "",
@@ -987,6 +987,19 @@
       "summary": "Can a $499 AI Toothbrush Finally Make You Forget About Flossing?",
       "title": "Can a $499 AI Toothbrush Finally Make You Forget About Flossing?",
       "url": "https://www.wsj.com/tech/personal-tech/can-a-499-ai-toothbrush-finally-make-you-forget-about-flossing-e2b108c1"
+    },
+    "67a229f9726f9141": {
+      "dek": "",
+      "first_seen": "2026-09-05T10:53:09.637974+00:00",
+      "guid": "67a229f9726f9141",
+      "published": "2026-09-05T10:30:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Real estate commercial",
+      "title": "Real estate commercial",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial"
     },
     "6c9cea2b309adbdd": {
       "dek": "",
@@ -1144,6 +1157,19 @@
       "title": "U.S. Stock Futures, Treasurys Little Moved Ahead of Jobs Data",
       "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-treasurys-little-moved-ahead-of-jobs-data-36dab277"
     },
+    "7edb4c1b3acfcc8a": {
+      "dek": "",
+      "first_seen": "2026-09-05T10:53:09.637974+00:00",
+      "guid": "7edb4c1b3acfcc8a",
+      "published": "2026-09-05T10:30:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Mary anastasia ogrady",
+      "title": "Mary anastasia ogrady",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady"
+    },
     "7f908e4b79c9d962": {
       "dek": "",
       "first_seen": "2026-09-03T23:13:39.213332+00:00",
@@ -1260,19 +1286,6 @@
       "summary": "‘Inside the George W. Bush White House’ Review: Teammates and Rivals",
       "title": "‘Inside the George W. Bush White House’ Review: Teammates and Rivals",
       "url": "https://www.wsj.com/arts-culture/books/inside-the-george-w-bush-white-house-review-teammates-and-rivals-516a73f2"
-    },
-    "8708284f1918eae5": {
-      "dek": "",
-      "first_seen": "2026-09-03T20:55:39.003195+00:00",
-      "guid": "8708284f1918eae5",
-      "published": "2026-09-03T18:29:00+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "‘Onslaught’ Review: Mom vs. Super-Soldiers",
-      "title": "‘Onslaught’ Review: Mom vs. Super-Soldiers",
-      "url": "https://www.wsj.com/arts-culture/film/onslaught-review-mom-vs-super-soldiers-a63266eb"
     },
     "8734e829f10c5139": {
       "dek": "",
@@ -1494,19 +1507,6 @@
       "summary": "The 33-Year-Old AI Hotshot Taking Silicon Valley Swagger Back to Beijing",
       "title": "The 33-Year-Old AI Hotshot Taking Silicon Valley Swagger Back to Beijing",
       "url": "https://www.wsj.com/tech/ai/moonshot-ai-yang-ceo-china-6f12ddbf"
-    },
-    "98b951b14b84fa99": {
-      "dek": "",
-      "first_seen": "2026-09-03T20:55:39.003195+00:00",
-      "guid": "98b951b14b84fa99",
-      "published": "2026-09-03T18:09:00+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "‘Marble Hall Murders’ Review: Overlapping Mysteries on PBS",
-      "title": "‘Marble Hall Murders’ Review: Overlapping Mysteries on PBS",
-      "url": "https://www.wsj.com/arts-culture/television/marble-hall-murders-review-overlapping-mysteries-on-pbs-40af99f6"
     },
     "99349d3df2c857b4": {
       "dek": "",
@@ -1781,19 +1781,6 @@
       "title": "Record Fuel Prices Pose Fresh Challenge for Trump Ahead of Midterms",
       "url": "https://www.wsj.com/business/energy-oil/record-fuel-prices-pose-fresh-challenge-for-trump-ahead-of-midterms-fb433718"
     },
-    "b4e2427a58bb7293": {
-      "dek": "",
-      "first_seen": "2026-09-03T20:55:39.003195+00:00",
-      "guid": "b4e2427a58bb7293",
-      "published": "2026-09-03T18:04:55+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Bitcoin Retakes $80,000 as Bond Yields Retreat",
-      "title": "Bitcoin Retakes $80,000 as Bond Yields Retreat",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026/card/bitcoin-retakes-80-000-as-bond-yields-retreat-xkdGfggiRLghCBBxB9k5"
-    },
     "b5ee140120cd8d63": {
       "dek": "",
       "first_seen": "2026-09-05T01:20:41.425922+00:00",
@@ -2014,19 +2001,6 @@
       "summary": "Stocks to Watch: Volkswagen, Lululemon, AMC",
       "title": "Stocks to Watch: Volkswagen, Lululemon, AMC",
       "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/stocks-to-watch-volkswagen-lululemon-amc-hckSUh7fSpTgHLWgPDdS"
-    },
-    "c736692bd4089712": {
-      "dek": "",
-      "first_seen": "2026-09-03T20:55:39.003195+00:00",
-      "guid": "c736692bd4089712",
-      "published": "2026-09-03T18:13:00+00:00",
-      "section": "Us News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Mamdani’s Chief Antagonist Is a Litigator Who Stared Down the Mob",
-      "title": "Mamdani’s Chief Antagonist Is a Litigator Who Stared Down the Mob",
-      "url": "https://www.wsj.com/us-news/mamdanis-chief-antagonist-is-a-litigator-who-stared-down-the-mob-6587c1cf"
     },
     "c7e480583f8ad0fd": {
       "dek": "",
@@ -2313,6 +2287,32 @@
       "summary": "America 250 calendar ways to celebrate the nation across the nation airdigital",
       "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
       "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23"
+    },
+    "dec4f1fb8f9ca7c2": {
+      "dek": "",
+      "first_seen": "2026-09-05T10:53:09.637974+00:00",
+      "guid": "dec4f1fb8f9ca7c2",
+      "published": "2026-09-05T09:30:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Young People See a Different America Than Older People. Where Do You Fit In?",
+      "title": "Young People See a Different America Than Older People. Where Do You Fit In?",
+      "url": "https://www.wsj.com/politics/young-people-see-a-different-america-than-older-people-where-do-you-fit-in-571f768c"
+    },
+    "e05db84e94622605": {
+      "dek": "",
+      "first_seen": "2026-09-05T10:53:09.637974+00:00",
+      "guid": "e05db84e94622605",
+      "published": "2026-09-05T09:30:00+00:00",
+      "section": "Us News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "How One Woman Was Caught in Epstein’s ‘Cult’—and Escaped",
+      "title": "How One Woman Was Caught in Epstein’s ‘Cult’—and Escaped",
+      "url": "https://www.wsj.com/us-news/how-one-woman-was-caught-in-epsteins-cultand-escaped-6f34edec"
     },
     "e35e5970dc51ff9b": {
       "dek": "",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/cfo-journal/french-founders-of-hugging-face-live-the-american-dream-1525ecca"
     }
   },
-  "updated": "2026-09-05T06:16:35.850812+00:00"
+  "updated": "2026-09-05T10:53:09.656650+00:00"
 }
