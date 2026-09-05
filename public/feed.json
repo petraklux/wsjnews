@@ -6,6 +6,83 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
+      "summary": "",
+      "date_published": "2026-09-05T06:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-09-05T06:00:19+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "dea6ec2569a2d42b",
+      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
+      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "summary": "",
+      "date_published": "2026-09-05T06:00:19+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "d6c61e4c7e4ddcd8",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-072ce43f",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-09-05T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "8734e829f10c5139",
+      "url": "https://www.wsj.com/world/russia/why-putins-friends-are-now-confronting-him-over-the-war-7b955852",
+      "title": "Why Putin’s Friends Are Now Confronting Him Over the War",
+      "content_text": "Why Putin’s Friends Are Now Confronting Him Over the War",
+      "summary": "",
+      "date_published": "2026-09-05T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "8333fe3c829127c9",
+      "url": "https://www.wsj.com/finance/currencies/for-many-individual-traders-prediction-markets-are-hotand-crypto-is-not-bef27e3d",
+      "title": "For Many Individual Traders, Prediction Markets Are Hot—and Crypto Is Not",
+      "content_text": "For Many Individual Traders, Prediction Markets Are Hot—and Crypto Is Not",
+      "summary": "",
+      "date_published": "2026-09-05T02:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "b5ee140120cd8d63",
+      "url": "https://www.wsj.com/economy/jobs/american-workers-have-slammed-the-brakes-on-switching-jobs-767c45d1",
+      "title": "American Workers Have Slammed the Brakes on Switching Jobs",
+      "content_text": "American Workers Have Slammed the Brakes on Switching Jobs",
+      "summary": "",
+      "date_published": "2026-09-05T01:00:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
       "id": "cc2d0f6332af3dae",
       "url": "https://www.wsj.com/world/middle-east/time-is-no-longer-on-irans-side-in-the-battle-of-the-blockades-e47b657d",
       "title": "Time Is No Longer on Iran’s Side in the Battle of the Blockades",
@@ -28,14 +105,14 @@
       ]
     },
     {
-      "id": "b5ee140120cd8d63",
-      "url": "https://www.wsj.com/economy/jobs/american-workers-have-slammed-the-brakes-on-switching-jobs-767c45d1",
-      "title": "American Workers Have Slammed the Brakes on Switching Jobs",
-      "content_text": "American Workers Have Slammed the Brakes on Switching Jobs",
+      "id": "52b74bc7a2a3ba97",
+      "url": "https://www.wsj.com/politics/elections/the-nfl-sideline-reporter-trading-broadcasting-for-a-high-stakes-senate-run-c5d87109",
+      "title": "The NFL Sideline Reporter Trading Broadcasting for a High-Stakes Senate Run",
+      "content_text": "The NFL Sideline Reporter Trading Broadcasting for a High-Stakes Senate Run",
       "summary": "",
-      "date_published": "2026-09-05T01:00:00+00:00",
+      "date_published": "2026-09-05T00:00:00+00:00",
       "tags": [
-        "Economy"
+        "Politics"
       ]
     },
     {
@@ -47,17 +124,6 @@
       "date_published": "2026-09-05T00:00:00+00:00",
       "tags": [
         "Real Estate"
-      ]
-    },
-    {
-      "id": "52b74bc7a2a3ba97",
-      "url": "https://www.wsj.com/politics/elections/the-nfl-sideline-reporter-trading-broadcasting-for-a-high-stakes-senate-run-c5d87109",
-      "title": "The NFL Sideline Reporter Trading Broadcasting for a High-Stakes Senate Run",
-      "content_text": "The NFL Sideline Reporter Trading Broadcasting for a High-Stakes Senate Run",
-      "summary": "",
-      "date_published": "2026-09-05T00:00:00+00:00",
-      "tags": [
-        "Politics"
       ]
     },
     {
@@ -2137,72 +2203,6 @@
       "date_published": "2026-09-03T17:45:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "86660a2d5d7f4a7d",
-      "url": "https://www.wsj.com/politics/shock-defections-challenge-top-democrat-hakeem-jeffries-3d6282be",
-      "title": "Shock Defections Challenge Top Democrat Hakeem Jeffries",
-      "content_text": "Shock Defections Challenge Top Democrat Hakeem Jeffries",
-      "summary": "",
-      "date_published": "2026-09-03T17:37:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
-      "summary": "",
-      "date_published": "2026-09-03T17:30:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "5a885d497fa8a917",
-      "url": "https://www.wsj.com/news/types/the-saturday-interview",
-      "title": "The saturday interview",
-      "content_text": "The saturday interview",
-      "summary": "",
-      "date_published": "2026-09-03T17:30:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
-      "summary": "",
-      "date_published": "2026-09-03T17:30:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "67a229f9726f9141",
-      "url": "https://www.wsj.com/news/markets/real-estate-commercial",
-      "title": "Real estate commercial",
-      "content_text": "Real estate commercial",
-      "summary": "",
-      "date_published": "2026-09-03T17:30:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
-      "summary": "",
-      "date_published": "2026-09-03T17:30:19+00:00",
-      "tags": [
-        "News"
       ]
     }
   ]
