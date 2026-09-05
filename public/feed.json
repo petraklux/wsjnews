@@ -6,21 +6,87 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
+      "id": "7d2cc3f5387999ef",
+      "url": "https://www.wsj.com/tech/personal-tech/sextortion-scams-family-group-chats-537e8369",
+      "title": "Sextortion Has Entered the Family Group Chat",
+      "content_text": "Sextortion Has Entered the Family Group Chat",
       "summary": "",
-      "date_published": "2026-09-05T10:30:19+00:00",
+      "date_published": "2026-09-05T13:00:00+00:00",
       "tags": [
-        "News"
+        "Tech"
       ]
     },
     {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
+      "id": "56a74aac5d33bb55",
+      "url": "https://www.wsj.com/style/editors-letter-for-working-moms-the-beauty-is-in-the-blur-d3da2e80",
+      "title": "Editor’s Letter: For Working Moms, the Beauty Is in the Blur",
+      "content_text": "Editor’s Letter: For Working Moms, the Beauty Is in the Blur",
+      "summary": "",
+      "date_published": "2026-09-05T12:25:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
+      "id": "0aafd844cf8edb61",
+      "url": "https://www.wsj.com/cmo-today/college-footballs-newest-battleground-players-returning-from-the-pros-5d86bcc7",
+      "title": "College Football’s Newest Battleground: Players Returning From the Pros",
+      "content_text": "College Football’s Newest Battleground: Players Returning From the Pros",
+      "summary": "",
+      "date_published": "2026-09-05T11:55:00+00:00",
+      "tags": [
+        "Cmo Today"
+      ]
+    },
+    {
+      "id": "a29e3fd3d783851a",
+      "url": "https://www.wsj.com/lifestyle/travel/colleges-admit-students-who-havent-applied-02348b32",
+      "title": "Colleges Admit Students Who Haven’t Applied",
+      "content_text": "Colleges Admit Students Who Haven’t Applied",
+      "summary": "",
+      "date_published": "2026-09-05T11:50:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "24b500bb863e30fb",
+      "url": "https://www.wsj.com/articles/u-s-used-promise-of-nvidia-chips-to-help-secure-armenia-azerbaijan-peace-deal-8d51c76c",
+      "title": "U.S. Used Promise of Nvidia Chips to Help Secure Armenia-Azerbaijan Peace Deal",
+      "content_text": "U.S. Used Promise of Nvidia Chips to Help Secure Armenia-Azerbaijan Peace Deal",
+      "summary": "",
+      "date_published": "2026-09-05T11:04:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "aa7dfbf61587032e",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/stainless-steel-home-design-033509f5",
+      "title": "Stainless Steel Is Pricier and Trendier in the Home Than Ever",
+      "content_text": "Stainless Steel Is Pricier and Trendier in the Home Than Ever",
+      "summary": "",
+      "date_published": "2026-09-05T11:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "cf1a77b855e2c368",
+      "url": "https://www.wsj.com/arts-culture/fine-art/a-nation-of-artists-review-our-countrys-creativity-01caed44",
+      "title": "‘A Nation of Artists’ Review: Our Country’s Creativity",
+      "content_text": "‘A Nation of Artists’ Review: Our Country’s Creativity",
+      "summary": "",
+      "date_published": "2026-09-05T11:00:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
       "summary": "",
       "date_published": "2026-09-05T10:30:19+00:00",
       "tags": [
@@ -39,10 +105,10 @@
       ]
     },
     {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
       "summary": "",
       "date_published": "2026-09-05T10:30:19+00:00",
       "tags": [
@@ -61,6 +127,17 @@
       ]
     },
     {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-09-05T10:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
       "id": "296114b27a8568ac",
       "url": "https://www.wsj.com/business/media/news-quiz-for-september-5-2026-fa84dae0",
       "title": "News Quiz for September 5, 2026",
@@ -69,17 +146,6 @@
       "date_published": "2026-09-05T10:00:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "e05db84e94622605",
-      "url": "https://www.wsj.com/us-news/how-one-woman-was-caught-in-epsteins-cultand-escaped-6f34edec",
-      "title": "How One Woman Was Caught in Epstein’s ‘Cult’—and Escaped",
-      "content_text": "How One Woman Was Caught in Epstein’s ‘Cult’—and Escaped",
-      "summary": "",
-      "date_published": "2026-09-05T09:30:00+00:00",
-      "tags": [
-        "Us News"
       ]
     },
     {
@@ -102,6 +168,17 @@
       "date_published": "2026-09-05T09:30:00+00:00",
       "tags": [
         "Politics"
+      ]
+    },
+    {
+      "id": "e05db84e94622605",
+      "url": "https://www.wsj.com/us-news/how-one-woman-was-caught-in-epsteins-cultand-escaped-6f34edec",
+      "title": "How One Woman Was Caught in Epstein’s ‘Cult’—and Escaped",
+      "content_text": "How One Woman Was Caught in Epstein’s ‘Cult’—and Escaped",
+      "summary": "",
+      "date_published": "2026-09-05T09:30:00+00:00",
+      "tags": [
+        "Us News"
       ]
     },
     {
@@ -2126,83 +2203,6 @@
       "date_published": "2026-09-03T20:23:00+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "9505cff7692c3047",
-      "url": "https://www.wsj.com/finance/investing/stocks-climb-as-rate-hike-fears-ebb-9be555f7",
-      "title": "Stocks Climb As Rate Hike Fears Ebb",
-      "content_text": "Stocks Climb As Rate Hike Fears Ebb",
-      "summary": "",
-      "date_published": "2026-09-03T20:19:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "a06461dbd0f4b714",
-      "url": "https://www.wsj.com/business/earnings/docusign-raises-sales-view-on-higher-second-quarter-revenue-f41217a6",
-      "title": "Docusign Raises Sales View on Higher Second-Quarter Revenue",
-      "content_text": "Docusign Raises Sales View on Higher Second-Quarter Revenue",
-      "summary": "",
-      "date_published": "2026-09-03T20:19:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "03c223336dd799ee",
-      "url": "https://www.wsj.com/business/autos/volkswagen-board-approves-plan-to-cut-workforce-model-portfolio-ac933812",
-      "title": "Volkswagen Board Approves Plan to Cut Workforce, Model Portfolio",
-      "content_text": "Volkswagen Board Approves Plan to Cut Workforce, Model Portfolio",
-      "summary": "",
-      "date_published": "2026-09-03T20:16:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "c1ad41d534dd3abe",
-      "url": "https://www.wsj.com/us-news/law/many-litigants-try-to-challenge-trump-suing-him-isnt-so-easy-3fcad53e",
-      "title": "Many Litigants Try to Challenge Trump. Suing Him Isn’t So Easy.",
-      "content_text": "Many Litigants Try to Challenge Trump. Suing Him Isn’t So Easy.",
-      "summary": "",
-      "date_published": "2026-09-03T19:45:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "e787566fd8820ecc",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026/card/blackstone-s-giant-private-credit-fund-faces-more-redemptions-fIDZ1J8XA0Ushqxo8fjs",
-      "title": "Blackstone’s Giant Private Credit Fund Faces More Redemptions",
-      "content_text": "Blackstone’s Giant Private Credit Fund Faces More Redemptions",
-      "summary": "",
-      "date_published": "2026-09-03T19:40:47+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "1069eaac046475c2",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026/card/-money-quote-jd-vance-on-the-fed-s-next-move-T85QA7iFPhi0a8HaFclr",
-      "title": "💬 Money Quote: JD Vance on the Fed’s Next Move",
-      "content_text": "💬 Money Quote: JD Vance on the Fed’s Next Move",
-      "summary": "",
-      "date_published": "2026-09-03T19:22:09+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "63981aec21ce6f70",
-      "url": "https://www.wsj.com/politics/policy/vance-defends-friendship-with-trump-critic-tucker-carlson-925319dc",
-      "title": "Vance Defends Friendship With Trump Critic Tucker Carlson",
-      "content_text": "Vance Defends Friendship With Trump Critic Tucker Carlson",
-      "summary": "",
-      "date_published": "2026-09-03T18:55:00+00:00",
-      "tags": [
-        "Politics"
       ]
     }
   ]
