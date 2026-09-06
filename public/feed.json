@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "0b27c66917aa984e",
+      "url": "https://www.wsj.com/opinion/democrats-want-fetterman-on-a-pike-afbaea14",
+      "title": "Democrats Want Fetterman ‘on a Pike’",
+      "content_text": "Democrats Want Fetterman ‘on a Pike’",
+      "summary": "",
+      "date_published": "2026-09-06T17:43:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "0d7d48da2039a425",
+      "url": "https://www.wsj.com/opinion/sunshine-really-may-be-the-best-medicine-6b56eabd",
+      "title": "Sunshine Really May be the Best Medicine",
+      "content_text": "Sunshine Really May be the Best Medicine",
+      "summary": "",
+      "date_published": "2026-09-06T17:42:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
       "id": "077707e6cc035157",
       "url": "https://www.wsj.com/world/europe/germanys-right-wing-populists-on-course-for-historic-victory-56662408",
       "title": "Germany’s Far-Right Party On Course for Historic State Victory",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-09-04T01:20:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "908a2955f02721b4",
-      "url": "https://www.wsj.com/politics/policy/john-fetterman-little-interest-senator-be74e7a3",
-      "title": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
-      "content_text": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
-      "summary": "",
-      "date_published": "2026-09-04T01:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "9f83f40f9ed4258a",
-      "url": "https://www.wsj.com/world/middle-east/the-bahrain-grand-prixin-malaysia-war-is-ruining-the-year-for-the-wealthy-gulf-2e09772c",
-      "title": "The Bahrain Grand Prix…in Malaysia? War Is Ruining the Year for the Wealthy Gulf",
-      "content_text": "The Bahrain Grand Prix…in Malaysia? War Is Ruining the Year for the Wealthy Gulf",
-      "summary": "",
-      "date_published": "2026-09-04T01:00:00+00:00",
-      "tags": [
-        "World"
       ]
     }
   ]
