@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "162faa48ecf9de38",
+      "url": "https://www.wsj.com/world/middle-east/israel-west-bank-settlers-violence-palestinians-359a69a8",
+      "title": "The Violent Israeli Nomads Who Defy Law and Order in the Name of God",
+      "content_text": "The Violent Israeli Nomads Who Defy Law and Order in the Name of God",
+      "summary": "",
+      "date_published": "2026-09-06T01:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "43d5312dae6c5742",
+      "url": "https://www.wsj.com/finance/regulation/how-billions-in-iranian-money-passes-through-u-s-banks-69106989",
+      "title": "How Billions in Iranian Money Passes Through U.S. Banks",
+      "content_text": "How Billions in Iranian Money Passes Through U.S. Banks",
+      "summary": "",
+      "date_published": "2026-09-06T01:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "906cca36728014f2",
+      "url": "https://www.wsj.com/us-news/jersey-city-is-growing-fast-so-why-is-it-in-such-a-financial-mess-508d126b",
+      "title": "Jersey City Is Growing Fast. So Why Is It in Such a Financial Mess?",
+      "content_text": "Jersey City Is Growing Fast. So Why Is It in Such a Financial Mess?",
+      "summary": "",
+      "date_published": "2026-09-06T00:00:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "33a91dd84c8f4d54",
+      "url": "https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f",
+      "title": "The AI Shift Turning Everyday Investors Into Mini Quant Funds",
+      "content_text": "The AI Shift Turning Everyday Investors Into Mini Quant Funds",
+      "summary": "",
+      "date_published": "2026-09-06T00:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
       "id": "ea2eca5ce9f01c68",
       "url": "https://www.wsj.com/politics/elections/trump-aligned-group-pouring-money-into-texas-for-ken-paxton-00778eec",
       "title": "Trump-Aligned Group Pouring Money Into Texas for Ken Paxton",
@@ -2159,50 +2203,6 @@
       "date_published": "2026-09-03T21:39:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "0f25c9593d223753",
-      "url": "https://www.wsj.com/opinion/erin-piacenti-times-square-murder-bank-of-america-lexi-alexander-fd39ef9c",
-      "title": "A Murder in Times Square and a Sick Culture",
-      "content_text": "A Murder in Times Square and a Sick Culture",
-      "summary": "",
-      "date_published": "2026-09-03T21:38:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "cd81e45c5a23c46e",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026/card/oura-makes-ipo-paperwork-public-bRfD4TS5gb9GfkAhvcVQ",
-      "title": "Oura Makes IPO Paperwork Public",
-      "content_text": "Oura Makes IPO Paperwork Public",
-      "summary": "",
-      "date_published": "2026-09-03T21:34:13+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "6c9cea2b309adbdd",
-      "url": "https://www.wsj.com/opinion/theres-a-w-in-these-woods-577929e2",
-      "title": "There’s A&W in These Woods",
-      "content_text": "There’s A&W in These Woods",
-      "summary": "",
-      "date_published": "2026-09-03T21:30:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "fe85452f0a25389f",
-      "url": "https://www.wsj.com/finance/stocks/ouras-ipo-reveals-high-growth-for-smart-ring-maker-9ce3e4c9",
-      "title": "Oura’s IPO Reveals High Growth for Smart-Ring Maker",
-      "content_text": "Oura’s IPO Reveals High Growth for Smart-Ring Maker",
-      "summary": "",
-      "date_published": "2026-09-03T21:30:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]
