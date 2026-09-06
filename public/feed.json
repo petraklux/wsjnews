@@ -6,6 +6,61 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "3f4121d166b10b95",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-escalation-in-u-s-iran-conflict-aab0d7fb",
+      "title": "Oil Rises Amid Escalation in U.S.-Iran Conflict",
+      "content_text": "Oil Rises Amid Escalation in U.S.-Iran Conflict",
+      "summary": "",
+      "date_published": "2026-09-06T23:38:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "126d42d8ab016029",
+      "url": "https://www.wsj.com/personal-finance/retirement/pensions-were-on-the-brink-of-extinction-now-companies-are-bringing-them-back-81b009dc",
+      "title": "Pensions Were on the Brink of Extinction. Now Companies Are Bringing Them Back.",
+      "content_text": "Pensions Were on the Brink of Extinction. Now Companies Are Bringing Them Back.",
+      "summary": "",
+      "date_published": "2026-09-06T23:00:00+00:00",
+      "tags": [
+        "Personal Finance"
+      ]
+    },
+    {
+      "id": "4cf2cab9aebd78de",
+      "url": "https://www.wsj.com/opinion/school-choice-could-ease-the-fertility-crisis-265bdcb8",
+      "title": "School Choice Could Ease the Fertility Crisis",
+      "content_text": "School Choice Could Ease the Fertility Crisis",
+      "summary": "",
+      "date_published": "2026-09-06T22:30:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "efbc1e0fed44a509",
+      "url": "https://www.wsj.com/opinion/the-teamsters-return-to-ugly-type-bbc59b99",
+      "title": "The Teamsters Return to Ugly Type",
+      "content_text": "The Teamsters Return to Ugly Type",
+      "summary": "",
+      "date_published": "2026-09-06T22:29:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "82a4dfbf32d07f92",
+      "url": "https://www.wsj.com/opinion/the-afd-rises-on-the-german-right-c72372d2",
+      "title": "The AfD Rises on the German Right",
+      "content_text": "The AfD Rises on the German Right",
+      "summary": "",
+      "date_published": "2026-09-06T22:25:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
       "id": "218edbc730e212d4",
       "url": "https://www.wsj.com/us-news/amazon-cargo-plane-miami-runway-crash-52198128",
       "title": "Cargo Plane Overshoots Runway in Miami, Crashes Into Vehicles",
@@ -2148,61 +2203,6 @@
       "date_published": "2026-09-04T08:07:44+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "bef9c0aac58d2239",
-      "url": "https://www.wsj.com/finance/investing/norways-oil-fund-proposes-cut-to-government-bond-holdings-d930893f",
-      "title": "Norway’s Massive Oil Fund Proposes Selling Roughly $80 Billion in U.S. Treasurys",
-      "content_text": "Norway’s Massive Oil Fund Proposes Selling Roughly $80 Billion in U.S. Treasurys",
-      "summary": "",
-      "date_published": "2026-09-04T08:03:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "0dad7509aa296a42",
-      "url": "https://www.wsj.com/economy/german-factory-orders-climb-for-third-straight-month-dd9bc5de",
-      "title": "Soft Retail Sales Reveal Cracks in Eurozone Resilience to Energy Shock",
-      "content_text": "Soft Retail Sales Reveal Cracks in Eurozone Resilience to Energy Shock",
-      "summary": "",
-      "date_published": "2026-09-04T06:42:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "a346173c8939b421",
-      "url": "https://www.wsj.com/business/former-labor-secretary-oversaw-a-toxic-intimidating-workplace-report-finds-a40521ec",
-      "title": "Former Labor Secretary Oversaw a ‘Toxic, Intimidating’ Workplace, Report Finds",
-      "content_text": "Former Labor Secretary Oversaw a ‘Toxic, Intimidating’ Workplace, Report Finds",
-      "summary": "",
-      "date_published": "2026-09-04T04:45:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "469d42c5912cd78e",
-      "url": "https://www.wsj.com/opinion/pepperand-salt-5c6b4373",
-      "title": "Pepper…and Salt",
-      "content_text": "Pepper…and Salt",
-      "summary": "",
-      "date_published": "2026-09-04T04:00:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "2b8dfb9d51de3136",
-      "url": "https://www.wsj.com/economy/japan-finance-minister-vows-to-keep-eye-on-fiscal-balance-fbe9ca41",
-      "title": "Japan Finance Minister Vows to Keep Eye on Fiscal Balance",
-      "content_text": "Japan Finance Minister Vows to Keep Eye on Fiscal Balance",
-      "summary": "",
-      "date_published": "2026-09-04T03:38:00+00:00",
-      "tags": [
-        "Economy"
       ]
     }
   ]
