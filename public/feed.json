@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "4ca5ab1c4b34b62a",
+      "url": "https://www.wsj.com/lifestyle/travel/retirement-travel-japan-iowa-71c477db",
+      "title": "A Bike Trip in Japan Turned Us Into ‘Accidental Pilgrims’ in Retirement",
+      "content_text": "A Bike Trip in Japan Turned Us Into ‘Accidental Pilgrims’ in Retirement",
+      "summary": "",
+      "date_published": "2026-09-06T14:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "18675e6091e83e64",
+      "url": "https://www.wsj.com/personal-finance/how-to-break-it-to-your-parents-that-theyre-being-scammed-153f185a",
+      "title": "How to Break It to Your Parents That They’re Being Scammed",
+      "content_text": "How to Break It to Your Parents That They’re Being Scammed",
+      "summary": "",
+      "date_published": "2026-09-06T13:00:00+00:00",
+      "tags": [
+        "Personal Finance"
+      ]
+    },
+    {
+      "id": "f105fb0c363add53",
+      "url": "https://www.wsj.com/business/energy-oil/opec-allies-agree-to-keep-oil-output-steady-in-october-c7fceb83",
+      "title": "OPEC, Allies Agree to Keep Oil Output Steady in October",
+      "content_text": "OPEC, Allies Agree to Keep Oil Output Steady in October",
+      "summary": "",
+      "date_published": "2026-09-06T11:38:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "3f00c85eaae0b6c2",
+      "url": "https://www.wsj.com/sports/football/michigan-western-michigan-clock-hail-mary-08af1dbf",
+      "title": "Michigan Loses! Wait, Michigan Wins! College Football Rages Over Last Second Flip-Flop",
+      "content_text": "Michigan Loses! Wait, Michigan Wins! College Football Rages Over Last Second Flip-Flop",
+      "summary": "",
+      "date_published": "2026-09-06T11:34:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
       "id": "c316bee50d5d278a",
       "url": "https://www.wsj.com/tech/americas-own-banks-are-a-weak-link-in-the-campaign-to-cut-off-iran-53e1eb07",
       "title": "America’s Own Banks Are a Weak Link in the Campaign to Cut Off Iran",
@@ -2159,50 +2203,6 @@
       "date_published": "2026-09-04T00:24:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "2228a2e228690fee",
-      "url": "https://www.wsj.com/politics/national-security/trump-names-adam-telle-acting-army-secretary-after-driscoll-resignation-e236f4b1",
-      "title": "Trump Names Adam Telle Acting Army Secretary After Driscoll Resignation",
-      "content_text": "Trump Names Adam Telle Acting Army Secretary After Driscoll Resignation",
-      "summary": "",
-      "date_published": "2026-09-03T23:55:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "e35e5970dc51ff9b",
-      "url": "https://www.wsj.com/tech/musks-boring-co-pushes-investors-for-recruiting-business-help-6cff1c78",
-      "title": "Musk’s Boring Co. Pushes Investors for Recruiting, Business Help",
-      "content_text": "Musk’s Boring Co. Pushes Investors for Recruiting, Business Help",
-      "summary": "",
-      "date_published": "2026-09-03T23:53:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "49d355d69bcd568f",
-      "url": "https://www.wsj.com/business/autos/tesla-cybercabs-hit-austin-streets-in-expansion-of-robotaxi-service-e9845a55",
-      "title": "Tesla Cybercabs Hit Austin Streets in Expansion of Robotaxi Service",
-      "content_text": "Tesla Cybercabs Hit Austin Streets in Expansion of Robotaxi Service",
-      "summary": "",
-      "date_published": "2026-09-03T23:31:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "0723a59ef110b4b4",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/marthas-vineyard-beach-keys-1897aade",
-      "title": "The $400,000 Keys That Get You Into Martha’s Vineyard’s Private Beaches",
-      "content_text": "The $400,000 Keys That Get You Into Martha’s Vineyard’s Private Beaches",
-      "summary": "",
-      "date_published": "2026-09-03T23:00:00+00:00",
-      "tags": [
-        "Real Estate"
       ]
     }
   ]
