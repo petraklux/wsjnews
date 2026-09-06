@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "218edbc730e212d4",
+      "url": "https://www.wsj.com/us-news/amazon-cargo-plane-miami-runway-crash-52198128",
+      "title": "Cargo Plane Overshoots Runway in Miami, Crashes Into Vehicles",
+      "content_text": "Cargo Plane Overshoots Runway in Miami, Crashes Into Vehicles",
+      "summary": "",
+      "date_published": "2026-09-06T20:06:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "07c5d084cc14a2f0",
+      "url": "https://www.wsj.com/world/europe/trump-envoys-visit-ukraine-in-new-push-for-peace-talks-ee01b34e",
+      "title": "Trump Envoys Visit Ukraine in New Push for Peace Talks",
+      "content_text": "Trump Envoys Visit Ukraine in New Push for Peace Talks",
+      "summary": "",
+      "date_published": "2026-09-06T19:25:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "0b27c66917aa984e",
       "url": "https://www.wsj.com/opinion/democrats-want-fetterman-on-a-pike-afbaea14",
       "title": "Democrats Want Fetterman ‘on a Pike’",
@@ -1106,6 +1128,17 @@
       ]
     },
     {
+      "id": "c03c0b4dda70f8c8",
+      "url": "https://www.wsj.com/finance/currencies/yen-consolidates-likely-buoyed-by-prospects-of-hawkish-boj-rate-hike-b1eb9c38",
+      "title": "Yen consolidates likely buoyed by prospects of hawkish boj rate hike",
+      "content_text": "Yen consolidates likely buoyed by prospects of hawkish boj rate hike",
+      "summary": "",
+      "date_published": "2026-09-04T17:24:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "cd3cca8ade20f5bb",
       "url": "https://www.wsj.com/politics/democrats-assail-fetterman-after-wsj-report-9a60e499",
       "title": "Democrats Assail Fetterman After WSJ Report",
@@ -2170,39 +2203,6 @@
       "date_published": "2026-09-04T03:38:00+00:00",
       "tags": [
         "Economy"
-      ]
-    },
-    {
-      "id": "8adfccd8d40dded0",
-      "url": "https://www.wsj.com/tech/ai/the-deeply-nerdy-founders-behind-nvidias-13-billion-bet-on-hugging-face-3a4b5227",
-      "title": "The ‘Deeply Nerdy’ Founders Behind Nvidia’s $13 Billion Bet on Hugging Face",
-      "content_text": "The ‘Deeply Nerdy’ Founders Behind Nvidia’s $13 Billion Bet on Hugging Face",
-      "summary": "",
-      "date_published": "2026-09-04T02:18:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "76bfaf9ae5e66364",
-      "url": "https://www.wsj.com/world/ukraines-next-goal-is-to-shut-down-russias-commercial-airspace-6f9369d9",
-      "title": "Ukraine’s Next Goal Is to Shut Down Russia’s Commercial Airspace",
-      "content_text": "Ukraine’s Next Goal Is to Shut Down Russia’s Commercial Airspace",
-      "summary": "",
-      "date_published": "2026-09-04T02:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "fb1a30a165b4d14b",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-weaker-u-s-dollar-821f948d",
-      "title": "Gold Rises on Weaker U.S. Dollar",
-      "content_text": "Gold Rises on Weaker U.S. Dollar",
-      "summary": "",
-      "date_published": "2026-09-04T01:20:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]
