@@ -6,6 +6,72 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "077707e6cc035157",
+      "url": "https://www.wsj.com/world/europe/germanys-right-wing-populists-on-course-for-historic-victory-56662408",
+      "title": "Germany’s Far-Right Party On Course for Historic State Victory",
+      "content_text": "Germany’s Far-Right Party On Course for Historic State Victory",
+      "summary": "",
+      "date_published": "2026-09-06T16:28:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "a6dee4cb5cd7f350",
+      "url": "https://www.wsj.com/lifestyle/relationships/oreogate-viral-mom-chat-meanest-playground-3fcf52f1",
+      "title": "How the Mom Chat Became the Playground’s Meanest Arena",
+      "content_text": "How the Mom Chat Became the Playground’s Meanest Arena",
+      "summary": "",
+      "date_published": "2026-09-06T16:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "e22c1837e1dfdef6",
+      "url": "https://www.wsj.com/sports/football/lane-kiffin-lsu-clemson-57a44e3f",
+      "title": "The Latest Act from Lane Kiffin’s College Circus: Winning Actual Football Games",
+      "content_text": "The Latest Act from Lane Kiffin’s College Circus: Winning Actual Football Games",
+      "summary": "",
+      "date_published": "2026-09-06T16:00:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "bb67532080e4263a",
+      "url": "https://www.wsj.com/politics/policy/retail-investors-hand-control-of-stock-portfolios-to-ai-5e7f3f25",
+      "title": "Retail Investors Hand Control of Stock Portfolios to AI",
+      "content_text": "Retail Investors Hand Control of Stock Portfolios to AI",
+      "summary": "",
+      "date_published": "2026-09-06T15:56:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "abe795f10106c8cc",
+      "url": "https://www.wsj.com/politics/in-trumps-second-term-the-maga-merchandise-boom-is-going-bust-725bc43a",
+      "title": "In Trump’s Second Term, the MAGA Merchandise Boom Is Going Bust",
+      "content_text": "In Trump’s Second Term, the MAGA Merchandise Boom Is Going Bust",
+      "summary": "",
+      "date_published": "2026-09-06T15:17:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "1190a76a531cc156",
+      "url": "https://www.wsj.com/tech/whos-boring-now-b22edb19",
+      "title": "Who’s Boring Now?",
+      "content_text": "Who’s Boring Now?",
+      "summary": "",
+      "date_published": "2026-09-06T14:55:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
       "id": "4ca5ab1c4b34b62a",
       "url": "https://www.wsj.com/lifestyle/travel/retirement-travel-japan-iowa-71c477db",
       "title": "A Bike Trip in Japan Turned Us Into ‘Accidental Pilgrims’ in Retirement",
@@ -2137,72 +2203,6 @@
       "date_published": "2026-09-04T01:00:00+00:00",
       "tags": [
         "World"
-      ]
-    },
-    {
-      "id": "fc3c5b81442f1900",
-      "url": "https://www.wsj.com/business/energy-oil/why-big-oil-is-wary-of-trumps-foray-into-venezuelas-oil-patch-4ec1e72b",
-      "title": "Why Big Oil Is Wary of Trump’s Foray Into Venezuela’s Oil Patch",
-      "content_text": "Why Big Oil Is Wary of Trump’s Foray Into Venezuela’s Oil Patch",
-      "summary": "",
-      "date_published": "2026-09-04T01:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "3dc236f536f5dd1c",
-      "url": "https://www.wsj.com/politics/policy/missouri-supreme-court-rules-state-cant-use-redrawn-map-in-midterms-03cf9e41",
-      "title": "Missouri Supreme Court Rules State Can’t Use Redrawn Map in Midterms",
-      "content_text": "Missouri Supreme Court Rules State Can’t Use Redrawn Map in Midterms",
-      "summary": "",
-      "date_published": "2026-09-04T00:34:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "1fb92ae1a609108f",
-      "url": "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasurys-bf30140a",
-      "title": "JGBs Rise, Tracking Gains in U.S. Treasurys",
-      "content_text": "JGBs Rise, Tracking Gains in U.S. Treasurys",
-      "summary": "",
-      "date_published": "2026-09-04T00:33:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "c03c0b4dda70f8c8",
-      "url": "https://www.wsj.com/finance/currencies/yen-consolidates-likely-buoyed-by-prospects-of-hawkish-boj-rate-hike-b1eb9c38",
-      "title": "Yen Consolidates; Likely Buoyed by Prospects of Hawkish BOJ Rate Hike",
-      "content_text": "Yen Consolidates; Likely Buoyed by Prospects of Hawkish BOJ Rate Hike",
-      "summary": "",
-      "date_published": "2026-09-04T00:30:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "da6c9e312678a83d",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-elevated-supply-disruption-concerns-fa01461e",
-      "title": "Oil Rises Amid Elevated Supply-Disruption Concerns",
-      "content_text": "Oil Rises Amid Elevated Supply-Disruption Concerns",
-      "summary": "",
-      "date_published": "2026-09-04T00:27:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "ba2f5f87b3a915ee",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-5-led-by-tech-financial-stocks-83ddfeba",
-      "title": "Nikkei Rises 0.5%, Led by Tech, Financial Stocks",
-      "content_text": "Nikkei Rises 0.5%, Led by Tech, Financial Stocks",
-      "summary": "",
-      "date_published": "2026-09-04T00:24:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]
