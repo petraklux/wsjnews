@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "935253a2d6f7d9b1",
+      "url": "https://www.wsj.com/lifestyle/travel/at-taiwans-temples-a-glimpse-of-what-china-could-have-been-156c8126",
+      "title": "At Taiwan’s Temples, a Glimpse of What China Could Have Been",
+      "content_text": "At Taiwan’s Temples, a Glimpse of What China Could Have Been",
+      "summary": "",
+      "date_published": "2026-09-06T03:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "73b3e1f4235ebe86",
+      "url": "https://www.wsj.com/world/europe/ukraine-considers-legalizing-porn-industry-to-fund-its-war-chest-53b525bf",
+      "title": "Ukraine Considers Legalizing Porn Industry to Fund Its War Chest",
+      "content_text": "Ukraine Considers Legalizing Porn Industry to Fund Its War Chest",
+      "summary": "",
+      "date_published": "2026-09-06T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "162faa48ecf9de38",
       "url": "https://www.wsj.com/world/middle-east/israel-west-bank-settlers-violence-palestinians-359a69a8",
       "title": "The Violent Israeli Nomads Who Defy Law and Order in the Name of God",
@@ -28,17 +50,6 @@
       ]
     },
     {
-      "id": "906cca36728014f2",
-      "url": "https://www.wsj.com/us-news/jersey-city-is-growing-fast-so-why-is-it-in-such-a-financial-mess-508d126b",
-      "title": "Jersey City Is Growing Fast. So Why Is It in Such a Financial Mess?",
-      "content_text": "Jersey City Is Growing Fast. So Why Is It in Such a Financial Mess?",
-      "summary": "",
-      "date_published": "2026-09-06T00:00:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
       "id": "33a91dd84c8f4d54",
       "url": "https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f",
       "title": "The AI Shift Turning Everyday Investors Into Mini Quant Funds",
@@ -47,6 +58,17 @@
       "date_published": "2026-09-06T00:00:00+00:00",
       "tags": [
         "Tech"
+      ]
+    },
+    {
+      "id": "906cca36728014f2",
+      "url": "https://www.wsj.com/us-news/jersey-city-is-growing-fast-so-why-is-it-in-such-a-financial-mess-508d126b",
+      "title": "Jersey City Is Growing Fast. So Why Is It in Such a Financial Mess?",
+      "content_text": "Jersey City Is Growing Fast. So Why Is It in Such a Financial Mess?",
+      "summary": "",
+      "date_published": "2026-09-06T00:00:00+00:00",
+      "tags": [
+        "Us News"
       ]
     },
     {
@@ -2181,28 +2203,6 @@
       "date_published": "2026-09-03T21:45:00+00:00",
       "tags": [
         "Politics"
-      ]
-    },
-    {
-      "id": "2a669b4010f4498c",
-      "url": "https://www.wsj.com/opinion/data-centers-wages-jobs-loudoun-county-virginia-c6737c59",
-      "title": "The Data-Center Dividend for Workers",
-      "content_text": "The Data-Center Dividend for Workers",
-      "summary": "",
-      "date_published": "2026-09-03T21:40:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "7f908e4b79c9d962",
-      "url": "https://www.wsj.com/opinion/bureaucrats-beyond-the-beltway-136ab8c6",
-      "title": "Bureaucrats Beyond the Beltway",
-      "content_text": "Bureaucrats Beyond the Beltway",
-      "summary": "",
-      "date_published": "2026-09-03T21:39:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]

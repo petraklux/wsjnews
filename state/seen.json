@@ -377,19 +377,6 @@
       "title": "News Quiz for September 5, 2026",
       "url": "https://www.wsj.com/business/media/news-quiz-for-september-5-2026-fa84dae0"
     },
-    "2a669b4010f4498c": {
-      "dek": "",
-      "first_seen": "2026-09-03T23:13:39.213332+00:00",
-      "guid": "2a669b4010f4498c",
-      "published": "2026-09-03T21:40:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Data-Center Dividend for Workers",
-      "title": "The Data-Center Dividend for Workers",
-      "url": "https://www.wsj.com/opinion/data-centers-wages-jobs-loudoun-county-virginia-c6737c59"
-    },
     "2b8dfb9d51de3136": {
       "dek": "",
       "first_seen": "2026-09-04T06:30:11.916322+00:00",
@@ -1092,6 +1079,19 @@
       "title": "‘Frederick Douglass’s American Founding’ and ‘Until the Last Yoke Is Broken’: A Foundational Question",
       "url": "https://www.wsj.com/arts-culture/books/frederick-douglasss-american-founding-and-until-the-last-yoke-is-broken-a-foundational-question-b349a1b1"
     },
+    "73b3e1f4235ebe86": {
+      "dek": "",
+      "first_seen": "2026-09-06T06:27:51.060176+00:00",
+      "guid": "73b3e1f4235ebe86",
+      "published": "2026-09-06T02:00:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Ukraine Considers Legalizing Porn Industry to Fund Its War Chest",
+      "title": "Ukraine Considers Legalizing Porn Industry to Fund Its War Chest",
+      "url": "https://www.wsj.com/world/europe/ukraine-considers-legalizing-porn-industry-to-fund-its-war-chest-53b525bf"
+    },
     "74652c659bb4e278": {
       "dek": "",
       "first_seen": "2026-09-04T19:06:03.666290+00:00",
@@ -1208,19 +1208,6 @@
       "summary": "Mary anastasia ogrady",
       "title": "Mary anastasia ogrady",
       "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady"
-    },
-    "7f908e4b79c9d962": {
-      "dek": "",
-      "first_seen": "2026-09-03T23:13:39.213332+00:00",
-      "guid": "7f908e4b79c9d962",
-      "published": "2026-09-03T21:39:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Bureaucrats Beyond the Beltway",
-      "title": "Bureaucrats Beyond the Beltway",
-      "url": "https://www.wsj.com/opinion/bureaucrats-beyond-the-beltway-136ab8c6"
     },
     "826e3ad7cf70ae39": {
       "dek": "",
@@ -1455,6 +1442,19 @@
       "summary": "Trump Administration Again Asks Supreme Court to Allow New Mail Voting Rules",
       "title": "Trump Administration Again Asks Supreme Court to Allow New Mail Voting Rules",
       "url": "https://www.wsj.com/politics/policy/trump-administration-again-asks-supreme-court-to-allow-new-mail-voting-rules-ebc2e40c"
+    },
+    "935253a2d6f7d9b1": {
+      "dek": "",
+      "first_seen": "2026-09-06T06:27:51.060176+00:00",
+      "guid": "935253a2d6f7d9b1",
+      "published": "2026-09-06T03:00:00+00:00",
+      "section": "Lifestyle",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "At Taiwan’s Temples, a Glimpse of What China Could Have Been",
+      "title": "At Taiwan’s Temples, a Glimpse of What China Could Have Been",
+      "url": "https://www.wsj.com/lifestyle/travel/at-taiwans-temples-a-glimpse-of-what-china-could-have-been-156c8126"
     },
     "9361325256f3f051": {
       "dek": "",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/cfo-journal/french-founders-of-hugging-face-live-the-american-dream-1525ecca"
     }
   },
-  "updated": "2026-09-06T01:17:50.295082+00:00"
+  "updated": "2026-09-06T06:27:51.083536+00:00"
 }
