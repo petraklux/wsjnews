@@ -6,6 +6,149 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "5089dd4e99207e4b",
+      "url": "https://www.wsj.com/economy/global/eurozone-economy-surged-as-war-ignited-energy-prices-29e7eb10",
+      "title": "Eurozone Economy Surged as War Ignited Energy Prices",
+      "content_text": "Eurozone Economy Surged as War Ignited Energy Prices",
+      "summary": "",
+      "date_published": "2026-09-07T09:35:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "cf3c647004854cb2",
+      "url": "https://www.wsj.com/real-estate/commercial/25-years-after-the-sept-11-attacks-lower-manhattan-is-thriving-96ac9b85",
+      "title": "25 Years After the Sept. 11 Attacks, Lower Manhattan Is Thriving",
+      "content_text": "25 Years After the Sept. 11 Attacks, Lower Manhattan Is Thriving",
+      "summary": "",
+      "date_published": "2026-09-07T09:30:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "7c2d86783dc48f7a",
+      "url": "https://www.wsj.com/world/europe/oktoberfest-germany-munich-september-brewers-cc02930c",
+      "title": "There’s a Legal Fight Brewing at Oktoberfest",
+      "content_text": "There’s a Legal Fight Brewing at Oktoberfest",
+      "summary": "",
+      "date_published": "2026-09-07T09:30:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "3b00dff4bb0127d3",
+      "url": "https://www.wsj.com/personal-finance/retirement/young-people-are-obsessed-with-this-simple-retirement-savings-formula-d54f80b6",
+      "title": "Young People Are Obsessed With This Simple Retirement-Savings Formula",
+      "content_text": "Young People Are Obsessed With This Simple Retirement-Savings Formula",
+      "summary": "",
+      "date_published": "2026-09-07T09:30:00+00:00",
+      "tags": [
+        "Personal Finance"
+      ]
+    },
+    {
+      "id": "3d2c073447a714c7",
+      "url": "https://www.wsj.com/business/hermes-has-big-watchmaking-ambitions-the-cult-of-the-birkin-is-getting-in-the-way-88ad17f9",
+      "title": "Hermès Has Big Watchmaking Ambitions. The Cult of the Birkin Is Getting in the Way.",
+      "content_text": "Hermès Has Big Watchmaking Ambitions. The Cult of the Birkin Is Getting in the Way.",
+      "summary": "",
+      "date_published": "2026-09-07T09:30:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "262cdb472d3b73e3",
+      "url": "https://www.wsj.com/economy/chinas-foreign-exchange-reserves-continue-to-climb-def2bb7d",
+      "title": "China’s Foreign Exchange Reserves Continue to Climb",
+      "content_text": "China’s Foreign Exchange Reserves Continue to Climb",
+      "summary": "",
+      "date_published": "2026-09-07T09:18:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "abd450c2a883047f",
+      "url": "https://www.wsj.com/tech/biotech/insilicos-co-ceo-has-big-hopes-that-fibrosis-drug-can-reverse-aging-too-1c5bf5a6",
+      "title": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too",
+      "content_text": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too",
+      "summary": "",
+      "date_published": "2026-09-07T09:08:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "42efe2e005987a81",
+      "url": "https://www.wsj.com/politics/elections/the-gop-senate-campaign-gone-disastrously-wrong-in-georgia-edf2224c",
+      "title": "The GOP Senate Campaign Gone Disastrously Wrong in Georgia",
+      "content_text": "The GOP Senate Campaign Gone Disastrously Wrong in Georgia",
+      "summary": "",
+      "date_published": "2026-09-07T09:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "5106cbc387a5e768",
+      "url": "https://www.wsj.com/finance/stocks/oil-higher-on-hormuz-escalation-amid-quiet-markets-due-to-labor-day-6b5cc530",
+      "title": "Oil Higher on Hormuz Escalation Amid Quiet Markets Due to Labor Day",
+      "content_text": "Oil Higher on Hormuz Escalation Amid Quiet Markets Due to Labor Day",
+      "summary": "",
+      "date_published": "2026-09-07T08:38:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "03ac5586c936e0f7",
+      "url": "https://www.wsj.com/finance/commodities-futures/european-gas-climbs-on-lng-supply-concerns-ahead-of-winter-95ffd976",
+      "title": "European Gas Climbs on LNG Supply Concerns Ahead of Winter",
+      "content_text": "European Gas Climbs on LNG Supply Concerns Ahead of Winter",
+      "summary": "",
+      "date_published": "2026-09-07T08:25:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "e8ef13b6ac2e3b51",
+      "url": "https://www.wsj.com/health/pharma/novartis-shares-fall-after-heart-drug-misses-target-in-late-stage-trial-dabe4fb1",
+      "title": "Novartis Shares Fall After Heart Drug Misses Target in Late-Stage Trial",
+      "content_text": "Novartis Shares Fall After Heart Drug Misses Target in Late-Stage Trial",
+      "summary": "",
+      "date_published": "2026-09-07T08:14:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "08b95db73a4f0d31",
+      "url": "https://www.wsj.com/business/autos/tata-motors-owned-jlr-plans-redundancy-program-as-it-targets-over-2b-in-savings-4f8fccdb",
+      "title": "Tata Motors-Owned JLR Plans Redundancy Program as It Targets Over $2B in Savings",
+      "content_text": "Tata Motors-Owned JLR Plans Redundancy Program as It Targets Over $2B in Savings",
+      "summary": "",
+      "date_published": "2026-09-07T07:11:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "332cc3020fd7bb5b",
+      "url": "https://www.wsj.com/economy/trade/german-industrial-production-contracts-on-auto-sector-woes-28c2390a",
+      "title": "German Industrial Production Contracts on Auto Sector Slowdown",
+      "content_text": "German Industrial Production Contracts on Auto Sector Slowdown",
+      "summary": "",
+      "date_published": "2026-09-07T06:27:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
       "id": "a03f04fc6bcc8abf",
       "url": "https://www.wsj.com/finance/beijing-to-inject-billions-into-banks-insurers-to-boost-growth-35d7a011",
       "title": "Beijing to Inject Billions Into Banks, Insurers to Boost Growth",
@@ -2060,149 +2203,6 @@
       "date_published": "2026-09-04T11:15:42+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "2808d981aabc6109",
-      "url": "https://www.wsj.com/logistics-report/volkswagen-aims-to-revive-u-s-business-492ff7da",
-      "title": "Volkswagen Aims to Revive U.S. Business",
-      "content_text": "Volkswagen Aims to Revive U.S. Business",
-      "summary": "",
-      "date_published": "2026-09-04T11:09:00+00:00",
-      "tags": [
-        "Logistics Report"
-      ]
-    },
-    {
-      "id": "e39158983a7ce87e",
-      "url": "https://www.wsj.com/politics/vances-2028-audition-with-voters-has-begun-3c89c138",
-      "title": "Vance’s 2028 Audition With Voters Has Begun",
-      "content_text": "Vance’s 2028 Audition With Voters Has Begun",
-      "summary": "",
-      "date_published": "2026-09-04T11:01:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "515d4f8dbdd80880",
-      "url": "https://www.wsj.com/sports/football/kyler-murray-vikings-5e279723",
-      "title": "The NFL’s $230 Million Bust Is Now Its Bargain Reclamation Project",
-      "content_text": "The NFL’s $230 Million Bust Is Now Its Bargain Reclamation Project",
-      "summary": "",
-      "date_published": "2026-09-04T11:00:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "dceff7a36bcf3348",
-      "url": "https://www.wsj.com/arts-culture/television/a-tale-of-two-cities-review-less-than-revolutionary-dickens-on-mgm-8163f378",
-      "title": "‘A Tale of Two Cities’ Review: Less-Than-Revolutionary Dickens on MGM+",
-      "content_text": "‘A Tale of Two Cities’ Review: Less-Than-Revolutionary Dickens on MGM+",
-      "summary": "",
-      "date_published": "2026-09-04T11:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "6cbd524797151c75",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-bernie-aoc-and-bannon-all-want-to-fight-data-centers-ce120fae",
-      "title": "The Morning Risk Report: Bernie, AOC and Bannon All Want to Fight Data Centers",
-      "content_text": "The Morning Risk Report: Bernie, AOC and Bannon All Want to Fight Data Centers",
-      "summary": "",
-      "date_published": "2026-09-04T10:53:00+00:00",
-      "tags": [
-        "Risk Compliance Journal"
-      ]
-    },
-    {
-      "id": "54e4db9a639f04d5",
-      "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/when-the-next-jobs-reports-are-coming-after-today-VUomco045oSTpK6nTlxP",
-      "title": "When the Next Jobs Reports Are Coming After Today",
-      "content_text": "When the Next Jobs Reports Are Coming After Today",
-      "summary": "",
-      "date_published": "2026-09-04T10:27:04+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "7afa937ac64498c7",
-      "url": "https://www.wsj.com/finance/investing/higher-bond-yields-have-a-silver-lining-044afb97",
-      "title": "Higher Bond Yields Have a Silver Lining",
-      "content_text": "Higher Bond Yields Have a Silver Lining",
-      "summary": "",
-      "date_published": "2026-09-04T10:16:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "32adf435fab51b69",
-      "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/how-the-unemployment-rate-has-changed-since-2021-CZziuKDyJ3r50Izd9Mt4",
-      "title": "How the Unemployment Rate Has Changed Since 2021",
-      "content_text": "How the Unemployment Rate Has Changed Since 2021",
-      "summary": "",
-      "date_published": "2026-09-04T10:06:58+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "225f158d5ad587ad",
-      "url": "https://www.wsj.com/lifestyle/travel/fetterman-could-be-a-swing-vote-hes-showing-little-interest-in-the-job-e032167e",
-      "title": "Fetterman Could Be a Swing Vote. He’s Showing Little Interest in the Job.",
-      "content_text": "Fetterman Could Be a Swing Vote. He’s Showing Little Interest in the Job.",
-      "summary": "",
-      "date_published": "2026-09-04T10:03:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "a1d8711885ab5115",
-      "url": "https://www.wsj.com/articles/the-revealing-lesson-paris-baguettes-ceo-learned-early-586098c2",
-      "title": "The ‘Revealing’ Lesson Paris Baguette’s CEO Learned Early",
-      "content_text": "The ‘Revealing’ Lesson Paris Baguette’s CEO Learned Early",
-      "summary": "",
-      "date_published": "2026-09-04T10:01:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "648f3c3be8e3c597",
-      "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/volkswagen-stock-rallies-after-unexpected-approval-for-restructuring-plan-EPscUsAlO2AcrYHNv0ln",
-      "title": "Volkswagen Stock Rallies After Unexpected Approval for Restructuring Plan",
-      "content_text": "Volkswagen Stock Rallies After Unexpected Approval for Restructuring Plan",
-      "summary": "",
-      "date_published": "2026-09-04T09:49:35+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "bab7120a6681352e",
-      "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/norway-s-oil-fund-wants-to-reduce-its-treasury-holdings-by-80-billion-U8RctPimmcStN1mqyboc",
-      "title": "Norway's Oil Fund Wants to Reduce Its Treasury Holdings by $80 Billion",
-      "content_text": "Norway's Oil Fund Wants to Reduce Its Treasury Holdings by $80 Billion",
-      "summary": "",
-      "date_published": "2026-09-04T09:42:46+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "45e7e1f06d5e0c8b",
-      "url": "https://www.wsj.com/world/food-prices-rose-in-august-as-supply-risks-mount-un-says-b2639e6d",
-      "title": "Food Prices Rose in August as Supply Risks Mount, UN Says",
-      "content_text": "Food Prices Rose in August as Supply Risks Mount, UN Says",
-      "summary": "",
-      "date_published": "2026-09-04T09:38:00+00:00",
-      "tags": [
-        "World"
       ]
     }
   ]
