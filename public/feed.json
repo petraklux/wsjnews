@@ -6,6 +6,83 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "fc8235a0edf85734",
+      "url": "https://www.wsj.com/style/fashion/luxury-rainy-weather-gear-8bf3a0ab",
+      "title": "Five Luxury Essentials for Rainy Days",
+      "content_text": "Five Luxury Essentials for Rainy Days",
+      "summary": "",
+      "date_published": "2026-09-07T18:00:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
+      "id": "84f0fa0287c42e6e",
+      "url": "https://www.wsj.com/politics/trumps-latest-target-for-a-name-change-new-mexico-b7e80b94",
+      "title": "Trump’s Latest Target for a Name Change: New Mexico",
+      "content_text": "Trump’s Latest Target for a Name Change: New Mexico",
+      "summary": "",
+      "date_published": "2026-09-07T17:48:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "122965c17f5c9e7f",
+      "url": "https://www.wsj.com/world/middle-east/irans-oil-dollars-are-drying-upand-plunging-it-deeper-into-crisis-21bae4bd",
+      "title": "Iran’s Oil Dollars Are Drying Up—and Plunging It Deeper Into Crisis",
+      "content_text": "Iran’s Oil Dollars Are Drying Up—and Plunging It Deeper Into Crisis",
+      "summary": "",
+      "date_published": "2026-09-07T17:25:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "40bc23ee8f2041a2",
+      "url": "https://www.wsj.com/world/europe/after-far-right-triumph-merz-faces-narrow-path-to-save-his-government-670f62c7",
+      "title": "After Far-Right Triumph, Merz Faces Narrow Path to Save His Government",
+      "content_text": "After Far-Right Triumph, Merz Faces Narrow Path to Save His Government",
+      "summary": "",
+      "date_published": "2026-09-07T17:13:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "1b7db711aeb400f5",
+      "url": "https://www.wsj.com/finance/commodities-futures/lme-copper-prices-hit-record-on-supply-issues-u-s-tariff-concerns-89e6bbc6",
+      "title": "LME Copper Prices Hit Record on Supply Issues, U.S. Tariff Concerns",
+      "content_text": "LME Copper Prices Hit Record on Supply Issues, U.S. Tariff Concerns",
+      "summary": "",
+      "date_published": "2026-09-07T16:42:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "bee953b9d5acdfbb",
+      "url": "https://www.wsj.com/business/the-world-cant-get-enough-of-these-japanese-sneakers-cbbf26c9",
+      "title": "The World Can’t Get Enough of These Japanese Sneakers",
+      "content_text": "The World Can’t Get Enough of These Japanese Sneakers",
+      "summary": "",
+      "date_published": "2026-09-07T16:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "8d915941a023860e",
+      "url": "https://www.wsj.com/world/china/belgiums-arrest-of-chinese-alleged-chip-tech-thief-fuels-european-fear-of-beijing-5824008f",
+      "title": "Belgium’s Arrest of Chinese Alleged Chip-Tech Thief Fuels European Fear of Beijing",
+      "content_text": "Belgium’s Arrest of Chinese Alleged Chip-Tech Thief Fuels European Fear of Beijing",
+      "summary": "",
+      "date_published": "2026-09-07T15:44:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "2cc57a0f21742721",
       "url": "https://www.wsj.com/business/energy-oil/u-s-gasoline-prices-hit-labor-day-record-1a789682",
       "title": "U.S. Gasoline Prices Hit Labor Day Record",
@@ -116,10 +193,10 @@
       ]
     },
     {
-      "id": "c1d6889ccb1b2c69",
-      "url": "https://www.wsj.com/finance/investing/stock-funds-gains-august-925de91d",
-      "title": "Stock Funds Are Up 12.6% for Year So Far",
-      "content_text": "Stock Funds Are Up 12.6% for Year So Far",
+      "id": "0ee554ed00bfc524",
+      "url": "https://www.wsj.com/finance/stocks/investors-move-markets-read-signs-b0f2cc95",
+      "title": "Institutional Investors Move Markets. Here’s How to Read Their Signs.",
+      "content_text": "Institutional Investors Move Markets. Here’s How to Read Their Signs.",
       "summary": "",
       "date_published": "2026-09-07T14:00:00+00:00",
       "tags": [
@@ -127,10 +204,10 @@
       ]
     },
     {
-      "id": "0ee554ed00bfc524",
-      "url": "https://www.wsj.com/finance/stocks/investors-move-markets-read-signs-b0f2cc95",
-      "title": "Institutional Investors Move Markets. Here’s How to Read Their Signs.",
-      "content_text": "Institutional Investors Move Markets. Here’s How to Read Their Signs.",
+      "id": "c1d6889ccb1b2c69",
+      "url": "https://www.wsj.com/finance/investing/stock-funds-gains-august-925de91d",
+      "title": "Stock Funds Are Up 12.6% for Year So Far",
+      "content_text": "Stock Funds Are Up 12.6% for Year So Far",
       "summary": "",
       "date_published": "2026-09-07T14:00:00+00:00",
       "tags": [
@@ -171,17 +248,6 @@
       ]
     },
     {
-      "id": "99074b60392eac31",
-      "url": "https://www.wsj.com/style/lee-pace-drinks-coffee-for-six-people-in-the-morning-6068b43e",
-      "title": "Lee Pace Drinks Coffee for Six People in the Morning",
-      "content_text": "Lee Pace Drinks Coffee for Six People in the Morning",
-      "summary": "",
-      "date_published": "2026-09-07T12:00:00+00:00",
-      "tags": [
-        "Style"
-      ]
-    },
-    {
       "id": "767b77bd3c956583",
       "url": "https://www.wsj.com/sports/football/college-football-kickers-pay-96cb881c",
       "title": "College Football Kickers Were Underpaid. Then They Started Texting.",
@@ -190,6 +256,17 @@
       "date_published": "2026-09-07T12:00:00+00:00",
       "tags": [
         "Sports"
+      ]
+    },
+    {
+      "id": "99074b60392eac31",
+      "url": "https://www.wsj.com/style/lee-pace-drinks-coffee-for-six-people-in-the-morning-6068b43e",
+      "title": "Lee Pace Drinks Coffee for Six People in the Morning",
+      "content_text": "Lee Pace Drinks Coffee for Six People in the Morning",
+      "summary": "",
+      "date_published": "2026-09-07T12:00:00+00:00",
+      "tags": [
+        "Style"
       ]
     },
     {
@@ -237,10 +314,10 @@
       ]
     },
     {
-      "id": "f161c0e01fe4ab2e",
-      "url": "https://www.wsj.com/arts-culture/books/nary-a-horse-left-standing-review-a-nation-dismounted-65a4be3f",
-      "title": "‘Nary a Horse Left Standing’ Review: A Nation Dismounted",
-      "content_text": "‘Nary a Horse Left Standing’ Review: A Nation Dismounted",
+      "id": "a14649eb9dc82fbc",
+      "url": "https://www.wsj.com/arts-culture/music/open-air-the-complete-saxophone-quartet-compositions-of-julius-hemphill-review-woodwind-wonders-7e52efe4",
+      "title": "‘Open Air: The Complete Saxophone Quartet Compositions of Julius Hemphill’ Review: Woodwind Wonders",
+      "content_text": "‘Open Air: The Complete Saxophone Quartet Compositions of Julius Hemphill’ Review: Woodwind Wonders",
       "summary": "",
       "date_published": "2026-09-07T11:00:00+00:00",
       "tags": [
@@ -248,10 +325,10 @@
       ]
     },
     {
-      "id": "a14649eb9dc82fbc",
-      "url": "https://www.wsj.com/arts-culture/music/open-air-the-complete-saxophone-quartet-compositions-of-julius-hemphill-review-woodwind-wonders-7e52efe4",
-      "title": "‘Open Air: The Complete Saxophone Quartet Compositions of Julius Hemphill’ Review: Woodwind Wonders",
-      "content_text": "‘Open Air: The Complete Saxophone Quartet Compositions of Julius Hemphill’ Review: Woodwind Wonders",
+      "id": "f161c0e01fe4ab2e",
+      "url": "https://www.wsj.com/arts-culture/books/nary-a-horse-left-standing-review-a-nation-dismounted-65a4be3f",
+      "title": "‘Nary a Horse Left Standing’ Review: A Nation Dismounted",
+      "content_text": "‘Nary a Horse Left Standing’ Review: A Nation Dismounted",
       "summary": "",
       "date_published": "2026-09-07T11:00:00+00:00",
       "tags": [
@@ -2126,83 +2203,6 @@
       "date_published": "2026-09-04T14:09:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "550cd8ab1e49916d",
-      "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/trump-lauds-jobs-report-says-the-fed-should-lower-rates-8aisvTaO7w1wxeGX02RP",
-      "title": "Trump Lauds Jobs Report, Says the Fed Should Lower Rates",
-      "content_text": "Trump Lauds Jobs Report, Says the Fed Should Lower Rates",
-      "summary": "",
-      "date_published": "2026-09-04T14:08:18+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "86303a913748abf5",
-      "url": "https://www.wsj.com/opinion/the-senate-race-in-michigan-b0236e88",
-      "title": "The Senate Race in Michigan",
-      "content_text": "The Senate Race in Michigan",
-      "summary": "",
-      "date_published": "2026-09-04T14:08:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "dc41cc5f80bde057",
-      "url": "https://www.wsj.com/arts-culture/music/goth-babe-artist-griff-washburn-b8d7550f",
-      "title": "This Artist Earns Over $300,000 a Year Making Music In Camping Vans and Sailboats",
-      "content_text": "This Artist Earns Over $300,000 a Year Making Music In Camping Vans and Sailboats",
-      "summary": "",
-      "date_published": "2026-09-04T14:05:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "5712f0bb0cb5b57c",
-      "url": "https://www.wsj.com/health/healthcare/health-insurance-prior-authorization-denial-appeal-12e1e401",
-      "title": "How to Appeal Your Health Insurer’s ‘Prior Authorization’ Denial—and Win",
-      "content_text": "How to Appeal Your Health Insurer’s ‘Prior Authorization’ Denial—and Win",
-      "summary": "",
-      "date_published": "2026-09-04T14:00:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "4221fcf5a31384fe",
-      "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/what-today-s-jobs-report-means-for-markets-0mCN6EL1b5JICAbOrPLw",
-      "title": "What Today’s Jobs Report Means for Markets",
-      "content_text": "What Today’s Jobs Report Means for Markets",
-      "summary": "",
-      "date_published": "2026-09-04T13:57:01+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "452a9d9384ccdb87",
-      "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/jobs-report-kicks-off-stretch-of-crucial-economic-data-BnQeZiqXmWZvcHwf1XXy",
-      "title": "Jobs Report Kicks Off Stretch of Crucial Economic Data",
-      "content_text": "Jobs Report Kicks Off Stretch of Crucial Economic Data",
-      "summary": "",
-      "date_published": "2026-09-04T13:41:15+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "c7e934d3b1d2beb1",
-      "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/how-economists-and-investors-are-reacting-to-the-jobs-data-ljDaiX3yQRrHkDIgqkNP",
-      "title": "How Economists and Investors Are Reacting to the Jobs Data",
-      "content_text": "How Economists and Investors Are Reacting to the Jobs Data",
-      "summary": "",
-      "date_published": "2026-09-04T13:29:23+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
