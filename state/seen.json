@@ -1,5 +1,18 @@
 {
   "items": {
+    "0027ee96a00bc881": {
+      "dek": "",
+      "first_seen": "2026-09-07T22:45:44.579800+00:00",
+      "guid": "0027ee96a00bc881",
+      "published": "2026-09-07T20:26:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Trump and the Senate Stakes",
+      "title": "Trump and the Senate Stakes",
+      "url": "https://www.wsj.com/opinion/gop-senate-elections-donald-trump-midterms-4c1dff45"
+    },
     "0038b06dd019061e": {
       "dek": "",
       "first_seen": "2026-09-05T10:53:09.637974+00:00",
@@ -25,19 +38,6 @@
       "summary": "Volkswagen Factory to Become Defense Plant in Deal With Israel’s Aurelius",
       "title": "Volkswagen Factory to Become Defense Plant in Deal With Israel’s Aurelius",
       "url": "https://www.wsj.com/business/autos/volkswagen-to-sell-german-site-to-israels-aurelius-state-of-lower-saxony-c622b1ff"
-    },
-    "01f376cd6761a9f5": {
-      "dek": "",
-      "first_seen": "2026-09-04T16:15:45.123315+00:00",
-      "guid": "01f376cd6761a9f5",
-      "published": "2026-09-04T14:20:00+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "This Vintage Printing Press Has Become a Darling of Silicon Valley",
-      "title": "This Vintage Printing Press Has Become a Darling of Silicon Valley",
-      "url": "https://www.wsj.com/arts-culture/books/arion-press-san-francisco-61ad3948"
     },
     "02d309842601b84d": {
       "dek": "",
@@ -90,6 +90,19 @@
       "summary": "Maybe Not the Moment for a Millionaire’s Tax",
       "title": "Maybe Not the Moment for a Millionaire’s Tax",
       "url": "https://www.wsj.com/opinion/maybe-not-the-moment-for-a-millionaires-tax-52317f27"
+    },
+    "053ab41d705ac45a": {
+      "dek": "",
+      "first_seen": "2026-09-07T22:45:44.579800+00:00",
+      "guid": "053ab41d705ac45a",
+      "published": "2026-09-07T20:08:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Robinhood Wins a New Role in the Oura IPO: Underwriter",
+      "title": "Robinhood Wins a New Role in the Oura IPO: Underwriter",
+      "url": "https://www.wsj.com/finance/robinhood-wins-a-new-role-in-the-oura-ipo-underwriter-9a76c632"
     },
     "077707e6cc035157": {
       "dek": "",
@@ -377,19 +390,6 @@
       "title": "Cargo Plane Overshoots Runway in Miami, Crashes Into Vehicles",
       "url": "https://www.wsj.com/us-news/amazon-cargo-plane-miami-runway-crash-52198128"
     },
-    "229413010aff4253": {
-      "dek": "",
-      "first_seen": "2026-09-04T16:15:45.123315+00:00",
-      "guid": "229413010aff4253",
-      "published": "2026-09-04T14:21:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "U.S. Natural Gas Futures Pick Up in Early Trading",
-      "title": "U.S. Natural Gas Futures Pick Up in Early Trading",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-in-early-trading-f3754d92"
-    },
     "229d275e096374f9": {
       "dek": "",
       "first_seen": "2026-09-07T04:24:29.416739+00:00",
@@ -506,19 +506,6 @@
       "summary": "Why More Hospitals and Doctors Are Asking Patients to Pay First",
       "title": "Why More Hospitals and Doctors Are Asking Patients to Pay First",
       "url": "https://www.wsj.com/health/healthcare/why-more-hospitals-and-doctors-are-asking-patients-to-pay-first-a42c085d"
-    },
-    "2d8c756c11ab4e4d": {
-      "dek": "",
-      "first_seen": "2026-09-04T16:15:45.123315+00:00",
-      "guid": "2d8c756c11ab4e4d",
-      "published": "2026-09-04T14:55:00+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "‘Outcast’ Review: Marked by Disease",
-      "title": "‘Outcast’ Review: Marked by Disease",
-      "url": "https://www.wsj.com/arts-culture/books/outcast-review-marked-by-disease-1bed853d"
     },
     "2e94a8b485b7353e": {
       "dek": "",
@@ -689,19 +676,6 @@
       "title": "CXMT Highlights Smartphone, AI Advances as Market Share Climbs",
       "url": "https://www.wsj.com/tech/cxmt-highlights-smartphone-ai-advances-as-market-share-climbs-1d777648"
     },
-    "3ecf190f901d4ed2": {
-      "dek": "",
-      "first_seen": "2026-09-04T16:15:45.123315+00:00",
-      "guid": "3ecf190f901d4ed2",
-      "published": "2026-09-04T14:13:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "America’s Unaccountable Insurance Regulator",
-      "title": "America’s Unaccountable Insurance Regulator",
-      "url": "https://www.wsj.com/opinion/americas-unaccountable-insurance-regulator-a5f8bf22"
-    },
     "3f00c85eaae0b6c2": {
       "dek": "",
       "first_seen": "2026-09-06T14:22:19.693346+00:00",
@@ -754,6 +728,19 @@
       "title": "After Far-Right Triumph, Merz Faces Narrow Path to Save His Government",
       "url": "https://www.wsj.com/world/europe/after-far-right-triumph-merz-faces-narrow-path-to-save-his-government-670f62c7"
     },
+    "4244076c5c620efa": {
+      "dek": "",
+      "first_seen": "2026-09-07T22:45:44.579800+00:00",
+      "guid": "4244076c5c620efa",
+      "published": "2026-09-07T21:34:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Mamdani Denounces an Indian Nonprofit",
+      "title": "Mamdani Denounces an Indian Nonprofit",
+      "url": "https://www.wsj.com/opinion/mamdani-denounces-an-indian-nonprofit-f914d1b0"
+    },
     "42efe2e005987a81": {
       "dek": "",
       "first_seen": "2026-09-07T09:39:04.161446+00:00",
@@ -792,6 +779,19 @@
       "summary": "How a Pulp Mill Closure Could Cost Rural Alabama $7 Billion",
       "title": "How a Pulp Mill Closure Could Cost Rural Alabama $7 Billion",
       "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/how-a-pulp-mill-closure-could-cost-rural-alabama-7-billion-Vyre2g2C0dleroDaOuSX"
+    },
+    "48adccf616279f35": {
+      "dek": "",
+      "first_seen": "2026-09-07T22:45:44.579800+00:00",
+      "guid": "48adccf616279f35",
+      "published": "2026-09-07T21:26:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Socialism and the Dumbest Generation",
+      "title": "Socialism and the Dumbest Generation",
+      "url": "https://www.wsj.com/opinion/socialism-and-the-dumbest-generation-687024bf"
     },
     "4ca5ab1c4b34b62a": {
       "dek": "",
@@ -923,19 +923,6 @@
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-867ac53d"
     },
-    "541de5e963ecf637": {
-      "dek": "",
-      "first_seen": "2026-09-04T16:15:45.123315+00:00",
-      "guid": "541de5e963ecf637",
-      "published": "2026-09-04T14:09:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Timber! Goes the Tree Market When Government Intervenes",
-      "title": "Timber! Goes the Tree Market When Government Intervenes",
-      "url": "https://www.wsj.com/opinion/timber-goes-the-tree-market-when-government-intervenes-8f4494bb"
-    },
     "55ab27f1df3ec914": {
       "dek": "",
       "first_seen": "2026-09-05T16:45:09.103173+00:00",
@@ -1026,19 +1013,6 @@
       "summary": "Diamond Mines Are Closing and South Africans Have Few Alternatives",
       "title": "Diamond Mines Are Closing and South Africans Have Few Alternatives",
       "url": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf"
-    },
-    "5bbff59705a31dda": {
-      "dek": "",
-      "first_seen": "2026-09-04T16:15:45.123315+00:00",
-      "guid": "5bbff59705a31dda",
-      "published": "2026-09-04T14:53:00+00:00",
-      "section": "World",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "U.K.’s Reform Party Hit With Fresh Funding Allegations",
-      "title": "U.K.’s Reform Party Hit With Fresh Funding Allegations",
-      "url": "https://www.wsj.com/world/europe/u-k-s-reform-party-hit-with-fresh-funding-allegations-fc4cd7d2"
     },
     "5bde10fa9f9b2a36": {
       "dek": "",
@@ -1365,19 +1339,6 @@
       "title": "For Many Individual Traders, Prediction Markets Are Hot—and Crypto Is Not",
       "url": "https://www.wsj.com/finance/currencies/for-many-individual-traders-prediction-markets-are-hotand-crypto-is-not-bef27e3d"
     },
-    "84837e28ad0e901a": {
-      "dek": "",
-      "first_seen": "2026-09-04T16:15:45.123315+00:00",
-      "guid": "84837e28ad0e901a",
-      "published": "2026-09-04T14:37:38+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "💬 Money Quote: Jobs Relief",
-      "title": "💬 Money Quote: Jobs Relief",
-      "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/-money-quote-jobs-relief-AV5zRdLOzT0dj4mgUpMY"
-    },
     "84c5cb7469d60793": {
       "dek": "",
       "first_seen": "2026-09-05T16:45:09.103173+00:00",
@@ -1482,6 +1443,19 @@
       "title": "Jersey City Is Growing Fast. So Why Is It in Such a Financial Mess?",
       "url": "https://www.wsj.com/us-news/jersey-city-is-growing-fast-so-why-is-it-in-such-a-financial-mess-508d126b"
     },
+    "91cab88916cbd364": {
+      "dek": "",
+      "first_seen": "2026-09-07T22:45:44.579800+00:00",
+      "guid": "91cab88916cbd364",
+      "published": "2026-09-07T20:30:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "EverBank to Combine With WaFd to Create $75 Billion Bank",
+      "title": "EverBank to Combine With WaFd to Create $75 Billion Bank",
+      "url": "https://www.wsj.com/business/deals/everbank-to-combine-with-wafd-to-create-75-billion-bank-e71d023c"
+    },
     "935253a2d6f7d9b1": {
       "dek": "",
       "first_seen": "2026-09-06T06:27:51.060176+00:00",
@@ -1508,6 +1482,19 @@
       "title": "Small-, Mid-Cap Japanese Stocks May Outperform",
       "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-8-led-by-chip-related-stocks-37f5728d"
     },
+    "94239b960ca5ceae": {
+      "dek": "",
+      "first_seen": "2026-09-07T22:45:44.579800+00:00",
+      "guid": "94239b960ca5ceae",
+      "published": "2026-09-07T21:27:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Europe Hits the Snooze Button",
+      "title": "Europe Hits the Snooze Button",
+      "url": "https://www.wsj.com/opinion/europe-hits-the-snooze-button-23e291a7"
+    },
     "944693f556dc68a1": {
       "dek": "",
       "first_seen": "2026-09-04T21:24:28.424682+00:00",
@@ -1520,19 +1507,6 @@
       "summary": "‘Creatures of Myth and Imagination’ Review: Dragons and Griffins and Centaurs, Oh My",
       "title": "‘Creatures of Myth and Imagination’ Review: Dragons and Griffins and Centaurs, Oh My",
       "url": "https://www.wsj.com/arts-culture/fine-art/creatures-of-myth-and-imagination-review-dragons-and-griffins-and-centaurs-oh-my-airdigital-58af522d"
-    },
-    "9453e588b7134df4": {
-      "dek": "",
-      "first_seen": "2026-09-04T16:15:45.123315+00:00",
-      "guid": "9453e588b7134df4",
-      "published": "2026-09-04T15:00:00+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Rows Garden (Saturday Variety Puzzle, September 5)",
-      "title": "Rows Garden (Saturday Variety Puzzle, September 5)",
-      "url": "https://www.wsj.com/articles/rows-garden-saturday-variety-puzzle-september-5-455a607e"
     },
     "95b8b769184bd074": {
       "dek": "",
@@ -1559,19 +1533,6 @@
       "summary": "The Next Big Opportunity in Data Centers: Insuring Them",
       "title": "The Next Big Opportunity in Data Centers: Insuring Them",
       "url": "https://www.wsj.com/finance/the-next-big-opportunity-in-data-centers-insuring-them-f133f3cb"
-    },
-    "97b7ebed8724d857": {
-      "dek": "",
-      "first_seen": "2026-09-04T16:15:45.123315+00:00",
-      "guid": "97b7ebed8724d857",
-      "published": "2026-09-04T14:12:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Don’t Blame China for the Fertilizer Shortage",
-      "title": "Don’t Blame China for the Fertilizer Shortage",
-      "url": "https://www.wsj.com/opinion/dont-blame-china-for-the-fertilizer-shortage-3d6aae9a"
     },
     "980fb35534cbd9f7": {
       "dek": "",
@@ -1780,19 +1741,6 @@
       "summary": "In Trump’s Second Term, the MAGA Merchandise Boom Is Going Bust",
       "title": "In Trump’s Second Term, the MAGA Merchandise Boom Is Going Bust",
       "url": "https://www.wsj.com/politics/in-trumps-second-term-the-maga-merchandise-boom-is-going-bust-725bc43a"
-    },
-    "ae0c6ee374314e5d": {
-      "dek": "",
-      "first_seen": "2026-09-04T16:15:45.123315+00:00",
-      "guid": "ae0c6ee374314e5d",
-      "published": "2026-09-04T14:11:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Congressional Lawmakers Reach for the Stars",
-      "title": "Congressional Lawmakers Reach for the Stars",
-      "url": "https://www.wsj.com/opinion/congressional-lawmakers-reach-for-the-stars-11109b50"
     },
     "ae82c53f133f654c": {
       "dek": "",
@@ -2041,6 +1989,19 @@
       "title": "America’s Own Banks Are a Weak Link in the Campaign to Cut Off Iran",
       "url": "https://www.wsj.com/tech/americas-own-banks-are-a-weak-link-in-the-campaign-to-cut-off-iran-53e1eb07"
     },
+    "c4638420b7f959b7": {
+      "dek": "",
+      "first_seen": "2026-09-07T22:45:44.579800+00:00",
+      "guid": "c4638420b7f959b7",
+      "published": "2026-09-07T20:22:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "An Award for Scholars Who Tell the Truth",
+      "title": "An Award for Scholars Who Tell the Truth",
+      "url": "https://www.wsj.com/opinion/an-award-for-scholars-who-tell-the-truth-3c5d37e8"
+    },
     "c49a271dfc908c29": {
       "dek": "",
       "first_seen": "2026-09-04T21:24:28.424682+00:00",
@@ -2262,6 +2223,19 @@
       "title": "One Great Chart: New Record for Diesel",
       "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/one-great-chart-new-record-for-diesel-y3Y8pPWW2SAIC5ppRnLs"
     },
+    "da4db13b607ad53a": {
+      "dek": "",
+      "first_seen": "2026-09-07T22:45:44.579800+00:00",
+      "guid": "da4db13b607ad53a",
+      "published": "2026-09-07T21:27:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "What Trump Could Learn From Bush",
+      "title": "What Trump Could Learn From Bush",
+      "url": "https://www.wsj.com/opinion/what-trump-could-learn-from-bush-d6e1633c"
+    },
     "da539cb79cc89737": {
       "dek": "",
       "first_seen": "2026-09-04T21:24:28.424682+00:00",
@@ -2288,6 +2262,19 @@
       "title": "BlackRock Casts a Vote of Confidence in Texas",
       "url": "https://www.wsj.com/opinion/blackrock-casts-a-vote-of-confidence-in-texas-d95ed3bd"
     },
+    "dac1f5a8e1d2a62f": {
+      "dek": "",
+      "first_seen": "2026-09-07T22:45:44.579800+00:00",
+      "guid": "dac1f5a8e1d2a62f",
+      "published": "2026-09-07T21:53:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Amazon Plane Crash Probe Examines Aircraft Speed, Runway Safeguards",
+      "title": "Amazon Plane Crash Probe Examines Aircraft Speed, Runway Safeguards",
+      "url": "https://www.wsj.com/business/airlines/amazon-plane-crash-probe-examines-aircraft-speed-runway-safeguards-185a441e"
+    },
     "dafcf399158c6401": {
       "dek": "",
       "first_seen": "2026-09-05T16:45:09.103173+00:00",
@@ -2300,6 +2287,19 @@
       "summary": "The Unexpected Cost of Pet Care Has Young Adults Rethinking Their Finances",
       "title": "The Unexpected Cost of Pet Care Has Young Adults Rethinking Their Finances",
       "url": "https://www.wsj.com/personal-finance/cost-pet-care-finances-5a1cd072"
+    },
+    "dbedda3c656215bd": {
+      "dek": "",
+      "first_seen": "2026-09-07T22:45:44.579800+00:00",
+      "guid": "dbedda3c656215bd",
+      "published": "2026-09-07T20:24:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Pablo Torre 1, Mark Cuban 0",
+      "title": "Pablo Torre 1, Mark Cuban 0",
+      "url": "https://www.wsj.com/opinion/pablo-torre-mark-cuban-los-angeles-clippers-nba-ffe5bb01"
     },
     "dea6ec2569a2d42b": {
       "dek": "",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/us-news/law/how-two-men-without-lawyers-got-their-cases-to-the-supreme-court-abb63eb0"
     }
   },
-  "updated": "2026-09-07T19:51:53.129788+00:00"
+  "updated": "2026-09-07T22:45:44.603233+00:00"
 }
