@@ -6,14 +6,322 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "979b2136901896ee",
-      "url": "https://www.wsj.com/opinion/what-if-california-becomes-a-failed-state-3aaf5059",
-      "title": "What if California Becomes a ‘Failed State’?",
-      "content_text": "What if California Becomes a ‘Failed State’?",
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
       "summary": "",
-      "date_published": "2026-09-08T16:26:00+00:00",
+      "date_published": "2026-09-08T19:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-09-08T19:30:19+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-09-08T19:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
+      "summary": "",
+      "date_published": "2026-09-08T19:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "5a885d497fa8a917",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview",
+      "title": "The saturday interview",
+      "content_text": "The saturday interview",
+      "summary": "",
+      "date_published": "2026-09-08T19:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "dea6ec2569a2d42b",
+      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
+      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "summary": "",
+      "date_published": "2026-09-08T19:30:19+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
+      "summary": "",
+      "date_published": "2026-09-08T19:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "67a229f9726f9141",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial",
+      "title": "Real estate commercial",
+      "content_text": "Real estate commercial",
+      "summary": "",
+      "date_published": "2026-09-08T19:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "9c551e8afad6020b",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/most-expensive-home-listing-iowa-98760c65",
+      "title": "The Most Expensive Home for Sale in Iowa Lists for $10.2 Million",
+      "content_text": "The Most Expensive Home for Sale in Iowa Lists for $10.2 Million",
+      "summary": "",
+      "date_published": "2026-09-08T19:30:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "34987463bd640cdb",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026/card/jason-zweig-the-latest-trend-in-leveraged-etfs-is-an-investing-epidemic-HoaP6LkqdIjd8oVd4iht",
+      "title": "Jason Zweig | The Latest Trend in Leveraged ETFs Is an Investing Epidemic",
+      "content_text": "Jason Zweig | The Latest Trend in Leveraged ETFs Is an Investing Epidemic",
+      "summary": "",
+      "date_published": "2026-09-08T19:19:06+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "e847df69f0d3b8a9",
+      "url": "https://www.wsj.com/business/autos/fords-use-of-chinese-tech-called-unacceptable-by-transportation-secretary-00b22e0a",
+      "title": "Ford’s Use of Chinese Tech Called ‘Unacceptable’ by Transportation Secretary",
+      "content_text": "Ford’s Use of Chinese Tech Called ‘Unacceptable’ by Transportation Secretary",
+      "summary": "",
+      "date_published": "2026-09-08T19:15:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "dce2098e38c7a1a1",
+      "url": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-planned-ipo-c2f58908",
+      "title": "What to Know About Anthropic’s Planned IPO",
+      "content_text": "What to Know About Anthropic’s Planned IPO",
+      "summary": "",
+      "date_published": "2026-09-08T19:13:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "99d0b7c2f05f59e8",
+      "url": "https://www.wsj.com/tech/ai/meta-launches-a-personal-ai-agent-designed-to-be-easy-to-use-3eb5cfac",
+      "title": "Meta Launches a Personal AI Agent Designed to Be Easy to Use",
+      "content_text": "Meta Launches a Personal AI Agent Designed to Be Easy to Use",
+      "summary": "",
+      "date_published": "2026-09-08T18:59:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "341862c2e64e89d7",
+      "url": "https://www.wsj.com/business/brian-dyson-coca-cola-dies-90-54b8a5fb",
+      "title": "Brian Dyson, the Coca-Cola Executive Who Championed New Coke, Dies at Age 90",
+      "content_text": "Brian Dyson, the Coca-Cola Executive Who Championed New Coke, Dies at Age 90",
+      "summary": "",
+      "date_published": "2026-09-08T18:58:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "1ec343bcb96f1a26",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026/card/treasury-yields-push-higher-ahead-of-buyback-announcement-pUSnbCoPoccj8K9IS42A",
+      "title": "Treasury Yields Push Higher Ahead of Buyback Announcement",
+      "content_text": "Treasury Yields Push Higher Ahead of Buyback Announcement",
+      "summary": "",
+      "date_published": "2026-09-08T18:49:12+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "453750577402e1be",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026/card/amgen-stock-poised-for-worst-day-in-more-than-two-decades-viUxcynt4325crpnKMl2",
+      "title": "Amgen Stock Poised for Worst Day in More Than Two Decades",
+      "content_text": "Amgen Stock Poised for Worst Day in More Than Two Decades",
+      "summary": "",
+      "date_published": "2026-09-08T18:20:07+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "9adbb8dab406fa53",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026/card/ai-related-stocks-are-soaring-after-openai-s-astra-model-release-pMAxtBgGBhiatoCaqBwS",
+      "title": "AI-Related Stocks Are Soaring After OpenAI’s Astra Model Release",
+      "content_text": "AI-Related Stocks Are Soaring After OpenAI’s Astra Model Release",
+      "summary": "",
+      "date_published": "2026-09-08T17:56:53+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "7042808050bb521d",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026/card/what-s-moving-markets-today--n00JcItQxLFoJc9xV2K6",
+      "title": "What’s Moving Markets Today?",
+      "content_text": "What’s Moving Markets Today?",
+      "summary": "",
+      "date_published": "2026-09-08T17:48:57+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "82e699840996a053",
+      "url": "https://www.wsj.com/politics/policy/trump-officials-ask-high-court-to-allow-immigration-database-for-voter-scrutiny-a7197aad",
+      "title": "Trump Officials Ask High Court to Allow Immigration Database for Voter Scrutiny",
+      "content_text": "Trump Officials Ask High Court to Allow Immigration Database for Voter Scrutiny",
+      "summary": "",
+      "date_published": "2026-09-08T17:44:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "86a8ee084c6e2d8c",
+      "url": "https://www.wsj.com/opinion/taiwans-drone-bill-signals-stronger-defense-3d613b3c",
+      "title": "Taiwan’s Drone Bill Signals Stronger Defense",
+      "content_text": "Taiwan’s Drone Bill Signals Stronger Defense",
+      "summary": "",
+      "date_published": "2026-09-08T17:34:00+00:00",
       "tags": [
         "Opinion"
+      ]
+    },
+    {
+      "id": "0a5dc9b488a8e48d",
+      "url": "https://www.wsj.com/opinion/who-really-rejected-peace-in-the-middle-east-dca7ba40",
+      "title": "Who Really Rejected Peace in the Middle East?",
+      "content_text": "Who Really Rejected Peace in the Middle East?",
+      "summary": "",
+      "date_published": "2026-09-08T17:33:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "96037c23b7cc7a49",
+      "url": "https://www.wsj.com/opinion/what-happens-after-the-world-bank-leaves-fe70dfaf",
+      "title": "What Happens After the World Bank Leaves?",
+      "content_text": "What Happens After the World Bank Leaves?",
+      "summary": "",
+      "date_published": "2026-09-08T17:33:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "cb488ddbbec43e8f",
+      "url": "https://www.wsj.com/opinion/climate-science-definitions-d972433d",
+      "title": "Climate Science Definitions",
+      "content_text": "Climate Science Definitions",
+      "summary": "",
+      "date_published": "2026-09-08T17:32:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "07d4a93bf274248e",
+      "url": "https://www.wsj.com/opinion/californias-wealth-tax-will-drive-talent-out-of-the-state-f75394a9",
+      "title": "California’s Wealth Tax Will Drive Talent Out of the State",
+      "content_text": "California’s Wealth Tax Will Drive Talent Out of the State",
+      "summary": "",
+      "date_published": "2026-09-08T17:31:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "e7e2dff651d78db6",
+      "url": "https://www.wsj.com/world/middle-east/european-nations-impose-trade-bans-on-israel-over-west-bank-settlements-3a5cdfdb",
+      "title": "European Nations Impose Trade Bans on Israel Over West Bank Settlements",
+      "content_text": "European Nations Impose Trade Bans on Israel Over West Bank Settlements",
+      "summary": "",
+      "date_published": "2026-09-08T17:26:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "fbbaa1e8c1d7ca39",
+      "url": "https://www.wsj.com/tech/ai/openai-millennium-prize-navier-stokes-math-2bf240f8",
+      "title": "OpenAI Says It Has Solved a Millennium Prize Problem—a Holy Grail of Math",
+      "content_text": "OpenAI Says It Has Solved a Millennium Prize Problem—a Holy Grail of Math",
+      "summary": "",
+      "date_published": "2026-09-08T17:14:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "fd3f70e7e920b3d2",
+      "url": "https://www.wsj.com/tech/ai/how-shopifys-push-into-ai-is-working-out-802acbed",
+      "title": "How Shopify’s Push into AI Is Working Out",
+      "content_text": "How Shopify’s Push into AI Is Working Out",
+      "summary": "",
+      "date_published": "2026-09-08T16:53:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "aa2f9d0eb7ff8c4f",
+      "url": "https://www.wsj.com/business/amazon-sued-for-allegedly-discriminating-against-pregnant-workers-c61c997f",
+      "title": "Amazon Sued for Allegedly Discriminating Against Pregnant Employees",
+      "content_text": "Amazon Sued for Allegedly Discriminating Against Pregnant Employees",
+      "summary": "",
+      "date_published": "2026-09-08T16:43:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "719b78d0404c1efc",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026/card/-flash-heard-ge-takes-blade-manufacturing-in-house-L8nMYw7Y2wbSyLIKXWU2",
+      "title": "⚡Flash Heard: GE Takes Blade Manufacturing In-House",
+      "content_text": "⚡Flash Heard: GE Takes Blade Manufacturing In-House",
+      "summary": "",
+      "date_published": "2026-09-08T16:39:45+00:00",
+      "tags": [
+        "Front Page"
       ]
     },
     {
@@ -21,6 +329,17 @@
       "url": "https://www.wsj.com/opinion/what-went-wrong-after-9-11-4040f956",
       "title": "What Went Wrong After 9/11",
       "content_text": "What Went Wrong After 9/11",
+      "summary": "",
+      "date_published": "2026-09-08T16:26:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "979b2136901896ee",
+      "url": "https://www.wsj.com/opinion/what-if-california-becomes-a-failed-state-3aaf5059",
+      "title": "What if California Becomes a ‘Failed State’?",
+      "content_text": "What if California Becomes a ‘Failed State’?",
       "summary": "",
       "date_published": "2026-09-08T16:26:00+00:00",
       "tags": [
@@ -127,17 +446,6 @@
       ]
     },
     {
-      "id": "8b1fb72ecb99e5da",
-      "url": "https://www.wsj.com/world/asia/one-of-the-worlds-highest-paid-political-leaders-just-got-a-big-raise-824c0df1",
-      "title": "One of the World’s Highest-Paid Political Leaders Just Got a Big Raise",
-      "content_text": "One of the World’s Highest-Paid Political Leaders Just Got a Big Raise",
-      "summary": "",
-      "date_published": "2026-09-08T14:47:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
       "id": "6916d29446bc4caa",
       "url": "https://www.wsj.com/us-news/new-documents-detail-air-quality-issues-in-lower-manhattan-after-9-11-1aa74e39",
       "title": "New Documents Detail Air-Quality Issues in Lower Manhattan After 9/11",
@@ -146,6 +454,17 @@
       "date_published": "2026-09-08T14:47:00+00:00",
       "tags": [
         "Us News"
+      ]
+    },
+    {
+      "id": "8b1fb72ecb99e5da",
+      "url": "https://www.wsj.com/world/asia/one-of-the-worlds-highest-paid-political-leaders-just-got-a-big-raise-824c0df1",
+      "title": "One of the World’s Highest-Paid Political Leaders Just Got a Big Raise",
+      "content_text": "One of the World’s Highest-Paid Political Leaders Just Got a Big Raise",
+      "summary": "",
+      "date_published": "2026-09-08T14:47:00+00:00",
+      "tags": [
+        "World"
       ]
     },
     {
@@ -314,10 +633,10 @@
       ]
     },
     {
-      "id": "d261f9129c634fbb",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-dfa40493",
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
+      "id": "668c893adad12396",
+      "url": "https://www.wsj.com/business/energy-oil/nextera-energy-doe-close-on-1-9-billion-loan-for-nuclear-power-plant-in-iowa-381c2994",
+      "title": "NextEra Energy, DOE Close on $1.9 Billion Loan for Nuclear Power Plant in Iowa",
+      "content_text": "NextEra Energy, DOE Close on $1.9 Billion Loan for Nuclear Power Plant in Iowa",
       "summary": "",
       "date_published": "2026-09-08T12:50:00+00:00",
       "tags": [
@@ -325,10 +644,10 @@
       ]
     },
     {
-      "id": "668c893adad12396",
-      "url": "https://www.wsj.com/business/energy-oil/nextera-energy-doe-close-on-1-9-billion-loan-for-nuclear-power-plant-in-iowa-381c2994",
-      "title": "NextEra Energy, DOE Close on $1.9 Billion Loan for Nuclear Power Plant in Iowa",
-      "content_text": "NextEra Energy, DOE Close on $1.9 Billion Loan for Nuclear Power Plant in Iowa",
+      "id": "d261f9129c634fbb",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-dfa40493",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
       "summary": "",
       "date_published": "2026-09-08T12:50:00+00:00",
       "tags": [
@@ -443,6 +762,28 @@
       "date_published": "2026-09-08T12:00:00+00:00",
       "tags": [
         "Cio Journal"
+      ]
+    },
+    {
+      "id": "491bec5190da4a00",
+      "url": "https://www.wsj.com/finance/currencies/robinhood-strikes-deal-with-crypto-com-in-latest-prediction-markets-push-901a32aa",
+      "title": "Robinhood Strikes Deal With Crypto.com in Latest Prediction-Markets Push",
+      "content_text": "Robinhood Strikes Deal With Crypto.com in Latest Prediction-Markets Push",
+      "summary": "",
+      "date_published": "2026-09-08T12:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "0aa9be67821abea9",
+      "url": "https://www.wsj.com/business/energy-oil/tamarack-valley-to-merge-with-headwater-exploration-in-over-7-24-billion-deal-b8e0a0b6",
+      "title": "Tamarack Valley to Merge With Headwater Exploration in Over $7.24 Billion Deal",
+      "content_text": "Tamarack Valley to Merge With Headwater Exploration in Over $7.24 Billion Deal",
+      "summary": "",
+      "date_published": "2026-09-08T11:55:00+00:00",
+      "tags": [
+        "Business"
       ]
     },
     {
@@ -1862,347 +2203,6 @@
       "date_published": "2026-09-06T16:00:00+00:00",
       "tags": [
         "Sports"
-      ]
-    },
-    {
-      "id": "bb67532080e4263a",
-      "url": "https://www.wsj.com/politics/policy/retail-investors-hand-control-of-stock-portfolios-to-ai-5e7f3f25",
-      "title": "Retail Investors Hand Control of Stock Portfolios to AI",
-      "content_text": "Retail Investors Hand Control of Stock Portfolios to AI",
-      "summary": "",
-      "date_published": "2026-09-06T15:56:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "abe795f10106c8cc",
-      "url": "https://www.wsj.com/politics/in-trumps-second-term-the-maga-merchandise-boom-is-going-bust-725bc43a",
-      "title": "In Trump’s Second Term, the MAGA Merchandise Boom Is Going Bust",
-      "content_text": "In Trump’s Second Term, the MAGA Merchandise Boom Is Going Bust",
-      "summary": "",
-      "date_published": "2026-09-06T15:17:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "1190a76a531cc156",
-      "url": "https://www.wsj.com/tech/whos-boring-now-b22edb19",
-      "title": "Who’s Boring Now?",
-      "content_text": "Who’s Boring Now?",
-      "summary": "",
-      "date_published": "2026-09-06T14:55:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "4ca5ab1c4b34b62a",
-      "url": "https://www.wsj.com/lifestyle/travel/retirement-travel-japan-iowa-71c477db",
-      "title": "A Bike Trip in Japan Turned Us Into ‘Accidental Pilgrims’ in Retirement",
-      "content_text": "A Bike Trip in Japan Turned Us Into ‘Accidental Pilgrims’ in Retirement",
-      "summary": "",
-      "date_published": "2026-09-06T14:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "18675e6091e83e64",
-      "url": "https://www.wsj.com/personal-finance/how-to-break-it-to-your-parents-that-theyre-being-scammed-153f185a",
-      "title": "How to Break It to Your Parents That They’re Being Scammed",
-      "content_text": "How to Break It to Your Parents That They’re Being Scammed",
-      "summary": "",
-      "date_published": "2026-09-06T13:00:00+00:00",
-      "tags": [
-        "Personal Finance"
-      ]
-    },
-    {
-      "id": "f105fb0c363add53",
-      "url": "https://www.wsj.com/business/energy-oil/opec-allies-agree-to-keep-oil-output-steady-in-october-c7fceb83",
-      "title": "OPEC, Allies Agree to Keep Oil Output Steady in October",
-      "content_text": "OPEC, Allies Agree to Keep Oil Output Steady in October",
-      "summary": "",
-      "date_published": "2026-09-06T11:38:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "3f00c85eaae0b6c2",
-      "url": "https://www.wsj.com/sports/football/michigan-western-michigan-clock-hail-mary-08af1dbf",
-      "title": "Michigan Loses! Wait, Michigan Wins! College Football Rages Over Last Second Flip-Flop",
-      "content_text": "Michigan Loses! Wait, Michigan Wins! College Football Rages Over Last Second Flip-Flop",
-      "summary": "",
-      "date_published": "2026-09-06T11:34:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "c316bee50d5d278a",
-      "url": "https://www.wsj.com/tech/americas-own-banks-are-a-weak-link-in-the-campaign-to-cut-off-iran-53e1eb07",
-      "title": "America’s Own Banks Are a Weak Link in the Campaign to Cut Off Iran",
-      "content_text": "America’s Own Banks Are a Weak Link in the Campaign to Cut Off Iran",
-      "summary": "",
-      "date_published": "2026-09-06T11:04:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "6df7849bac42e25b",
-      "url": "https://www.wsj.com/health/wellness/oura-sleep-data-lawsuit-6e19c155",
-      "title": "Which Sleep Data to Trust From Oura and Other Wearables",
-      "content_text": "Which Sleep Data to Trust From Oura and Other Wearables",
-      "summary": "",
-      "date_published": "2026-09-06T11:00:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "b63616228e21d08a",
-      "url": "https://www.wsj.com/arts-culture/books/the-last-free-women-book-59ec7858",
-      "title": "The Women Who Escaped Kabul for America but Left Their Dreams Behind",
-      "content_text": "The Women Who Escaped Kabul for America but Left Their Dreams Behind",
-      "summary": "",
-      "date_published": "2026-09-06T11:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "2d443f4321242cfb",
-      "url": "https://www.wsj.com/health/healthcare/why-more-hospitals-and-doctors-are-asking-patients-to-pay-first-a42c085d",
-      "title": "Why More Hospitals and Doctors Are Asking Patients to Pay First",
-      "content_text": "Why More Hospitals and Doctors Are Asking Patients to Pay First",
-      "summary": "",
-      "date_published": "2026-09-06T09:30:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "d9a848d3af93c8a8",
-      "url": "https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34",
-      "title": "Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine",
-      "content_text": "Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine",
-      "summary": "",
-      "date_published": "2026-09-06T09:30:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "133e6abb91bb1377",
-      "url": "https://www.wsj.com/politics/policy/the-dsa-is-using-coffee-with-comrades-and-socialist-softball-to-convert-the-curious-ffcbcc65",
-      "title": "The DSA Is Using Coffee With Comrades and Socialist Softball to Convert the Curious",
-      "content_text": "The DSA Is Using Coffee With Comrades and Socialist Softball to Convert the Curious",
-      "summary": "",
-      "date_published": "2026-09-06T09:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "51b2a3ee63c597df",
-      "url": "https://www.wsj.com/arts-culture/fine-art/arts-calendar-happenings-for-the-week-of-september-6-airdigital-b76a08c2",
-      "title": "Arts Calendar: Happenings for the Week of September 6",
-      "content_text": "Arts Calendar: Happenings for the Week of September 6",
-      "summary": "",
-      "date_published": "2026-09-06T09:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "935253a2d6f7d9b1",
-      "url": "https://www.wsj.com/lifestyle/travel/at-taiwans-temples-a-glimpse-of-what-china-could-have-been-156c8126",
-      "title": "At Taiwan’s Temples, a Glimpse of What China Could Have Been",
-      "content_text": "At Taiwan’s Temples, a Glimpse of What China Could Have Been",
-      "summary": "",
-      "date_published": "2026-09-06T03:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "73b3e1f4235ebe86",
-      "url": "https://www.wsj.com/world/europe/ukraine-considers-legalizing-porn-industry-to-fund-its-war-chest-53b525bf",
-      "title": "Ukraine Considers Legalizing Porn Industry to Fund Its War Chest",
-      "content_text": "Ukraine Considers Legalizing Porn Industry to Fund Its War Chest",
-      "summary": "",
-      "date_published": "2026-09-06T02:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "162faa48ecf9de38",
-      "url": "https://www.wsj.com/world/middle-east/israel-west-bank-settlers-violence-palestinians-359a69a8",
-      "title": "The Violent Israeli Nomads Who Defy Law and Order in the Name of God",
-      "content_text": "The Violent Israeli Nomads Who Defy Law and Order in the Name of God",
-      "summary": "",
-      "date_published": "2026-09-06T01:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "43d5312dae6c5742",
-      "url": "https://www.wsj.com/finance/regulation/how-billions-in-iranian-money-passes-through-u-s-banks-69106989",
-      "title": "How Billions in Iranian Money Passes Through U.S. Banks",
-      "content_text": "How Billions in Iranian Money Passes Through U.S. Banks",
-      "summary": "",
-      "date_published": "2026-09-06T01:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "33a91dd84c8f4d54",
-      "url": "https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f",
-      "title": "The AI Shift Turning Everyday Investors Into Mini Quant Funds",
-      "content_text": "The AI Shift Turning Everyday Investors Into Mini Quant Funds",
-      "summary": "",
-      "date_published": "2026-09-06T00:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "906cca36728014f2",
-      "url": "https://www.wsj.com/us-news/jersey-city-is-growing-fast-so-why-is-it-in-such-a-financial-mess-508d126b",
-      "title": "Jersey City Is Growing Fast. So Why Is It in Such a Financial Mess?",
-      "content_text": "Jersey City Is Growing Fast. So Why Is It in Such a Financial Mess?",
-      "summary": "",
-      "date_published": "2026-09-06T00:00:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "ea2eca5ce9f01c68",
-      "url": "https://www.wsj.com/politics/elections/trump-aligned-group-pouring-money-into-texas-for-ken-paxton-00778eec",
-      "title": "Trump-Aligned Group Pouring Money Into Texas for Ken Paxton",
-      "content_text": "Trump-Aligned Group Pouring Money Into Texas for Ken Paxton",
-      "summary": "",
-      "date_published": "2026-09-05T19:39:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "fdd06ebd21ddfcc5",
-      "url": "https://www.wsj.com/us-news/law/how-two-men-without-lawyers-got-their-cases-to-the-supreme-court-abb63eb0",
-      "title": "How Two Men Without Lawyers Got Their Cases to the Supreme Court",
-      "content_text": "How Two Men Without Lawyers Got Their Cases to the Supreme Court",
-      "summary": "",
-      "date_published": "2026-09-05T19:00:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "970b8ff746c88e10",
-      "url": "https://www.wsj.com/finance/the-next-big-opportunity-in-data-centers-insuring-them-f133f3cb",
-      "title": "The Next Big Opportunity in Data Centers: Insuring Them",
-      "content_text": "The Next Big Opportunity in Data Centers: Insuring Them",
-      "summary": "",
-      "date_published": "2026-09-05T17:19:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "84c5cb7469d60793",
-      "url": "https://www.wsj.com/health/healthcare/elon-musks-inner-circle-is-pouring-cash-into-making-psychedelics-mainstream-98ea1b57",
-      "title": "Elon Musk’s Inner Circle Is Pouring Cash Into Making Psychedelics Mainstream",
-      "content_text": "Elon Musk’s Inner Circle Is Pouring Cash Into Making Psychedelics Mainstream",
-      "summary": "",
-      "date_published": "2026-09-05T16:00:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "5b93709e52e6cf9d",
-      "url": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
-      "title": "Diamond Mines Are Closing and South Africans Have Few Alternatives",
-      "content_text": "Diamond Mines Are Closing and South Africans Have Few Alternatives",
-      "summary": "",
-      "date_published": "2026-09-05T15:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "dafcf399158c6401",
-      "url": "https://www.wsj.com/personal-finance/cost-pet-care-finances-5a1cd072",
-      "title": "The Unexpected Cost of Pet Care Has Young Adults Rethinking Their Finances",
-      "content_text": "The Unexpected Cost of Pet Care Has Young Adults Rethinking Their Finances",
-      "summary": "",
-      "date_published": "2026-09-05T15:00:00+00:00",
-      "tags": [
-        "Personal Finance"
-      ]
-    },
-    {
-      "id": "a26bdc56823b811e",
-      "url": "https://www.wsj.com/world/middle-east/u-s-strikes-three-iranian-ships-after-missiles-fired-at-american-aircraft-carrier-ec5b3d5c",
-      "title": "U.S. Strikes Three Iranian Ships After Missiles Fired at American Aircraft Carrier",
-      "content_text": "U.S. Strikes Three Iranian Ships After Missiles Fired at American Aircraft Carrier",
-      "summary": "",
-      "date_published": "2026-09-05T14:46:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "55ab27f1df3ec914",
-      "url": "https://www.wsj.com/world/russia/putin-to-meet-trump-envoys-as-u-s-pushes-to-revive-ukraine-peace-talks-564945af",
-      "title": "Putin to Meet Trump Envoys as U.S. Pushes to Revive Ukraine Peace Talks",
-      "content_text": "Putin to Meet Trump Envoys as U.S. Pushes to Revive Ukraine Peace Talks",
-      "summary": "",
-      "date_published": "2026-09-05T14:07:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "f9e58b35eef31aeb",
-      "url": "https://www.wsj.com/lifestyle/relationships/boomers-are-moving-into-retirement-communities-alongside-their-parents-fa815d2f",
-      "title": "Boomers Are Moving Into Retirement Communities Alongside Their Parents",
-      "content_text": "Boomers Are Moving Into Retirement Communities Alongside Their Parents",
-      "summary": "",
-      "date_published": "2026-09-05T14:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "0d6558a130b42b72",
-      "url": "https://www.wsj.com/world/inside-the-uss-abraham-lincolns-nine-months-at-sea-loneliness-fatigue-pride-ec1961ca",
-      "title": "Inside the USS Abraham Lincoln’s Nine Months at Sea: Loneliness, Fatigue, Pride",
-      "content_text": "Inside the USS Abraham Lincoln’s Nine Months at Sea: Loneliness, Fatigue, Pride",
-      "summary": "",
-      "date_published": "2026-09-05T13:49:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "7d2cc3f5387999ef",
-      "url": "https://www.wsj.com/tech/personal-tech/sextortion-scams-family-group-chats-537e8369",
-      "title": "Sextortion Has Entered the Family Group Chat",
-      "content_text": "Sextortion Has Entered the Family Group Chat",
-      "summary": "",
-      "date_published": "2026-09-05T13:00:00+00:00",
-      "tags": [
-        "Tech"
       ]
     }
   ]
