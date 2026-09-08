@@ -6,6 +6,138 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "49c4b1a0d550a7de",
+      "url": "https://www.wsj.com/health/pharma/novartis-says-neuromuscular-drug-candidate-misses-goal-in-late-stage-trial-acc0a16e",
+      "title": "Novartis Says Neuromuscular Drug Candidate Misses Goal in Late-Stage Trial",
+      "content_text": "Novartis Says Neuromuscular Drug Candidate Misses Goal in Late-Stage Trial",
+      "summary": "",
+      "date_published": "2026-09-08T05:54:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "2929114a00967d00",
+      "url": "https://www.wsj.com/tech/ai/mistral-ai-exceeds-24-billion-valuation-after-samsung-led-investment-round-ea377b82",
+      "title": "Mistral AI Exceeds $24 Billion Valuation After Samsung-Led Investment Round",
+      "content_text": "Mistral AI Exceeds $24 Billion Valuation After Samsung-Led Investment Round",
+      "summary": "",
+      "date_published": "2026-09-08T05:28:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "def844fd598b7ba1",
+      "url": "https://www.wsj.com/economy/trade/chinas-trade-surplus-widens-as-export-growth-accelerates-f4418eda",
+      "title": "China’s Trade Surplus Widens as Export Growth Accelerates",
+      "content_text": "China’s Trade Surplus Widens as Export Growth Accelerates",
+      "summary": "",
+      "date_published": "2026-09-08T05:23:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "431dd411ff3f4570",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-00412026",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-09-08T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "9ff0bdc82602c193",
+      "url": "https://www.wsj.com/articles/whats-news-worldwide-e3d9e154",
+      "title": "What’s News: Worldwide",
+      "content_text": "What’s News: Worldwide",
+      "summary": "",
+      "date_published": "2026-09-08T03:51:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "19e2f0d8bd192205",
+      "url": "https://www.wsj.com/articles/whats-news-business-finance-c737ba89",
+      "title": "What’s News: Business & Finance",
+      "content_text": "What’s News: Business & Finance",
+      "summary": "",
+      "date_published": "2026-09-08T03:44:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "71e7961b1105ed14",
+      "url": "https://www.wsj.com/finance/currencies/yen-hits-six-month-high-against-dollar-on-boj-rate-hike-bets-c065be1e",
+      "title": "Yen Hits Six-Month High Against Dollar on BOJ Rate-Hike Bets",
+      "content_text": "Yen Hits Six-Month High Against Dollar on BOJ Rate-Hike Bets",
+      "summary": "",
+      "date_published": "2026-09-08T03:13:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "0e6285564048d9d2",
+      "url": "https://www.wsj.com/politics/how-the-unity-of-9-11-sowed-the-seeds-of-americas-deep-political-division-41cf4d13",
+      "title": "How the Unity of 9/11 Sowed the Seeds of America’s Deep Political Division",
+      "content_text": "How the Unity of 9/11 Sowed the Seeds of America’s Deep Political Division",
+      "summary": "",
+      "date_published": "2026-09-08T03:12:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "1756bcd6a37f74d1",
+      "url": "https://www.wsj.com/finance/stocks/asian-stock-markets-mixed-as-investors-look-to-u-s-cpi-data-f41bca9f",
+      "title": "Asian Stock Markets Mixed, Investors Await U.S. CPI Data",
+      "content_text": "Asian Stock Markets Mixed, Investors Await U.S. CPI Data",
+      "summary": "",
+      "date_published": "2026-09-08T02:25:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "ed2f09a72f1dcceb",
+      "url": "https://www.wsj.com/world/china/the-trillion-dollar-bright-spot-in-chinas-economy-tourism-3fadc6a7",
+      "title": "The Trillion-Dollar Bright Spot in China’s Economy: Tourism",
+      "content_text": "The Trillion-Dollar Bright Spot in China’s Economy: Tourism",
+      "summary": "",
+      "date_published": "2026-09-08T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "48990c91729add91",
+      "url": "https://www.wsj.com/world/see-how-drones-are-infiltrating-nato-territory-in-europe-9e89f4ee",
+      "title": "See How Drones Are Infiltrating NATO Territory in Europe",
+      "content_text": "See How Drones Are Infiltrating NATO Territory in Europe",
+      "summary": "",
+      "date_published": "2026-09-08T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "53648a42ef092043",
+      "url": "https://www.wsj.com/finance/commodities-futures/in-gold-the-bulls-are-everywhere-8ee642ee",
+      "title": "In Gold, the Bulls Are Everywhere",
+      "content_text": "In Gold, the Bulls Are Everywhere",
+      "summary": "",
+      "date_published": "2026-09-08T01:47:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "15c3591f7548d5b2",
       "url": "https://www.wsj.com/politics/policy/corey-lewandowski-influence-dhs-43d3fe03",
       "title": "Chasing Side Deals, Flexing Influence: Lewandowski’s Power Moves at DHS",
@@ -2071,138 +2203,6 @@
       "date_published": "2026-09-04T16:55:00+00:00",
       "tags": [
         "Health"
-      ]
-    },
-    {
-      "id": "7831ac6709650cdb",
-      "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/known-unknowns-a-rumsfeldian-breakdown-of-ai-capex-risks-lUeHV6skNAILwAEWTdVS",
-      "title": "Known Unknowns: A Rumsfeldian Breakdown of AI Capex Risks",
-      "content_text": "Known Unknowns: A Rumsfeldian Breakdown of AI Capex Risks",
-      "summary": "",
-      "date_published": "2026-09-04T16:30:03+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "a47eba0d087d05e4",
-      "url": "https://www.wsj.com/politics/policy/takeaways-from-wsjs-reporting-on-john-fetterman-2b43e666",
-      "title": "Takeaways From WSJ’s Reporting on John Fetterman",
-      "content_text": "Takeaways From WSJ’s Reporting on John Fetterman",
-      "summary": "",
-      "date_published": "2026-09-04T16:17:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "27c324c68333070c",
-      "url": "https://www.wsj.com/arts-culture/books/past-and-thoughts-review-an-exile-at-the-center-of-events-6aef6a11",
-      "title": "‘Past and Thoughts’ Review: An Exile at the Center of Events",
-      "content_text": "‘Past and Thoughts’ Review: An Exile at the Center of Events",
-      "summary": "",
-      "date_published": "2026-09-04T16:13:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "980fb35534cbd9f7",
-      "url": "https://www.wsj.com/tech/ai/moonshot-ai-yang-ceo-china-6f12ddbf",
-      "title": "The 33-Year-Old AI Hotshot Taking Silicon Valley Swagger Back to Beijing",
-      "content_text": "The 33-Year-Old AI Hotshot Taking Silicon Valley Swagger Back to Beijing",
-      "summary": "",
-      "date_published": "2026-09-04T16:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "f4165e99330cc1ec",
-      "url": "https://www.wsj.com/arts-culture/food-cooking/my-friends-demand-these-perfectly-crispy-zucchini-fries-20757b2b",
-      "title": "My Friends Demand These Perfectly Crispy Zucchini Fries",
-      "content_text": "My Friends Demand These Perfectly Crispy Zucchini Fries",
-      "summary": "",
-      "date_published": "2026-09-04T16:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "fc802f07cf26ed94",
-      "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/what-s-moving-markets-today--DJNfMJL0g9fo6ToblOUB",
-      "title": "What's Moving Markets Today?",
-      "content_text": "What's Moving Markets Today?",
-      "summary": "",
-      "date_published": "2026-09-04T15:59:32+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "86880a32231f31e3",
-      "url": "https://www.wsj.com/arts-culture/books/inside-the-george-w-bush-white-house-review-teammates-and-rivals-516a73f2",
-      "title": "‘Inside the George W. Bush White House’ Review: Teammates and Rivals",
-      "content_text": "‘Inside the George W. Bush White House’ Review: Teammates and Rivals",
-      "summary": "",
-      "date_published": "2026-09-04T15:59:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "6797739bedfdee23",
-      "url": "https://www.wsj.com/tech/personal-tech/can-a-499-ai-toothbrush-finally-make-you-forget-about-flossing-e2b108c1",
-      "title": "Can a $499 AI Toothbrush Finally Make You Forget About Flossing?",
-      "content_text": "Can a $499 AI Toothbrush Finally Make You Forget About Flossing?",
-      "summary": "",
-      "date_published": "2026-09-04T15:55:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "71e0e34020462428",
-      "url": "https://www.wsj.com/arts-culture/books/frederick-douglasss-american-founding-and-until-the-last-yoke-is-broken-a-foundational-question-b349a1b1",
-      "title": "‘Frederick Douglass’s American Founding’ and ‘Until the Last Yoke Is Broken’: A Foundational Question",
-      "content_text": "‘Frederick Douglass’s American Founding’ and ‘Until the Last Yoke Is Broken’: A Foundational Question",
-      "summary": "",
-      "date_published": "2026-09-04T15:46:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "b7f22678c32d100a",
-      "url": "https://www.wsj.com/arts-culture/books/fredrick-douglasss-american-founding-and-until-the-last-yoke-is-broken-a-foundational-question-b349a1b1",
-      "title": "‘Fredrick Douglass’s American Founding’ and ‘Until the Last Yoke Is Broken’: A Foundational Question",
-      "content_text": "‘Fredrick Douglass’s American Founding’ and ‘Until the Last Yoke Is Broken’: A Foundational Question",
-      "summary": "",
-      "date_published": "2026-09-04T15:46:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "d318e1189561a339",
-      "url": "https://www.wsj.com/arts-culture/books/natural-intelligence-the-logic-of-consciousness-review-matters-of-mind-75da4118",
-      "title": "‘Natural Intelligence & the Logic of Consciousness’ Review: Matters of Mind",
-      "content_text": "‘Natural Intelligence & the Logic of Consciousness’ Review: Matters of Mind",
-      "summary": "",
-      "date_published": "2026-09-04T15:32:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "596e891a51b5cd9d",
-      "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/stocks-slump-after-jobs-report-opqDNlVchW2Be9MHwNbT",
-      "title": "Stocks Slump Amid Fears of Rate Hikes Ahead",
-      "content_text": "Stocks Slump Amid Fears of Rate Hikes Ahead",
-      "summary": "",
-      "date_published": "2026-09-04T15:26:16+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
