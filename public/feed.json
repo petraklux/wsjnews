@@ -6,6 +6,94 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "15c3591f7548d5b2",
+      "url": "https://www.wsj.com/politics/policy/corey-lewandowski-influence-dhs-43d3fe03",
+      "title": "Chasing Side Deals, Flexing Influence: Lewandowski’s Power Moves at DHS",
+      "content_text": "Chasing Side Deals, Flexing Influence: Lewandowski’s Power Moves at DHS",
+      "summary": "",
+      "date_published": "2026-09-08T01:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "fcb6cec54e6f0538",
+      "url": "https://www.wsj.com/finance/stocks/the-stock-markets-breezy-summer-is-over-investors-beware-fb110133",
+      "title": "The Stock Market’s Breezy Summer Is Over. Investors Beware.",
+      "content_text": "The Stock Market’s Breezy Summer Is Over. Investors Beware.",
+      "summary": "",
+      "date_published": "2026-09-08T01:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "11f1983257069a43",
+      "url": "https://www.wsj.com/finance/currencies/yen-strengthens-further-sentiment-toward-currency-has-materially-shifted-72af55be",
+      "title": "Yen Strengthens Further; Sentiment Toward Currency Has ‘Materially’ Shifted",
+      "content_text": "Yen Strengthens Further; Sentiment Toward Currency Has ‘Materially’ Shifted",
+      "summary": "",
+      "date_published": "2026-09-08T00:38:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "b19383d2196b0f0d",
+      "url": "https://www.wsj.com/finance/jgb-futures-rise-as-yens-strength-seen-easing-inflationary-pressures-5eefc264",
+      "title": "JGB Futures Rise as Yen’s Strength Seen Easing Inflationary Pressures",
+      "content_text": "JGB Futures Rise as Yen’s Strength Seen Easing Inflationary Pressures",
+      "summary": "",
+      "date_published": "2026-09-08T00:29:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "2fa04e6b53f5fd7c",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-fears-of-more-supply-disruptions-in-middle-east-97f4225b",
+      "title": "Oil Rises Amid Fears of More Supply Disruptions in Middle East",
+      "content_text": "Oil Rises Amid Fears of More Supply Disruptions in Middle East",
+      "summary": "",
+      "date_published": "2026-09-08T00:23:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "58a9518115d8a82d",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-6-dragged-by-electronics-machinery-stocks-97139a76",
+      "title": "Nikkei Falls 0.6%, Dragged by Electronics, Machinery Stocks",
+      "content_text": "Nikkei Falls 0.6%, Dragged by Electronics, Machinery Stocks",
+      "summary": "",
+      "date_published": "2026-09-08T00:19:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "c53a54c58594d4b0",
+      "url": "https://www.wsj.com/lifestyle/careers/jeopardy-just-hired-a-new-clue-writer-could-you-do-the-job-take-our-quiz-ea4dcb4f",
+      "title": "‘Jeopardy!’ Just Hired a New Clue Writer. Could You Do the Job? Take Our Quiz.",
+      "content_text": "‘Jeopardy!’ Just Hired a New Clue Writer. Could You Do the Job? Take Our Quiz.",
+      "summary": "",
+      "date_published": "2026-09-08T00:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "6c637308c3e0cb3b",
+      "url": "https://www.wsj.com/world/europe/greenland-seeks-to-turn-peril-into-profit-after-trumps-threats-to-take-it-over-02c3e927",
+      "title": "Greenland Seeks to Turn Peril Into Profit After Trump’s Threats to Take It Over",
+      "content_text": "Greenland Seeks to Turn Peril Into Profit After Trump’s Threats to Take It Over",
+      "summary": "",
+      "date_published": "2026-09-07T23:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "dac1f5a8e1d2a62f",
       "url": "https://www.wsj.com/business/airlines/amazon-plane-crash-probe-examines-aircraft-speed-runway-safeguards-185a441e",
       "title": "Amazon Plane Crash Probe Examines Aircraft Speed, Runway Safeguards",
@@ -28,10 +116,10 @@
       ]
     },
     {
-      "id": "da4db13b607ad53a",
-      "url": "https://www.wsj.com/opinion/what-trump-could-learn-from-bush-d6e1633c",
-      "title": "What Trump Could Learn From Bush",
-      "content_text": "What Trump Could Learn From Bush",
+      "id": "94239b960ca5ceae",
+      "url": "https://www.wsj.com/opinion/europe-hits-the-snooze-button-23e291a7",
+      "title": "Europe Hits the Snooze Button",
+      "content_text": "Europe Hits the Snooze Button",
       "summary": "",
       "date_published": "2026-09-07T21:27:00+00:00",
       "tags": [
@@ -39,10 +127,10 @@
       ]
     },
     {
-      "id": "94239b960ca5ceae",
-      "url": "https://www.wsj.com/opinion/europe-hits-the-snooze-button-23e291a7",
-      "title": "Europe Hits the Snooze Button",
-      "content_text": "Europe Hits the Snooze Button",
+      "id": "da4db13b607ad53a",
+      "url": "https://www.wsj.com/opinion/what-trump-could-learn-from-bush-d6e1633c",
+      "title": "What Trump Could Learn From Bush",
+      "content_text": "What Trump Could Learn From Bush",
       "summary": "",
       "date_published": "2026-09-07T21:27:00+00:00",
       "tags": [
@@ -2115,94 +2203,6 @@
       "date_published": "2026-09-04T15:26:16+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "826e3ad7cf70ae39",
-      "url": "https://www.wsj.com/politics/policy/howard-lutnick-commerce-secretary-income-2d49acf3",
-      "title": "Howard Lutnick Made Over $250 Million Last Year",
-      "content_text": "Howard Lutnick Made Over $250 Million Last Year",
-      "summary": "",
-      "date_published": "2026-09-04T15:26:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "37ca7d4140aeb850",
-      "url": "https://www.wsj.com/arts-culture/books/lords-of-serendipity-review-a-global-education-16afcab0",
-      "title": "‘Lords of Serendipity’ Review: A Global Education",
-      "content_text": "‘Lords of Serendipity’ Review: A Global Education",
-      "summary": "",
-      "date_published": "2026-09-04T15:23:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "40295524c0927dac",
-      "url": "https://www.wsj.com/arts-culture/books/fallow-review-no-need-for-maternity-leave-a6af5243",
-      "title": "‘Fallow’ Review: No Need for Maternity Leave",
-      "content_text": "‘Fallow’ Review: No Need for Maternity Leave",
-      "summary": "",
-      "date_published": "2026-09-04T15:18:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "b3a79df20089e35c",
-      "url": "https://www.wsj.com/arts-culture/books/our-common-life-review-tune-and-tune-again-1bfb1713",
-      "title": "‘Our Common Life’ Review: Tune and Tune Again",
-      "content_text": "‘Our Common Life’ Review: Tune and Tune Again",
-      "summary": "",
-      "date_published": "2026-09-04T15:12:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "170357c8290f94e4",
-      "url": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-inflation-data-in-focus-ecb-expected-to-raise-rates-2e8f240b",
-      "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates",
-      "content_text": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates",
-      "summary": "",
-      "date_published": "2026-09-04T15:09:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "f930e665c2e14bb2",
-      "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/trump-housing-chief-restarts-battle-with-the-credit-score-industry-NeKhFoGOgJhcSzWDswX2",
-      "title": "Trump Housing Chief Restarts Battle With the Credit-Score Industry",
-      "content_text": "Trump Housing Chief Restarts Battle With the Credit-Score Industry",
-      "summary": "",
-      "date_published": "2026-09-04T15:07:18+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "e4d118c5b3b719d2",
-      "url": "https://www.wsj.com/arts-culture/books/the-hero-returns-review-lafayette-takes-a-bow-09b08b1c",
-      "title": "‘The Hero Returns’ Review: Lafayette Takes a Bow",
-      "content_text": "‘The Hero Returns’ Review: Lafayette Takes a Bow",
-      "summary": "",
-      "date_published": "2026-09-04T15:04:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "95b8b769184bd074",
-      "url": "https://www.wsj.com/arts-culture/books/why-10-000-people-are-clamoring-to-dig-in-london-mud-396fe53d",
-      "title": "Why 10,000 People Are Clamoring to Dig in London Mud",
-      "content_text": "Why 10,000 People Are Clamoring to Dig in London Mud",
-      "summary": "",
-      "date_published": "2026-09-04T15:03:00+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]
