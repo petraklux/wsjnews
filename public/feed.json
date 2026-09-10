@@ -6,14 +6,443 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "a57a8addba966997",
-      "url": "https://www.wsj.com/world/europe/the-baltic-country-calling-for-calm-in-the-face-of-russian-threat-afdcfa2f",
-      "title": "The Baltic Country Calling for Calm in the Face of Russian Threat",
-      "content_text": "The Baltic Country Calling for Calm in the Face of Russian Threat",
+      "id": "cd56c9ba0d14472d",
+      "url": "https://www.wsj.com/livecoverage/vance-trump-midterm-elections-2026-rnc/card/trump-takes-stage-to-deliver-the-gop-case-in-midterms-hqiCYl5r7xmEgAF9e7TE",
+      "title": "Trump Takes Stage to Deliver the GOP Case in Midterms",
+      "content_text": "Trump Takes Stage to Deliver the GOP Case in Midterms",
       "summary": "",
-      "date_published": "2026-09-09T23:00:00+00:00",
+      "date_published": "2026-09-10T01:13:27+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "6c4a0e8e5e3b3ddc",
+      "url": "https://www.wsj.com/livecoverage/vance-trump-midterm-elections-2026-rnc/card/a-dnc-vice-chair-calls-fetterman-laziest-benedict-arnold-america-has-ever-seen--QBIf1sjWwKfdMYGb6Yoh",
+      "title": "A DNC Vice Chair Calls Fetterman ‘Laziest Benedict Arnold America Has Ever Seen’",
+      "content_text": "A DNC Vice Chair Calls Fetterman ‘Laziest Benedict Arnold America Has Ever Seen’",
+      "summary": "",
+      "date_published": "2026-09-10T01:12:10+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
+      "summary": "",
+      "date_published": "2026-09-10T01:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-09-10T01:00:19+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-09-10T01:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
+      "summary": "",
+      "date_published": "2026-09-10T01:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "5a885d497fa8a917",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview",
+      "title": "The saturday interview",
+      "content_text": "The saturday interview",
+      "summary": "",
+      "date_published": "2026-09-10T01:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "dea6ec2569a2d42b",
+      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
+      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "summary": "",
+      "date_published": "2026-09-10T01:00:19+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
+      "summary": "",
+      "date_published": "2026-09-10T01:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "67a229f9726f9141",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial",
+      "title": "Real estate commercial",
+      "content_text": "Real estate commercial",
+      "summary": "",
+      "date_published": "2026-09-10T01:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "2290fafdc310a6ad",
+      "url": "https://www.wsj.com/finance/currencies/crypto-investment-scam-victims-big-tuna-a489ece6",
+      "title": "They Lost Their Money to Scammers—and Now Battle the U.S. Government to Recover It",
+      "content_text": "They Lost Their Money to Scammers—and Now Battle the U.S. Government to Recover It",
+      "summary": "",
+      "date_published": "2026-09-10T01:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "c22b33232d1a0cb8",
+      "url": "https://www.wsj.com/world/middle-east/with-close-calls-on-u-s-warships-iran-shows-new-appetite-for-escalation-e2758bbd",
+      "title": "With Close Calls on U.S. Warships, Iran Shows New Appetite for Escalation",
+      "content_text": "With Close Calls on U.S. Warships, Iran Shows New Appetite for Escalation",
+      "summary": "",
+      "date_published": "2026-09-10T01:00:00+00:00",
       "tags": [
         "World"
+      ]
+    },
+    {
+      "id": "a47a1a546e208623",
+      "url": "https://www.wsj.com/economy/central-banking/inflation-report-fed-interest-rate-decision-e98331d9",
+      "title": "A Tiny Shift in the Inflation Rate Could Decide the Fed’s Next Move",
+      "content_text": "A Tiny Shift in the Inflation Rate Could Decide the Fed’s Next Move",
+      "summary": "",
+      "date_published": "2026-09-10T01:00:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "8d03cc1fa42e2853",
+      "url": "https://www.wsj.com/livecoverage/vance-trump-midterm-elections-2026-rnc/card/polls-suggest-unease-with-the-gop-might-have-limited-benefit-for-democrats-oD0rXnbG4jSBwocX9raS",
+      "title": "Polls Suggest Unease With the GOP Might Have Limited Benefit for Democrats",
+      "content_text": "Polls Suggest Unease With the GOP Might Have Limited Benefit for Democrats",
+      "summary": "",
+      "date_published": "2026-09-10T00:57:20+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "e9dfb34a8ac5c280",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-steady-ahead-of-u-s-inflation-data-ac8bcde7",
+      "title": "Gold Steady Ahead of U.S. Inflation Data",
+      "content_text": "Gold Steady Ahead of U.S. Inflation Data",
+      "summary": "",
+      "date_published": "2026-09-10T00:54:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "b00156170e6dfcd4",
+      "url": "https://www.wsj.com/livecoverage/vance-trump-midterm-elections-2026-rnc/card/bessent-warns-of-socialist-hellscape-if-progressive-democrats-take-power-9dpZj4QrxyXlRZBIofiz",
+      "title": "Bessent Warns of ‘Socialist Hellscape’ if Progressive Democrats Take Power",
+      "content_text": "Bessent Warns of ‘Socialist Hellscape’ if Progressive Democrats Take Power",
+      "summary": "",
+      "date_published": "2026-09-10T00:49:57+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "3af34ccf866579d0",
+      "url": "https://www.wsj.com/politics/elections/rhode-islands-governor-is-trounced-in-democratic-primary-da68a715",
+      "title": "Rhode Island’s Governor Is Trounced in Democratic Primary",
+      "content_text": "Rhode Island’s Governor Is Trounced in Democratic Primary",
+      "summary": "",
+      "date_published": "2026-09-10T00:46:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "9f4410dd449c7f83",
+      "url": "https://www.wsj.com/livecoverage/vance-trump-midterm-elections-2026-rnc/card/trump-knew-beforehand-that-fetterman-would-cameo-at-gop-convention-9dbFkMj8KoAlSBzreAzK",
+      "title": "Trump Knew Beforehand that Fetterman Would Cameo at GOP Convention",
+      "content_text": "Trump Knew Beforehand that Fetterman Would Cameo at GOP Convention",
+      "summary": "",
+      "date_published": "2026-09-10T00:44:15+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "4d87b9d73c01c4fb",
+      "url": "https://www.wsj.com/livecoverage/vance-trump-midterm-elections-2026-rnc/card/dr-oz-hails-historic-weight-loss-due-to-glp-1s-LR6dAeBcJXTJisnfLF3h",
+      "title": "Dr. Oz Hails ‘Historic Weight Loss’ Due to GLP-1s",
+      "content_text": "Dr. Oz Hails ‘Historic Weight Loss’ Due to GLP-1s",
+      "summary": "",
+      "date_published": "2026-09-10T00:41:29+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "b2d277ec318a665e",
+      "url": "https://www.wsj.com/livecoverage/vance-trump-midterm-elections-2026-rnc/card/byron-donalds-attacks-rival-in-florida-governor-s-race-WGafU13n9fmdgg6MvQwX",
+      "title": "Byron Donalds Attacks Rival in Florida Governor’s Race",
+      "content_text": "Byron Donalds Attacks Rival in Florida Governor’s Race",
+      "summary": "",
+      "date_published": "2026-09-10T00:33:48+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "9b6e10ee3f23de5c",
+      "url": "https://www.wsj.com/livecoverage/vance-trump-midterm-elections-2026-rnc/card/who-is-republicans-top-democratic-nemesis-they-re-not-sure--1OFkbpbukA4iOJHsvuYa",
+      "title": "Who Is Republicans’ Top Democratic Nemesis? They’re Not Sure.",
+      "content_text": "Who Is Republicans’ Top Democratic Nemesis? They’re Not Sure.",
+      "summary": "",
+      "date_published": "2026-09-10T00:33:01+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "d7fda485e5a1c370",
+      "url": "https://www.wsj.com/livecoverage/vance-trump-midterm-elections-2026-rnc/card/political-ads-total-6-billion-with-almost-eight-weeks-to-go-mynt895efeCoGiF6Eyco",
+      "title": "Political Ads Total $6 Billion, With Almost Eight Weeks to Go",
+      "content_text": "Political Ads Total $6 Billion, With Almost Eight Weeks to Go",
+      "summary": "",
+      "date_published": "2026-09-10T00:31:34+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "b59b4b7a1e4f50a4",
+      "url": "https://www.wsj.com/finance/jgbs-fall-tracking-declines-in-u-s-treasurys-fc58f41c",
+      "title": "JGBs Fall, Tracking Declines in U.S. Treasurys",
+      "content_text": "JGBs Fall, Tracking Declines in U.S. Treasurys",
+      "summary": "",
+      "date_published": "2026-09-10T00:28:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "deb090a4bb8168f6",
+      "url": "https://www.wsj.com/tech/personal-tech/iphone-duo-apple-first-impressions-7234f86e",
+      "title": "My First Impressions of the New Folding iPhone Duo",
+      "content_text": "My First Impressions of the New Folding iPhone Duo",
+      "summary": "",
+      "date_published": "2026-09-10T00:27:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "77f9cbdea0132d98",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-6-dragged-by-construction-retail-stocks-e97b178d",
+      "title": "Nikkei Falls 0.6%, Dragged by Construction, Retail Stocks",
+      "content_text": "Nikkei Falls 0.6%, Dragged by Construction, Retail Stocks",
+      "summary": "",
+      "date_published": "2026-09-10T00:18:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "7fa8dc7918b5c86f",
+      "url": "https://www.wsj.com/livecoverage/vance-trump-midterm-elections-2026-rnc/card/blanche-praises-trump-s-border-crackdown-and-vows-accountability-for-drug-fraud-crimes-68OrvPti8QYFN9nUy0fu",
+      "title": "Todd Blanche Praises Trump’s Border Crackdown and Vows Accountability for Drug, Fraud Crimes",
+      "content_text": "Todd Blanche Praises Trump’s Border Crackdown and Vows Accountability for Drug, Fraud Crimes",
+      "summary": "",
+      "date_published": "2026-09-10T00:14:44+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "eb7925e23b92aecd",
+      "url": "https://www.wsj.com/livecoverage/vance-trump-midterm-elections-2026-rnc/card/rep-mike-collins-leans-heavily-into-laken-riley-act-at-gop-convention-6ln2FtGpj24kPSvcMRv2",
+      "title": "Rep. Mike Collins Leans Heavily Into Laken Riley Act at GOP Convention",
+      "content_text": "Rep. Mike Collins Leans Heavily Into Laken Riley Act at GOP Convention",
+      "summary": "",
+      "date_published": "2026-09-10T00:13:42+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "c6072006688e1455",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-escalation-in-mideast-conflict-1394ff07",
+      "title": "Oil Rises Amid Escalation in Mideast Conflict",
+      "content_text": "Oil Rises Amid Escalation in Mideast Conflict",
+      "summary": "",
+      "date_published": "2026-09-10T00:12:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "c95aa1832dca853a",
+      "url": "https://www.wsj.com/tech/ai/how-would-ai-actually-kill-us-all-what-to-know-about-the-ai-doomsday-debate-034270d1",
+      "title": "How Would AI Actually Kill Us All? What to Know About the AI Doomsday Debate",
+      "content_text": "How Would AI Actually Kill Us All? What to Know About the AI Doomsday Debate",
+      "summary": "",
+      "date_published": "2026-09-10T00:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "01d9afa59d6d952a",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/custom-build-home-under-1-million-a6cf52bf",
+      "title": "How Two Retirees Pulled Off a Custom-Built Home for Under $1 Million",
+      "content_text": "How Two Retirees Pulled Off a Custom-Built Home for Under $1 Million",
+      "summary": "",
+      "date_published": "2026-09-10T00:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "b7ab3f088c1f33cf",
+      "url": "https://www.wsj.com/us-news/education/mississippi-schools-education-blue-red-states-a677a5d5",
+      "title": "Mississippi Fixed Its Schools. Here’s How Other States Can Too.",
+      "content_text": "Mississippi Fixed Its Schools. Here’s How Other States Can Too.",
+      "summary": "",
+      "date_published": "2026-09-10T00:00:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "14b1a4054c540525",
+      "url": "https://www.wsj.com/finance/currencies/australian-dollar-touches-fresh-mid-may-highs-c61ab082",
+      "title": "Yen Consolidates Ahead of BOJ Masu’s Speech",
+      "content_text": "Yen Consolidates Ahead of BOJ Masu’s Speech",
+      "summary": "",
+      "date_published": "2026-09-09T23:54:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "26cb760a4e21720b",
+      "url": "https://www.wsj.com/livecoverage/vance-trump-midterm-elections-2026-rnc/card/florida-retiree-lauds-tax-cuts-lower-prescription-drug-prices-BGMTBiEP8xYCpC8UPY5Z",
+      "title": "Florida Retiree Lauds Tax Cuts, Lower Prescription Drug Prices",
+      "content_text": "Florida Retiree Lauds Tax Cuts, Lower Prescription Drug Prices",
+      "summary": "",
+      "date_published": "2026-09-09T23:53:25+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "21323a26bab5c457",
+      "url": "https://www.wsj.com/economy/trade/canada-tribunal-rules-u-s-canned-vegetable-imports-hurt-domestic-food-sector-75be845a",
+      "title": "Canada Tribunal Rules U.S. Canned Vegetable Imports Hurt Domestic Food Sector",
+      "content_text": "Canada Tribunal Rules U.S. Canned Vegetable Imports Hurt Domestic Food Sector",
+      "summary": "",
+      "date_published": "2026-09-09T23:51:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "7936748782945a55",
+      "url": "https://www.wsj.com/livecoverage/vance-trump-midterm-elections-2026-rnc/card/comedian-adam-carolla-slams-california-s-liberal-policies-T9TRNtlX5z8K67jiqWgM",
+      "title": "Comedian Adam Carolla Slams California’s Liberal Policies",
+      "content_text": "Comedian Adam Carolla Slams California’s Liberal Policies",
+      "summary": "",
+      "date_published": "2026-09-09T23:46:20+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "c0f6ea71aa2eba44",
+      "url": "https://www.wsj.com/livecoverage/vance-trump-midterm-elections-2026-rnc/card/fetterman-s-step-across-party-lines-is-an-uncommon-move-but-not-unprecedented-hU8tFXGJATlBCTbQ9WMg",
+      "title": "Fetterman’s Step Across Party Lines is an Uncommon Move, But Not Unprecedented",
+      "content_text": "Fetterman’s Step Across Party Lines is an Uncommon Move, But Not Unprecedented",
+      "summary": "",
+      "date_published": "2026-09-09T23:42:28+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "5caa3d15d062cab2",
+      "url": "https://www.wsj.com/livecoverage/vance-trump-midterm-elections-2026-rnc/card/fetterman-has-a-history-of-criticizing-his-own-party-over-trump-n403Y1tyl0VP2ppfn1VQ",
+      "title": "Fetterman Has a History of Criticizing His Own Party Over Trump",
+      "content_text": "Fetterman Has a History of Criticizing His Own Party Over Trump",
+      "summary": "",
+      "date_published": "2026-09-09T23:34:24+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "ba5974ab61b06712",
+      "url": "https://www.wsj.com/livecoverage/vance-trump-midterm-elections-2026-rnc/card/texas-congressman-says-election-is-mainstream-vs-the-extreme--1l9V1a85Lc1MDRNclOae",
+      "title": "Texas Congressman Says Election Is ‘Mainstream vs. the Extreme’",
+      "content_text": "Texas Congressman Says Election Is ‘Mainstream vs. the Extreme’",
+      "summary": "",
+      "date_published": "2026-09-09T23:28:17+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "4b0033623c4c0138",
+      "url": "https://www.wsj.com/livecoverage/vance-trump-midterm-elections-2026-rnc/card/sen-tim-scott-at-gop-convention-we-will-keep-the-majority--hibkkXeqUKilM2T1HelW",
+      "title": "Sen. Tim Scott at GOP Convention: ‘We Will Keep the Majority’",
+      "content_text": "Sen. Tim Scott at GOP Convention: ‘We Will Keep the Majority’",
+      "summary": "",
+      "date_published": "2026-09-09T23:25:13+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "1dda7b25101ff7d7",
+      "url": "https://www.wsj.com/livecoverage/vance-trump-midterm-elections-2026-rnc/card/fetterman-video-message-plays-abruptly-is-met-with-muted-crowd-reaction-ef6PpwA8MDT7oyXHFbuX",
+      "title": "Fetterman Video Message Plays Abruptly, Is Met With Muted Crowd Reaction",
+      "content_text": "Fetterman Video Message Plays Abruptly, Is Met With Muted Crowd Reaction",
+      "summary": "",
+      "date_published": "2026-09-09T23:24:55+00:00",
+      "tags": [
+        "Front Page"
       ]
     },
     {
@@ -21,6 +450,17 @@
       "url": "https://www.wsj.com/world/middle-east/trumps-top-advisers-confront-possibility-that-iran-war-lasts-through-end-of-term-5f4e23d7",
       "title": "Trump’s Top Advisers Confront Possibility That Iran War Lasts Through End of Term",
       "content_text": "Trump’s Top Advisers Confront Possibility That Iran War Lasts Through End of Term",
+      "summary": "",
+      "date_published": "2026-09-09T23:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "a57a8addba966997",
+      "url": "https://www.wsj.com/world/europe/the-baltic-country-calling-for-calm-in-the-face-of-russian-threat-afdcfa2f",
+      "title": "The Baltic Country Calling for Calm in the Face of Russian Threat",
+      "content_text": "The Baltic Country Calling for Calm in the Face of Russian Threat",
       "summary": "",
       "date_published": "2026-09-09T23:00:00+00:00",
       "tags": [
@@ -347,10 +787,10 @@
       ]
     },
     {
-      "id": "a8ae6e7ee12377ca",
-      "url": "https://www.wsj.com/opinion/ai-may-become-the-third-superpower-1f7700dc",
-      "title": "AI May Become the Third Superpower",
-      "content_text": "AI May Become the Third Superpower",
+      "id": "991c96c529575143",
+      "url": "https://www.wsj.com/opinion/the-europeans-post-9-11-advice-e892c8a9",
+      "title": "The Europeans’ Post-9/11 Advice",
+      "content_text": "The Europeans’ Post-9/11 Advice",
       "summary": "",
       "date_published": "2026-09-09T21:02:00+00:00",
       "tags": [
@@ -358,10 +798,10 @@
       ]
     },
     {
-      "id": "991c96c529575143",
-      "url": "https://www.wsj.com/opinion/the-europeans-post-9-11-advice-e892c8a9",
-      "title": "The Europeans’ Post-9/11 Advice",
-      "content_text": "The Europeans’ Post-9/11 Advice",
+      "id": "a8ae6e7ee12377ca",
+      "url": "https://www.wsj.com/opinion/ai-may-become-the-third-superpower-1f7700dc",
+      "title": "AI May Become the Third Superpower",
+      "content_text": "AI May Become the Third Superpower",
       "summary": "",
       "date_published": "2026-09-09T21:02:00+00:00",
       "tags": [
@@ -1761,446 +2201,6 @@
       "content_text": "Pepper…and Salt",
       "summary": "",
       "date_published": "2026-09-09T04:00:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "ba4c4580589aebcd",
-      "url": "https://www.wsj.com/politics/policy/trump-gifted-natalie-harp-two-other-aides-45-000-each-last-christmas-a4ccdbfc",
-      "title": "Trump Gifted Natalie Harp, Two Other Aides $45,000 Each Last Christmas",
-      "content_text": "Trump Gifted Natalie Harp, Two Other Aides $45,000 Each Last Christmas",
-      "summary": "",
-      "date_published": "2026-09-09T03:47:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "607c05ef546159f9",
-      "url": "https://www.wsj.com/business/airlines/amazon-planes-systems-werent-deployed-to-slow-jet-before-crash-investigators-say-5ce659c7",
-      "title": "Amazon Plane’s Systems Weren’t Deployed to Slow Jet Before Crash, Investigators Say",
-      "content_text": "Amazon Plane’s Systems Weren’t Deployed to Slow Jet Before Crash, Investigators Say",
-      "summary": "",
-      "date_published": "2026-09-09T03:25:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "7dd66c2e80a6a167",
-      "url": "https://www.wsj.com/economy/chinas-consumer-producer-inflation-edge-higher-c8f208b7",
-      "title": "China’s Consumer, Producer Inflation Edge Higher",
-      "content_text": "China’s Consumer, Producer Inflation Edge Higher",
-      "summary": "",
-      "date_published": "2026-09-09T03:01:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "42b0763873f37a1f",
-      "url": "https://www.wsj.com/economy/consumers/six-charts-that-explain-how-americans-really-feel-about-the-economy-2243d7da",
-      "title": "Six Charts That Explain How Americans Really Feel About the Economy",
-      "content_text": "Six Charts That Explain How Americans Really Feel About the Economy",
-      "summary": "",
-      "date_published": "2026-09-09T01:00:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "47b92f85bd297a49",
-      "url": "https://www.wsj.com/politics/elections/trump-rnc-midterm-convention-30544786",
-      "title": "Republicans’ Midterms Strategy Will Test Trump’s Political Power as Polling Sags",
-      "content_text": "Republicans’ Midterms Strategy Will Test Trump’s Political Power as Polling Sags",
-      "summary": "",
-      "date_published": "2026-09-09T01:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "774a4a135ad020a8",
-      "url": "https://www.wsj.com/world/asia/nepal-flood-hydropower-glacier-6df52308",
-      "title": "Melting Glaciers and Monster Floods Threaten Nepal’s Big Bet on Hydropower",
-      "content_text": "Melting Glaciers and Monster Floods Threaten Nepal’s Big Bet on Hydropower",
-      "summary": "",
-      "date_published": "2026-09-09T01:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "d6f73afb4c81e67c",
-      "url": "https://www.wsj.com/politics/policy/states-that-gave-data-centers-billions-in-tax-breaks-are-now-ripping-up-the-deals-4879c4f9",
-      "title": "States That Gave Data Centers Billions in Tax Breaks Are Now Ripping Up the Deals",
-      "content_text": "States That Gave Data Centers Billions in Tax Breaks Are Now Ripping Up the Deals",
-      "summary": "",
-      "date_published": "2026-09-09T01:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "0411361225ad0f72",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-slips-traders-eye-inflation-data-a5ad1d66",
-      "title": "Gold Slips; Traders Eye Inflation Data",
-      "content_text": "Gold Slips; Traders Eye Inflation Data",
-      "summary": "",
-      "date_published": "2026-09-09T00:41:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "222a818beec5fa63",
-      "url": "https://www.wsj.com/finance/currencies/yen-strengthens-on-prospects-of-two-boj-rate-hikes-by-year-end-c56a9483",
-      "title": "Singapore Dollar Consolidates Ahead of U.S. PPI, CPI Data",
-      "content_text": "Singapore Dollar Consolidates Ahead of U.S. PPI, CPI Data",
-      "summary": "",
-      "date_published": "2026-09-09T00:37:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "ca850fbe794acf17",
-      "url": "https://www.wsj.com/finance/jgb-futures-edge-lower-tracking-declines-in-u-s-treasury-market-c2e0e8b7",
-      "title": "Japan’s Rate Reset Matters Beyond Its Borders",
-      "content_text": "Japan’s Rate Reset Matters Beyond Its Borders",
-      "summary": "",
-      "date_published": "2026-09-09T00:32:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "cc37aa0d5a073421",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-houthi-militants-attack-amplifies-supply-disruption-fears-f0d68a35",
-      "title": "Oil Rises as Houthi Militants’ Attack Amplifies Supply-Disruption Fears",
-      "content_text": "Oil Rises as Houthi Militants’ Attack Amplifies Supply-Disruption Fears",
-      "summary": "",
-      "date_published": "2026-09-09T00:30:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "118b23b7ad22bd02",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-1-led-by-chip-related-stocks-c8902c64",
-      "title": "Global Dividend Growth Likely to be Boosted by Dollar Weakness, Nvidia",
-      "content_text": "Global Dividend Growth Likely to be Boosted by Dollar Weakness, Nvidia",
-      "summary": "",
-      "date_published": "2026-09-09T00:27:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "face3591974f8bf4",
-      "url": "https://www.wsj.com/politics/elections/new-hampshires-senate-primary-winners-now-face-tight-fall-matchup-bf79f52b",
-      "title": "New Hampshire’s Senate Primary Winners Now Face Tight Fall Matchup",
-      "content_text": "New Hampshire’s Senate Primary Winners Now Face Tight Fall Matchup",
-      "summary": "",
-      "date_published": "2026-09-09T00:07:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "c9920ffd50b24c24",
-      "url": "https://www.wsj.com/arts-culture/film/zach-cregger-resident-evil-731d2d21",
-      "title": "Horror Movies Are Huge. Zach Cregger Is the Reason Why.",
-      "content_text": "Horror Movies Are Huge. Zach Cregger Is the Reason Why.",
-      "summary": "",
-      "date_published": "2026-09-09T00:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "6875d0ff998f16f9",
-      "url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628",
-      "title": "Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears",
-      "content_text": "Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears",
-      "summary": "",
-      "date_published": "2026-09-08T23:46:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "118f8c6962bdb11f",
-      "url": "https://www.wsj.com/economy/trade/the-states-on-the-front-lines-of-the-trade-war-with-canada-9dc4da90",
-      "title": "The States on the Front Lines of the Trade War With Canada",
-      "content_text": "The States on the Front Lines of the Trade War With Canada",
-      "summary": "",
-      "date_published": "2026-09-08T23:26:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "f32efb966f7be88b",
-      "url": "https://www.wsj.com/world/europe/the-afd-is-trying-to-turn-its-first-state-government-into-a-far-right-policy-lab-6c06785d",
-      "title": "The AfD Is Trying to Turn Its First State Government Into a Far-Right Policy Lab",
-      "content_text": "The AfD Is Trying to Turn Its First State Government Into a Far-Right Policy Lab",
-      "summary": "",
-      "date_published": "2026-09-08T23:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "732545ce016f6259",
-      "url": "https://www.wsj.com/cmo-today/aperols-maker-bets-americans-are-ready-for-a-pinker-sweeter-spritz-be49468e",
-      "title": "Aperol’s Maker Bets Americans Are Ready for a Pinker, Sweeter Spritz",
-      "content_text": "Aperol’s Maker Bets Americans Are Ready for a Pinker, Sweeter Spritz",
-      "summary": "",
-      "date_published": "2026-09-08T22:31:00+00:00",
-      "tags": [
-        "Cmo Today"
-      ]
-    },
-    {
-      "id": "5dfe76e62bedca1d",
-      "url": "https://www.wsj.com/opinion/opinion-of-u-s-schools-hits-a-new-low-defa3d37",
-      "title": "Opinion of U.S. Schools Hits a New Low…",
-      "content_text": "Opinion of U.S. Schools Hits a New Low…",
-      "summary": "",
-      "date_published": "2026-09-08T22:11:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "8f19c0ff6be1f18f",
-      "url": "https://www.wsj.com/politics/policy/supreme-court-denies-missouri-bid-to-use-voting-map-that-benefits-republicans-961218b1",
-      "title": "Supreme Court Denies Missouri Bid to Use Voting Map That Benefits Republicans",
-      "content_text": "Supreme Court Denies Missouri Bid to Use Voting Map That Benefits Republicans",
-      "summary": "",
-      "date_published": "2026-09-08T22:09:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "1b77e7c168b553ee",
-      "url": "https://www.wsj.com/economy/trade/trump-says-he-will-block-canadian-firms-from-government-contracts-a4c3c21e",
-      "title": "Trump Signs Orders to Ban Some Canadian Products From U.S. Market",
-      "content_text": "Trump Signs Orders to Ban Some Canadian Products From U.S. Market",
-      "summary": "",
-      "date_published": "2026-09-08T22:05:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "981234818253e706",
-      "url": "https://www.wsj.com/world/americas/trump-says-he-will-block-canadian-firms-from-government-contracts-a4c3c21e",
-      "title": "Trump Says He Will Block Canadian Firms From Government Contracts",
-      "content_text": "Trump Says He Will Block Canadian Firms From Government Contracts",
-      "summary": "",
-      "date_published": "2026-09-08T22:05:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "c8896984df2aa3ab",
-      "url": "https://www.wsj.com/opinion/stopping-californias-climate-imperialism-1ddc45b2",
-      "title": "Stopping California’s Climate Imperialism",
-      "content_text": "Stopping California’s Climate Imperialism",
-      "summary": "",
-      "date_published": "2026-09-08T22:03:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "c84418f798313164",
-      "url": "https://www.wsj.com/opinion/sec-pay-for-play-rule-paul-atkins-jamie-dimon-093288a2",
-      "title": "The SEC Unmuzzles Jamie Dimon",
-      "content_text": "The SEC Unmuzzles Jamie Dimon",
-      "summary": "",
-      "date_published": "2026-09-08T21:59:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "24cb481a55ab7cbd",
-      "url": "https://www.wsj.com/opinion/graduate-schools-of-education-critical-theory-aei-report-daniel-buck-d3fc6285",
-      "title": "What They Teach Teachers in Grad School",
-      "content_text": "What They Teach Teachers in Grad School",
-      "summary": "",
-      "date_published": "2026-09-08T21:58:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "4f624cc63824e250",
-      "url": "https://www.wsj.com/opinion/britain-sanctions-israel-west-bank-palestine-hamas-gaza-e8bab985",
-      "title": "Europe Joins the Boycott Israel Crowd",
-      "content_text": "Europe Joins the Boycott Israel Crowd",
-      "summary": "",
-      "date_published": "2026-09-08T21:58:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "1d799c833ba17241",
-      "url": "https://www.wsj.com/politics/policy/u-s-launches-new-round-of-strikes-on-iranian-oil-tankers-19923cc9",
-      "title": "U.S. Launches New Round of Strikes on Iranian Oil Tankers",
-      "content_text": "U.S. Launches New Round of Strikes on Iranian Oil Tankers",
-      "summary": "",
-      "date_published": "2026-09-08T21:49:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "d3fe48eca195de0d",
-      "url": "https://www.wsj.com/opinion/what-does-9-11-mean-for-those-too-young-to-remember-it-d3bfa5a3",
-      "title": "What Does 9/11 Mean for Those Too Young to Remember It?",
-      "content_text": "What Does 9/11 Mean for Those Too Young to Remember It?",
-      "summary": "",
-      "date_published": "2026-09-08T21:47:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "bd3fd32edc80a204",
-      "url": "https://www.wsj.com/business/media/60-minutes-returns-in-a-major-test-for-new-leadership-c7ba9f8d",
-      "title": "‘60 Minutes’ Returns in a Major Test for New Leadership",
-      "content_text": "‘60 Minutes’ Returns in a Major Test for New Leadership",
-      "summary": "",
-      "date_published": "2026-09-08T21:35:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "38d440a7c3184150",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026/card/-money-quote-a-bad-day-for-amgen-stock-8L626SHAYzE2EQMbuUyN",
-      "title": "💬 Money Quote: A Bad Day for Amgen Stock",
-      "content_text": "💬 Money Quote: A Bad Day for Amgen Stock",
-      "summary": "",
-      "date_published": "2026-09-08T21:30:01+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "ca7597ff549cfb97",
-      "url": "https://www.wsj.com/real-estate/blackstones-head-of-real-estate-is-leaving-the-firm-b36717a8",
-      "title": "Blackstone’s Head of Real Estate Is Leaving the Firm",
-      "content_text": "Blackstone’s Head of Real Estate Is Leaving the Firm",
-      "summary": "",
-      "date_published": "2026-09-08T21:23:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "670f4784415eaf40",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026/card/job-one-for-lululemon-s-new-ceo-yoga-with-employees-Xndap6xWigQyCNRyKKeP",
-      "title": "Job One for Lululemon’s New CEO: Yoga With Employees",
-      "content_text": "Job One for Lululemon’s New CEO: Yoga With Employees",
-      "summary": "",
-      "date_published": "2026-09-08T21:15:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "5bc0af8b4f44e4fa",
-      "url": "https://www.wsj.com/business/earnings/caseys-same-store-sales-growth-declines-despite-higher-revenue-658a346e",
-      "title": "Casey’s Same-Store Sales Growth Declines Despite Higher Revenue",
-      "content_text": "Casey’s Same-Store Sales Growth Declines Despite Higher Revenue",
-      "summary": "",
-      "date_published": "2026-09-08T21:09:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "50b9df9424d790a2",
-      "url": "https://www.wsj.com/arts-culture/music/the-singer-in-my-band-by-this-is-lorelei-review-precise-and-potent-songs-e1d15f7f",
-      "title": "‘The Singer in My Band’ by This Is Lorelei Review: Precise and Potent Songs",
-      "content_text": "‘The Singer in My Band’ by This Is Lorelei Review: Precise and Potent Songs",
-      "summary": "",
-      "date_published": "2026-09-08T21:08:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "d489ac7ae28e72d9",
-      "url": "https://www.wsj.com/finance/banking/block-applies-to-establish-builders-bank-trust-3c6c9556",
-      "title": "Block Applies to Establish Builders Bank & Trust",
-      "content_text": "Block Applies to Establish Builders Bank & Trust",
-      "summary": "",
-      "date_published": "2026-09-08T21:06:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "f536aec314aee520",
-      "url": "https://www.wsj.com/arts-culture/music/how-john-adams-made-art-out-of-the-tragedy-of-9-11-9d62891b",
-      "title": "How John Adams Made Art Out of the Tragedy of 9/11",
-      "content_text": "How John Adams Made Art Out of the Tragedy of 9/11",
-      "summary": "",
-      "date_published": "2026-09-08T21:06:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "5b9fd598435d639f",
-      "url": "https://www.wsj.com/sports/golf/liv-golf-bankruptcy-2b33c886",
-      "title": "LIV Golf Files for Bankruptcy—and Owes Top Golfers Millions",
-      "content_text": "LIV Golf Files for Bankruptcy—and Owes Top Golfers Millions",
-      "summary": "",
-      "date_published": "2026-09-08T21:03:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "27bde8baad7b1b2a",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026/card/the-big-questions-about-anthropic-s-ipo-yhO2egfkD7XNklqN7m2Q",
-      "title": "The Big Questions About Anthropic’s IPO",
-      "content_text": "The Big Questions About Anthropic’s IPO",
-      "summary": "",
-      "date_published": "2026-09-08T21:00:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "0407aae65287d72f",
-      "url": "https://www.wsj.com/opinion/china-overplayed-its-hand-on-critical-minerals-fbab6de8",
-      "title": "China Overplayed Its Hand on Critical Minerals",
-      "content_text": "China Overplayed Its Hand on Critical Minerals",
-      "summary": "",
-      "date_published": "2026-09-08T20:57:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "7b4708bd9bbd5d47",
-      "url": "https://www.wsj.com/opinion/i-was-across-the-street-on-9-11-and-im-grateful-i-survived-304fbb4a",
-      "title": "I Was Across the Street on 9/11, and I’m Grateful I Survived",
-      "content_text": "I Was Across the Street on 9/11, and I’m Grateful I Survived",
-      "summary": "",
-      "date_published": "2026-09-08T20:57:00+00:00",
       "tags": [
         "Opinion"
       ]
