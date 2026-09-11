@@ -1,5 +1,18 @@
 {
   "items": {
+    "0038b06dd019061e": {
+      "dek": "",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "0038b06dd019061e",
+      "published": "2026-09-11T09:00:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Elizabeth anne bernstein",
+      "title": "Elizabeth anne bernstein",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein"
+    },
     "0302e0b8c66b4254": {
       "dek": "",
       "first_seen": "2026-09-11T04:28:01.985805+00:00",
@@ -13,19 +26,6 @@
       "title": "Sept. 11 Changed the World Order. But Not for the Reason We May Think.",
       "url": "https://www.wsj.com/world/sept-11-changed-world-order-1508c504"
     },
-    "037a23fec0900d06": {
-      "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "037a23fec0900d06",
-      "published": "2026-09-10T09:23:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "HSBC Begins Search for New Finance Chief as Pam Kaur Departs",
-      "title": "HSBC Begins Search for New Finance Chief as Pam Kaur Departs",
-      "url": "https://www.wsj.com/business/c-suite/hsbc-chief-financial-officer-to-leave-in-2027-dfab7c9a"
-    },
     "038bca8428a8782a": {
       "dek": "",
       "first_seen": "2026-09-10T21:48:55.246077+00:00",
@@ -38,19 +38,6 @@
       "summary": "White House Pushes Back on Criticism of Trump’s $5,000 Pledge",
       "title": "White House Pushes Back on Criticism of Trump’s $5,000 Pledge",
       "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/white-house-pushes-back-on-criticism-of-trump-s-5-000-pledge-MJ1AHE9yXpD9aeIBwbKf"
-    },
-    "0500198519924709": {
-      "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "0500198519924709",
-      "published": "2026-09-10T10:50:00+00:00",
-      "section": "Cfo Journal",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Bill’s CFO on Going AI-First—and Cutting Jobs—in Her Rookie Year",
-      "title": "Bill’s CFO on Going AI-First—and Cutting Jobs—in Her Rookie Year",
-      "url": "https://www.wsj.com/cfo-journal/bills-cfo-on-going-ai-firstand-cutting-jobsin-her-rookie-year-84da6c1e"
     },
     "05515654fd778d9c": {
       "dek": "",
@@ -234,6 +221,19 @@
       "title": "House Speaker Mike Johnson: Give Republicans More Time to Fix Things",
       "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/house-speaker-mike-johnson-give-republicans-more-time-to-fix-things-XjrRYDCWRtdy9PpTJpgB"
     },
+    "173c83b1f30fa05f": {
+      "dek": "",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "173c83b1f30fa05f",
+      "published": "2026-09-11T08:16:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "U.S.-Iran Escalation to Delay Oil Flow Recovery Into Next Year, IEA Says",
+      "title": "U.S.-Iran Escalation to Delay Oil Flow Recovery Into Next Year, IEA Says",
+      "url": "https://www.wsj.com/business/energy-oil/u-s-iran-escalation-to-delay-oil-flow-recovery-into-next-year-iea-says-16737455"
+    },
     "1837e863824a0121": {
       "dek": "",
       "first_seen": "2026-09-11T00:01:39.091813+00:00",
@@ -415,19 +415,6 @@
       "summary": "A Millionaire Tax Is Never Enough",
       "title": "A Millionaire Tax Is Never Enough",
       "url": "https://www.wsj.com/opinion/rhode-island-primary-dan-mckee-helena-foulkes-e0fdf54a"
-    },
-    "29641f20d09df77c": {
-      "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "29641f20d09df77c",
-      "published": "2026-09-10T09:23:13+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Bond Yields Tick Higher After Trump Promises $5,000 Checks",
-      "title": "Bond Yields Tick Higher After Trump Promises $5,000 Checks",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/bond-yields-tick-higher-after-trump-promises-5-000-checks-BR6CA61wM79umHllEd4O"
     },
     "2aa7c77df91f1e21": {
       "dek": "",
@@ -624,6 +611,19 @@
       "title": "Wall Street’s Favorite AI Startup Sets Its Sights on Wealth Management",
       "url": "https://www.wsj.com/finance/banking/wall-streets-favorite-ai-startup-sets-its-sights-on-wealth-management-61b8b5d1"
     },
+    "4633ceec629432b0": {
+      "dek": "",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "4633ceec629432b0",
+      "published": "2026-09-11T00:36:11+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "RFK Jr. Lambastes His Former Party",
+      "title": "RFK Jr. Lambastes His Former Party",
+      "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/rfk-jr-lambastes-his-former-party-RVbhgmHDNJ4BUycpwHzD"
+    },
     "46f448143d2d9812": {
       "dek": "",
       "first_seen": "2026-09-11T00:01:39.091813+00:00",
@@ -702,6 +702,19 @@
       "title": "Did the Hawkish ECB Help Fuel the Treasury Selloff?",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/did-the-hawkish-ecb-help-fuel-the-treasury-selloff--lDGGOyawval1D03PyN9L"
     },
+    "4c807234baa73a76": {
+      "dek": "",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "4c807234baa73a76",
+      "published": "2026-09-11T05:20:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "India’s National Stock Exchange Seeks $46 Billion Valuation in IPO",
+      "title": "India’s National Stock Exchange Seeks $46 Billion Valuation in IPO",
+      "url": "https://www.wsj.com/business/national-stock-exchange-of-india-seeks-2-36-billion-in-pared-back-ipo-19cf72eb"
+    },
     "4d362ab68836bbcf": {
       "dek": "",
       "first_seen": "2026-09-11T00:01:39.091813+00:00",
@@ -714,19 +727,6 @@
       "summary": "The Simple Request That Could Lower Your Mortgage Rate",
       "title": "The Simple Request That Could Lower Your Mortgage Rate",
       "url": "https://www.wsj.com/personal-finance/mortgages/the-simple-request-that-could-lower-your-mortgage-rate-9c4ddc2e"
-    },
-    "4f5d6eedc0ba2eb3": {
-      "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "4f5d6eedc0ba2eb3",
-      "published": "2026-09-10T09:19:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Regulatory Uncertainty Clouds Chinese Robot Firm Galaxea AI’s IPO Plan",
-      "title": "Regulatory Uncertainty Clouds Chinese Robot Firm Galaxea AI’s IPO Plan",
-      "url": "https://www.wsj.com/business/regulatory-uncertainty-clouds-chinese-robot-firm-galaxea-ais-ipo-plan-b6dab954"
     },
     "4f7f326f8a980e25": {
       "dek": "",
@@ -753,19 +753,6 @@
       "summary": "Crowd Gives Vance a Standing Ovation",
       "title": "Crowd Gives Vance a Standing Ovation",
       "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/crowd-gives-vance-a-standing-ovation-TR1IrFfrhdOmqAAXb4t0"
-    },
-    "500f9ba41a955916": {
-      "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "500f9ba41a955916",
-      "published": "2026-09-10T09:30:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The IPO That Asks You to Buy AI Hype Today and Get Paid Years Later",
-      "title": "The IPO That Asks You to Buy AI Hype Today and Get Paid Years Later",
-      "url": "https://www.wsj.com/business/energy-oil/the-ipo-that-asks-you-to-buy-ai-hype-today-and-get-paid-years-later-1bd97731"
     },
     "5049bf8b1fd35c8b": {
       "dek": "",
@@ -806,31 +793,31 @@
       "title": "Polymarket Appoints First Finance Chief Amid U.S. Growth Plans",
       "url": "https://www.wsj.com/business/c-suite/polymarket-appoints-first-finance-chief-amid-u-s-growth-plans-882f8160"
     },
-    "59a0b35fa8d01b13": {
+    "5a885d497fa8a917": {
       "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "59a0b35fa8d01b13",
-      "published": "2026-09-10T09:16:20+00:00",
-      "section": "Front Page",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "5a885d497fa8a917",
+      "published": "2026-09-11T09:00:19+00:00",
+      "section": "News",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Stocks to Watch Thursday: Apple, Oracle, TSMC",
-      "title": "Stocks to Watch Thursday: Apple, Oracle, TSMC",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/stocks-to-watch-thursday-apple-oracle-tsmc-4dbFEm37R73WBQzR64m3"
+      "summary": "The saturday interview",
+      "title": "The saturday interview",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview"
     },
-    "5b4a87048da918c5": {
+    "5bde10fa9f9b2a36": {
       "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "5b4a87048da918c5",
-      "published": "2026-09-10T10:55:00+00:00",
-      "section": "Politics",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "5bde10fa9f9b2a36",
+      "published": "2026-09-11T09:00:19+00:00",
+      "section": "News",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "If Trump Can’t Fill a Dallas Arena, Can He Turn Out a November Vote?",
-      "title": "If Trump Can’t Fill a Dallas Arena, Can He Turn Out a November Vote?",
-      "url": "https://www.wsj.com/politics/if-trump-cant-fill-a-dallas-arena-can-he-turn-out-a-november-vote-dc30368d"
+      "summary": "Kimberley a strassel",
+      "title": "Kimberley a strassel",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel"
     },
     "5c2619a77ea2f472": {
       "dek": "",
@@ -844,6 +831,19 @@
       "summary": "Usha Vance Didn’t Come to Convention So She Could Take Care of Her Kids",
       "title": "Usha Vance Didn’t Come to Convention So She Could Take Care of Her Kids",
       "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/usha-vance-stayed-didn-t-come-to-convention-to-take-care-of-her-kids-EO4vXLP3vYmjdap8ZNQJ"
+    },
+    "5c496f61f5cc86c8": {
+      "dek": "",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "5c496f61f5cc86c8",
+      "published": "2026-09-11T06:12:00+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Orsted Gets Commission Backing in U.K. Tax Case",
+      "title": "Orsted Gets Commission Backing in U.K. Tax Case",
+      "url": "https://www.wsj.com/articles/orsted-gets-commission-backing-in-u-k-tax-case-e4aae655"
     },
     "5d6ce1a67fb0d91b": {
       "dek": "",
@@ -923,18 +923,18 @@
       "title": "Ted Cruz, Potential 2028 Candidate, Points to ‘Hate’ in the Democratic Party",
       "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/ted-cruz-potential-2028-candidate-points-to-hate-in-the-democratic-party-NfKIMyM43D2PXmj5nVgK"
     },
-    "677b329970940ac3": {
+    "67a229f9726f9141": {
       "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "677b329970940ac3",
-      "published": "2026-09-10T09:30:00+00:00",
-      "section": "Business",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "67a229f9726f9141",
+      "published": "2026-09-11T09:00:19+00:00",
+      "section": "News",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Could Laser Fusion Tech Be Used to Shoot Down Missiles and Drones?",
-      "title": "Could Laser Fusion Tech Be Used to Shoot Down Missiles and Drones?",
-      "url": "https://www.wsj.com/business/could-laser-fusion-tech-be-used-to-shoot-down-missiles-and-drones-3c50bcb3"
+      "summary": "Real estate commercial",
+      "title": "Real estate commercial",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial"
     },
     "67e45cfe0d3e55d9": {
       "dek": "",
@@ -1014,18 +1014,18 @@
       "title": "Yemen’s Iran-Backed Houthis Sweep Toward Strategic Bab al-Mandeb",
       "url": "https://www.wsj.com/world/middle-east/yemens-iran-backed-houthis-sweep-toward-strategic-bab-al-mandeb-c1786d79"
     },
-    "72110998a87e9684": {
+    "718838b952ed50ee": {
       "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "72110998a87e9684",
-      "published": "2026-09-10T10:25:00+00:00",
-      "section": "Tech",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "718838b952ed50ee",
+      "published": "2026-09-11T06:22:00+00:00",
+      "section": "Economy",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Mistral Seeks to Grow Enterprise Customer Base Through Cloudera Partnership",
-      "title": "Mistral Seeks to Grow Enterprise Customer Base Through Cloudera Partnership",
-      "url": "https://www.wsj.com/tech/ai/mistral-seeks-to-grow-enterprise-customer-base-through-cloudera-partnership-eb32b036"
+      "summary": "U.K. Economy Shows Continued Resilience in July",
+      "title": "U.K. Economy Shows Continued Resilience in July",
+      "url": "https://www.wsj.com/economy/u-k-economy-unexpectedly-grew-in-july-fadc130d"
     },
     "72cceb552e7d7702": {
       "dek": "",
@@ -1039,6 +1039,19 @@
       "summary": "U.S. Crude Oil Stockpiles Fall, Production Hits Record",
       "title": "U.S. Crude Oil Stockpiles Fall, Production Hits Record",
       "url": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-fall-production-hits-record-86b655c4"
+    },
+    "733ffd4d3d2a3b5c": {
+      "dek": "",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "733ffd4d3d2a3b5c",
+      "published": "2026-09-11T00:42:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Dollar Steady Ahead of U.S. Inflation Data",
+      "title": "Dollar Steady Ahead of U.S. Inflation Data",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-haven-demand-for-dollar-may-weigh-a563ed11"
     },
     "741c44940f243aac": {
       "dek": "",
@@ -1066,6 +1079,32 @@
       "title": "Hasan Piker Laughs Off Republicans’ Use of Underwear Picture At Convention",
       "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/hasan-piker-laughs-off-republicans-use-of-underwear-picture-at-convention-wGv94aU2QWYimqN7Mf1f"
     },
+    "78992c494d4bcdbd": {
+      "dek": "",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "78992c494d4bcdbd",
+      "published": "2026-09-11T08:32:49+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Thursday Recap: Bonds Sell Off Despite Buyback Operation",
+      "title": "Thursday Recap: Bonds Sell Off Despite Buyback Operation",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/thursday-recap-bonds-sell-off-despite-buyback-operation-OG9UTSCKapBflwu9kuUL"
+    },
+    "78aa70fb6d788a9c": {
+      "dek": "",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "78aa70fb6d788a9c",
+      "published": "2026-09-11T00:07:05+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Silk Road Founder Ross Ulbricht Thanks Trump for Pardon",
+      "title": "Silk Road Founder Ross Ulbricht Thanks Trump for Pardon",
+      "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/silk-road-founder-ross-ulbricht-thanks-trump-for-pardon-UGEcnoJU1uLnOj6NcQed"
+    },
     "78cdf00b1f456d90": {
       "dek": "",
       "first_seen": "2026-09-10T21:48:55.246077+00:00",
@@ -1091,6 +1130,19 @@
       "summary": "Canada Isn’t Defined by Being ‘Un-America’",
       "title": "Canada Isn’t Defined by Being ‘Un-America’",
       "url": "https://www.wsj.com/opinion/canada-isnt-defined-by-being-un-america-79cfcbec"
+    },
+    "7ae389990e471254": {
+      "dek": "",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "7ae389990e471254",
+      "published": "2026-09-11T00:00:00+00:00",
+      "section": "Health",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Race for the Next Big Weight-Loss Drug Is On—and China Wants In",
+      "title": "The Race for the Next Big Weight-Loss Drug Is On—and China Wants In",
+      "url": "https://www.wsj.com/health/pharma/the-race-for-the-next-big-weight-loss-drug-is-onand-china-wants-in-62ced9c6"
     },
     "7b37581249532ed9": {
       "dek": "",
@@ -1169,19 +1221,6 @@
       "summary": "Mary anastasia ogrady",
       "title": "Mary anastasia ogrady",
       "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady"
-    },
-    "7f78379936383b71": {
-      "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "7f78379936383b71",
-      "published": "2026-09-10T09:00:00+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Antisemitism Charges Plague the Literary World. New Publishers Are Pushing Back.",
-      "title": "Antisemitism Charges Plague the Literary World. New Publishers Are Pushing Back.",
-      "url": "https://www.wsj.com/arts-culture/books/antisemitism-books-literary-publishing-world-high-line-78267985"
     },
     "80bc9f07477d3f2b": {
       "dek": "",
@@ -1326,19 +1365,6 @@
       "title": "Iranians Are Running Out of Gas as Economic Squeeze Takes Hold",
       "url": "https://www.wsj.com/world/middle-east/iranians-are-running-out-of-gas-as-economic-squeeze-takes-hold-67e38a7b"
     },
-    "8ae458b870e27b47": {
-      "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "8ae458b870e27b47",
-      "published": "2026-09-10T09:00:00+00:00",
-      "section": "Style",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "How Moncler’s Billionaire Founder Finally Made Peace With Milan",
-      "title": "How Moncler’s Billionaire Founder Finally Made Peace With Milan",
-      "url": "https://www.wsj.com/style/design/moncler-remo-ruffini-milan-home-new-york-store-c9b631a7"
-    },
     "8e1c146822fdb6b4": {
       "dek": "",
       "first_seen": "2026-09-10T21:48:55.246077+00:00",
@@ -1404,6 +1430,19 @@
       "title": "Former White House Press Secretary Karoline Leavitt Jabs Press",
       "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/former-white-house-press-secretary-karoline-leavitt-jabs-press-AgpC7d1IXQdfpLkqkJMV"
     },
+    "952779c6a39ef3c7": {
+      "dek": "",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "952779c6a39ef3c7",
+      "published": "2026-09-11T01:22:14+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Stock Market Today: Bond Yields Edge Lower as Investors Await CPI Report",
+      "title": "Stock Market Today: Bond Yields Edge Lower as Investors Await CPI Report",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026"
+    },
     "96d498b05e5523d1": {
       "dek": "",
       "first_seen": "2026-09-10T21:48:55.246077+00:00",
@@ -1429,19 +1468,6 @@
       "summary": "Vice President Vance Cites Scripture in Prime-Time Speech",
       "title": "Vice President Vance Cites Scripture in Prime-Time Speech",
       "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/vice-president-vance-cites-scripture-in-prime-time-speech-LeM05SGnRS3axh5BioXN"
-    },
-    "982bde6aa9c6927c": {
-      "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "982bde6aa9c6927c",
-      "published": "2026-09-10T09:30:00+00:00",
-      "section": "Us News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Long Shadow of 9/11, Told Through the WSJ Archive",
-      "title": "The Long Shadow of 9/11, Told Through the WSJ Archive",
-      "url": "https://www.wsj.com/us-news/sept-11-terrorist-attacks-anniversary-coverage-6339aa0b"
     },
     "9d15ec67fb3c060a": {
       "dek": "",
@@ -1469,6 +1495,19 @@
       "title": "Key Takeaways From Day Two of the Republican Midterm Convention",
       "url": "https://www.wsj.com/politics/elections/key-takeaways-from-day-two-of-the-republican-midterm-convention-7d1e4b87"
     },
+    "9f0b3d8dac5a300e": {
+      "dek": "",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "9f0b3d8dac5a300e",
+      "published": "2026-09-11T08:00:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "How the WSJ Covered 9/11 From the Ground 25 Years Ago",
+      "title": "How the WSJ Covered 9/11 From the Ground 25 Years Ago",
+      "url": "https://www.wsj.com/world/americas/how-the-wsj-covered-9-11-from-the-ground-25-years-ago-12c02067"
+    },
     "9f52f53c0fc05fc1": {
       "dek": "",
       "first_seen": "2026-09-10T16:18:47.044662+00:00",
@@ -1481,6 +1520,19 @@
       "summary": "Designer Brands Boosts Outlook on Positive Start to 3Q",
       "title": "Designer Brands Boosts Outlook on Positive Start to 3Q",
       "url": "https://www.wsj.com/business/retail/designer-brands-boosts-outlook-on-positive-start-to-3q-43895760"
+    },
+    "9fa3ba50ad72aa9a": {
+      "dek": "",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "9fa3ba50ad72aa9a",
+      "published": "2026-09-11T08:40:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Stock Futures Nudge Up, Yields Slip, But Markets Remain on Edge",
+      "title": "Stock Futures Nudge Up, Yields Slip, But Markets Remain on Edge",
+      "url": "https://www.wsj.com/finance/stocks/stock-futures-nudge-up-yields-slip-but-markets-remain-on-edge-035097c4"
     },
     "9fd1b3ff9b3e3ba0": {
       "dek": "",
@@ -1508,19 +1560,6 @@
       "title": "$5,000 Checks for Every American? What to Know About Trump’s Latest Promise",
       "url": "https://www.wsj.com/politics/policy/5-000-checks-for-every-american-what-to-know-about-trumps-latest-promise-0eb47fe6"
     },
-    "a1fbeae3eaf0369b": {
-      "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "a1fbeae3eaf0369b",
-      "published": "2026-09-10T10:45:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "What Are Bond Yields ‘Saying’ About Stocks?",
-      "title": "What Are Bond Yields ‘Saying’ About Stocks?",
-      "url": "https://www.wsj.com/finance/investing/what-are-bond-yields-saying-about-stocks-c6b04ddb"
-    },
     "a2c51ea641c8e80c": {
       "dek": "",
       "first_seen": "2026-09-11T04:28:01.985805+00:00",
@@ -1533,19 +1572,6 @@
       "summary": "Economic forecasting survey archive",
       "title": "Economic forecasting survey archive",
       "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998"
-    },
-    "a347621466b17dc6": {
-      "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "a347621466b17dc6",
-      "published": "2026-09-10T10:36:03+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "One Great Chart: SB Energy's Revenue Timeline",
-      "title": "One Great Chart: SB Energy's Revenue Timeline",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/one-great-chart-sb-energy-s-revenue-timeline-S8fCXqxFBETZzOKkB5Za"
     },
     "a61906994c505529": {
       "dek": "",
@@ -1664,6 +1690,19 @@
       "title": "Not at the Dallas Convention: Sen. Susan Collins of Maine",
       "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/not-at-the-dallas-convention-sen-susan-collins-of-maine-AaVaGzuDtGAFTliypHel"
     },
+    "aa67a788051095be": {
+      "dek": "",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "aa67a788051095be",
+      "published": "2026-09-11T08:29:12+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "What to Expect From Today’s CPI Report",
+      "title": "What to Expect From Today’s CPI Report",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/what-to-expect-from-today-s-cpi-report-EqbXe7naUUyheoEwlor3"
+    },
     "aa81c618d0854035": {
       "dek": "",
       "first_seen": "2026-09-10T19:13:48.805564+00:00",
@@ -1676,19 +1715,6 @@
       "summary": "U.S. Mortgage Rates Top 7% For First Time in 15 Months",
       "title": "U.S. Mortgage Rates Top 7% For First Time in 15 Months",
       "url": "https://www.wsj.com/economy/central-banking/u-s-mortgage-rates-top-7-for-first-time-in-15-months-def6f20e"
-    },
-    "ab446556bdc61d18": {
-      "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "ab446556bdc61d18",
-      "published": "2026-09-10T11:00:00+00:00",
-      "section": "Sports",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Stunning Mistake That Decided the NFL’s Super Bowl Rematch",
-      "title": "The Stunning Mistake That Decided the NFL’s Super Bowl Rematch",
-      "url": "https://www.wsj.com/sports/football/seahawks-patriots-drake-maye-interception-6828c9a9"
     },
     "ab7ad5c2de9934e7": {
       "dek": "",
@@ -1807,6 +1833,19 @@
       "title": "The Morning Risk Report: Huawei Faces U.S. Criminal Trial Weeks Before Trump-Xi Meeting",
       "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-huawei-faces-u-s-criminal-trial-weeks-before-trump-xi-meeting-37bfd0b8"
     },
+    "b67aca95d62cc354": {
+      "dek": "",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "b67aca95d62cc354",
+      "published": "2026-09-11T00:39:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "European Indexes Rise as Banks Gain, Software Stocks Fall",
+      "title": "European Indexes Rise as Banks Gain, Software Stocks Fall",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-stocks-abb86523"
+    },
     "b96b60f2de1601fe": {
       "dek": "",
       "first_seen": "2026-09-10T16:18:47.044662+00:00",
@@ -1884,6 +1923,19 @@
       "summary": "Energy & Utilities Roundup: Market Talk",
       "title": "Energy & Utilities Roundup: Market Talk",
       "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-f6c09100"
+    },
+    "c25b48bc2e621def": {
+      "dek": "",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "c25b48bc2e621def",
+      "published": "2026-09-11T07:58:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Oil Prices Slip After Recent Surge Amid Supply Risks",
+      "title": "Oil Prices Slip After Recent Surge Amid Supply Risks",
+      "url": "https://www.wsj.com/business/energy-oil/oil-prices-slip-after-recent-surge-amid-supply-risks-e1819c15"
     },
     "c2824774a4acfc70": {
       "dek": "",
@@ -1976,19 +2028,6 @@
       "title": "European Bond Selloff Deepens After ECB Flags Inflation Concerns",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/european-bond-selloff-deepens-after-ecb-flags-inflation-concerns-rXV00jjvlczXAf3Der16"
     },
-    "c99f5f58c1e41626": {
-      "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "c99f5f58c1e41626",
-      "published": "2026-09-10T09:57:00+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The U.S. Seized $225 Million From Scammers. Who Gets It Back?",
-      "title": "The U.S. Seized $225 Million From Scammers. Who Gets It Back?",
-      "url": "https://www.wsj.com/articles/the-u-s-seized-225-million-from-scammers-who-gets-it-back-e479893e"
-    },
     "c9a287f7ff9396e2": {
       "dek": "",
       "first_seen": "2026-09-10T16:18:47.044662+00:00",
@@ -2001,19 +2040,6 @@
       "summary": "Anthropic Gives EU’s Cybersecurity Agency Access to Mythos 5 AI Model",
       "title": "Anthropic Gives EU’s Cybersecurity Agency Access to Mythos 5 AI Model",
       "url": "https://www.wsj.com/tech/anthropic-gives-eus-cybersecurity-agency-access-to-mythos-5-ai-model-33e3a3ef"
-    },
-    "ca1ad628a8f85b84": {
-      "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "ca1ad628a8f85b84",
-      "published": "2026-09-10T09:39:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Global Bond Yields Hit Multiyear Highs Ahead of ECB Decision, U.S. Treasury Buybacks",
-      "title": "Global Bond Yields Hit Multiyear Highs Ahead of ECB Decision, U.S. Treasury Buybacks",
-      "url": "https://www.wsj.com/finance/investing/bond-yields-edge-up-as-investors-await-ecb-rate-hike-u-s-treasury-buybacks-4cd2e9f3"
     },
     "cba8f91ee2368d39": {
       "dek": "",
@@ -2249,6 +2275,19 @@
       "title": "Moderate New York Republican Makes Play for Trump Skeptics",
       "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/moderate-new-york-republican-makes-play-for-trump-skeptics-UprJ7N4AcMwza3AYrHn0"
     },
+    "dd8c714322a56df7": {
+      "dek": "",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "dd8c714322a56df7",
+      "published": "2026-09-11T00:00:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "America’s Fast-Food Chains Are Making a Big Pivot—Back to Humans",
+      "title": "America’s Fast-Food Chains Are Making a Big Pivot—Back to Humans",
+      "url": "https://www.wsj.com/business/hospitality/americas-fast-food-chains-are-making-a-big-pivotback-to-humans-3b8bb5b8"
+    },
     "dda250235f8e7784": {
       "dek": "",
       "first_seen": "2026-09-11T00:01:39.091813+00:00",
@@ -2261,19 +2300,6 @@
       "summary": "A Democratic Socialist Wins a Mayoral Primary in New England",
       "title": "A Democratic Socialist Wins a Mayoral Primary in New England",
       "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/a-democratic-socialist-wins-a-mayoral-primary-in-new-england-YjOc5fCeWWz1eJoFbNAQ"
-    },
-    "dddc8ce5d3dcc91b": {
-      "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "dddc8ce5d3dcc91b",
-      "published": "2026-09-10T09:30:00+00:00",
-      "section": "Tech",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "How to Shop the New iPhone Lineup Without Losing Your Mind",
-      "title": "How to Shop the New iPhone Lineup Without Losing Your Mind",
-      "url": "https://www.wsj.com/tech/personal-tech/new-iphone-duo-pro-shopping-guide-dc8555ad"
     },
     "dea6ec2569a2d42b": {
       "dek": "",
@@ -2301,19 +2327,6 @@
       "title": "Do Democrats Really Want to Defund Police, Abolish Prisons and Open Borders?",
       "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/do-democrats-really-want-to-defund-police-abolish-prisons-and-open-borders--6EKNOnABJOv50nTYeaLY"
     },
-    "e148d43069d27d6c": {
-      "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "e148d43069d27d6c",
-      "published": "2026-09-10T09:50:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Question Panera’s Co-Founder Asks CEOs",
-      "title": "The Question Panera’s Co-Founder Asks CEOs",
-      "url": "https://www.wsj.com/business/the-question-paneras-co-founder-asks-ceos-4ba6fb85"
-    },
     "e23d0249ea70e89c": {
       "dek": "",
       "first_seen": "2026-09-10T16:18:47.044662+00:00",
@@ -2326,19 +2339,6 @@
       "summary": "Basic Materials Roundup: Market Talk",
       "title": "Basic Materials Roundup: Market Talk",
       "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-22aa84e1"
-    },
-    "e41a600b6bcca96a": {
-      "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "e41a600b6bcca96a",
-      "published": "2026-09-10T09:15:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Stock Futures Rise, Treasury Yields Hold Near Highs as Oil Tops $101",
-      "title": "Stock Futures Rise, Treasury Yields Hold Near Highs as Oil Tops $101",
-      "url": "https://www.wsj.com/finance/investing/stock-futures-rise-treasury-yields-hold-near-highs-as-oil-tops-101-74944fa2"
     },
     "e456752b3a5a618b": {
       "dek": "",
@@ -2365,19 +2365,6 @@
       "summary": "Lineage Sues Solar-Panel Operator Over L.A. Warehouse Fire",
       "title": "Lineage Sues Solar-Panel Operator Over L.A. Warehouse Fire",
       "url": "https://www.wsj.com/logistics-report/lineage-sues-solar-panel-operator-over-l-a-warehouse-fire-732d627a"
-    },
-    "e64e6082f2901f92": {
-      "dek": "",
-      "first_seen": "2026-09-10T11:47:50.029201+00:00",
-      "guid": "e64e6082f2901f92",
-      "published": "2026-09-10T09:30:00+00:00",
-      "section": "Us News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Alaska Senate Race Pits Dan Sullivan Against… Dan Sullivan",
-      "title": "Alaska Senate Race Pits Dan Sullivan Against… Dan Sullivan",
-      "url": "https://www.wsj.com/us-news/alaska-senate-race-pits-dan-sullivan-against-dan-sullivan-23eb5bd5"
     },
     "e89032232709b36e": {
       "dek": "",
@@ -2496,6 +2483,19 @@
       "title": "The Relentless Crypto Billionaire Who Moved to Venezuela in Pursuit of Oil",
       "url": "https://www.wsj.com/business/energy-oil/the-relentless-crypto-billionaire-who-moved-to-venezuela-in-pursuit-of-oil-a4f0f219"
     },
+    "f45d4c3ef864b974": {
+      "dek": "",
+      "first_seen": "2026-09-11T09:05:11.177181+00:00",
+      "guid": "f45d4c3ef864b974",
+      "published": "2026-09-11T05:34:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Real Test for China’s ‘Four Little GPU Tigers’ Has yet to Come",
+      "title": "Real Test for China’s ‘Four Little GPU Tigers’ Has yet to Come",
+      "url": "https://www.wsj.com/tech/real-test-for-chinas-four-little-gpu-tigers-has-yet-to-come-3fff21e2"
+    },
     "f5b5c343a6cac501": {
       "dek": "",
       "first_seen": "2026-09-10T16:18:47.044662+00:00",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/why-bond-yields-are-surging-again-TMBsZ2WzhWjxA4H3jBI9"
     }
   },
-  "updated": "2026-09-11T04:28:02.006931+00:00"
+  "updated": "2026-09-11T09:05:11.190877+00:00"
 }
