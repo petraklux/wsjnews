@@ -6,10 +6,450 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
+      "id": "4f99a020029980c4",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/why-are-stocks-climbing-after-the-hot-cpi-report--Af0xJsFxDcM57EYu1Fow",
+      "title": "Why Are Stocks Climbing After the Hot CPI Report?",
+      "content_text": "Why Are Stocks Climbing After the Hot CPI Report?",
+      "summary": "",
+      "date_published": "2026-09-11T13:27:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "704d710f46a3c297",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/when-is-the-next-cpi-report-after-today--kUOtL6RoeIxxEHuVpSU2",
+      "title": "When Is the Next CPI Report After Today?",
+      "content_text": "When Is the Next CPI Report After Today?",
+      "summary": "",
+      "date_published": "2026-09-11T13:25:25+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "facdde8b4d367338",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/how-wall-street-is-reacting-to-today-s-cpi-report-cuyG2pV5bB1vQMUkV3bM",
+      "title": "How Wall Street is Reacting to Today's CPI Report",
+      "content_text": "How Wall Street is Reacting to Today's CPI Report",
+      "summary": "",
+      "date_published": "2026-09-11T13:15:19+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "2841e48a3c135717",
+      "url": "https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05",
+      "title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
+      "content_text": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
+      "summary": "",
+      "date_published": "2026-09-11T13:12:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "3b5d9819adeab96c",
+      "url": "https://www.wsj.com/cio-journal/why-oracles-new-data-platform-matters-87105336",
+      "title": "Why Oracle’s New Data Platform Matters",
+      "content_text": "Why Oracle’s New Data Platform Matters",
+      "summary": "",
+      "date_published": "2026-09-11T13:10:00+00:00",
+      "tags": [
+        "Cio Journal"
+      ]
+    },
+    {
+      "id": "9781ba622711d97f",
+      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-31ec705a",
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "content_text": "Energy & Utilities Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-09-11T13:10:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "fa1b0da3ef6c0da2",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/september-rate-hike-odds-jump-to-87--NQcanhEkVtcDDui8gtHF",
+      "title": "September Rate Hike Odds Jump to 87%",
+      "content_text": "September Rate Hike Odds Jump to 87%",
+      "summary": "",
+      "date_published": "2026-09-11T13:06:27+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "9e40eca1dbf42e4d",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/firm-inflation-reading-pushes-fed-closer-to-first-rate-increase-in-three-years-eVdOpnLPfDZonWiLcSV3",
+      "title": "Firm Inflation Reading Pushes Fed Closer to First Rate Increase in Three Years",
+      "content_text": "Firm Inflation Reading Pushes Fed Closer to First Rate Increase in Three Years",
+      "summary": "",
+      "date_published": "2026-09-11T13:04:56+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "29498f6d62a28a5c",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/gas-prices-are-on-the-rise-GXiRkNzETRUvJwRDHqvp",
+      "title": "Gas Prices Are On the Rise",
+      "content_text": "Gas Prices Are On the Rise",
+      "summary": "",
+      "date_published": "2026-09-11T13:04:27+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "a10d6c5922d9059d",
+      "url": "https://www.wsj.com/personal-finance/how-to-protect-your-nest-egg-when-inflation-is-ballooning-261df84b",
+      "title": "How to Protect Your Nest Egg When Inflation Is Ballooning",
+      "content_text": "How to Protect Your Nest Egg When Inflation Is Ballooning",
+      "summary": "",
+      "date_published": "2026-09-11T13:04:00+00:00",
+      "tags": [
+        "Personal Finance"
+      ]
+    },
+    {
+      "id": "8322b05f26872276",
+      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-1c89359a",
+      "title": "Auto & Transport Roundup: Market Talk",
+      "content_text": "Auto & Transport Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-09-11T13:03:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "b2a3c912915f835e",
+      "url": "https://www.wsj.com/us-news/a-nation-remembers-25-years-after-9-11-u-s-mourns-a-growing-number-of-victims-5cd810ac",
+      "title": "A Nation Remembers: 25 Years After 9/11, U.S. Mourns a Growing Number of Victims",
+      "content_text": "A Nation Remembers: 25 Years After 9/11, U.S. Mourns a Growing Number of Victims",
+      "summary": "",
+      "date_published": "2026-09-11T12:51:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "5b331f754558f55f",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-4044eee2",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-09-11T12:51:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "64ca8f8a2a02d8a3",
+      "url": "https://www.wsj.com/articles/europe-gas-prices-seen-higher-as-hormuz-disruption-squeezes-lng-supplies-commerzbank-says-302e1a6d",
+      "title": "Europe Gas Prices Seen Higher as Hormuz Disruption Squeezes LNG Supplies, Commerzbank Says",
+      "content_text": "Europe Gas Prices Seen Higher as Hormuz Disruption Squeezes LNG Supplies, Commerzbank Says",
+      "summary": "",
+      "date_published": "2026-09-11T12:49:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "5b96da1ccd675c0a",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/10-year-yield-holds-below-5-after-firm-inflation-data-madJqVDgtbiEd51QWiHY",
+      "title": "10-Year Yield Holds Below 5% After Firm Inflation Data",
+      "content_text": "10-Year Yield Holds Below 5% After Firm Inflation Data",
+      "summary": "",
+      "date_published": "2026-09-11T12:48:18+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "dfa1f561403375d0",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/lettuce-inflation-keeps-wilting-G2G5i3HBVtRq1FWxOtZI",
+      "title": "Lettuce Inflation Keeps Wilting",
+      "content_text": "Lettuce Inflation Keeps Wilting",
+      "summary": "",
+      "date_published": "2026-09-11T12:45:21+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "1d3713fb05e30140",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/how-markets-are-reacting-after-the-cpi-report-in-charts-GyLikTuh1kAsgHvxRoXT",
+      "title": "How Markets Are Reacting After the CPI Report: In Charts",
+      "content_text": "How Markets Are Reacting After the CPI Report: In Charts",
+      "summary": "",
+      "date_published": "2026-09-11T12:44:26+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "3280f28cc658ebb7",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-89b1e704",
+      "title": "Basic Materials Roundup: Market Talk",
+      "content_text": "Basic Materials Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-09-11T12:41:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "8f3c070568677824",
+      "url": "https://www.wsj.com/economy/cpi-inflation-report-august-2026-e2b1e5e7",
+      "title": "Firm Inflation Reading Pushes Fed Closer to a Rate Increase",
+      "content_text": "Firm Inflation Reading Pushes Fed Closer to a Rate Increase",
+      "summary": "",
+      "date_published": "2026-09-11T12:33:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "79f937705ae7c85c",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-a516c8f3",
+      "title": "Financial Services Roundup: Market Talk",
+      "content_text": "Financial Services Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-09-11T12:29:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "595c8ea1068556b2",
+      "url": "https://www.wsj.com/lifestyle/travel/i-flew-first-class-domestic-heres-why-it-wasand-wasntworth-it-0a1f3307",
+      "title": "I Flew First Class Domestic. Here’s Why It Was—and Wasn’t—Worth It.",
+      "content_text": "I Flew First Class Domestic. Here’s Why It Was—and Wasn’t—Worth It.",
+      "summary": "",
+      "date_published": "2026-09-11T12:25:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "3522de5b892fa56a",
+      "url": "https://www.wsj.com/sports/tennis/ben-shelton-frances-tiafoe-us-open-7b0c19c1",
+      "title": "No U.S. Man Has Won the U.S. Open in 23 Years. Can Ben Shelton or Frances Tiafoe Take It?",
+      "content_text": "No U.S. Man Has Won the U.S. Open in 23 Years. Can Ben Shelton or Frances Tiafoe Take It?",
+      "summary": "",
+      "date_published": "2026-09-11T12:10:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "a09164ac3c1cf3e6",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/ai-is-boosting-the-u-k-economy-5eybjlSlW8qgAcALkCij",
+      "title": "AI Is Boosting the U.K. Economy",
+      "content_text": "AI Is Boosting the U.K. Economy",
+      "summary": "",
+      "date_published": "2026-09-11T12:08:17+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "a076b827f9b84f4a",
+      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-f34c6f75",
+      "title": "Health Care Roundup: Market Talk",
+      "content_text": "Health Care Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-09-11T12:07:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "a3f3368cfcdac9d2",
+      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-how-chinese-ai-firms-tried-to-clone-u-s-ai-models-32b77c8f",
+      "title": "The Morning Risk Report: How Chinese AI Firms Tried to Clone U.S. AI Models",
+      "content_text": "The Morning Risk Report: How Chinese AI Firms Tried to Clone U.S. AI Models",
+      "summary": "",
+      "date_published": "2026-09-11T11:31:00+00:00",
+      "tags": [
+        "Risk Compliance Journal"
+      ]
+    },
+    {
+      "id": "e34820b428aceb62",
+      "url": "https://www.wsj.com/business/earnings/kroger-cuts-sales-view-due-to-macro-challenges-4adac3e8",
+      "title": "Kroger Cuts Sales View, Citing Cyclospora and Pressured Shoppers",
+      "content_text": "Kroger Cuts Sales View, Citing Cyclospora and Pressured Shoppers",
+      "summary": "",
+      "date_published": "2026-09-11T11:23:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "ae4cd9e0d7d4acb9",
+      "url": "https://www.wsj.com/logistics-report/lineage-sues-solar-panel-company-contractor-over-l-a-warehouse-fire-799a66c1",
+      "title": "Lineage Sues Solar-Panel Company, Contractor Over L.A. Warehouse Fire",
+      "content_text": "Lineage Sues Solar-Panel Company, Contractor Over L.A. Warehouse Fire",
+      "summary": "",
+      "date_published": "2026-09-11T11:13:00+00:00",
+      "tags": [
+        "Logistics Report"
+      ]
+    },
+    {
+      "id": "973b45c9a0d37884",
+      "url": "https://www.wsj.com/cfo-journal/polymarket-names-first-cfo-macys-bets-on-pricier-products-06dc69b1",
+      "title": "Polymarket Names First CFO; Macy’s Bets on Pricier Products",
+      "content_text": "Polymarket Names First CFO; Macy’s Bets on Pricier Products",
+      "summary": "",
+      "date_published": "2026-09-11T11:08:00+00:00",
+      "tags": [
+        "Cfo Journal"
+      ]
+    },
+    {
+      "id": "a5ddae4c90e89c7c",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/how-inflation-has-trended-since-2015-93iSoUPQFTlEn4sOrpxa",
+      "title": "How Inflation Has Trended Since 2015",
+      "content_text": "How Inflation Has Trended Since 2015",
+      "summary": "",
+      "date_published": "2026-09-11T11:06:35+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "58ce6a41e9d95b18",
+      "url": "https://www.wsj.com/politics/the-night-jd-vance-stole-the-show-9134b021",
+      "title": "The Night JD Vance Stole the Show",
+      "content_text": "The Night JD Vance Stole the Show",
+      "summary": "",
+      "date_published": "2026-09-11T11:01:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "9368996f68d3939a",
+      "url": "https://www.wsj.com/tech/ai/openais-fidji-simo-to-join-board-of-cloud-provider-nscale-ahead-of-ipo-3b452424",
+      "title": "OpenAI’s Fidji Simo to Join Board of Cloud Provider Nscale Ahead of IPO",
+      "content_text": "OpenAI’s Fidji Simo to Join Board of Cloud Provider Nscale Ahead of IPO",
+      "summary": "",
+      "date_published": "2026-09-11T11:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "afd297bff86b024e",
+      "url": "https://www.wsj.com/sports/football/jeremiah-smith-ohio-state-b4e21395",
+      "title": "He’s College Football’s Biggest Gamebreaker—and the Master of the Circus Catch",
+      "content_text": "He’s College Football’s Biggest Gamebreaker—and the Master of the Circus Catch",
+      "summary": "",
+      "date_published": "2026-09-11T11:00:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "eff8e13c486f5c08",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/saudi-arabia-s-oil-production-falls-to-the-lowest-level-in-three-decades-AvCQDla9YvC2idW8GFx8",
+      "title": "Saudi Arabia’s Oil Production Falls to the Lowest Level in Three Decades",
+      "content_text": "Saudi Arabia’s Oil Production Falls to the Lowest Level in Three Decades",
+      "summary": "",
+      "date_published": "2026-09-11T10:34:08+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "2dcd985a45e7114a",
+      "url": "https://www.wsj.com/world/middle-east/iran-backed-houthis-take-effective-control-of-bab-al-mandeb-chokepoint-0c6f4592",
+      "title": "Iran-Backed Houthis Take Effective Control of Key Red Sea Chokepoint",
+      "content_text": "Iran-Backed Houthis Take Effective Control of Key Red Sea Chokepoint",
+      "summary": "",
+      "date_published": "2026-09-11T10:25:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "90a5fc0d25e67bef",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/-money-quote-oracle-co-ceo-clay-magouyrk-on-the-ai-buildout-RfiQqM2mMAPd6BBYcf3V",
+      "title": "💬 Money Quote: Oracle Co-CEO Clay Magouyrk on the AI Buildout",
+      "content_text": "💬 Money Quote: Oracle Co-CEO Clay Magouyrk on the AI Buildout",
+      "summary": "",
+      "date_published": "2026-09-11T10:22:06+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "4803f7099af29a91",
+      "url": "https://www.wsj.com/finance/investing/the-corporate-name-game-could-cost-you-fe35037a",
+      "title": "The Corporate Name Game Could Cost You",
+      "content_text": "The Corporate Name Game Could Cost You",
+      "summary": "",
+      "date_published": "2026-09-11T10:11:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "6dbb33d731b99dcd",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/how-the-inflation-data-might-affect-the-next-fed-meeting-6zSKiIBF3w2JfreSg41k",
+      "title": "How the Inflation Data Might Affect the Next Fed Meeting",
+      "content_text": "How the Inflation Data Might Affect the Next Fed Meeting",
+      "summary": "",
+      "date_published": "2026-09-11T10:07:12+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "f40bc4e346987921",
+      "url": "https://www.wsj.com/articles/americas-response-to-9-11-reshaped-its-place-in-the-world-1761df3b",
+      "title": "America’s Response to 9/11 Reshaped Its Place in the World",
+      "content_text": "America’s Response to 9/11 Reshaped Its Place in the World",
+      "summary": "",
+      "date_published": "2026-09-11T10:05:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "32a92c9363e47440",
+      "url": "https://www.wsj.com/cio-journal/the-special-forces-ethos-driving-gorucks-co-founders-3bad85eb",
+      "title": "The Special Forces Ethos Driving Goruck’s Co-Founders",
+      "content_text": "The Special Forces Ethos Driving Goruck’s Co-Founders",
+      "summary": "",
+      "date_published": "2026-09-11T09:55:00+00:00",
+      "tags": [
+        "Cio Journal"
+      ]
+    },
+    {
+      "id": "edace2dc930535bc",
+      "url": "https://www.wsj.com/health/pharma/ipsen-weighs-u-s-manufacturing-investment-3429e3c3",
+      "title": "Ipsen Weighs U.S. Manufacturing Investment",
+      "content_text": "Ipsen Weighs U.S. Manufacturing Investment",
+      "summary": "",
+      "date_published": "2026-09-11T09:51:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
       "summary": "",
       "date_published": "2026-09-11T09:00:19+00:00",
       "tags": [
@@ -28,10 +468,10 @@
       ]
     },
     {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
       "summary": "",
       "date_published": "2026-09-11T09:00:19+00:00",
       "tags": [
@@ -1763,446 +2203,6 @@
       "date_published": "2026-09-10T15:09:00+00:00",
       "tags": [
         "Real Estate"
-      ]
-    },
-    {
-      "id": "ba782f2f19a6c4e4",
-      "url": "https://www.wsj.com/style/fashion/the-perfect-saleswomen-behind-aritzias-success-8d075512",
-      "title": "The Perfect Saleswomen Behind Aritzia’s Success",
-      "content_text": "The Perfect Saleswomen Behind Aritzia’s Success",
-      "summary": "",
-      "date_published": "2026-09-10T15:08:00+00:00",
-      "tags": [
-        "Style"
-      ]
-    },
-    {
-      "id": "ff196f1be59f6466",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/why-bond-yields-are-surging-again-TMBsZ2WzhWjxA4H3jBI9",
-      "title": "Why Bond Yields Are Surging Again",
-      "content_text": "Why Bond Yields Are Surging Again",
-      "summary": "",
-      "date_published": "2026-09-10T15:01:03+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "4c20490db2d0246e",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/did-the-hawkish-ecb-help-fuel-the-treasury-selloff--lDGGOyawval1D03PyN9L",
-      "title": "Did the Hawkish ECB Help Fuel the Treasury Selloff?",
-      "content_text": "Did the Hawkish ECB Help Fuel the Treasury Selloff?",
-      "summary": "",
-      "date_published": "2026-09-10T14:48:49+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "8eee3994c1df9da5",
-      "url": "https://www.wsj.com/arts-culture/books/lost-treasures-just-william-8389f86e",
-      "title": "Lost Treasures: ‘Just William’",
-      "content_text": "Lost Treasures: ‘Just William’",
-      "summary": "",
-      "date_published": "2026-09-10T14:48:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "7b37581249532ed9",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/the-oil-market-is-flashing-new-warning-signs-for-the-economy-Yen8QTY3EgBcbgIX2ms8",
-      "title": "The Oil Market Is Flashing New Warning Signs for the Economy",
-      "content_text": "The Oil Market Is Flashing New Warning Signs for the Economy",
-      "summary": "",
-      "date_published": "2026-09-10T14:33:38+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "2aa7c77df91f1e21",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/ppi-report-leaves-a-rate-hike-in-play-QPib8GLZOcQKDsj0FbJF",
-      "title": "PPI Report Leaves a Rate Hike in Play",
-      "content_text": "PPI Report Leaves a Rate Hike in Play",
-      "summary": "",
-      "date_published": "2026-09-10T14:30:17+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "cebaa692ea10f6ef",
-      "url": "https://www.wsj.com/economy/housing/home-sales-in-august-tumble-to-lowest-level-since-last-year-25851c6e",
-      "title": "Home Sales in August Tumbled to Lowest Level Since Last Year",
-      "content_text": "Home Sales in August Tumbled to Lowest Level Since Last Year",
-      "summary": "",
-      "date_published": "2026-09-10T14:00:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "a8233ff7bf244ab1",
-      "url": "https://www.wsj.com/cmo-today/why-ad-forecasts-keep-defying-gravity-11a9b3e2",
-      "title": "Why Ad Forecasts Keep Defying Gravity",
-      "content_text": "Why Ad Forecasts Keep Defying Gravity",
-      "summary": "",
-      "date_published": "2026-09-10T13:31:00+00:00",
-      "tags": [
-        "Cmo Today"
-      ]
-    },
-    {
-      "id": "87404cdd14f8f21a",
-      "url": "https://www.wsj.com/us-news/climate-environment/the-waters-of-the-united-states-are-about-to-legally-dry-up-a085a8ff",
-      "title": "The ‘Waters of the United States’ Are About to Legally Dry Up",
-      "content_text": "The ‘Waters of the United States’ Are About to Legally Dry Up",
-      "summary": "",
-      "date_published": "2026-09-10T13:25:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "d06268ab13404c21",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/ecb-s-lagarde-on-world-economic-forum-job-rumors-nothing-to-report--TqMTg5RKqfpZTlytDBq1",
-      "title": "ECB’s Lagarde on World Economic Forum Job Rumors: ‘Nothing to Report’",
-      "content_text": "ECB’s Lagarde on World Economic Forum Job Rumors: ‘Nothing to Report’",
-      "summary": "",
-      "date_published": "2026-09-10T13:20:29+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "418572a30c69004b",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/bond-selloff-extends-putting-5-10-year-yield-in-sight-qf1KJZwjjl47KHAdd1o3",
-      "title": "Bond Selloff Extends, Putting 5% 10-Year Yield In Sight",
-      "content_text": "Bond Selloff Extends, Putting 5% 10-Year Yield In Sight",
-      "summary": "",
-      "date_published": "2026-09-10T13:08:51+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "c8050f11533f79dd",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/european-bond-selloff-deepens-after-ecb-flags-inflation-concerns-rXV00jjvlczXAf3Der16",
-      "title": "European Bond Selloff Deepens After ECB Flags Inflation Concerns",
-      "content_text": "European Bond Selloff Deepens After ECB Flags Inflation Concerns",
-      "summary": "",
-      "date_published": "2026-09-10T13:03:24+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "1b20c459bb15294c",
-      "url": "https://www.wsj.com/health/pharma/cheap-biologic-drug-alternatives-stall-threatening-u-s-healthcare-savings-ea9baf26",
-      "title": "Cheap Biologic Drug Alternatives Stall, Threatening U.S. Healthcare Savings",
-      "content_text": "Cheap Biologic Drug Alternatives Stall, Threatening U.S. Healthcare Savings",
-      "summary": "",
-      "date_published": "2026-09-10T13:00:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "4f7f326f8a980e25",
-      "url": "https://www.wsj.com/articles/number-puzzles-saturday-september-12-73827907",
-      "title": "Number Puzzles (Saturday, September 12)",
-      "content_text": "Number Puzzles (Saturday, September 12)",
-      "summary": "",
-      "date_published": "2026-09-10T13:00:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "a7236b8708a33384",
-      "url": "https://www.wsj.com/tech/ai/positron-valued-at-5-billion-in-new-funding-as-cpu-demand-surges-76dde819",
-      "title": "Positron Valued at $5 Billion in New Funding as Demand for AI Chips Surges",
-      "content_text": "Positron Valued at $5 Billion in New Funding as Demand for AI Chips Surges",
-      "summary": "",
-      "date_published": "2026-09-10T13:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "302b7c9de4604eb0",
-      "url": "https://www.wsj.com/cio-journal/how-one-financial-services-company-manages-its-ai-token-costs-7ab8f826",
-      "title": "How One Financial Services Company Manages Its AI Token Costs",
-      "content_text": "How One Financial Services Company Manages Its AI Token Costs",
-      "summary": "",
-      "date_published": "2026-09-10T12:59:00+00:00",
-      "tags": [
-        "Cio Journal"
-      ]
-    },
-    {
-      "id": "8314190320299f77",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-f24dedb2",
-      "title": "Auto & Transport Roundup: Market Talk",
-      "content_text": "Auto & Transport Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-09-10T12:57:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "f5b5c343a6cac501",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/wholesale-price-inflation-sped-up-last-month-E7VpmzpBquOX3518Rsjb",
-      "title": "Wholesale-Price Inflation Sped Up Last Month",
-      "content_text": "Wholesale-Price Inflation Sped Up Last Month",
-      "summary": "",
-      "date_published": "2026-09-10T12:55:54+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "f5e03b680971ca6e",
-      "url": "https://www.wsj.com/economy/central-banking/producer-price-inflation-accelerated-last-month-bc29a96f",
-      "title": "Producer-Price Inflation Accelerated Last Month",
-      "content_text": "Producer-Price Inflation Accelerated Last Month",
-      "summary": "",
-      "date_published": "2026-09-10T12:55:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "e23d0249ea70e89c",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-22aa84e1",
-      "title": "Basic Materials Roundup: Market Talk",
-      "content_text": "Basic Materials Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-09-10T12:51:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "b534da207d95793f",
-      "url": "https://www.wsj.com/business/energy-oil/opec-further-cuts-this-years-oil-demand-growth-forecast-79ed23ad",
-      "title": "Saudi Oil Output Slumps as Iran War, Houthi Threats Disrupt Vital Export Routes",
-      "content_text": "Saudi Oil Output Slumps as Iran War, Houthi Threats Disrupt Vital Export Routes",
-      "summary": "",
-      "date_published": "2026-09-10T12:41:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "30590c0e9d739d9e",
-      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-afa5e4d0",
-      "title": "Financial Services Roundup: Market Talk",
-      "content_text": "Financial Services Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-09-10T12:39:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "d14d81c4befb5acb",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/europe-s-latest-natural-gas-headache-arctic-drone-strikes-SY1PZOZxQO43UZ6No3vl",
-      "title": "Europe’s Latest Natural Gas Headache: Arctic Drone Strikes",
-      "content_text": "Europe’s Latest Natural Gas Headache: Arctic Drone Strikes",
-      "summary": "",
-      "date_published": "2026-09-10T12:35:25+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "38790663bdbe9260",
-      "url": "https://www.wsj.com/business/earnings/jetblue-cuts-capacity-growth-outlook-citing-bad-weather-and-fuel-costs-6a86d63f",
-      "title": "JetBlue Cuts Capacity-Growth Outlook, Citing Bad Weather and Fuel Costs",
-      "content_text": "JetBlue Cuts Capacity-Growth Outlook, Citing Bad Weather and Fuel Costs",
-      "summary": "",
-      "date_published": "2026-09-10T12:16:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "b0446c5ac3a9bdb8",
-      "url": "https://www.wsj.com/economy/central-banking/the-ecb-just-raised-interest-rates-heres-what-to-know-c03f9bb0",
-      "title": "The ECB Just Raised Interest Rates. Here’s What to Know.",
-      "content_text": "The ECB Just Raised Interest Rates. Here’s What to Know.",
-      "summary": "",
-      "date_published": "2026-09-10T12:15:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "741c44940f243aac",
-      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-b98107c7",
-      "title": "Health Care Roundup: Market Talk",
-      "content_text": "Health Care Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-09-10T12:06:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "70bdbe1a9c35e935",
-      "url": "https://www.wsj.com/world/middle-east/yemens-iran-backed-houthis-sweep-toward-strategic-bab-al-mandeb-c1786d79",
-      "title": "Yemen’s Iran-Backed Houthis Sweep Toward Strategic Bab al-Mandeb",
-      "content_text": "Yemen’s Iran-Backed Houthis Sweep Toward Strategic Bab al-Mandeb",
-      "summary": "",
-      "date_published": "2026-09-10T12:02:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "b96b60f2de1601fe",
-      "url": "https://www.wsj.com/lifestyle/careers/want-to-succeed-in-an-ai-world-study-anthropology-cbb2d368",
-      "title": "Want to Succeed in an AI World? Study Anthropology",
-      "content_text": "Want to Succeed in an AI World? Study Anthropology",
-      "summary": "",
-      "date_published": "2026-09-10T12:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "a6fa6d33f3e4d610",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-ad87364c",
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-09-10T11:59:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "c9a287f7ff9396e2",
-      "url": "https://www.wsj.com/tech/anthropic-gives-eus-cybersecurity-agency-access-to-mythos-5-ai-model-33e3a3ef",
-      "title": "Anthropic Gives EU’s Cybersecurity Agency Access to Mythos 5 AI Model",
-      "content_text": "Anthropic Gives EU’s Cybersecurity Agency Access to Mythos 5 AI Model",
-      "summary": "",
-      "date_published": "2026-09-10T11:59:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "9f52f53c0fc05fc1",
-      "url": "https://www.wsj.com/business/retail/designer-brands-boosts-outlook-on-positive-start-to-3q-43895760",
-      "title": "Designer Brands Boosts Outlook on Positive Start to 3Q",
-      "content_text": "Designer Brands Boosts Outlook on Positive Start to 3Q",
-      "summary": "",
-      "date_published": "2026-09-10T11:53:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "c0a80bbbcea6c6b6",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-f6c09100",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "content_text": "Energy & Utilities Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-09-10T11:46:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "5d6ce1a67fb0d91b",
-      "url": "https://www.wsj.com/business/chemours-dupont-and-corteva-to-pay-455-million-in-north-carolina-pfas-settlement-a63598a8",
-      "title": "Chemours, DuPont and Corteva to Pay $455 Million in North Carolina PFAS Settlement",
-      "content_text": "Chemours, DuPont and Corteva to Pay $455 Million in North Carolina PFAS Settlement",
-      "summary": "",
-      "date_published": "2026-09-10T11:28:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "889c62545a85e64e",
-      "url": "https://www.wsj.com/economy/central-banking/turkish-central-bank-keeps-rates-unchanged-amid-continued-inflation-risks-6316aa47",
-      "title": "Turkish Central Bank Keeps Rates Unchanged Amid Continued Inflation Risks",
-      "content_text": "Turkish Central Bank Keeps Rates Unchanged Amid Continued Inflation Risks",
-      "summary": "",
-      "date_published": "2026-09-10T11:22:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "b67875860224b05b",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-huawei-faces-u-s-criminal-trial-weeks-before-trump-xi-meeting-37bfd0b8",
-      "title": "The Morning Risk Report: Huawei Faces U.S. Criminal Trial Weeks Before Trump-Xi Meeting",
-      "content_text": "The Morning Risk Report: Huawei Faces U.S. Criminal Trial Weeks Before Trump-Xi Meeting",
-      "summary": "",
-      "date_published": "2026-09-10T11:16:00+00:00",
-      "tags": [
-        "Risk Compliance Journal"
-      ]
-    },
-    {
-      "id": "1979338881df8615",
-      "url": "https://www.wsj.com/business/earnings/macys-raises-full-year-outlook-again-on-sales-growth-10bad630",
-      "title": "Macy’s Raises Full-Year Outlook Again on Sales Growth",
-      "content_text": "Macy’s Raises Full-Year Outlook Again on Sales Growth",
-      "summary": "",
-      "date_published": "2026-09-10T11:05:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "fe2137235fa83f39",
-      "url": "https://www.wsj.com/logistics-report/u-s-imports-carry-on-through-extended-peak-season-6149c271",
-      "title": "U.S. Imports Carry On Through Extended Peak Season",
-      "content_text": "U.S. Imports Carry On Through Extended Peak Season",
-      "summary": "",
-      "date_published": "2026-09-10T11:04:00+00:00",
-      "tags": [
-        "Logistics Report"
-      ]
-    },
-    {
-      "id": "6448ebfbc3d19e8d",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/korea-central-bank-sounds-alarm-about-ai-trading-frenzy-LSSeGCVopASO5vtF1gTb",
-      "title": "Korea Central Bank Sounds Alarm About AI Trading Frenzy",
-      "content_text": "Korea Central Bank Sounds Alarm About AI Trading Frenzy",
-      "summary": "",
-      "date_published": "2026-09-10T11:02:26+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "4493661b2748622b",
-      "url": "https://www.wsj.com/finance/banking/wall-streets-favorite-ai-startup-sets-its-sights-on-wealth-management-61b8b5d1",
-      "title": "Wall Street’s Favorite AI Startup Sets Its Sights on Wealth Management",
-      "content_text": "Wall Street’s Favorite AI Startup Sets Its Sights on Wealth Management",
-      "summary": "",
-      "date_published": "2026-09-10T11:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "47e5d47cda4c904d",
-      "url": "https://www.wsj.com/cio-journal/the-complicated-reality-behind-ai-token-limits-10298543",
-      "title": "The Complicated Reality Behind AI Token Limits",
-      "content_text": "The Complicated Reality Behind AI Token Limits",
-      "summary": "",
-      "date_published": "2026-09-10T11:00:00+00:00",
-      "tags": [
-        "Cio Journal"
       ]
     }
   ]
