@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "88dcf1fa0c308f6f",
+      "url": "https://www.wsj.com/politics/elections/missouris-redistricting-chaos-has-voters-on-both-sides-feeling-disenfranchised-f7dd238c",
+      "title": "Missouri’s Redistricting Chaos Has Voters on Both Sides Feeling Disenfranchised",
+      "content_text": "Missouri’s Redistricting Chaos Has Voters on Both Sides Feeling Disenfranchised",
+      "summary": "",
+      "date_published": "2026-09-12T20:42:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "5b711207b8bb3779",
+      "url": "https://www.wsj.com/business/deals/j-j-is-in-talks-to-sell-its-hips-and-knees-business-to-apollo-for-20-billion-3018cc4e",
+      "title": "J&J Is in Talks to Sell Its Hips-and-Knees Business to Apollo for $20 Billion",
+      "content_text": "J&J Is in Talks to Sell Its Hips-and-Knees Business to Apollo for $20 Billion",
+      "summary": "",
+      "date_published": "2026-09-12T19:40:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "279e36e0f2156504",
       "url": "https://www.wsj.com/business/larry-ellison-scraps-plan-to-sell-up-to-7-5-billion-worth-of-oracle-stock-9f41edd2",
       "title": "Larry Ellison Scraps Plan to Sell Up to $7.5 Billion Worth of Oracle Stock",
@@ -204,6 +226,17 @@
       ]
     },
     {
+      "id": "23a5a061dd7954af",
+      "url": "https://www.wsj.com/politics/elections/meet-the-factions-driving-the-democratic-socialists-of-america-0c5e74f0",
+      "title": "Meet the Factions Driving the Democratic Socialists of America",
+      "content_text": "Meet the Factions Driving the Democratic Socialists of America",
+      "summary": "",
+      "date_published": "2026-09-12T09:30:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "41b117be3923dfd2",
       "url": "https://www.wsj.com/tech/personal-tech/apple-watch-health-app-e7becf7a",
       "title": "Why Apple Needed to Reboot Its Health App",
@@ -256,17 +289,6 @@
       "date_published": "2026-09-12T09:30:00+00:00",
       "tags": [
         "Health"
-      ]
-    },
-    {
-      "id": "23a5a061dd7954af",
-      "url": "https://www.wsj.com/politics/elections/meet-the-factions-driving-the-democratic-socialists-of-america-0c5e74f0",
-      "title": "Meet the Factions Driving the Democratic Socialists of America",
-      "content_text": "Meet the Factions Driving the Democratic Socialists of America",
-      "summary": "",
-      "date_published": "2026-09-12T09:30:00+00:00",
-      "tags": [
-        "Politics"
       ]
     },
     {
@@ -2181,28 +2203,6 @@
       "date_published": "2026-09-11T02:00:00+00:00",
       "tags": [
         "World"
-      ]
-    },
-    {
-      "id": "981c8f428f32faad",
-      "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/vice-president-vance-cites-scripture-in-prime-time-speech-LeM05SGnRS3axh5BioXN",
-      "title": "Vice President Vance Cites Scripture in Prime-Time Speech",
-      "content_text": "Vice President Vance Cites Scripture in Prime-Time Speech",
-      "summary": "",
-      "date_published": "2026-09-11T01:50:34+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "ab7ad5c2de9934e7",
-      "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/vance-connects-raising-his-children-to-america-s-future-DvQbXuMXddy7AWcsfBc0",
-      "title": "Vance Connects Raising His Children to America’s Future",
-      "content_text": "Vance Connects Raising His Children to America’s Future",
-      "summary": "",
-      "date_published": "2026-09-11T01:49:04+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
