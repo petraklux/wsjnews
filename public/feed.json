@@ -6,6 +6,72 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "e068da750cbc7a53",
+      "url": "https://www.wsj.com/us-news/trump-calls-for-george-washington-statue-exhibit-at-smithsonian-6c184973",
+      "title": "Trump Calls for George Washington Statue, Exhibit at Smithsonian",
+      "content_text": "Trump Calls for George Washington Statue, Exhibit at Smithsonian",
+      "summary": "",
+      "date_published": "2026-09-12T16:02:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "2bc20fd14f7ad9ae",
+      "url": "https://www.wsj.com/style/design/ben-ganz-india-ennenga-home-tour-6a90a937",
+      "title": "It’s a ‘Spaceship.’ It’s a ‘Dentist’s Office.’ It’s Their Home.",
+      "content_text": "It’s a ‘Spaceship.’ It’s a ‘Dentist’s Office.’ It’s Their Home.",
+      "summary": "",
+      "date_published": "2026-09-12T16:00:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
+      "id": "ea774dae925f80ac",
+      "url": "https://www.wsj.com/arts-culture/fine-art/lawsuit-andy-warhol-scheme-3c259951",
+      "title": "A New Lawsuit Alleges an International Andy Warhol Forgery Scheme",
+      "content_text": "A New Lawsuit Alleges an International Andy Warhol Forgery Scheme",
+      "summary": "",
+      "date_published": "2026-09-12T16:00:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "0c10e43aab94d9e1",
+      "url": "https://www.wsj.com/world/china/chinas-economic-troubles-reach-the-mushroom-hunters-of-shangri-la-ea4cd49d",
+      "title": "China’s Economic Troubles Reach the Mushroom Hunters of Shangri-La",
+      "content_text": "China’s Economic Troubles Reach the Mushroom Hunters of Shangri-La",
+      "summary": "",
+      "date_published": "2026-09-12T15:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "74e862aae5b726b4",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/uncommon-home-features-671656f6",
+      "title": "Urinals, Skinny-Dipping Pools and Other Wild Home Buyers Must-Haves",
+      "content_text": "Urinals, Skinny-Dipping Pools and Other Wild Home Buyers Must-Haves",
+      "summary": "",
+      "date_published": "2026-09-12T14:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "bc7ac27f2cd8d73a",
+      "url": "https://www.wsj.com/tech/ai/ai-chatbot-avatar-afterlife-memorial-84a3fe2c",
+      "title": "A Dead Father, Reincarnated With AI: Is This How We Will Remember Loved Ones Now?",
+      "content_text": "A Dead Father, Reincarnated With AI: Is This How We Will Remember Loved Ones Now?",
+      "summary": "",
+      "date_published": "2026-09-12T14:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
       "id": "8b9dc7a6f742d48d",
       "url": "https://www.wsj.com/real-estate/luxury-homes/oliver-wendell-holmes-berkshires-home-17061dcc",
       "title": "Historic Homes: A Berkshires Retreat Built by an American Poet",
@@ -50,17 +116,6 @@
       ]
     },
     {
-      "id": "d233db75837658f1",
-      "url": "https://www.wsj.com/health/wellness/testosterone-testing-maxxing-daed3beb",
-      "title": "My Short-Lived Fantasy as a High-T Alpha Male",
-      "content_text": "My Short-Lived Fantasy as a High-T Alpha Male",
-      "summary": "",
-      "date_published": "2026-09-12T11:00:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
       "id": "219839f33412864b",
       "url": "https://www.wsj.com/arts-culture/fine-art/orientalism-between-fact-and-fantasy-review-east-meets-west-beautifully-at-the-met-2cde6f47",
       "title": "‘Orientalism: Between Fact and Fantasy’ Review: East Meets West, Beautifully, at the Met",
@@ -69,6 +124,17 @@
       "date_published": "2026-09-12T11:00:00+00:00",
       "tags": [
         "Arts Culture"
+      ]
+    },
+    {
+      "id": "d233db75837658f1",
+      "url": "https://www.wsj.com/health/wellness/testosterone-testing-maxxing-daed3beb",
+      "title": "My Short-Lived Fantasy as a High-T Alpha Male",
+      "content_text": "My Short-Lived Fantasy as a High-T Alpha Male",
+      "summary": "",
+      "date_published": "2026-09-12T11:00:00+00:00",
+      "tags": [
+        "Health"
       ]
     },
     {
@@ -91,6 +157,17 @@
       "date_published": "2026-09-12T10:00:00+00:00",
       "tags": [
         "Business"
+      ]
+    },
+    {
+      "id": "41b117be3923dfd2",
+      "url": "https://www.wsj.com/tech/personal-tech/apple-watch-health-app-e7becf7a",
+      "title": "Why Apple Needed to Reboot Its Health App",
+      "content_text": "Why Apple Needed to Reboot Its Health App",
+      "summary": "",
+      "date_published": "2026-09-12T09:30:00+00:00",
+      "tags": [
+        "Tech"
       ]
     },
     {
@@ -135,17 +212,6 @@
       "date_published": "2026-09-12T09:30:00+00:00",
       "tags": [
         "Health"
-      ]
-    },
-    {
-      "id": "41b117be3923dfd2",
-      "url": "https://www.wsj.com/tech/personal-tech/apple-watch-health-app-e7becf7a",
-      "title": "Why Apple Needed to Reboot Its Health App",
-      "content_text": "Why Apple Needed to Reboot Its Health App",
-      "summary": "",
-      "date_published": "2026-09-12T09:30:00+00:00",
-      "tags": [
-        "Tech"
       ]
     },
     {
@@ -762,6 +828,17 @@
       "date_published": "2026-09-11T17:37:00+00:00",
       "tags": [
         "Style"
+      ]
+    },
+    {
+      "id": "733ffd4d3d2a3b5c",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-haven-demand-for-dollar-may-weigh-a563ed11",
+      "title": "Asian currencies consolidate but haven demand for dollar may weigh",
+      "content_text": "Asian currencies consolidate but haven demand for dollar may weigh",
+      "summary": "",
+      "date_published": "2026-09-11T17:21:00+00:00",
+      "tags": [
+        "Finance"
       ]
     },
     {
@@ -2124,83 +2201,6 @@
       "content_text": "Donald Trump Jr. Urges GOP to Carry Charlie Kirk’s ‘Torch’ Into Midterms",
       "summary": "",
       "date_published": "2026-09-11T01:27:52+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "df26f005187236bc",
-      "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/do-democrats-really-want-to-defund-police-abolish-prisons-and-open-borders--6EKNOnABJOv50nTYeaLY",
-      "title": "Do Democrats Really Want to Defund Police, Abolish Prisons and Open Borders?",
-      "content_text": "Do Democrats Really Want to Defund Police, Abolish Prisons and Open Borders?",
-      "summary": "",
-      "date_published": "2026-09-11T01:22:24+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "952779c6a39ef3c7",
-      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026",
-      "title": "Stock Market Today: Bond Yields Edge Lower as Investors Await CPI Report",
-      "content_text": "Stock Market Today: Bond Yields Edge Lower as Investors Await CPI Report",
-      "summary": "",
-      "date_published": "2026-09-11T01:22:14+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "84846035fa610bbb",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-ahead-of-u-s-cpi-data-c995e7d0",
-      "title": "Gold Rises Ahead of U.S. CPI Data",
-      "content_text": "Gold Rises Ahead of U.S. CPI Data",
-      "summary": "",
-      "date_published": "2026-09-11T01:21:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "9fd1b3ff9b3e3ba0",
-      "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/read-excerpts-from-jd-vance-s-upcoming-convention-speech-XTLuVRlOCPpaNMTjqfC5",
-      "title": "Read Excerpts From JD Vance’s Upcoming Convention Speech",
-      "content_text": "Read Excerpts From JD Vance’s Upcoming Convention Speech",
-      "summary": "",
-      "date_published": "2026-09-11T01:20:59+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "231c89a1ffa462ca",
-      "url": "https://www.wsj.com/articles/corrections-amplifications-ba171c3d",
-      "title": "Corrections & Amplifications",
-      "content_text": "Corrections & Amplifications",
-      "summary": "",
-      "date_published": "2026-09-11T01:20:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "3d90430d3486b5ae",
-      "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/abdul-el-sayed-responds-to-mike-rogers-s-criticism-of-him-from-convention-stage-eAfo3vrig13yb64heWnx",
-      "title": "Abdul El-Sayed Responds to Mike Rogers’s Criticism of Him from Convention Stage",
-      "content_text": "Abdul El-Sayed Responds to Mike Rogers’s Criticism of Him from Convention Stage",
-      "summary": "",
-      "date_published": "2026-09-11T01:19:05+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "9510bab0689a534a",
-      "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/former-white-house-press-secretary-karoline-leavitt-jabs-press-AgpC7d1IXQdfpLkqkJMV",
-      "title": "Former White House Press Secretary Karoline Leavitt Jabs Press",
-      "content_text": "Former White House Press Secretary Karoline Leavitt Jabs Press",
-      "summary": "",
-      "date_published": "2026-09-11T01:16:39+00:00",
       "tags": [
         "Front Page"
       ]
