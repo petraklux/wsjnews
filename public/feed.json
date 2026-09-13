@@ -6,14 +6,25 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "c77532c53fa81509",
-      "url": "https://www.wsj.com/world/europe/canada-alliance-eu-carney-276f1778",
-      "title": "Mark Carney’s Audacious Bid to Make Canada an ‘Associate Member’ of the EU",
-      "content_text": "Mark Carney’s Audacious Bid to Make Canada an ‘Associate Member’ of the EU",
+      "id": "65cb1b870a83983f",
+      "url": "https://www.wsj.com/world/china/a-u-s-scholar-was-invited-to-china-then-he-vanished-88c720af",
+      "title": "A U.S. Scholar Was Invited to China. Then He Vanished.",
+      "content_text": "A U.S. Scholar Was Invited to China. Then He Vanished.",
       "summary": "",
-      "date_published": "2026-09-13T01:00:00+00:00",
+      "date_published": "2026-09-13T02:00:00+00:00",
       "tags": [
         "World"
+      ]
+    },
+    {
+      "id": "7c0e1e997f57574e",
+      "url": "https://www.wsj.com/politics/elections/republicans-growing-ken-paxton-anxiety-he-may-not-be-the-best-looking-guy-e6500b33",
+      "title": "Republicans’ Growing Ken Paxton Anxiety: ‘He May Not Be the Best-Looking Guy.’",
+      "content_text": "Republicans’ Growing Ken Paxton Anxiety: ‘He May Not Be the Best-Looking Guy.’",
+      "summary": "",
+      "date_published": "2026-09-13T02:00:00+00:00",
+      "tags": [
+        "Politics"
       ]
     },
     {
@@ -25,6 +36,17 @@
       "date_published": "2026-09-13T01:00:00+00:00",
       "tags": [
         "Business"
+      ]
+    },
+    {
+      "id": "c77532c53fa81509",
+      "url": "https://www.wsj.com/world/europe/canada-alliance-eu-carney-276f1778",
+      "title": "Mark Carney’s Audacious Bid to Make Canada an ‘Associate Member’ of the EU",
+      "content_text": "Mark Carney’s Audacious Bid to Make Canada an ‘Associate Member’ of the EU",
+      "summary": "",
+      "date_published": "2026-09-13T01:00:00+00:00",
+      "tags": [
+        "World"
       ]
     },
     {
@@ -2179,28 +2201,6 @@
       "content_text": "Ken Paxton Continues to Be the Butt of Trump’s Jokes",
       "summary": "",
       "date_published": "2026-09-11T02:37:20+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "c4ed29c4ed603bba",
-      "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/why-is-the-save-america-act-important-in-the-midterms--RYRzuonF8c4d6TfDwbcL",
-      "title": "Why Is the SAVE America Act Important in the Midterms?",
-      "content_text": "Why Is the SAVE America Act Important in the Midterms?",
-      "summary": "",
-      "date_published": "2026-09-11T02:24:37+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "7d6ac1cfcbba190d",
-      "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/convention-attendees-confront-man-in-crowd-yU5LrVoY8bZFr5X5xe5c",
-      "title": "Convention Attendees Confront Man in Crowd",
-      "content_text": "Convention Attendees Confront Man in Crowd",
-      "summary": "",
-      "date_published": "2026-09-11T02:19:29+00:00",
       "tags": [
         "Front Page"
       ]
