@@ -6,6 +6,149 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
+      "summary": "",
+      "date_published": "2026-09-13T19:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-09-13T19:00:19+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-09-13T19:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "dea6ec2569a2d42b",
+      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
+      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "summary": "",
+      "date_published": "2026-09-13T19:00:19+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "8a5f53ca661eb353",
+      "url": "https://www.wsj.com/world/europe/dueling-airstrikes-fuel-angst-as-russia-ukraine-war-escalates-a6c0a67b",
+      "title": "Dueling Airstrikes Fuel Angst as Russia-Ukraine War Escalates",
+      "content_text": "Dueling Airstrikes Fuel Angst as Russia-Ukraine War Escalates",
+      "summary": "",
+      "date_published": "2026-09-13T18:57:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "94dd93079ddad9c6",
+      "url": "https://www.wsj.com/sports/football/the-upstart-using-guerrilla-tactics-to-shake-up-the-football-helmet-business-5bf891c1",
+      "title": "The Upstart Using ‘Guerrilla Tactics’ to Shake Up the Football Helmet Business",
+      "content_text": "The Upstart Using ‘Guerrilla Tactics’ to Shake Up the Football Helmet Business",
+      "summary": "",
+      "date_published": "2026-09-13T18:21:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "74e6f74caf9b6a2a",
+      "url": "https://www.wsj.com/style/fashion/people-ive-met-mens-bags-5f7b0665",
+      "title": "How a Classic Collegiate Novel Inspired This Young New York Band",
+      "content_text": "How a Classic Collegiate Novel Inspired This Young New York Band",
+      "summary": "",
+      "date_published": "2026-09-13T18:00:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
+      "id": "83dbd3f0683a5276",
+      "url": "https://www.wsj.com/opinion/awarding-courage-and-honesty-in-academia-bb764fa1",
+      "title": "Awarding Courage and Honesty in Academia",
+      "content_text": "Awarding Courage and Honesty in Academia",
+      "summary": "",
+      "date_published": "2026-09-13T17:48:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "834b7835811fff6a",
+      "url": "https://www.wsj.com/opinion/nonprofits-rely-on-wealth-from-free-markets-1d4388ba",
+      "title": "Nonprofits Rely on Wealth From Free Markets",
+      "content_text": "Nonprofits Rely on Wealth From Free Markets",
+      "summary": "",
+      "date_published": "2026-09-13T17:47:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "abe45d216ed1bb16",
+      "url": "https://www.wsj.com/opinion/aluminum-tariffs-spur-domestic-investment-8f646d1e",
+      "title": "Aluminum Tariffs Spur Domestic Investment",
+      "content_text": "Aluminum Tariffs Spur Domestic Investment",
+      "summary": "",
+      "date_published": "2026-09-13T17:46:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "ec0f27957b0b0235",
+      "url": "https://www.wsj.com/opinion/more-credentialed-teachers-dont-mean-better-schools-585f4f20",
+      "title": "More Credentialed Teachers Don’t Mean Better Schools",
+      "content_text": "More Credentialed Teachers Don’t Mean Better Schools",
+      "summary": "",
+      "date_published": "2026-09-13T17:45:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "4c9af8ca762fc72c",
+      "url": "https://www.wsj.com/opinion/the-bar-for-involuntary-hospitalization-is-too-high-72d7b529",
+      "title": "The Bar for Involuntary Hospitalization Is Too High",
+      "content_text": "The Bar for Involuntary Hospitalization Is Too High",
+      "summary": "",
+      "date_published": "2026-09-13T17:45:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "e1155faaffc6981f",
+      "url": "https://www.wsj.com/tech/ai/accent-ai-voice-security-96154f75",
+      "title": "Has Your Accent Just Become a Security Vulnerability?",
+      "content_text": "Has Your Accent Just Become a Security Vulnerability?",
+      "summary": "",
+      "date_published": "2026-09-13T17:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
       "id": "d897aac6b4ddb08e",
       "url": "https://www.wsj.com/tech/ai/trump-defends-white-houses-light-touch-on-ai-regulation-c4ed2488",
       "title": "Trump Defends White House’s Light Touch On AI Regulation",
@@ -28,17 +171,6 @@
       ]
     },
     {
-      "id": "fb3b9bba4c53f807",
-      "url": "https://www.wsj.com/arts-culture/books/david-rubenstein-inside-the-owners-box-1bc921c4",
-      "title": "Why David Rubenstein Spent $1.7 Billion on the Baltimore Orioles",
-      "content_text": "Why David Rubenstein Spent $1.7 Billion on the Baltimore Orioles",
-      "summary": "",
-      "date_published": "2026-09-13T16:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
       "id": "c65df1f86a99da7d",
       "url": "https://www.wsj.com/politics/policy/how-your-mail-carrier-ended-up-at-the-center-of-the-midterms-battle-bf9a0475",
       "title": "How Your Mail Carrier Ended Up at the Center of the Midterms Battle",
@@ -47,6 +179,17 @@
       "date_published": "2026-09-13T16:00:00+00:00",
       "tags": [
         "Politics"
+      ]
+    },
+    {
+      "id": "fb3b9bba4c53f807",
+      "url": "https://www.wsj.com/arts-culture/books/david-rubenstein-inside-the-owners-box-1bc921c4",
+      "title": "Why David Rubenstein Spent $1.7 Billion on the Baltimore Orioles",
+      "content_text": "Why David Rubenstein Spent $1.7 Billion on the Baltimore Orioles",
+      "summary": "",
+      "date_published": "2026-09-13T16:00:00+00:00",
+      "tags": [
+        "Arts Culture"
       ]
     },
     {
@@ -2060,149 +2203,6 @@
       "date_published": "2026-09-11T09:51:00+00:00",
       "tags": [
         "Health"
-      ]
-    },
-    {
-      "id": "45da198f3b564d0a",
-      "url": "https://www.wsj.com/finance/investing/at-bending-spoons-the-numbers-are-the-real-mind-bender-43f10bee",
-      "title": "At Bending Spoons, the Numbers Are the Real Mind-Bender",
-      "content_text": "At Bending Spoons, the Numbers Are the Real Mind-Bender",
-      "summary": "",
-      "date_published": "2026-09-11T09:30:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "ad7548b8d194ca59",
-      "url": "https://www.wsj.com/us-news/education/how-harvard-won-back-an-angry-megadonor-581c01f2",
-      "title": "How Harvard Won Back an Angry Megadonor",
-      "content_text": "How Harvard Won Back an Angry Megadonor",
-      "summary": "",
-      "date_published": "2026-09-11T09:30:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "b2b02e855f33e6bb",
-      "url": "https://www.wsj.com/lifestyle/hey-uber-driver-do-you-really-need-30-air-fresheners-1ccb08e7",
-      "title": "Chemical Storm vs. Backseat B.O.: The Battle Over Uber Air Fresheners",
-      "content_text": "Chemical Storm vs. Backseat B.O.: The Battle Over Uber Air Fresheners",
-      "summary": "",
-      "date_published": "2026-09-11T09:30:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "c49bfd800ae71926",
-      "url": "https://www.wsj.com/finance/investing/yields-on-u-s-european-government-bonds-edge-lower-but-still-hover-near-multiyear-highs-90ceba80",
-      "title": "Yields on U.S., European Government Bonds Slip, Still Near Multiyear Highs After Firm Inflation Print",
-      "content_text": "Yields on U.S., European Government Bonds Slip, Still Near Multiyear Highs After Firm Inflation Print",
-      "summary": "",
-      "date_published": "2026-09-11T09:29:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "564bf3d863431268",
-      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/diesel-price-crosses-6-a-gallon-for-the-first-time-tB57Hgu8KkZZz72i6hwi",
-      "title": "Diesel Price Crosses $6 a Gallon for the First Time",
-      "content_text": "Diesel Price Crosses $6 a Gallon for the First Time",
-      "summary": "",
-      "date_published": "2026-09-11T09:21:55+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "d8a53a0a51b30ba3",
-      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/stocks-to-watch-friday-oracle-adobe-rh-3NJBIbPdpbEJYyWbh8EC",
-      "title": "Stocks to Watch Friday: Oracle, Adobe, RH",
-      "content_text": "Stocks to Watch Friday: Oracle, Adobe, RH",
-      "summary": "",
-      "date_published": "2026-09-11T09:20:54+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
-      "summary": "",
-      "date_published": "2026-09-11T09:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "5a885d497fa8a917",
-      "url": "https://www.wsj.com/news/types/the-saturday-interview",
-      "title": "The saturday interview",
-      "content_text": "The saturday interview",
-      "summary": "",
-      "date_published": "2026-09-11T09:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
-      "summary": "",
-      "date_published": "2026-09-11T09:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "67a229f9726f9141",
-      "url": "https://www.wsj.com/news/markets/real-estate-commercial",
-      "title": "Real estate commercial",
-      "content_text": "Real estate commercial",
-      "summary": "",
-      "date_published": "2026-09-11T09:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "9fa3ba50ad72aa9a",
-      "url": "https://www.wsj.com/finance/stocks/stock-futures-nudge-up-yields-slip-but-markets-remain-on-edge-035097c4",
-      "title": "Stock Futures Nudge Up, Yields Slip, But Markets Remain on Edge",
-      "content_text": "Stock Futures Nudge Up, Yields Slip, But Markets Remain on Edge",
-      "summary": "",
-      "date_published": "2026-09-11T08:40:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "78992c494d4bcdbd",
-      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/thursday-recap-bonds-sell-off-despite-buyback-operation-OG9UTSCKapBflwu9kuUL",
-      "title": "Thursday Recap: Bonds Sell Off Despite Buyback Operation",
-      "content_text": "Thursday Recap: Bonds Sell Off Despite Buyback Operation",
-      "summary": "",
-      "date_published": "2026-09-11T08:32:49+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "aa67a788051095be",
-      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/what-to-expect-from-today-s-cpi-report-EqbXe7naUUyheoEwlor3",
-      "title": "What to Expect From Today’s CPI Report",
-      "content_text": "What to Expect From Today’s CPI Report",
-      "summary": "",
-      "date_published": "2026-09-11T08:29:12+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
