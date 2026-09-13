@@ -6,10 +6,142 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "c7e480583f8ad0fd",
-      "url": "https://www.wsj.com/news/business/small-business-marketing",
-      "title": "Small business marketing",
-      "content_text": "Small business marketing",
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
+      "summary": "",
+      "date_published": "2026-09-13T21:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "5a885d497fa8a917",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview",
+      "title": "The saturday interview",
+      "content_text": "The saturday interview",
+      "summary": "",
+      "date_published": "2026-09-13T21:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
+      "summary": "",
+      "date_published": "2026-09-13T21:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "67a229f9726f9141",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial",
+      "title": "Real estate commercial",
+      "content_text": "Real estate commercial",
+      "summary": "",
+      "date_published": "2026-09-13T21:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "09651794c7579992",
+      "url": "https://www.wsj.com/economy/trade/trump-pledges-to-rescind-10-tariff-on-irish-whiskey-fc456b00",
+      "title": "Trump Pledges to Rescind 10% Tariff on Irish Whiskey",
+      "content_text": "Trump Pledges to Rescind 10% Tariff on Irish Whiskey",
+      "summary": "",
+      "date_published": "2026-09-13T20:25:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "ff7c888218c24938",
+      "url": "https://www.wsj.com/politics/elections/for-trump-a-golf-trip-to-ireland-tees-up-a-reunification-controversy-bf3c2f17",
+      "title": "For Trump, a Golf Trip to Ireland Tees Up a Reunification Controversy",
+      "content_text": "For Trump, a Golf Trip to Ireland Tees Up a Reunification Controversy",
+      "summary": "",
+      "date_published": "2026-09-13T19:47:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "6fef47de76fc1b62",
+      "url": "https://www.wsj.com/us-news/pennsylvania-woman-dies-of-measles-complications-e8435a8b",
+      "title": "Pennsylvania Woman Dies of Measles Complications",
+      "content_text": "Pennsylvania Woman Dies of Measles Complications",
+      "summary": "",
+      "date_published": "2026-09-13T19:35:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "403dab77cbcacccb",
+      "url": "https://www.wsj.com/opinion/we-need-a-science-of-the-ai-mind-5b1047e4",
+      "title": "We Need a Science of the AI Mind",
+      "content_text": "We Need a Science of the AI Mind",
+      "summary": "",
+      "date_published": "2026-09-13T19:35:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "c34ed83a1e74cacf",
+      "url": "https://www.wsj.com/opinion/antisemitism-surges-25-years-after-9-11-2327f95c",
+      "title": "Antisemitism Surges 25 Years After 9/11",
+      "content_text": "Antisemitism Surges 25 Years After 9/11",
+      "summary": "",
+      "date_published": "2026-09-13T19:34:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "12038bbbff93711a",
+      "url": "https://www.wsj.com/opinion/the-ai-luddites-are-here-460ff88f",
+      "title": "The AI Luddites Are Here",
+      "content_text": "The AI Luddites Are Here",
+      "summary": "",
+      "date_published": "2026-09-13T19:33:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "9d1cfbf10bc811b0",
+      "url": "https://www.wsj.com/opinion/could-there-be-a-cure-for-osteoarthritis-965ebd5b",
+      "title": "Could There Be a Cure for Osteoarthritis?",
+      "content_text": "Could There Be a Cure for Osteoarthritis?",
+      "summary": "",
+      "date_published": "2026-09-13T19:32:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "05c97ed445fdf5b2",
+      "url": "https://www.wsj.com/opinion/lula-has-a-banco-master-problem-5f291aeb",
+      "title": "Lula Has a Banco Master Problem",
+      "content_text": "Lula Has a Banco Master Problem",
+      "summary": "",
+      "date_published": "2026-09-13T19:31:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
       "summary": "",
       "date_published": "2026-09-13T19:00:19+00:00",
       "tags": [
@@ -28,10 +160,10 @@
       ]
     },
     {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
       "summary": "",
       "date_published": "2026-09-13T19:00:19+00:00",
       "tags": [
@@ -116,10 +248,10 @@
       ]
     },
     {
-      "id": "ec0f27957b0b0235",
-      "url": "https://www.wsj.com/opinion/more-credentialed-teachers-dont-mean-better-schools-585f4f20",
-      "title": "More Credentialed Teachers Don’t Mean Better Schools",
-      "content_text": "More Credentialed Teachers Don’t Mean Better Schools",
+      "id": "4c9af8ca762fc72c",
+      "url": "https://www.wsj.com/opinion/the-bar-for-involuntary-hospitalization-is-too-high-72d7b529",
+      "title": "The Bar for Involuntary Hospitalization Is Too High",
+      "content_text": "The Bar for Involuntary Hospitalization Is Too High",
       "summary": "",
       "date_published": "2026-09-13T17:45:00+00:00",
       "tags": [
@@ -127,10 +259,10 @@
       ]
     },
     {
-      "id": "4c9af8ca762fc72c",
-      "url": "https://www.wsj.com/opinion/the-bar-for-involuntary-hospitalization-is-too-high-72d7b529",
-      "title": "The Bar for Involuntary Hospitalization Is Too High",
-      "content_text": "The Bar for Involuntary Hospitalization Is Too High",
+      "id": "ec0f27957b0b0235",
+      "url": "https://www.wsj.com/opinion/more-credentialed-teachers-dont-mean-better-schools-585f4f20",
+      "title": "More Credentialed Teachers Don’t Mean Better Schools",
+      "content_text": "More Credentialed Teachers Don’t Mean Better Schools",
       "summary": "",
       "date_published": "2026-09-13T17:45:00+00:00",
       "tags": [
@@ -2071,138 +2203,6 @@
       "date_published": "2026-09-11T11:08:00+00:00",
       "tags": [
         "Cfo Journal"
-      ]
-    },
-    {
-      "id": "a5ddae4c90e89c7c",
-      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/how-inflation-has-trended-since-2015-93iSoUPQFTlEn4sOrpxa",
-      "title": "How Inflation Has Trended Since 2015",
-      "content_text": "How Inflation Has Trended Since 2015",
-      "summary": "",
-      "date_published": "2026-09-11T11:06:35+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "58ce6a41e9d95b18",
-      "url": "https://www.wsj.com/politics/the-night-jd-vance-stole-the-show-9134b021",
-      "title": "The Night JD Vance Stole the Show",
-      "content_text": "The Night JD Vance Stole the Show",
-      "summary": "",
-      "date_published": "2026-09-11T11:01:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "9368996f68d3939a",
-      "url": "https://www.wsj.com/tech/ai/openais-fidji-simo-to-join-board-of-cloud-provider-nscale-ahead-of-ipo-3b452424",
-      "title": "OpenAI’s Fidji Simo to Join Board of Cloud Provider Nscale Ahead of IPO",
-      "content_text": "OpenAI’s Fidji Simo to Join Board of Cloud Provider Nscale Ahead of IPO",
-      "summary": "",
-      "date_published": "2026-09-11T11:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "afd297bff86b024e",
-      "url": "https://www.wsj.com/sports/football/jeremiah-smith-ohio-state-b4e21395",
-      "title": "He’s College Football’s Biggest Gamebreaker—and the Master of the Circus Catch",
-      "content_text": "He’s College Football’s Biggest Gamebreaker—and the Master of the Circus Catch",
-      "summary": "",
-      "date_published": "2026-09-11T11:00:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "eff8e13c486f5c08",
-      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/saudi-arabia-s-oil-production-falls-to-the-lowest-level-in-three-decades-AvCQDla9YvC2idW8GFx8",
-      "title": "Saudi Arabia’s Oil Production Falls to the Lowest Level in Three Decades",
-      "content_text": "Saudi Arabia’s Oil Production Falls to the Lowest Level in Three Decades",
-      "summary": "",
-      "date_published": "2026-09-11T10:34:08+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "2dcd985a45e7114a",
-      "url": "https://www.wsj.com/world/middle-east/iran-backed-houthis-take-effective-control-of-bab-al-mandeb-chokepoint-0c6f4592",
-      "title": "Iran-Backed Houthis Take Effective Control of Key Red Sea Chokepoint",
-      "content_text": "Iran-Backed Houthis Take Effective Control of Key Red Sea Chokepoint",
-      "summary": "",
-      "date_published": "2026-09-11T10:25:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "90a5fc0d25e67bef",
-      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/-money-quote-oracle-co-ceo-clay-magouyrk-on-the-ai-buildout-RfiQqM2mMAPd6BBYcf3V",
-      "title": "💬 Money Quote: Oracle Co-CEO Clay Magouyrk on the AI Buildout",
-      "content_text": "💬 Money Quote: Oracle Co-CEO Clay Magouyrk on the AI Buildout",
-      "summary": "",
-      "date_published": "2026-09-11T10:22:06+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "4803f7099af29a91",
-      "url": "https://www.wsj.com/finance/investing/the-corporate-name-game-could-cost-you-fe35037a",
-      "title": "The Corporate Name Game Could Cost You",
-      "content_text": "The Corporate Name Game Could Cost You",
-      "summary": "",
-      "date_published": "2026-09-11T10:11:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "6dbb33d731b99dcd",
-      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/how-the-inflation-data-might-affect-the-next-fed-meeting-6zSKiIBF3w2JfreSg41k",
-      "title": "How the Inflation Data Might Affect the Next Fed Meeting",
-      "content_text": "How the Inflation Data Might Affect the Next Fed Meeting",
-      "summary": "",
-      "date_published": "2026-09-11T10:07:12+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "f40bc4e346987921",
-      "url": "https://www.wsj.com/articles/americas-response-to-9-11-reshaped-its-place-in-the-world-1761df3b",
-      "title": "America’s Response to 9/11 Reshaped Its Place in the World",
-      "content_text": "America’s Response to 9/11 Reshaped Its Place in the World",
-      "summary": "",
-      "date_published": "2026-09-11T10:05:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "32a92c9363e47440",
-      "url": "https://www.wsj.com/cio-journal/the-special-forces-ethos-driving-gorucks-co-founders-3bad85eb",
-      "title": "The Special Forces Ethos Driving Goruck’s Co-Founders",
-      "content_text": "The Special Forces Ethos Driving Goruck’s Co-Founders",
-      "summary": "",
-      "date_published": "2026-09-11T09:55:00+00:00",
-      "tags": [
-        "Cio Journal"
-      ]
-    },
-    {
-      "id": "edace2dc930535bc",
-      "url": "https://www.wsj.com/health/pharma/ipsen-weighs-u-s-manufacturing-investment-3429e3c3",
-      "title": "Ipsen Weighs U.S. Manufacturing Investment",
-      "content_text": "Ipsen Weighs U.S. Manufacturing Investment",
-      "summary": "",
-      "date_published": "2026-09-11T09:51:00+00:00",
-      "tags": [
-        "Health"
       ]
     }
   ]
