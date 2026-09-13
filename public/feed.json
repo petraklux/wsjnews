@@ -6,10 +6,76 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
+      "id": "0d69670ee437b4c8",
+      "url": "https://www.wsj.com/arts-culture/food-cooking/at-restaurants-phones-are-becoming-the-new-cigarettes-689c6435",
+      "title": "At Restaurants, Phones Are Becoming the New Cigarettes",
+      "content_text": "At Restaurants, Phones Are Becoming the New Cigarettes",
+      "summary": "",
+      "date_published": "2026-09-13T23:00:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "f4357620d436330e",
+      "url": "https://www.wsj.com/sports/tennis/ben-shelton-alexander-zverev-us-open-5f2e0661",
+      "title": "Ben Shelton Falls in the U.S. Open Final—and an American Wait Goes On",
+      "content_text": "Ben Shelton Falls in the U.S. Open Final—and an American Wait Goes On",
+      "summary": "",
+      "date_published": "2026-09-13T22:14:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "55d69c0bb32ca419",
+      "url": "https://www.wsj.com/opinion/the-great-ai-slowdown-d5578546",
+      "title": "The Great AI Slowdown?",
+      "content_text": "The Great AI Slowdown?",
+      "summary": "",
+      "date_published": "2026-09-13T21:44:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "a5bbb1a324c99043",
+      "url": "https://www.wsj.com/opinion/trump-lectures-ukraine-not-russia-7eceaff6",
+      "title": "Trump Lectures Ukraine, not Russia",
+      "content_text": "Trump Lectures Ukraine, not Russia",
+      "summary": "",
+      "date_published": "2026-09-13T21:43:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "2a85fae1e2e4e56f",
+      "url": "https://www.wsj.com/opinion/the-road-to-a-universal-basic-income-ee06f422",
+      "title": "The Road to a Universal Basic Income",
+      "content_text": "The Road to a Universal Basic Income",
+      "summary": "",
+      "date_published": "2026-09-13T21:42:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "999eaa0e13051b9e",
+      "url": "https://www.wsj.com/opinion/democrats-healthcare-obamacare-james-talarico-17b7fb34",
+      "title": "The New ObamaCare Trust Busters",
+      "content_text": "The New ObamaCare Trust Busters",
+      "summary": "",
+      "date_published": "2026-09-13T21:41:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
       "summary": "",
       "date_published": "2026-09-13T21:30:19+00:00",
       "tags": [
@@ -28,10 +94,10 @@
       ]
     },
     {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
       "summary": "",
       "date_published": "2026-09-13T21:30:19+00:00",
       "tags": [
@@ -72,17 +138,6 @@
       ]
     },
     {
-      "id": "6fef47de76fc1b62",
-      "url": "https://www.wsj.com/us-news/pennsylvania-woman-dies-of-measles-complications-e8435a8b",
-      "title": "Pennsylvania Woman Dies of Measles Complications",
-      "content_text": "Pennsylvania Woman Dies of Measles Complications",
-      "summary": "",
-      "date_published": "2026-09-13T19:35:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
       "id": "403dab77cbcacccb",
       "url": "https://www.wsj.com/opinion/we-need-a-science-of-the-ai-mind-5b1047e4",
       "title": "We Need a Science of the AI Mind",
@@ -91,6 +146,17 @@
       "date_published": "2026-09-13T19:35:00+00:00",
       "tags": [
         "Opinion"
+      ]
+    },
+    {
+      "id": "6fef47de76fc1b62",
+      "url": "https://www.wsj.com/us-news/pennsylvania-woman-dies-of-measles-complications-e8435a8b",
+      "title": "Pennsylvania Woman Dies of Measles Complications",
+      "content_text": "Pennsylvania Woman Dies of Measles Complications",
+      "summary": "",
+      "date_published": "2026-09-13T19:35:00+00:00",
+      "tags": [
+        "Us News"
       ]
     },
     {
@@ -2137,72 +2203,6 @@
       "date_published": "2026-09-11T12:10:00+00:00",
       "tags": [
         "Sports"
-      ]
-    },
-    {
-      "id": "a09164ac3c1cf3e6",
-      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/ai-is-boosting-the-u-k-economy-5eybjlSlW8qgAcALkCij",
-      "title": "AI Is Boosting the U.K. Economy",
-      "content_text": "AI Is Boosting the U.K. Economy",
-      "summary": "",
-      "date_published": "2026-09-11T12:08:17+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "a076b827f9b84f4a",
-      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-f34c6f75",
-      "title": "Health Care Roundup: Market Talk",
-      "content_text": "Health Care Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-09-11T12:07:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "a3f3368cfcdac9d2",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-how-chinese-ai-firms-tried-to-clone-u-s-ai-models-32b77c8f",
-      "title": "The Morning Risk Report: How Chinese AI Firms Tried to Clone U.S. AI Models",
-      "content_text": "The Morning Risk Report: How Chinese AI Firms Tried to Clone U.S. AI Models",
-      "summary": "",
-      "date_published": "2026-09-11T11:31:00+00:00",
-      "tags": [
-        "Risk Compliance Journal"
-      ]
-    },
-    {
-      "id": "e34820b428aceb62",
-      "url": "https://www.wsj.com/business/earnings/kroger-cuts-sales-view-due-to-macro-challenges-4adac3e8",
-      "title": "Kroger Cuts Sales View, Citing Cyclospora and Pressured Shoppers",
-      "content_text": "Kroger Cuts Sales View, Citing Cyclospora and Pressured Shoppers",
-      "summary": "",
-      "date_published": "2026-09-11T11:23:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "ae4cd9e0d7d4acb9",
-      "url": "https://www.wsj.com/logistics-report/lineage-sues-solar-panel-company-contractor-over-l-a-warehouse-fire-799a66c1",
-      "title": "Lineage Sues Solar-Panel Company, Contractor Over L.A. Warehouse Fire",
-      "content_text": "Lineage Sues Solar-Panel Company, Contractor Over L.A. Warehouse Fire",
-      "summary": "",
-      "date_published": "2026-09-11T11:13:00+00:00",
-      "tags": [
-        "Logistics Report"
-      ]
-    },
-    {
-      "id": "973b45c9a0d37884",
-      "url": "https://www.wsj.com/cfo-journal/polymarket-names-first-cfo-macys-bets-on-pricier-products-06dc69b1",
-      "title": "Polymarket Names First CFO; Macy’s Bets on Pricier Products",
-      "content_text": "Polymarket Names First CFO; Macy’s Bets on Pricier Products",
-      "summary": "",
-      "date_published": "2026-09-11T11:08:00+00:00",
-      "tags": [
-        "Cfo Journal"
       ]
     }
   ]
