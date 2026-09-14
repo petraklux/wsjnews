@@ -6,6 +6,116 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "695ec1b8f3b159b7",
+      "url": "https://www.wsj.com/politics/elections/democrats-have-midterm-momentum-heres-what-risks-tripping-them-up-ed0a0418",
+      "title": "Democrats Have Midterm Momentum. Here’s What Risks Tripping Them Up.",
+      "content_text": "Democrats Have Midterm Momentum. Here’s What Risks Tripping Them Up.",
+      "summary": "",
+      "date_published": "2026-09-14T01:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "49d74740182459c9",
+      "url": "https://www.wsj.com/tech/ai/openai-anthropic-crisis-money-safety-847bc1d6",
+      "title": "How the Clash Between Money and Safety Created a Monumental Crisis for AI",
+      "content_text": "How the Clash Between Money and Safety Created a Monumental Crisis for AI",
+      "summary": "",
+      "date_published": "2026-09-14T01:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "900252f990eb575d",
+      "url": "https://www.wsj.com/business/airlines/amazon-pauses-operations-with-21-air-after-miami-crash-3374b9ef",
+      "title": "Amazon Pauses Operations With 21 Air After Miami Crash",
+      "content_text": "Amazon Pauses Operations With 21 Air After Miami Crash",
+      "summary": "",
+      "date_published": "2026-09-14T00:35:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "f5b33529070eda2d",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-focus-on-u-s-core-inflation-9f264ece",
+      "title": "Gold Edges Lower; Focus on U.S. Core Inflation",
+      "content_text": "Gold Edges Lower; Focus on U.S. Core Inflation",
+      "summary": "",
+      "date_published": "2026-09-14T00:28:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "39635cc28e971005",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-1-6-dragged-by-chip-metals-stocks-b366d914",
+      "title": "Nikkei Falls 1.6%, Dragged by Chip, Metals Stocks",
+      "content_text": "Nikkei Falls 1.6%, Dragged by Chip, Metals Stocks",
+      "summary": "",
+      "date_published": "2026-09-14T00:24:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "253b23496a982ca5",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-backing-case-for-rate-hikes-0a17cda4",
+      "title": "Oil Prices Rise, Backing Case for Rate Hikes",
+      "content_text": "Oil Prices Rise, Backing Case for Rate Hikes",
+      "summary": "",
+      "date_published": "2026-09-14T00:16:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "0c96e8a5b4fecc1b",
+      "url": "https://www.wsj.com/us-news/inmates-phone-scams-prisons-784f6c2c",
+      "title": "How Inmates With Contraband Phones Are Scamming Families Across America",
+      "content_text": "How Inmates With Contraband Phones Are Scamming Families Across America",
+      "summary": "",
+      "date_published": "2026-09-14T00:00:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "9b8807252629fc13",
+      "url": "https://www.wsj.com/world/middle-east/widening-mideast-instability-squeezes-global-oil-supplies-0cd316ad",
+      "title": "Widening Mideast Instability Squeezes Global Oil Supplies",
+      "content_text": "Widening Mideast Instability Squeezes Global Oil Supplies",
+      "summary": "",
+      "date_published": "2026-09-14T00:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "5dcbe912d49cbe58",
+      "url": "https://www.wsj.com/tech/ai/z-ai-plans-5-0-billion-fundraising-to-fuel-ai-expansion-56da16dc",
+      "title": "Z.AI Plans $5.0 Billion Fundraising to Fuel AI Expansion",
+      "content_text": "Z.AI Plans $5.0 Billion Fundraising to Fuel AI Expansion",
+      "summary": "",
+      "date_published": "2026-09-13T23:56:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "b0f9b2ba97546b5d",
+      "url": "https://www.wsj.com/articles/corrections-amplifications-edf34df9",
+      "title": "Corrections & Amplifications",
+      "content_text": "Corrections & Amplifications",
+      "summary": "",
+      "date_published": "2026-09-13T23:47:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "0d69670ee437b4c8",
       "url": "https://www.wsj.com/arts-culture/food-cooking/at-restaurants-phones-are-becoming-the-new-cigarettes-689c6435",
       "title": "At Restaurants, Phones Are Becoming the New Cigarettes",
@@ -2093,116 +2203,6 @@
       "date_published": "2026-09-11T12:51:00+00:00",
       "tags": [
         "Us News"
-      ]
-    },
-    {
-      "id": "64ca8f8a2a02d8a3",
-      "url": "https://www.wsj.com/articles/europe-gas-prices-seen-higher-as-hormuz-disruption-squeezes-lng-supplies-commerzbank-says-302e1a6d",
-      "title": "Europe Gas Prices Seen Higher as Hormuz Disruption Squeezes LNG Supplies, Commerzbank Says",
-      "content_text": "Europe Gas Prices Seen Higher as Hormuz Disruption Squeezes LNG Supplies, Commerzbank Says",
-      "summary": "",
-      "date_published": "2026-09-11T12:49:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "5b96da1ccd675c0a",
-      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/10-year-yield-holds-below-5-after-firm-inflation-data-madJqVDgtbiEd51QWiHY",
-      "title": "10-Year Yield Holds Below 5% After Firm Inflation Data",
-      "content_text": "10-Year Yield Holds Below 5% After Firm Inflation Data",
-      "summary": "",
-      "date_published": "2026-09-11T12:48:18+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "dfa1f561403375d0",
-      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/lettuce-inflation-keeps-wilting-G2G5i3HBVtRq1FWxOtZI",
-      "title": "Lettuce Inflation Keeps Wilting",
-      "content_text": "Lettuce Inflation Keeps Wilting",
-      "summary": "",
-      "date_published": "2026-09-11T12:45:21+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "1d3713fb05e30140",
-      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/how-markets-are-reacting-after-the-cpi-report-in-charts-GyLikTuh1kAsgHvxRoXT",
-      "title": "How Markets Are Reacting After the CPI Report: In Charts",
-      "content_text": "How Markets Are Reacting After the CPI Report: In Charts",
-      "summary": "",
-      "date_published": "2026-09-11T12:44:26+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "342adcf8c282fc7d",
-      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/ZF5LBiAfZdSI5Ektrscx",
-      "title": "Core CPI Firmer Than Expected",
-      "content_text": "Core CPI Firmer Than Expected",
-      "summary": "",
-      "date_published": "2026-09-11T12:43:25+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "3280f28cc658ebb7",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-89b1e704",
-      "title": "Basic Materials Roundup: Market Talk",
-      "content_text": "Basic Materials Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-09-11T12:41:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "8f3c070568677824",
-      "url": "https://www.wsj.com/economy/cpi-inflation-report-august-2026-e2b1e5e7",
-      "title": "Firm Inflation Reading Pushes Fed Closer to a Rate Increase",
-      "content_text": "Firm Inflation Reading Pushes Fed Closer to a Rate Increase",
-      "summary": "",
-      "date_published": "2026-09-11T12:33:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "79f937705ae7c85c",
-      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-a516c8f3",
-      "title": "Financial Services Roundup: Market Talk",
-      "content_text": "Financial Services Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-09-11T12:29:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "595c8ea1068556b2",
-      "url": "https://www.wsj.com/lifestyle/travel/i-flew-first-class-domestic-heres-why-it-wasand-wasntworth-it-0a1f3307",
-      "title": "I Flew First Class Domestic. Here’s Why It Was—and Wasn’t—Worth It.",
-      "content_text": "I Flew First Class Domestic. Here’s Why It Was—and Wasn’t—Worth It.",
-      "summary": "",
-      "date_published": "2026-09-11T12:25:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "3522de5b892fa56a",
-      "url": "https://www.wsj.com/sports/tennis/ben-shelton-frances-tiafoe-us-open-7b0c19c1",
-      "title": "No U.S. Man Has Won the U.S. Open in 23 Years. Can Ben Shelton or Frances Tiafoe Take It?",
-      "content_text": "No U.S. Man Has Won the U.S. Open in 23 Years. Can Ben Shelton or Frances Tiafoe Take It?",
-      "summary": "",
-      "date_published": "2026-09-11T12:10:00+00:00",
-      "tags": [
-        "Sports"
       ]
     }
   ]
