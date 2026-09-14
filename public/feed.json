@@ -6,14 +6,91 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "695ec1b8f3b159b7",
-      "url": "https://www.wsj.com/politics/elections/democrats-have-midterm-momentum-heres-what-risks-tripping-them-up-ed0a0418",
-      "title": "Democrats Have Midterm Momentum. Here’s What Risks Tripping Them Up.",
-      "content_text": "Democrats Have Midterm Momentum. Here’s What Risks Tripping Them Up.",
+      "id": "63b9b114fff0d095",
+      "url": "https://www.wsj.com/health/pharma/astrazeneca-breast-cancer-drug-misses-goal-in-late-stage-trial-14e2ec14",
+      "title": "AstraZeneca Breast-Cancer Drug Misses Goal in Late-Stage Trial",
+      "content_text": "AstraZeneca Breast-Cancer Drug Misses Goal in Late-Stage Trial",
       "summary": "",
-      "date_published": "2026-09-14T01:00:00+00:00",
+      "date_published": "2026-09-14T06:02:00+00:00",
       "tags": [
-        "Politics"
+        "Health"
+      ]
+    },
+    {
+      "id": "5bb03620586cbce9",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-5301cc82",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-09-14T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "3321c7a974ce4297",
+      "url": "https://www.wsj.com/articles/whats-news-business-finance-ab89f3ad",
+      "title": "What’s News: Business & Finance",
+      "content_text": "What’s News: Business & Finance",
+      "summary": "",
+      "date_published": "2026-09-14T03:32:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "3cc09c8912eba564",
+      "url": "https://www.wsj.com/articles/whats-news-worldwide-bd3ba116",
+      "title": "What’s News: Worldwide",
+      "content_text": "What’s News: Worldwide",
+      "summary": "",
+      "date_published": "2026-09-14T03:21:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "5302120213b777bc",
+      "url": "https://www.wsj.com/finance/currencies/singapore-dollar-weakens-amid-escalating-middle-east-conflict-a746d8cc",
+      "title": "Dollar Rises on Fed Rate-Hike Prospects, High Oil Prices",
+      "content_text": "Dollar Rises on Fed Rate-Hike Prospects, High Oil Prices",
+      "summary": "",
+      "date_published": "2026-09-14T03:14:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "d55f99821562f483",
+      "url": "https://www.wsj.com/world/china/justin-sun-jing-tian-bride-fee-5d83b7c5",
+      "title": "Did a Crypto Bro Pay $4.5 Million to Marry a Movie Star? A Scandal Grips China",
+      "content_text": "Did a Crypto Bro Pay $4.5 Million to Marry a Movie Star? A Scandal Grips China",
+      "summary": "",
+      "date_published": "2026-09-14T03:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "b52008872027584c",
+      "url": "https://www.wsj.com/finance/long-term-jgb-yields-higher-on-expectations-for-boj-rate-increases-67eb74d8",
+      "title": "Value Seen in 10-Year German Bund Yield at 3.50%",
+      "content_text": "Value Seen in 10-Year German Bund Yield at 3.50%",
+      "summary": "",
+      "date_published": "2026-09-14T02:47:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "7a6b1df50a71f94b",
+      "url": "https://www.wsj.com/world/russia-is-churning-out-smart-cheap-new-weapons-faster-than-ukraine-or-the-u-s-c817d014",
+      "title": "Russia Is Churning Out Smart, Cheap New Weapons Faster Than Ukraine or the U.S.",
+      "content_text": "Russia Is Churning Out Smart, Cheap New Weapons Faster Than Ukraine or the U.S.",
+      "summary": "",
+      "date_published": "2026-09-14T02:00:00+00:00",
+      "tags": [
+        "World"
       ]
     },
     {
@@ -25,6 +102,17 @@
       "date_published": "2026-09-14T01:00:00+00:00",
       "tags": [
         "Tech"
+      ]
+    },
+    {
+      "id": "695ec1b8f3b159b7",
+      "url": "https://www.wsj.com/politics/elections/democrats-have-midterm-momentum-heres-what-risks-tripping-them-up-ed0a0418",
+      "title": "Democrats Have Midterm Momentum. Here’s What Risks Tripping Them Up.",
+      "content_text": "Democrats Have Midterm Momentum. Here’s What Risks Tripping Them Up.",
+      "summary": "",
+      "date_published": "2026-09-14T01:00:00+00:00",
+      "tags": [
+        "Politics"
       ]
     },
     {
@@ -2115,94 +2203,6 @@
       "date_published": "2026-09-11T13:10:00+00:00",
       "tags": [
         "Cio Journal"
-      ]
-    },
-    {
-      "id": "9781ba622711d97f",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-31ec705a",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "content_text": "Energy & Utilities Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-09-11T13:10:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "fa1b0da3ef6c0da2",
-      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/september-rate-hike-odds-jump-to-87--NQcanhEkVtcDDui8gtHF",
-      "title": "September Rate Hike Odds Jump to 87%",
-      "content_text": "September Rate Hike Odds Jump to 87%",
-      "summary": "",
-      "date_published": "2026-09-11T13:06:27+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "9e40eca1dbf42e4d",
-      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/firm-inflation-reading-pushes-fed-closer-to-first-rate-increase-in-three-years-eVdOpnLPfDZonWiLcSV3",
-      "title": "Firm Inflation Reading Pushes Fed Closer to First Rate Increase in Three Years",
-      "content_text": "Firm Inflation Reading Pushes Fed Closer to First Rate Increase in Three Years",
-      "summary": "",
-      "date_published": "2026-09-11T13:04:56+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "29498f6d62a28a5c",
-      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026/card/gas-prices-are-on-the-rise-GXiRkNzETRUvJwRDHqvp",
-      "title": "Gas Prices Are On the Rise",
-      "content_text": "Gas Prices Are On the Rise",
-      "summary": "",
-      "date_published": "2026-09-11T13:04:27+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "a10d6c5922d9059d",
-      "url": "https://www.wsj.com/personal-finance/how-to-protect-your-nest-egg-when-inflation-is-ballooning-261df84b",
-      "title": "How to Protect Your Nest Egg When Inflation Is Ballooning",
-      "content_text": "How to Protect Your Nest Egg When Inflation Is Ballooning",
-      "summary": "",
-      "date_published": "2026-09-11T13:04:00+00:00",
-      "tags": [
-        "Personal Finance"
-      ]
-    },
-    {
-      "id": "8322b05f26872276",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-1c89359a",
-      "title": "Auto & Transport Roundup: Market Talk",
-      "content_text": "Auto & Transport Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-09-11T13:03:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "5b331f754558f55f",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-4044eee2",
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-09-11T12:51:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "b2a3c912915f835e",
-      "url": "https://www.wsj.com/us-news/a-nation-remembers-25-years-after-9-11-u-s-mourns-a-growing-number-of-victims-5cd810ac",
-      "title": "A Nation Remembers: 25 Years After 9/11, U.S. Mourns a Growing Number of Victims",
-      "content_text": "A Nation Remembers: 25 Years After 9/11, U.S. Mourns a Growing Number of Victims",
-      "summary": "",
-      "date_published": "2026-09-11T12:51:00+00:00",
-      "tags": [
-        "Us News"
       ]
     }
   ]
