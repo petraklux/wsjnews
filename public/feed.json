@@ -6,6 +6,138 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "ffdf001ce95f50f0",
+      "url": "https://www.wsj.com/business/driscolls-berry-farms-china-competition-b0b49f04",
+      "title": "Driscoll’s Gave China Its Blueberries—Then China Swiped the Secret to Growing Them",
+      "content_text": "Driscoll’s Gave China Its Blueberries—Then China Swiped the Secret to Growing Them",
+      "summary": "",
+      "date_published": "2026-09-15T01:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "0dd501600eeedd9d",
+      "url": "https://www.wsj.com/finance/investing/bond-markets-hedge-funds-003c6ea8",
+      "title": "Hedge Funds Are the Wild Card in the Turbulent Bond Market",
+      "content_text": "Hedge Funds Are the Wild Card in the Turbulent Bond Market",
+      "summary": "",
+      "date_published": "2026-09-15T01:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "4b5924a45d974aa6",
+      "url": "https://www.wsj.com/finance/stocks/ai-leaders-are-calling-for-a-slowdown-but-wall-street-keeps-on-buying-7c671903",
+      "title": "AI Leaders Are Calling for a Slowdown, but Wall Street Keeps on Buying",
+      "content_text": "AI Leaders Are Calling for a Slowdown, but Wall Street Keeps on Buying",
+      "summary": "",
+      "date_published": "2026-09-15T01:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "665e5d195c0100a7",
+      "url": "https://www.wsj.com/economy/central-banking/warshs-arrival-ended-trumps-war-with-the-fed-a-rate-hike-would-test-the-truce-8fd9058f",
+      "title": "Warsh’s Arrival Ended Trump’s War With the Fed. A Rate Hike Would Test the Truce.",
+      "content_text": "Warsh’s Arrival Ended Trump’s War With the Fed. A Rate Hike Would Test the Truce.",
+      "summary": "",
+      "date_published": "2026-09-15T01:00:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "5a1069c25a623614",
+      "url": "https://www.wsj.com/finance/currencies/oil-rises-as-stabilizers-in-crude-market-start-to-weaken-5dc85781",
+      "title": "Oil Rises as Stabilizers in Crude Market Start to Weaken",
+      "content_text": "Oil Rises as Stabilizers in Crude Market Start to Weaken",
+      "summary": "",
+      "date_published": "2026-09-15T00:37:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "08a32f6de7417034",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-2-dragged-by-chip-related-stocks-trading-houses-9b2ded96",
+      "title": "Nikkei Falls 0.2%, Dragged by Chip-Related Stocks, Trading Houses",
+      "content_text": "Nikkei Falls 0.2%, Dragged by Chip-Related Stocks, Trading Houses",
+      "summary": "",
+      "date_published": "2026-09-15T00:33:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "9870c756e5f3c454",
+      "url": "https://www.wsj.com/finance/long-term-jgb-yield-rises-amid-concerns-about-higher-energy-prices-7e91225e",
+      "title": "Long-Term JGB Yield Rises Amid Concerns About Higher Energy Prices",
+      "content_text": "Long-Term JGB Yield Rises Amid Concerns About Higher Energy Prices",
+      "summary": "",
+      "date_published": "2026-09-15T00:17:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "13773901951800b7",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-stays-under-pressure-as-oil-heightens-inflation-fears-c6c5e4f4",
+      "title": "Gold Stays Under Pressure as Oil Heightens Inflation Fears",
+      "content_text": "Gold Stays Under Pressure as Oil Heightens Inflation Fears",
+      "summary": "",
+      "date_published": "2026-09-15T00:03:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "c713beeca4c028c5",
+      "url": "https://www.wsj.com/politics/policy/supreme-court-blocks-trumps-new-mail-ballot-requirements-for-midterms-d7e8af3f",
+      "title": "Supreme Court Blocks Trump’s New Mail Ballot Requirements for Midterms",
+      "content_text": "Supreme Court Blocks Trump’s New Mail Ballot Requirements for Midterms",
+      "summary": "",
+      "date_published": "2026-09-14T23:56:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "29d7e65d6ee37433",
+      "url": "https://www.wsj.com/us-news/education/the-school-where-students-do-farmwork-and-choresand-pay-40-000-a-semester-03fae650",
+      "title": "The School Where Students Do Farmwork and Chores—and Pay $40,000 a Semester",
+      "content_text": "The School Where Students Do Farmwork and Chores—and Pay $40,000 a Semester",
+      "summary": "",
+      "date_published": "2026-09-14T23:30:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "1b2ead712af450c4",
+      "url": "https://www.wsj.com/world/middle-east/the-gulfs-ai-nightmare-came-courtesy-of-an-iranian-drone-3f313cb3",
+      "title": "The Gulf’s AI Nightmare Came Courtesy of an Iranian Drone",
+      "content_text": "The Gulf’s AI Nightmare Came Courtesy of an Iranian Drone",
+      "summary": "",
+      "date_published": "2026-09-14T23:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "ffc9e60c05826e08",
+      "url": "https://www.wsj.com/opinion/a-moment-for-trump-56e8f165",
+      "title": "A Moment for Trump",
+      "content_text": "A Moment for Trump",
+      "summary": "",
+      "date_published": "2026-09-14T22:48:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
       "id": "d9f16a07baa330a3",
       "url": "https://www.wsj.com/arts-culture/television/emmys-2026-red-carpet-bc2d0d3a",
       "title": "See the Best Looks from the 2026 Emmys Red Carpet",
@@ -72,10 +204,10 @@
       ]
     },
     {
-      "id": "45c26dc8a546b1de",
-      "url": "https://www.wsj.com/opinion/justice-berkeley-and-the-race-proxies-dda782f9",
-      "title": "Justice, Berkeley and the Race Proxies",
-      "content_text": "Justice, Berkeley and the Race Proxies",
+      "id": "4583fd62ce37bba7",
+      "url": "https://www.wsj.com/opinion/andy-burnham-u-k-tourist-tax-hotels-britain-0f14a34c",
+      "title": "Britain’s Go-Somewhere-Else Tax",
+      "content_text": "Britain’s Go-Somewhere-Else Tax",
       "summary": "",
       "date_published": "2026-09-14T22:00:00+00:00",
       "tags": [
@@ -83,10 +215,10 @@
       ]
     },
     {
-      "id": "4583fd62ce37bba7",
-      "url": "https://www.wsj.com/opinion/andy-burnham-u-k-tourist-tax-hotels-britain-0f14a34c",
-      "title": "Britain’s Go-Somewhere-Else Tax",
-      "content_text": "Britain’s Go-Somewhere-Else Tax",
+      "id": "45c26dc8a546b1de",
+      "url": "https://www.wsj.com/opinion/justice-berkeley-and-the-race-proxies-dda782f9",
+      "title": "Justice, Berkeley and the Race Proxies",
+      "content_text": "Justice, Berkeley and the Race Proxies",
       "summary": "",
       "date_published": "2026-09-14T22:00:00+00:00",
       "tags": [
@@ -182,17 +314,6 @@
       ]
     },
     {
-      "id": "d1916d5a624f1ede",
-      "url": "https://www.wsj.com/finance/investing/wall-street-confronts-prospect-of-new-era-after-treasury-yield-hits-5-e3f05b38",
-      "title": "Wall Street Confronts Prospect of a New Era After Treasury Yield Hits 5%",
-      "content_text": "Wall Street Confronts Prospect of a New Era After Treasury Yield Hits 5%",
-      "summary": "",
-      "date_published": "2026-09-14T21:06:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "04512b593bbd415a",
       "url": "https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030",
       "title": "Oil Executives Say the Great Fuel Crisis Is Here",
@@ -201,6 +322,17 @@
       "date_published": "2026-09-14T21:06:00+00:00",
       "tags": [
         "Business"
+      ]
+    },
+    {
+      "id": "d1916d5a624f1ede",
+      "url": "https://www.wsj.com/finance/investing/wall-street-confronts-prospect-of-new-era-after-treasury-yield-hits-5-e3f05b38",
+      "title": "Wall Street Confronts Prospect of a New Era After Treasury Yield Hits 5%",
+      "content_text": "Wall Street Confronts Prospect of a New Era After Treasury Yield Hits 5%",
+      "summary": "",
+      "date_published": "2026-09-14T21:06:00+00:00",
+      "tags": [
+        "Finance"
       ]
     },
     {
@@ -2071,138 +2203,6 @@
       "date_published": "2026-09-12T19:40:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "279e36e0f2156504",
-      "url": "https://www.wsj.com/business/larry-ellison-scraps-plan-to-sell-up-to-7-5-billion-worth-of-oracle-stock-9f41edd2",
-      "title": "Larry Ellison Scraps Plan to Sell Up to $7.5 Billion Worth of Oracle Stock",
-      "content_text": "Larry Ellison Scraps Plan to Sell Up to $7.5 Billion Worth of Oracle Stock",
-      "summary": "",
-      "date_published": "2026-09-12T17:10:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "8bff46f922904d90",
-      "url": "https://www.wsj.com/world/uk/u-k-s-reform-party-rakes-in-record-97-million-donations-from-crypto-world-18d9f11d",
-      "title": "U.K.’s Reform Party Rakes In Record $97 Million Donations From Crypto World",
-      "content_text": "U.K.’s Reform Party Rakes In Record $97 Million Donations From Crypto World",
-      "summary": "",
-      "date_published": "2026-09-12T17:01:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "ffd33dae47426cbb",
-      "url": "https://www.wsj.com/tech/ai/ai-humanity-skills-f2718d5b",
-      "title": "I Wanted to Be a Better Human. So I Turned to AI.",
-      "content_text": "I Wanted to Be a Better Human. So I Turned to AI.",
-      "summary": "",
-      "date_published": "2026-09-12T17:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "96fa950d97efb599",
-      "url": "https://www.wsj.com/tech/ai/anthropic-boss-warns-ai-industry-must-slow-the-pace-a4267b56",
-      "title": "Anthropic Boss Warns AI Industry Must ‘Slow the Pace’",
-      "content_text": "Anthropic Boss Warns AI Industry Must ‘Slow the Pace’",
-      "summary": "",
-      "date_published": "2026-09-12T16:18:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "e068da750cbc7a53",
-      "url": "https://www.wsj.com/us-news/trump-calls-for-george-washington-statue-exhibit-at-smithsonian-6c184973",
-      "title": "Trump Calls for George Washington Statue, Exhibit at Smithsonian",
-      "content_text": "Trump Calls for George Washington Statue, Exhibit at Smithsonian",
-      "summary": "",
-      "date_published": "2026-09-12T16:02:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "2bc20fd14f7ad9ae",
-      "url": "https://www.wsj.com/style/design/ben-ganz-india-ennenga-home-tour-6a90a937",
-      "title": "It’s a ‘Spaceship.’ It’s a ‘Dentist’s Office.’ It’s Their Home.",
-      "content_text": "It’s a ‘Spaceship.’ It’s a ‘Dentist’s Office.’ It’s Their Home.",
-      "summary": "",
-      "date_published": "2026-09-12T16:00:00+00:00",
-      "tags": [
-        "Style"
-      ]
-    },
-    {
-      "id": "ea774dae925f80ac",
-      "url": "https://www.wsj.com/arts-culture/fine-art/lawsuit-andy-warhol-scheme-3c259951",
-      "title": "A New Lawsuit Alleges an International Andy Warhol Forgery Scheme",
-      "content_text": "A New Lawsuit Alleges an International Andy Warhol Forgery Scheme",
-      "summary": "",
-      "date_published": "2026-09-12T16:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "0c10e43aab94d9e1",
-      "url": "https://www.wsj.com/world/china/chinas-economic-troubles-reach-the-mushroom-hunters-of-shangri-la-ea4cd49d",
-      "title": "China’s Economic Troubles Reach the Mushroom Hunters of Shangri-La",
-      "content_text": "China’s Economic Troubles Reach the Mushroom Hunters of Shangri-La",
-      "summary": "",
-      "date_published": "2026-09-12T15:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "74e862aae5b726b4",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/uncommon-home-features-671656f6",
-      "title": "Urinals, Skinny-Dipping Pools and Other Wild Home Buyers Must-Haves",
-      "content_text": "Urinals, Skinny-Dipping Pools and Other Wild Home Buyers Must-Haves",
-      "summary": "",
-      "date_published": "2026-09-12T14:00:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "bc7ac27f2cd8d73a",
-      "url": "https://www.wsj.com/tech/ai/ai-chatbot-avatar-afterlife-memorial-84a3fe2c",
-      "title": "A Dead Father, Reincarnated With AI: Is This How We Will Remember Loved Ones Now?",
-      "content_text": "A Dead Father, Reincarnated With AI: Is This How We Will Remember Loved Ones Now?",
-      "summary": "",
-      "date_published": "2026-09-12T14:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "8b9dc7a6f742d48d",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/oliver-wendell-holmes-berkshires-home-17061dcc",
-      "title": "Historic Homes: A Berkshires Retreat Built by an American Poet",
-      "content_text": "Historic Homes: A Berkshires Retreat Built by an American Poet",
-      "summary": "",
-      "date_published": "2026-09-12T13:00:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "9237e8a7137334c0",
-      "url": "https://www.wsj.com/arts-culture/film/the-director-creeping-his-way-to-horror-royalty-14428f60",
-      "title": "The Director Creeping His Way to Horror Royalty",
-      "content_text": "The Director Creeping His Way to Horror Royalty",
-      "summary": "",
-      "date_published": "2026-09-12T12:25:00+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]
