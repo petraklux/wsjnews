@@ -6,6 +6,182 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "839717871e9ea97f",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-0236af1d",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-09-16T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "3051abc6790731bd",
+      "url": "https://www.wsj.com/tech/ai/openai-considers-pre-ipo-funding-round-at-more-than-1-2-trillion-valuation-54555295",
+      "title": "OpenAI Considers Pre-IPO Funding Round at More Than $1.2 Trillion Valuation",
+      "content_text": "OpenAI Considers Pre-IPO Funding Round at More Than $1.2 Trillion Valuation",
+      "summary": "",
+      "date_published": "2026-09-16T02:35:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "010b30d9592030e7",
+      "url": "https://www.wsj.com/tech/ai/apple-finally-built-a-smarter-siri-it-still-hasnt-caught-up-in-the-ai-race-2663601e",
+      "title": "Apple Finally Built a Smarter Siri. It Still Hasn’t Caught Up in the AI Race.",
+      "content_text": "Apple Finally Built a Smarter Siri. It Still Hasn’t Caught Up in the AI Race.",
+      "summary": "",
+      "date_published": "2026-09-16T02:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "bfe7aa3dae55d96f",
+      "url": "https://www.wsj.com/politics/national-security/u-s-probes-cyberattacks-on-energy-tankers-bound-for-american-coast-33d92f3a",
+      "title": "U.S. Probes Cyberattacks on Energy Tankers Bound for American Coast",
+      "content_text": "U.S. Probes Cyberattacks on Energy Tankers Bound for American Coast",
+      "summary": "",
+      "date_published": "2026-09-16T01:20:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "777b5a1d86e414ad",
+      "url": "https://www.wsj.com/finance/currencies/fed-guidance-key-to-asian-fx-outlook-511a4410",
+      "title": "Singapore Dollar Weakens Ahead of Fed Rate Decision",
+      "content_text": "Singapore Dollar Weakens Ahead of Fed Rate Decision",
+      "summary": "",
+      "date_published": "2026-09-16T01:15:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "8545e65a49a70074",
+      "url": "https://www.wsj.com/world/uk/elon-musk-uk-politics-9aba87a5",
+      "title": "Elon Musk Trains His Political Chaos Machine on the U.K.",
+      "content_text": "Elon Musk Trains His Political Chaos Machine on the U.K.",
+      "summary": "",
+      "date_published": "2026-09-16T01:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "b5f1b7c6988f3214",
+      "url": "https://www.wsj.com/lifestyle/travel/how-to-press-your-case-when-your-airline-seat-gets-downgraded-ab39d145",
+      "title": "How to Press Your Case When Your Airline Seat Gets Downgraded",
+      "content_text": "How to Press Your Case When Your Airline Seat Gets Downgraded",
+      "summary": "",
+      "date_published": "2026-09-16T01:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "7d00df33dce84988",
+      "url": "https://www.wsj.com/business/energy-oil/americans-have-spent-100-billion-more-on-fuel-during-the-iran-war-377952a1",
+      "title": "Americans Have Spent $100 Billion More on Fuel During the Iran War",
+      "content_text": "Americans Have Spent $100 Billion More on Fuel During the Iran War",
+      "summary": "",
+      "date_published": "2026-09-16T01:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "93f2b22803d28baf",
+      "url": "https://www.wsj.com/world/middle-east/the-u-s-is-burning-through-its-supply-of-interceptors-to-counter-irans-attacks-f42c5ecd",
+      "title": "The U.S. Is Burning Through Its Supply of Interceptors to Counter Iran’s Attacks",
+      "content_text": "The U.S. Is Burning Through Its Supply of Interceptors to Counter Iran’s Attacks",
+      "summary": "",
+      "date_published": "2026-09-16T01:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "f81ce82b5ab0548c",
+      "url": "https://www.wsj.com/finance/jgb-yields-higher-amid-inflation-fears-c3a1bb4e",
+      "title": "JGB Yields Higher Amid Inflation Fears",
+      "content_text": "JGB Yields Higher Amid Inflation Fears",
+      "summary": "",
+      "date_published": "2026-09-16T00:59:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "1c6b0347da66fb10",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-declines-but-remains-elevated-amid-supply-concerns-geopolitical-risks-15e97c33",
+      "title": "Oil Declines But Remains Elevated Amid Supply Concerns, Geopolitical Risks",
+      "content_text": "Oil Declines But Remains Elevated Amid Supply Concerns, Geopolitical Risks",
+      "summary": "",
+      "date_published": "2026-09-16T00:44:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "6b015ee84d376711",
+      "url": "https://www.wsj.com/finance/commodities-futures/rate-hike-views-yields-keep-gold-under-pressure-49c31f66",
+      "title": "Rate-Hike Views, Yields Keep Gold Under Pressure",
+      "content_text": "Rate-Hike Views, Yields Keep Gold Under Pressure",
+      "summary": "",
+      "date_published": "2026-09-16T00:40:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "d6b6f9539214b72a",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-slips-0-2-dragged-by-chip-related-stocks-7a92f368",
+      "title": "Nikkei Slips 0.2%, Dragged by Chip-Related Stocks",
+      "content_text": "Nikkei Slips 0.2%, Dragged by Chip-Related Stocks",
+      "summary": "",
+      "date_published": "2026-09-16T00:37:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "1e6cb687371e1d04",
+      "url": "https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846",
+      "title": "How a Chinese Hacking Firm Tapped AI to Supercharge Cyber-Spying",
+      "content_text": "How a Chinese Hacking Firm Tapped AI to Supercharge Cyber-Spying",
+      "summary": "",
+      "date_published": "2026-09-16T00:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "1767e6284a4a489c",
+      "url": "https://www.wsj.com/world/uk/this-english-village-is-threatening-to-quit-the-u-k-over-planned-asylum-camp-cd0d7610",
+      "title": "This English Village Is Threatening to Quit the U.K. Over Planned Asylum Camp",
+      "content_text": "This English Village Is Threatening to Quit the U.K. Over Planned Asylum Camp",
+      "summary": "",
+      "date_published": "2026-09-16T00:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "7d8e71bc40aa134c",
+      "url": "https://www.wsj.com/business/deals/brookfield-agrees-to-2-9-billion-acquisition-of-australias-reliance-ec8240d7",
+      "title": "Brookfield Agrees to $2.9 Billion Acquisition of Australia’s Reliance",
+      "content_text": "Brookfield Agrees to $2.9 Billion Acquisition of Australia’s Reliance",
+      "summary": "",
+      "date_published": "2026-09-15T23:55:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "4c61a28f43d44468",
       "url": "https://www.wsj.com/business/american-businesses-have-no-idea-how-to-set-prices-right-now-061274e0",
       "title": "American Businesses Have No Idea How to Set Prices Right Now",
@@ -83,10 +259,10 @@
       ]
     },
     {
-      "id": "ab6399826154cdb8",
-      "url": "https://www.wsj.com/opinion/supreme-court-mail-ballots-election-donald-trump-usps-brett-kavanaugh-285ba413",
-      "title": "So the Election Won’t Be Stolen, Then?",
-      "content_text": "So the Election Won’t Be Stolen, Then?",
+      "id": "0835a3e1d2ac846b",
+      "url": "https://www.wsj.com/opinion/houthis-middle-east-bab-al-mandab-saudi-arabia-oil-3944cb9c",
+      "title": "Who Will Stop the Houthis?",
+      "content_text": "Who Will Stop the Houthis?",
       "summary": "",
       "date_published": "2026-09-15T21:37:00+00:00",
       "tags": [
@@ -94,10 +270,10 @@
       ]
     },
     {
-      "id": "0835a3e1d2ac846b",
-      "url": "https://www.wsj.com/opinion/houthis-middle-east-bab-al-mandab-saudi-arabia-oil-3944cb9c",
-      "title": "Who Will Stop the Houthis?",
-      "content_text": "Who Will Stop the Houthis?",
+      "id": "ab6399826154cdb8",
+      "url": "https://www.wsj.com/opinion/supreme-court-mail-ballots-election-donald-trump-usps-brett-kavanaugh-285ba413",
+      "title": "So the Election Won’t Be Stolen, Then?",
+      "content_text": "So the Election Won’t Be Stolen, Then?",
       "summary": "",
       "date_published": "2026-09-15T21:37:00+00:00",
       "tags": [
@@ -2027,182 +2203,6 @@
       "date_published": "2026-09-14T18:31:00+00:00",
       "tags": [
         "Tech"
-      ]
-    },
-    {
-      "id": "cf6d0fe46bbfcaf2",
-      "url": "https://www.wsj.com/us-news/law/abbott-agrees-to-385-million-settlement-in-baby-formula-case-ba082608",
-      "title": "Abbott Agrees to $385 Million Settlement in Baby Formula Case",
-      "content_text": "Abbott Agrees to $385 Million Settlement in Baby Formula Case",
-      "summary": "",
-      "date_published": "2026-09-14T17:46:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "f0e2fcb3fdd3f430",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/nasdaq-recovers-but-industrial-stocks-are-still-struggling-wD171wDdrnMOF98iKMMQ",
-      "title": "Nasdaq Recovers, but Industrial Stocks Are Still Struggling",
-      "content_text": "Nasdaq Recovers, but Industrial Stocks Are Still Struggling",
-      "summary": "",
-      "date_published": "2026-09-14T17:41:06+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "b705b696208800e1",
-      "url": "https://www.wsj.com/us-news/education/new-york-city-council-members-call-for-ban-on-youtube-in-schools-322c3c79",
-      "title": "New York City Council Members Call for Ban on YouTube in Schools",
-      "content_text": "New York City Council Members Call for Ban on YouTube in Schools",
-      "summary": "",
-      "date_published": "2026-09-14T17:32:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "d87ef9219a76a2b0",
-      "url": "https://www.wsj.com/style/host-gift-etiquette-ideas-e7a2ff31",
-      "title": "How to Give Host Gifts That People Will Want",
-      "content_text": "How to Give Host Gifts That People Will Want",
-      "summary": "",
-      "date_published": "2026-09-14T17:14:00+00:00",
-      "tags": [
-        "Style"
-      ]
-    },
-    {
-      "id": "ea60a4badb6cdd0e",
-      "url": "https://www.wsj.com/tech/personal-tech/ios27-new-siri-sept-14-85416093",
-      "title": "iOS 27 Is Here. It’s Time to Meet the New, Improved Siri.",
-      "content_text": "iOS 27 Is Here. It’s Time to Meet the New, Improved Siri.",
-      "summary": "",
-      "date_published": "2026-09-14T17:11:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "3dc5c5e659804752",
-      "url": "https://www.wsj.com/opinion/port-huron-and-todays-socialism-a683aaa6",
-      "title": "Port Huron and Today’s Socialism",
-      "content_text": "Port Huron and Today’s Socialism",
-      "summary": "",
-      "date_published": "2026-09-14T16:43:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "e68569377aad697e",
-      "url": "https://www.wsj.com/opinion/ai-promises-boom-doom-and-both-at-once-ef903ff5",
-      "title": "AI Promises Boom, Doom and Both at Once",
-      "content_text": "AI Promises Boom, Doom and Both at Once",
-      "summary": "",
-      "date_published": "2026-09-14T16:43:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "0d813c8140750a50",
-      "url": "https://www.wsj.com/business/media/amazon-netflix-youtube-form-coalition-to-advocate-for-consumer-choice-in-online-content-37451aaf",
-      "title": "Amazon, Netflix, YouTube Form Coalition to Advocate for Consumer Choice in Online Content",
-      "content_text": "Amazon, Netflix, YouTube Form Coalition to Advocate for Consumer Choice in Online Content",
-      "summary": "",
-      "date_published": "2026-09-14T16:41:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "2d43634a9d85a189",
-      "url": "https://www.wsj.com/world/russia/russian-businessman-financed-donald-trump-jr-s-wedding-celebrations-fe993af8",
-      "title": "Russian Businessman Financed Donald Trump Jr.’s Wedding Celebrations",
-      "content_text": "Russian Businessman Financed Donald Trump Jr.’s Wedding Celebrations",
-      "summary": "",
-      "date_published": "2026-09-14T16:37:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "dcb099cc1d920927",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/-money-quote-trump-downplays-ai-concerns-a5GN20Rf4TXtwXsQc4k6",
-      "title": "💬 Money Quote: Trump Downplays AI Concerns",
-      "content_text": "💬 Money Quote: Trump Downplays AI Concerns",
-      "summary": "",
-      "date_published": "2026-09-14T16:30:03+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "ce518334d35bb6d1",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/what-s-moving-markets-today--F5KduEFsg0FDPVDS48wn",
-      "title": "What’s Moving Markets Today?",
-      "content_text": "What’s Moving Markets Today?",
-      "summary": "",
-      "date_published": "2026-09-14T16:12:10+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "035cac363a0adae9",
-      "url": "https://www.wsj.com/tech/ai/china-also-thinks-ai-could-kill-us-but-first-it-wants-to-match-the-u-s-5ab6ba31",
-      "title": "China Also Thinks AI Could Kill Us. But First, It Wants to Match the U.S.",
-      "content_text": "China Also Thinks AI Could Kill Us. But First, It Wants to Match the U.S.",
-      "summary": "",
-      "date_published": "2026-09-14T16:08:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "9123fa8f94be9740",
-      "url": "https://www.wsj.com/business/retail/they-built-the-worlds-biggest-fast-food-chain-with-the-dollar-general-playbook-29bbe743",
-      "title": "They Built the World’s Biggest Fast-Food Chain With the Dollar General Playbook",
-      "content_text": "They Built the World’s Biggest Fast-Food Chain With the Dollar General Playbook",
-      "summary": "",
-      "date_published": "2026-09-14T15:59:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "c46986ac5a2713af",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/bond-rout-could-provide-opportunity-for-investors-60zisZTvPu8JttHdj8MM",
-      "title": "Bond Rout Could Provide Opportunity for Investors",
-      "content_text": "Bond Rout Could Provide Opportunity for Investors",
-      "summary": "",
-      "date_published": "2026-09-14T15:50:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "e6e210519d9795c6",
-      "url": "https://www.wsj.com/arts-culture/books/five-best-books-on-the-vikings-0bae118e",
-      "title": "Five Best Books on the Vikings",
-      "content_text": "Five Best Books on the Vikings",
-      "summary": "",
-      "date_published": "2026-09-14T15:43:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "516539e34b4b0eda",
-      "url": "https://www.wsj.com/us-news/law/mamdani-sues-trump-administration-over-new-immigration-rule-8ab66b4f",
-      "title": "Mamdani Sues Trump Administration Over New Immigration Rule",
-      "content_text": "Mamdani Sues Trump Administration Over New Immigration Rule",
-      "summary": "",
-      "date_published": "2026-09-14T15:26:00+00:00",
-      "tags": [
-        "Us News"
       ]
     }
   ]
