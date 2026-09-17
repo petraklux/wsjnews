@@ -1,31 +1,5 @@
 {
   "items": {
-    "0038b06dd019061e": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "0038b06dd019061e",
-      "published": "2026-09-15T21:00:19+00:00",
-      "section": "News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Elizabeth anne bernstein",
-      "title": "Elizabeth anne bernstein",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein"
-    },
-    "005c71ee4354b672": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "005c71ee4354b672",
-      "published": "2026-09-15T20:21:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "U.S. Stocks Down as Oil, Yield Shock Continues",
-      "title": "U.S. Stocks Down as Oil, Yield Shock Continues",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-down-as-oil-yield-shock-continues-866478de"
-    },
     "00f4e4dff8626d47": {
       "dek": "",
       "first_seen": "2026-09-16T22:03:46.286824+00:00",
@@ -156,6 +130,32 @@
       "title": "Papa John’s on a Quality Quest as its Shares Stall",
       "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/papa-john-s-on-a-quality-quest-as-its-shares-stall-nBtQ5Vw8WJ9QHEbqDSgN"
     },
+    "0dab86b797a7c686": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "0dab86b797a7c686",
+      "published": "2026-09-16T19:07:52+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Fed Officials See More Rate Hikes",
+      "title": "Fed Officials See More Rate Hikes",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/fed-officials-see-more-rate-hikes-FLJkJ873cVW9aO3sfV3Q"
+    },
+    "0fd4f8abf67f4394": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "0fd4f8abf67f4394",
+      "published": "2026-09-16T22:11:27+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Fuel Price Surge Prompts Airlines to Cut Flights—and Keep Fares High",
+      "title": "Fuel Price Surge Prompts Airlines to Cut Flights—and Keep Fares High",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/fuel-price-surge-prompts-airlines-to-cut-flights-and-keep-fares-high-5jEV3PsAs9ZMcC5RkZrm"
+    },
     "104fe5795365baef": {
       "dek": "",
       "first_seen": "2026-09-16T14:50:30.063250+00:00",
@@ -195,19 +195,6 @@
       "title": "When Are the Next Fed Meetings? See the Calendar",
       "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/when-are-the-next-fed-meetings-see-the-calendar-UZ4gA9mmEpHFDC05WMtf"
     },
-    "12d2c76a2f98eb80": {
-      "dek": "",
-      "first_seen": "2026-09-16T09:51:06.920148+00:00",
-      "guid": "12d2c76a2f98eb80",
-      "published": "2026-09-15T19:48:37+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Fed Meeting Today: Markets Steady as Investors Await Warsh Rate Decision",
-      "title": "Fed Meeting Today: Markets Steady as Investors Await Warsh Rate Decision",
-      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026"
-    },
     "13180a5d190f5c38": {
       "dek": "",
       "first_seen": "2026-09-16T09:51:06.920148+00:00",
@@ -233,19 +220,6 @@
       "summary": "The U.S. Isn’t Ready to Help Workers Through the AI Disruption",
       "title": "The U.S. Isn’t Ready to Help Workers Through the AI Disruption",
       "url": "https://www.wsj.com/opinion/the-u-s-isnt-ready-to-help-workers-through-the-ai-disruption-ea21ed9d"
-    },
-    "143f86e7b600f758": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "143f86e7b600f758",
-      "published": "2026-09-15T20:54:36+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Two Former Robinhood Employees Charged with Fraud",
-      "title": "Two Former Robinhood Employees Charged with Fraud",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026/card/two-former-robinhood-employees-charged-with-fraud-gMgpTdqIxxoCfD6nVgS3"
     },
     "14e90e5b6debb52e": {
       "dek": "",
@@ -377,6 +351,32 @@
       "title": "Inside OpenAI’s Ad Rush",
       "url": "https://www.wsj.com/business/media/inside-openais-ad-rush-41c92de2"
     },
+    "247a10bdfbf80526": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "247a10bdfbf80526",
+      "published": "2026-09-16T19:26:39+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Traders Raise Odds of Additional Rate Hikes by Year-End",
+      "title": "Traders Raise Odds of Additional Rate Hikes by Year-End",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/traders-raise-odds-of-additional-rate-hikes-by-year-end-Tx280fvLvh5Q6Uk9PUuy"
+    },
+    "24e8e78688fffc71": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "24e8e78688fffc71",
+      "published": "2026-09-16T19:17:10+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Fed’s Warsh Says Interest Rates Aren’t Holding Economy Back",
+      "title": "Fed’s Warsh Says Interest Rates Aren’t Holding Economy Back",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/fed-s-warsh-says-interest-rates-aren-t-holding-economy-back-nXqzzqNkMdWmLQNFVBxi"
+    },
     "253dd0dcf72512da": {
       "dek": "",
       "first_seen": "2026-09-16T22:03:46.286824+00:00",
@@ -429,44 +429,31 @@
       "title": "How Today’s Rate Hike Hits Credit-Card Debt, Savings Accounts",
       "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/how-today-s-rate-hike-hits-credit-card-debt-home-loans-savings-accounts-7YWSBnfOJKChDHHlB3JR"
     },
-    "2cd249e279b8e941": {
+    "2c14f8782869c44d": {
       "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "2cd249e279b8e941",
-      "published": "2026-09-15T20:19:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Oil Prices Climb Higher",
-      "title": "Oil Prices Climb Higher",
-      "url": "https://www.wsj.com/finance/investing/oil-prices-climb-higher-686a19f2"
-    },
-    "2eee4073b793e124": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "2eee4073b793e124",
-      "published": "2026-09-15T19:53:05+00:00",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "2c14f8782869c44d",
+      "published": "2026-09-16T18:59:37+00:00",
       "section": "Front Page",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Bessent Unplugged: Notable Quotes From the Treasury Secretary Today",
-      "title": "Bessent Unplugged: Notable Quotes From the Treasury Secretary Today",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026/card/bessent-unplugged-notable-quotes-from-the-treasury-secretary-today-V7SXzV3502F4F7lVPYpR"
+      "summary": "Warsh: Fed Independence Is a Two-Way Street",
+      "title": "Warsh: Fed Independence Is a Two-Way Street",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/warsh-fed-independence-is-a-two-way-street-W2xo4H4UJ1PizPdblpvs"
     },
-    "2f8e396ceba2f4c4": {
+    "2c4ca88605108ae1": {
       "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "2f8e396ceba2f4c4",
-      "published": "2026-09-15T19:15:03+00:00",
-      "section": "Front Page",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "2c4ca88605108ae1",
+      "published": "2026-09-16T22:50:00+00:00",
+      "section": "Politics",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Spencer Jakab | Investors Should Root for a Rate Increase—Really",
-      "title": "Spencer Jakab | Investors Should Root for a Rate Increase—Really",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026/card/spencer-jakab-investors-should-root-for-a-rate-increase-really-o6XSwZfUSuDeESNzaCHQ"
+      "summary": "House Passes Bill Aimed at Punishing Top Importers of Russian Oil and Gas",
+      "title": "House Passes Bill Aimed at Punishing Top Importers of Russian Oil and Gas",
+      "url": "https://www.wsj.com/politics/policy/house-passes-measure-aimed-at-punishing-top-importers-of-russian-oil-and-gas-90146939"
     },
     "3051abc6790731bd": {
       "dek": "",
@@ -493,19 +480,6 @@
       "summary": "Humans Are to Blame for AI Failures",
       "title": "Humans Are to Blame for AI Failures",
       "url": "https://www.wsj.com/opinion/humans-are-to-blame-for-ai-failures-9e0b147d"
-    },
-    "3259beab062c07f4": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "3259beab062c07f4",
-      "published": "2026-09-15T18:09:00+00:00",
-      "section": "Politics",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Iran War’s Price Tag, Pegged at $38 Billion, Is Growing as Much as $3 Billion a Month",
-      "title": "Iran War’s Price Tag, Pegged at $38 Billion, Is Growing as Much as $3 Billion a Month",
-      "url": "https://www.wsj.com/politics/national-security/congressional-watchdog-puts-war-costs-at-38-billion-estimates-5-years-to-replace-interceptors-c7d85678"
     },
     "3356e131618f2c76": {
       "dek": "",
@@ -545,6 +519,19 @@
       "summary": "An AI Slowdown Has To Happen Regardless of Safety",
       "title": "An AI Slowdown Has To Happen Regardless of Safety",
       "url": "https://www.wsj.com/finance/stocks/an-ai-slowdown-has-to-happen-regardless-of-safety-69d6675d"
+    },
+    "36060cde46501892": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "36060cde46501892",
+      "published": "2026-09-16T19:00:39+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Warsh Partly Blames AI Spending for Higher Long-Term Rates",
+      "title": "Warsh Partly Blames AI Spending for Higher Long-Term Rates",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/warsh-partly-blames-ai-spending-for-higher-long-term-rates-FiFZsBsLVrI6tCj6YWjD"
     },
     "36e60bb52d20f480": {
       "dek": "",
@@ -702,32 +689,6 @@
       "title": "Lysol and Mucinex Maker Reckitt Expands U.S. Manufacturing",
       "url": "https://www.wsj.com/logistics-report/lysol-and-mucinex-maker-reckitt-expands-u-s-manufacturing-01f37df3"
     },
-    "441c836725f44ab9": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "441c836725f44ab9",
-      "published": "2026-09-15T17:41:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Vera Bradley CEO Says Turnaround Is Bearing Fruit",
-      "title": "Vera Bradley CEO Says Turnaround Is Bearing Fruit",
-      "url": "https://www.wsj.com/business/retail/vera-bradley-ceo-says-turnaround-is-bearing-fruit-9182f1fe"
-    },
-    "445fdd25791ec014": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "445fdd25791ec014",
-      "published": "2026-09-15T18:00:00+00:00",
-      "section": "World",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Russia’s Shadow Fleet Is Sailing in NATO’s Blind Spot: Irish Waters",
-      "title": "Russia’s Shadow Fleet Is Sailing in NATO’s Blind Spot: Irish Waters",
-      "url": "https://www.wsj.com/world/europe/russias-shadow-fleet-is-sailing-in-natos-blind-spot-irish-waters-4a560ee2"
-    },
     "455dafab20836ef8": {
       "dek": "",
       "first_seen": "2026-09-16T09:51:06.920148+00:00",
@@ -740,19 +701,6 @@
       "summary": "The Volatile Finances of Airline Pilots, America’s Unpredictable Millionaires",
       "title": "The Volatile Finances of Airline Pilots, America’s Unpredictable Millionaires",
       "url": "https://www.wsj.com/personal-finance/the-volatile-finances-of-airline-pilots-americas-unpredictable-millionaires-cd403364"
-    },
-    "489dea0d865ae153": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "489dea0d865ae153",
-      "published": "2026-09-15T20:14:00+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Privatize the Smithsonian",
-      "title": "Privatize the Smithsonian",
-      "url": "https://www.wsj.com/arts-culture/fine-art/privatize-the-smithsonian-b0b48606"
     },
     "48bebf4c4d348fdb": {
       "dek": "",
@@ -767,18 +715,18 @@
       "title": "The Kennedy Center Is Closing. Its Renovation Is Now in Limbo.",
       "url": "https://www.wsj.com/politics/policy/the-kennedy-center-is-closing-its-renovation-is-now-in-limbo-93af3a80"
     },
-    "4a6ad46997db21ad": {
+    "49ec592926ee884f": {
       "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "4a6ad46997db21ad",
-      "published": "2026-09-15T20:18:00+00:00",
-      "section": "Politics",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "49ec592926ee884f",
+      "published": "2026-09-16T19:03:56+00:00",
+      "section": "Front Page",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Steve Bannon and Bernie Sanders Don’t Agree on Much. They Agree AI Could Kill Us All.",
-      "title": "Steve Bannon and Bernie Sanders Don’t Agree on Much. They Agree AI Could Kill Us All.",
-      "url": "https://www.wsj.com/politics/bernie-sanders-steve-bannon-ai-d053e269"
+      "summary": "Warsh Press Conference Ends Quickly",
+      "title": "Warsh Press Conference Ends Quickly",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/warsh-press-conference-ends-quickly-B4IzWnUqd5zjbmUyT86R"
     },
     "4a724a73447f4493": {
       "dek": "",
@@ -818,6 +766,19 @@
       "summary": "American Businesses Have No Idea How to Set Prices Right Now",
       "title": "American Businesses Have No Idea How to Set Prices Right Now",
       "url": "https://www.wsj.com/business/american-businesses-have-no-idea-how-to-set-prices-right-now-061274e0"
+    },
+    "4c72b785146a5474": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "4c72b785146a5474",
+      "published": "2026-09-16T22:21:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Mark Zuckerberg Offers an AI Dissent",
+      "title": "Mark Zuckerberg Offers an AI Dissent",
+      "url": "https://www.wsj.com/opinion/mark-zuckerberg-ai-tech-companies-556e6166"
     },
     "4c8d823bec047e51": {
       "dek": "",
@@ -871,18 +832,31 @@
       "title": "Oil Pares Recent Gains After Fed Interest-Rate Move",
       "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/oil-pares-recent-gains-after-fed-interest-rate-move-krSM3iecTbFBro8ZgEfJ"
     },
-    "55b82e86e3989bdb": {
+    "4f372ffe339bdacd": {
       "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "55b82e86e3989bdb",
-      "published": "2026-09-15T19:50:00+00:00",
-      "section": "Politics",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "4f372ffe339bdacd",
+      "published": "2026-09-16T18:52:00+00:00",
+      "section": "Front Page",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Trump’s Frustration With His Own Supreme Court Appointees Boils Over",
-      "title": "Trump’s Frustration With His Own Supreme Court Appointees Boils Over",
-      "url": "https://www.wsj.com/politics/policy/trumps-frustration-with-his-own-supreme-court-appointees-boils-over-39d7ff71"
+      "summary": "Warsh Points to Economic Strength, Geopolitics, Inflation in Justifying Rate Hike",
+      "title": "Warsh Points to Economic Strength, Geopolitics, Inflation in Justifying Rate Hike",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/warsh-points-to-economic-strength-geopolitics-inflation-in-justifying-rate-hike-8xWLStkmWwze06hrqn35"
+    },
+    "50fba2081241c1e2": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "50fba2081241c1e2",
+      "published": "2026-09-16T19:05:58+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Dow Drops 700 Points After Warsh Signals Inflation Is Still Too Hot",
+      "title": "Dow Drops 700 Points After Warsh Signals Inflation Is Still Too Hot",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/dow-drops-500-points-after-warsh-signals-inflation-is-still-too-hot-HT2lMp0MgC5tw8onyZEC"
     },
     "55edaef660128b73": {
       "dek": "",
@@ -962,19 +936,6 @@
       "title": "The SAT Didn’t Create the Education Gap",
       "url": "https://www.wsj.com/opinion/the-sat-didnt-create-the-education-gap-2fa1f6d1"
     },
-    "5a885d497fa8a917": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "5a885d497fa8a917",
-      "published": "2026-09-15T21:00:19+00:00",
-      "section": "News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The saturday interview",
-      "title": "The saturday interview",
-      "url": "https://www.wsj.com/news/types/the-saturday-interview"
-    },
     "5ba9f86ddcf2edc1": {
       "dek": "",
       "first_seen": "2026-09-16T22:03:46.286824+00:00",
@@ -987,19 +948,6 @@
       "summary": "Oil Heiress’s $1.9 Billion Stock Sale Sinks Diamondback Shares",
       "title": "Oil Heiress’s $1.9 Billion Stock Sale Sinks Diamondback Shares",
       "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/oil-heiress-s-1-9-billion-stock-sale-sinks-diamondback-shares-bVA2RW6NHvd8S99uNhF7"
-    },
-    "5bde10fa9f9b2a36": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "5bde10fa9f9b2a36",
-      "published": "2026-09-15T21:00:19+00:00",
-      "section": "News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Kimberley a strassel",
-      "title": "Kimberley a strassel",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel"
     },
     "5c7afd8a5789fd42": {
       "dek": "",
@@ -1014,19 +962,6 @@
       "title": "Let Others Eat Cake",
       "url": "https://www.wsj.com/opinion/let-others-eat-cake-c352917b"
     },
-    "5d9128f4a8a5c476": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "5d9128f4a8a5c476",
-      "published": "2026-09-15T17:58:21+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Surging Oil Prices Singe GE Aerospace",
-      "title": "Surging Oil Prices Singe GE Aerospace",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026/card/surging-oil-prices-singe-ge-aerospace-lMlfR7Aab53uw3Mcrs9p"
-    },
     "5d96eb651c238f0e": {
       "dek": "",
       "first_seen": "2026-09-16T22:03:46.286824+00:00",
@@ -1039,6 +974,19 @@
       "summary": "Lennar Cuts Deliveries Target Again on Rate Pressure, Housing Market Conditions",
       "title": "Lennar Cuts Deliveries Target Again on Rate Pressure, Housing Market Conditions",
       "url": "https://www.wsj.com/business/earnings/lennar-cuts-deliveries-target-again-on-rate-pressure-housing-market-conditions-363012dd"
+    },
+    "5f038d80f99d2d2d": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "5f038d80f99d2d2d",
+      "published": "2026-09-16T18:52:59+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "A Rapid-Fire Press Conference From the Fed Chair",
+      "title": "A Rapid-Fire Press Conference From the Fed Chair",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/a-rapid-fire-press-conference-from-the-fed-chair-sQqJffaiXbsJ2bqZkddx"
     },
     "6036f6002f9cd9ba": {
       "dek": "",
@@ -1079,31 +1027,31 @@
       "title": "Forget the AI Apocalypse—the Real Threats Are Already Here",
       "url": "https://www.wsj.com/tech/ai/ai-apocalypse-dangers-already-here-f3cd57de"
     },
-    "64a481665ad94caa": {
+    "62730d8bd0239202": {
       "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "64a481665ad94caa",
-      "published": "2026-09-15T20:32:00+00:00",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "62730d8bd0239202",
+      "published": "2026-09-16T23:22:00+00:00",
       "section": "Arts Culture",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "‘Neagley’ Review: A ‘Reacher’ Spinoff’s Solid Grasp",
-      "title": "‘Neagley’ Review: A ‘Reacher’ Spinoff’s Solid Grasp",
-      "url": "https://www.wsj.com/arts-culture/television/neagley-review-a-reacher-spinoffs-solid-grasp-31e75822"
+      "summary": "The 40-Minute Phone Call That Left Ed Sheeran’s Tour Hanging by a Thread",
+      "title": "The 40-Minute Phone Call That Left Ed Sheeran’s Tour Hanging by a Thread",
+      "url": "https://www.wsj.com/arts-culture/music/the-40-minute-phone-call-that-left-ed-sheerans-tour-hanging-by-a-thread-99e07984"
     },
-    "655b3ea9f78ff9b2": {
+    "631919f85eec06bd": {
       "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "655b3ea9f78ff9b2",
-      "published": "2026-09-15T20:14:00+00:00",
-      "section": "Politics",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "631919f85eec06bd",
+      "published": "2026-09-16T19:31:32+00:00",
+      "section": "Front Page",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Pentagon Wants Only the Fittest Troops to Attend Upcoming Hegseth Speech",
-      "title": "Pentagon Wants Only the Fittest Troops to Attend Upcoming Hegseth Speech",
-      "url": "https://www.wsj.com/politics/national-security/pentagon-seeks-fit-troops-for-upcoming-hegseth-speech-45626103"
+      "summary": "White House Calls Rate Increase ‘Rather Unfortunate’",
+      "title": "White House Calls Rate Increase ‘Rather Unfortunate’",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/white-house-calls-rate-increase-rather-unfortunate--XmYSEiyZlYiGRWDinPeD"
     },
     "656afde0c205def4": {
       "dek": "",
@@ -1157,19 +1105,6 @@
       "title": "Harold Hamm’s Continental Resources Signs Preliminary Oil Deal in Venezuela",
       "url": "https://www.wsj.com/business/energy-oil/harold-hamms-continental-resources-signs-preliminary-oil-deal-in-venezuela-ff46cfd3"
     },
-    "67a229f9726f9141": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "67a229f9726f9141",
-      "published": "2026-09-15T21:00:19+00:00",
-      "section": "News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Real estate commercial",
-      "title": "Real estate commercial",
-      "url": "https://www.wsj.com/news/markets/real-estate-commercial"
-    },
     "684ffe952e1c335c": {
       "dek": "",
       "first_seen": "2026-09-16T18:50:17.858473+00:00",
@@ -1208,19 +1143,6 @@
       "summary": "Some Analysts See Good News for Bonds",
       "title": "Some Analysts See Good News for Bonds",
       "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/some-analysts-see-good-news-for-bonds-6mtFGhJGsTRcP7BRXBJz"
-    },
-    "6cf8b3cf7c4b5fd3": {
-      "dek": "",
-      "first_seen": "2026-09-15T17:38:31.954381+00:00",
-      "guid": "6cf8b3cf7c4b5fd3",
-      "published": "2026-09-15T17:30:19+00:00",
-      "section": "News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Cultural conversation",
-      "title": "Cultural conversation",
-      "url": "https://www.wsj.com/news/types/cultural-conversation"
     },
     "6e68771066eb6204": {
       "dek": "",
@@ -1261,19 +1183,6 @@
       "title": "Solid Economic Data Show U.S. Economy Running Hot Ahead of Fed Decision",
       "url": "https://www.wsj.com/economy/central-banking/solid-economic-data-show-u-s-economy-running-hot-ahead-of-fed-decision-6b10c235"
     },
-    "6fb9c85b1cd639d2": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "6fb9c85b1cd639d2",
-      "published": "2026-09-15T17:42:00+00:00",
-      "section": "Politics",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Republicans Aren’t Sold on Trump’s $5,000 Payments",
-      "title": "Republicans Aren’t Sold on Trump’s $5,000 Payments",
-      "url": "https://www.wsj.com/politics/policy/republicans-arent-sold-on-trumps-5-000-payments-2cbf1182"
-    },
     "70412f8a4dba6e6e": {
       "dek": "",
       "first_seen": "2026-09-15T23:39:19.401253+00:00",
@@ -1286,6 +1195,19 @@
       "summary": "Purging the AI Nuttiness",
       "title": "Purging the AI Nuttiness",
       "url": "https://www.wsj.com/opinion/purging-the-ai-nuttiness-f284e501"
+    },
+    "71c46fcdb99fd7bb": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "71c46fcdb99fd7bb",
+      "published": "2026-09-16T19:31:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "White House Chief of Staff Susie Wiles Says She Is Cancer-Free",
+      "title": "White House Chief of Staff Susie Wiles Says She Is Cancer-Free",
+      "url": "https://www.wsj.com/politics/policy/white-house-chief-of-staff-susie-wiles-says-she-is-cancer-free-88cb7a59"
     },
     "7222ad6ecb361916": {
       "dek": "",
@@ -1352,19 +1274,6 @@
       "title": "Singapore Dollar Weakens Ahead of Fed Rate Decision",
       "url": "https://www.wsj.com/finance/currencies/fed-guidance-key-to-asian-fx-outlook-511a4410"
     },
-    "77991ef4a05fce00": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "77991ef4a05fce00",
-      "published": "2026-09-15T19:29:00+00:00",
-      "section": "Us News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Fourth Measles-Related Death Reported in Pennsylvania",
-      "title": "Fourth Measles-Related Death Reported in Pennsylvania",
-      "url": "https://www.wsj.com/us-news/fourth-measles-related-death-reported-in-pennsylvania-2ab55b17"
-    },
     "77d9325f23ee7f01": {
       "dek": "",
       "first_seen": "2026-09-16T09:51:06.920148+00:00",
@@ -1377,6 +1286,19 @@
       "summary": "Mistral Aims to Grow AI Consumer Base Through Mozilla Partnership",
       "title": "Mistral Aims to Grow AI Consumer Base Through Mozilla Partnership",
       "url": "https://www.wsj.com/tech/ai/mistral-aims-to-grow-ai-consumer-base-through-mozilla-partnership-10038e0d"
+    },
+    "7840df11c5f12bac": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "7840df11c5f12bac",
+      "published": "2026-09-16T19:17:23+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Warsh’s ‘Hawkish Tone’ Sends Stocks, Bonds Lower",
+      "title": "Warsh’s ‘Hawkish Tone’ Sends Stocks, Bonds Lower",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/warsh-s-hawkish-tone-sends-stocks-bond-yields-lower-Iia3X7cEkZIaFSihUhwJ"
     },
     "7aef42dbbc1cc980": {
       "dek": "",
@@ -1443,6 +1365,19 @@
       "title": "Trump Administration Plans One of Largest U.S. Sales of Heavy Bombs to Israel",
       "url": "https://www.wsj.com/world/middle-east/trump-administration-plans-one-of-largest-u-s-sales-of-heavy-bombs-to-israel-545fccb8"
     },
+    "7edb4c1b3acfcc8a": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "7edb4c1b3acfcc8a",
+      "published": "2026-09-17T00:00:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Mary anastasia ogrady",
+      "title": "Mary anastasia ogrady",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady"
+    },
     "805be7987664c3c6": {
       "dek": "",
       "first_seen": "2026-09-16T18:50:17.858473+00:00",
@@ -1455,19 +1390,6 @@
       "summary": "An AI Antitrust Exemption Would Invite Collusion",
       "title": "An AI Antitrust Exemption Would Invite Collusion",
       "url": "https://www.wsj.com/opinion/an-ai-antitrust-exemption-would-invite-collusion-68bee8aa"
-    },
-    "826ec7bdb5d9d64c": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "826ec7bdb5d9d64c",
-      "published": "2026-09-15T20:30:00+00:00",
-      "section": "Politics",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "U.S. Eyes China and Russia as Pentagon Confirms Space Weapons",
-      "title": "U.S. Eyes China and Russia as Pentagon Confirms Space Weapons",
-      "url": "https://www.wsj.com/politics/national-security/u-s-eyes-china-and-russia-as-pentagon-confirms-space-weapons-2e373e47"
     },
     "828aaccce91a6490": {
       "dek": "",
@@ -1508,19 +1430,6 @@
       "title": "Pepper…and Salt",
       "url": "https://www.wsj.com/opinion/pepperand-salt-0236af1d"
     },
-    "8463386fdfcbde5c": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "8463386fdfcbde5c",
-      "published": "2026-09-15T20:47:00+00:00",
-      "section": "Economy",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "U.S. Pressures Mexico to Box Out China’s AI Hardware Exports",
-      "title": "U.S. Pressures Mexico to Box Out China’s AI Hardware Exports",
-      "url": "https://www.wsj.com/economy/trade/u-s-pressures-mexico-to-box-out-chinas-ai-hardware-exports-4f708103"
-    },
     "8545e65a49a70074": {
       "dek": "",
       "first_seen": "2026-09-16T04:41:03.062217+00:00",
@@ -1533,19 +1442,6 @@
       "summary": "Elon Musk Trains His Political Chaos Machine on the U.K.",
       "title": "Elon Musk Trains His Political Chaos Machine on the U.K.",
       "url": "https://www.wsj.com/world/uk/elon-musk-uk-politics-9aba87a5"
-    },
-    "85a88369203c38e2": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "85a88369203c38e2",
-      "published": "2026-09-15T18:36:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Crypto Exchange That Was Hub for Illicit Iran Cash Closes Suddenly",
-      "title": "Crypto Exchange That Was Hub for Illicit Iran Cash Closes Suddenly",
-      "url": "https://www.wsj.com/finance/currencies/crypto-exchange-that-was-hub-for-illicit-iran-cash-closes-suddenly-80afba35"
     },
     "881ee571df586d49": {
       "dek": "",
@@ -1729,32 +1625,6 @@
       "title": "What Fed Rate Increase Means for Your Money",
       "url": "https://www.wsj.com/finance/investing/what-fed-rate-increase-means-for-your-money-cf527fcd"
     },
-    "9b1ec58d76329f38": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "9b1ec58d76329f38",
-      "published": "2026-09-15T18:05:00+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "A Detective’s Perspective on the Rapid Rise in Art Theft",
-      "title": "A Detective’s Perspective on the Rapid Rise in Art Theft",
-      "url": "https://www.wsj.com/arts-culture/fine-art/a-detectives-perspective-on-the-rapid-rise-in-art-theft-f74fa741"
-    },
-    "9c59c058562c6aff": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "9c59c058562c6aff",
-      "published": "2026-09-15T19:24:24+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Bitcoin, Crypto Stocks Fall as Clarity Act Fails to Advance Past Procedural Vote",
-      "title": "Bitcoin, Crypto Stocks Fall as Clarity Act Fails to Advance Past Procedural Vote",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026/card/bitcoin-crypto-stocks-fall-as-clarity-act-fails-to-advance-past-procedural-vote-ZJOR2Gj1K24VC8ZK46pL"
-    },
     "9dbd03810a6febba": {
       "dek": "",
       "first_seen": "2026-09-15T21:14:39.112405+00:00",
@@ -1767,6 +1637,19 @@
       "summary": "What Comes Next, Now that the 10-Year Treasury Yield Has Crossed 5%?",
       "title": "What Comes Next, Now that the 10-Year Treasury Yield Has Crossed 5%?",
       "url": "https://www.wsj.com/finance/investing/what-comes-next-now-that-the-10-year-treasury-yield-has-crossed-5-c3bd8b05"
+    },
+    "a01ae8d6ff8041cb": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "a01ae8d6ff8041cb",
+      "published": "2026-09-16T18:51:13+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Warsh: Unanimous Vote Shows Our Resolve",
+      "title": "Warsh: Unanimous Vote Shows Our Resolve",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/warsh-unanimous-vote-shows-our-resolve-sAcLnOxJrXVaWCOdJz6r"
     },
     "a1c18c8dabb70b2b": {
       "dek": "",
@@ -1807,6 +1690,19 @@
       "title": "Trump Administration Shift Puts This Corner of Biotech Back in Favor",
       "url": "https://www.wsj.com/health/pharma/trump-administration-shift-puts-this-corner-of-biotech-back-in-favor-2abc0ae3"
     },
+    "a2c51ea641c8e80c": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "a2c51ea641c8e80c",
+      "published": "2026-09-17T00:00:19+00:00",
+      "section": "Economy",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Economic forecasting survey archive",
+      "title": "Economic forecasting survey archive",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998"
+    },
     "a2da7a6390fb792f": {
       "dek": "",
       "first_seen": "2026-09-16T22:03:46.286824+00:00",
@@ -1833,6 +1729,19 @@
       "title": "Diesel Keeps Breaking Records",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026/card/diesel-keeps-breaking-records-Wm9scqB9HhjipgeBPFms"
     },
+    "a62e6040b0b35d47": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "a62e6040b0b35d47",
+      "published": "2026-09-16T19:18:55+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Bank Stocks Tumbled During Warsh Presser",
+      "title": "Bank Stocks Tumbled During Warsh Presser",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/bank-stocks-tumbled-during-warsh-presser-yywHJk3OY9Dw4Tkz8uB7"
+    },
     "a63935581d0b5b38": {
       "dek": "",
       "first_seen": "2026-09-16T09:51:06.920148+00:00",
@@ -1845,6 +1754,19 @@
       "summary": "Oil Prices Edge Lower Ahead of Fed Decision",
       "title": "Oil Prices Edge Lower Ahead of Fed Decision",
       "url": "https://www.wsj.com/business/energy-oil/oil-prices-edge-lower-ahead-of-fed-decision-aa5afb9c"
+    },
+    "a65b08986bfe60cf": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "a65b08986bfe60cf",
+      "published": "2026-09-16T19:03:30+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Warsh: Lower Inflation Can Be Achieved Without Hurting Job Market",
+      "title": "Warsh: Lower Inflation Can Be Achieved Without Hurting Job Market",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/warsh-lower-inflation-can-be-achieved-without-hurting-job-market-AMFBJf70OHP2NQdtiFfd"
     },
     "a8010f51c6c34f02": {
       "dek": "",
@@ -1937,6 +1859,19 @@
       "title": "Boeing’s Commercial Delays Threaten to Clip Its Wings",
       "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/boeing-s-commercial-delays-threaten-to-clip-its-wings-41MtiteH6h832LniqyN2"
     },
+    "b1a091426bac3e13": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "b1a091426bac3e13",
+      "published": "2026-09-16T18:58:51+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Warsh Declines to Comment on Talks with Trump",
+      "title": "Warsh Declines to Comment on Talks with Trump",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/warsh-declines-to-comment-on-talks-with-trump-mG3eEDddm4KyPiOacpcp"
+    },
     "b1dc7e9a839a472d": {
       "dek": "",
       "first_seen": "2026-09-16T14:50:30.063250+00:00",
@@ -2028,6 +1963,19 @@
       "title": "Energy & Utilities Roundup: Market Talk",
       "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-c81c0c48"
     },
+    "b88ad26ff90bcd31": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "b88ad26ff90bcd31",
+      "published": "2026-09-16T22:45:00+00:00",
+      "section": "Economy",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Brazil’s Central Bank Lowers For Fifth Straight Meeting as Inflation Cools",
+      "title": "Brazil’s Central Bank Lowers For Fifth Straight Meeting as Inflation Cools",
+      "url": "https://www.wsj.com/economy/central-banking/brazils-central-bank-lowers-for-fifth-straight-meeting-as-inflation-cools-7977cc0c"
+    },
     "b8c10b012e5d9d40": {
       "dek": "",
       "first_seen": "2026-09-16T14:50:30.063250+00:00",
@@ -2054,6 +2002,19 @@
       "title": "The Zero-Risk Society Has Arrived",
       "url": "https://www.wsj.com/opinion/the-zero-risk-society-has-arrived-fb66f734"
     },
+    "bb2938ac504bbbe2": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "bb2938ac504bbbe2",
+      "published": "2026-09-17T00:00:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Inside the White House Tussle to Sway Trump on AI",
+      "title": "Inside the White House Tussle to Sway Trump on AI",
+      "url": "https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567"
+    },
     "bbaf9127b19852d7": {
       "dek": "",
       "first_seen": "2026-09-16T18:50:17.858473+00:00",
@@ -2066,6 +2027,19 @@
       "summary": "Fed Rate Increase Provides Relief to Bond Investors",
       "title": "Fed Rate Increase Provides Relief to Bond Investors",
       "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/fed-rate-increase-provides-relief-to-bond-investors-zrphC3ont3ZB00Fcv94l"
+    },
+    "bbd69ba28ed640bd": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "bbd69ba28ed640bd",
+      "published": "2026-09-16T19:01:19+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Warsh Says Fighting Inflation Benefits Working Class",
+      "title": "Warsh Says Fighting Inflation Benefits Working Class",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/warsh-says-fighting-inflation-benefits-working-class-iiGQ9xafbl1evgA6AoSX"
     },
     "bcc0ccc4f473192d": {
       "dek": "",
@@ -2158,6 +2132,19 @@
       "title": "Kevin Warsh Is an Inflation Hawk",
       "url": "https://www.wsj.com/opinion/kevin-warsh-rate-hike-federal-reserve-fomc-donald-trump-657987d4"
     },
+    "c2fc7c18ca97829f": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "c2fc7c18ca97829f",
+      "published": "2026-09-17T00:00:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The SpaceX IPO Gave This Couple License to Chase Their Dreams",
+      "title": "The SpaceX IPO Gave This Couple License to Chase Their Dreams",
+      "url": "https://www.wsj.com/business/spacex-ipo-payouts-41e64c45"
+    },
     "c607cd42a3be973d": {
       "dek": "",
       "first_seen": "2026-09-16T18:50:17.858473+00:00",
@@ -2184,6 +2171,19 @@
       "title": "DOGE Works. Let’s Keep It Going",
       "url": "https://www.wsj.com/opinion/doge-works-lets-keep-it-going-d5356363"
     },
+    "c7e480583f8ad0fd": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "c7e480583f8ad0fd",
+      "published": "2026-09-17T00:00:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Small business marketing",
+      "title": "Small business marketing",
+      "url": "https://www.wsj.com/news/business/small-business-marketing"
+    },
     "cb6da31a86c6e459": {
       "dek": "",
       "first_seen": "2026-09-16T22:03:46.286824+00:00",
@@ -2209,6 +2209,19 @@
       "summary": "Yemen’s Houthi Rebels Claim Shooting Down Saudi F-15 Jet Fighter",
       "title": "Yemen’s Houthi Rebels Claim Shooting Down Saudi F-15 Jet Fighter",
       "url": "https://www.wsj.com/world/middle-east/yemens-houthi-rebels-claim-shooting-down-saudi-f-15-jet-fighter-237ecc7d"
+    },
+    "cbe38b6a176229fd": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "cbe38b6a176229fd",
+      "published": "2026-09-16T23:25:16+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "💬Money Quote: Trump Defends Warsh",
+      "title": "💬Money Quote: Trump Defends Warsh",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/-money-quote-trump-defends-warsh-VKDjBcnLRKTFCRW9qKEj"
     },
     "cd77d08e48dc0cbe": {
       "dek": "",
@@ -2301,6 +2314,19 @@
       "title": "‘Look What You Made Me Sue’",
       "url": "https://www.wsj.com/opinion/look-what-you-made-me-sue-1b7a2fb8"
     },
+    "d3b42190745986fa": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "d3b42190745986fa",
+      "published": "2026-09-16T23:16:00+00:00",
+      "section": "Economy",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Trump Says He Backs Warsh After Central Bank Raised Interest Rates",
+      "title": "Trump Says He Backs Warsh After Central Bank Raised Interest Rates",
+      "url": "https://www.wsj.com/economy/central-banking/trump-says-he-backs-warsh-after-central-bank-raised-interest-rates-cff88294"
+    },
     "d580d5ef081d344f": {
       "dek": "",
       "first_seen": "2026-09-16T18:50:17.858473+00:00",
@@ -2327,6 +2353,19 @@
       "title": "Nikkei Slips 0.2%, Dragged by Chip-Related Stocks",
       "url": "https://www.wsj.com/finance/stocks/nikkei-slips-0-2-dragged-by-chip-related-stocks-7a92f368"
     },
+    "d6f8be57a33f4f5e": {
+      "dek": "",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "d6f8be57a33f4f5e",
+      "published": "2026-09-17T00:10:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Trump Says Allowing Canada to Become Associate Member of EU Could Be ‘Hostile Act’",
+      "title": "Trump Says Allowing Canada to Become Associate Member of EU Could Be ‘Hostile Act’",
+      "url": "https://www.wsj.com/world/europe/trump-says-allowing-canada-to-become-associate-member-of-eu-could-be-hostile-act-c6a02766"
+    },
     "d9f51c7e5bf31752": {
       "dek": "",
       "first_seen": "2026-09-16T22:03:46.286824+00:00",
@@ -2340,18 +2379,18 @@
       "title": "Congress Can Restructure the Supreme Court",
       "url": "https://www.wsj.com/opinion/congress-can-restructure-the-supreme-court-5bc0e43d"
     },
-    "da86b02eb9b0e2b5": {
+    "dea6ec2569a2d42b": {
       "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "da86b02eb9b0e2b5",
-      "published": "2026-09-15T19:53:00+00:00",
-      "section": "Politics",
+      "first_seen": "2026-09-17T00:23:04.839912+00:00",
+      "guid": "dea6ec2569a2d42b",
+      "published": "2026-09-17T00:00:19+00:00",
+      "section": "Arts Culture",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Landmark Crypto Bill Fails Procedural Vote, Casting Doubt on New Digital-Asset Rules",
-      "title": "Landmark Crypto Bill Fails Procedural Vote, Casting Doubt on New Digital-Asset Rules",
-      "url": "https://www.wsj.com/politics/policy/landmark-crypto-bill-fails-procedural-vote-casting-doubt-on-new-digital-asset-rules-d6fc4c47"
+      "summary": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23"
     },
     "e016a7a5e562f4df": {
       "dek": "",
@@ -2418,32 +2457,6 @@
       "title": "Hugo Boss Names Frasers’ Michael Murray as Supervisory Board Chairman",
       "url": "https://www.wsj.com/business/retail/hugo-boss-names-frasers-michael-murray-as-supervisory-board-chairman-ce363e98"
     },
-    "e98edfe87b7732f6": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "e98edfe87b7732f6",
-      "published": "2026-09-15T20:16:05+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "JPMorgan Expects Third-Quarter Gains in Investment Banking, Markets",
-      "title": "JPMorgan Expects Third-Quarter Gains in Investment Banking, Markets",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026/card/jpmorgan-expects-third-quarter-gains-in-investment-banking-markets-PRwSQy0L2DH1ZpTiH5Hq"
-    },
-    "eb65510aebd650cc": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "eb65510aebd650cc",
-      "published": "2026-09-15T20:15:00+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "‘The Face’ Review: A Portrait of the Person",
-      "title": "‘The Face’ Review: A Portrait of the Person",
-      "url": "https://www.wsj.com/arts-culture/books/the-face-review-a-portrait-of-the-person-ed8d51ef"
-    },
     "ec18ea13b4ad8d64": {
       "dek": "",
       "first_seen": "2026-09-16T22:03:46.286824+00:00",
@@ -2456,19 +2469,6 @@
       "summary": "Exxon Is Nearing a Preliminary Deal to Invest in Venezuela’s Oil Fields",
       "title": "Exxon Is Nearing a Preliminary Deal to Invest in Venezuela’s Oil Fields",
       "url": "https://www.wsj.com/business/energy-oil/exxon-is-nearing-a-preliminary-deal-to-invest-in-venezuelas-oil-fields-8c02126b"
-    },
-    "ec783837dced4d8b": {
-      "dek": "",
-      "first_seen": "2026-09-15T21:14:39.112405+00:00",
-      "guid": "ec783837dced4d8b",
-      "published": "2026-09-15T20:22:00+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "‘The Battle to Breathe’ Review: Searching for a Cure on PBS",
-      "title": "‘The Battle to Breathe’ Review: Searching for a Cure on PBS",
-      "url": "https://www.wsj.com/arts-culture/television/the-battle-to-breathe-review-searching-for-a-cure-on-pbs-b3d8f3a7"
     },
     "ee23952f1fd4298e": {
       "dek": "",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/what-to-watch-for-at-the-fed-meeting-l8y3bmA2H0RoTaEkWzIR"
     }
   },
-  "updated": "2026-09-16T22:03:46.314893+00:00"
+  "updated": "2026-09-17T00:23:04.863463+00:00"
 }
