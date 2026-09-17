@@ -6,6 +6,182 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
+      "summary": "",
+      "date_published": "2026-09-17T05:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "5a885d497fa8a917",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview",
+      "title": "The saturday interview",
+      "content_text": "The saturday interview",
+      "summary": "",
+      "date_published": "2026-09-17T05:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "6cf8b3cf7c4b5fd3",
+      "url": "https://www.wsj.com/news/types/cultural-conversation",
+      "title": "Cultural conversation",
+      "content_text": "Cultural conversation",
+      "summary": "",
+      "date_published": "2026-09-17T05:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
+      "summary": "",
+      "date_published": "2026-09-17T05:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "67a229f9726f9141",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial",
+      "title": "Real estate commercial",
+      "content_text": "Real estate commercial",
+      "summary": "",
+      "date_published": "2026-09-17T05:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "6c95c94e6b4df4fc",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-eb550a28",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-09-17T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "0b0a962354e5f620",
+      "url": "https://www.wsj.com/economy/central-banking/warsh-takes-hawkish-turn-with-rate-rise-and-hints-of-more-to-come-d52c6ad9",
+      "title": "Warsh Takes Hawkish Turn With Rate Rise and Hints of More to Come",
+      "content_text": "Warsh Takes Hawkish Turn With Rate Rise and Hints of More to Come",
+      "summary": "",
+      "date_published": "2026-09-17T02:52:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "0a03af4656abc26a",
+      "url": "https://www.wsj.com/world/middle-east/irans-attempts-to-get-around-the-hormuz-blockade-are-hitting-a-wall-c1f42cbe",
+      "title": "Iran’s Attempts to Get Around the Hormuz Blockade Are Hitting a Wall",
+      "content_text": "Iran’s Attempts to Get Around the Hormuz Blockade Are Hitting a Wall",
+      "summary": "",
+      "date_published": "2026-09-17T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "afaf03f63667ca95",
+      "url": "https://www.wsj.com/world/see-how-jet-power-is-giving-russia-the-edge-in-the-drone-war-5329dfab",
+      "title": "See How Jet Power Is Giving Russia the Edge in the Drone War",
+      "content_text": "See How Jet Power Is Giving Russia the Edge in the Drone War",
+      "summary": "",
+      "date_published": "2026-09-17T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "c91eca92d29efda5",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-pharma-machinery-stocks-2d9b558c",
+      "title": "Nikkei Rises 1.0%, Led by Pharma, Machinery Stocks",
+      "content_text": "Nikkei Rises 1.0%, Led by Pharma, Machinery Stocks",
+      "summary": "",
+      "date_published": "2026-09-17T01:25:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "e9e1c53619e7215b",
+      "url": "https://www.wsj.com/finance/currencies/global-tightening-could-cap-dollars-fed-boost-fe1f509c",
+      "title": "Singapore Dollar Strengthens as Traders Digest Fed Rate Hike",
+      "content_text": "Singapore Dollar Strengthens as Traders Digest Fed Rate Hike",
+      "summary": "",
+      "date_published": "2026-09-17T01:19:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "9076972b3665c892",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-as-markets-weigh-fed-path-eeb22df6",
+      "title": "Gold Ticks Up as Markets Weigh Fed Path",
+      "content_text": "Gold Ticks Up as Markets Weigh Fed Path",
+      "summary": "",
+      "date_published": "2026-09-17T01:15:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "69f64481e1c6832d",
+      "url": "https://www.wsj.com/finance/long-term-jgb-yields-largely-steady-as-boj-starts-two-day-meeting-0e67c4e8",
+      "title": "U.S.-Japan Rate Gap Unlikely to Narrow Significantly",
+      "content_text": "U.S.-Japan Rate Gap Unlikely to Narrow Significantly",
+      "summary": "",
+      "date_published": "2026-09-17T01:06:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "c333cf822486487b",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-hopes-to-contain-mideast-crude-supply-disruption-e7e3d9f0",
+      "title": "Oil Falls Amid Hopes to Contain Mideast Crude Supply Disruption",
+      "content_text": "Oil Falls Amid Hopes to Contain Mideast Crude Supply Disruption",
+      "summary": "",
+      "date_published": "2026-09-17T01:02:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "4a5aff5c7c0316a1",
+      "url": "https://www.wsj.com/lifestyle/careers/why-the-purge-of-middle-managers-could-backfire-6f9168bc",
+      "title": "Why the Purge of Middle Managers Could Backfire",
+      "content_text": "Why the Purge of Middle Managers Could Backfire",
+      "summary": "",
+      "date_published": "2026-09-17T01:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "05d161b0d0b8a4d4",
+      "url": "https://www.wsj.com/tech/ai/jacob-coxon-quit-anthropic-ai-safety-3f4e877c",
+      "title": "The Anonymous Math Geek Who Quit Anthropic—and Became the Face of AI Safety",
+      "content_text": "The Anonymous Math Geek Who Quit Anthropic—and Became the Face of AI Safety",
+      "summary": "",
+      "date_published": "2026-09-17T01:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
       "id": "d6f8be57a33f4f5e",
       "url": "https://www.wsj.com/world/europe/trump-says-allowing-canada-to-become-associate-member-of-eu-could-be-hostile-act-c6a02766",
       "title": "Trump Says Allowing Canada to Become Associate Member of EU Could Be ‘Hostile Act’",
@@ -17,10 +193,10 @@
       ]
     },
     {
-      "id": "c7e480583f8ad0fd",
-      "url": "https://www.wsj.com/news/business/small-business-marketing",
-      "title": "Small business marketing",
-      "content_text": "Small business marketing",
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
       "summary": "",
       "date_published": "2026-09-17T00:00:19+00:00",
       "tags": [
@@ -39,10 +215,10 @@
       ]
     },
     {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
       "summary": "",
       "date_published": "2026-09-17T00:00:19+00:00",
       "tags": [
@@ -61,17 +237,6 @@
       ]
     },
     {
-      "id": "c2fc7c18ca97829f",
-      "url": "https://www.wsj.com/business/spacex-ipo-payouts-41e64c45",
-      "title": "The SpaceX IPO Gave This Couple License to Chase Their Dreams",
-      "content_text": "The SpaceX IPO Gave This Couple License to Chase Their Dreams",
-      "summary": "",
-      "date_published": "2026-09-17T00:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
       "id": "bb2938ac504bbbe2",
       "url": "https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567",
       "title": "Inside the White House Tussle to Sway Trump on AI",
@@ -80,6 +245,17 @@
       "date_published": "2026-09-17T00:00:00+00:00",
       "tags": [
         "Tech"
+      ]
+    },
+    {
+      "id": "c2fc7c18ca97829f",
+      "url": "https://www.wsj.com/business/spacex-ipo-payouts-41e64c45",
+      "title": "The SpaceX IPO Gave This Couple License to Chase Their Dreams",
+      "content_text": "The SpaceX IPO Gave This Couple License to Chase Their Dreams",
+      "summary": "",
+      "date_published": "2026-09-17T00:00:00+00:00",
+      "tags": [
+        "Business"
       ]
     },
     {
@@ -2027,182 +2203,6 @@
       "date_published": "2026-09-15T22:39:00+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "d383c0008ed4c290",
-      "url": "https://www.wsj.com/opinion/look-what-you-made-me-sue-1b7a2fb8",
-      "title": "‘Look What You Made Me Sue’",
-      "content_text": "‘Look What You Made Me Sue’",
-      "summary": "",
-      "date_published": "2026-09-15T22:23:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "24466f79b22e9ad6",
-      "url": "https://www.wsj.com/business/media/inside-openais-ad-rush-41c92de2",
-      "title": "Inside OpenAI’s Ad Rush",
-      "content_text": "Inside OpenAI’s Ad Rush",
-      "summary": "",
-      "date_published": "2026-09-15T22:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "36e60bb52d20f480",
-      "url": "https://www.wsj.com/opinion/college-grads-vs-the-ai-job-apocalypse-8858fc7e",
-      "title": "College Grads vs. the AI Job Apocalypse",
-      "content_text": "College Grads vs. the AI Job Apocalypse",
-      "summary": "",
-      "date_published": "2026-09-15T21:48:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "0835a3e1d2ac846b",
-      "url": "https://www.wsj.com/opinion/houthis-middle-east-bab-al-mandab-saudi-arabia-oil-3944cb9c",
-      "title": "Who Will Stop the Houthis?",
-      "content_text": "Who Will Stop the Houthis?",
-      "summary": "",
-      "date_published": "2026-09-15T21:37:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "ab6399826154cdb8",
-      "url": "https://www.wsj.com/opinion/supreme-court-mail-ballots-election-donald-trump-usps-brett-kavanaugh-285ba413",
-      "title": "So the Election Won’t Be Stolen, Then?",
-      "content_text": "So the Election Won’t Be Stolen, Then?",
-      "summary": "",
-      "date_published": "2026-09-15T21:37:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "8c0b18f3e3a9d543",
-      "url": "https://www.wsj.com/opinion/u-s-space-weapons-air-force-troy-meink-china-f085eb2f",
-      "title": "U.S. Space Weapons Are a Force for Peace",
-      "content_text": "U.S. Space Weapons Are a Force for Peace",
-      "summary": "",
-      "date_published": "2026-09-15T21:36:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "48bebf4c4d348fdb",
-      "url": "https://www.wsj.com/politics/policy/the-kennedy-center-is-closing-its-renovation-is-now-in-limbo-93af3a80",
-      "title": "The Kennedy Center Is Closing. Its Renovation Is Now in Limbo.",
-      "content_text": "The Kennedy Center Is Closing. Its Renovation Is Now in Limbo.",
-      "summary": "",
-      "date_published": "2026-09-15T21:35:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "6e68771066eb6204",
-      "url": "https://www.wsj.com/opinion/new-york-regents-exams-high-school-graduates-255bf7f9",
-      "title": "New York Dumbs Down Its Graduates",
-      "content_text": "New York Dumbs Down Its Graduates",
-      "summary": "",
-      "date_published": "2026-09-15T21:34:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "3b44a284abbb8b4f",
-      "url": "https://www.wsj.com/opinion/notable-quotable-a-poetic-disclaimer-d5b85230",
-      "title": "Notable & Quotable: A Poetic Disclaimer",
-      "content_text": "Notable & Quotable: A Poetic Disclaimer",
-      "summary": "",
-      "date_published": "2026-09-15T21:31:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "39ea509c261936ff",
-      "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
-      "title": "AWS Says It Can’t Restore Some Data From Mideast Facilities Struck by Iran",
-      "content_text": "AWS Says It Can’t Restore Some Data From Mideast Facilities Struck by Iran",
-      "summary": "",
-      "date_published": "2026-09-15T21:23:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "a3fa859f871d1357",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026/card/diesel-keeps-breaking-records-Wm9scqB9HhjipgeBPFms",
-      "title": "Diesel Keeps Breaking Records",
-      "content_text": "Diesel Keeps Breaking Records",
-      "summary": "",
-      "date_published": "2026-09-15T21:16:40+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "70412f8a4dba6e6e",
-      "url": "https://www.wsj.com/opinion/purging-the-ai-nuttiness-f284e501",
-      "title": "Purging the AI Nuttiness",
-      "content_text": "Purging the AI Nuttiness",
-      "summary": "",
-      "date_published": "2026-09-15T21:13:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "3d81a1f30a88e120",
-      "url": "https://www.wsj.com/opinion/gov-gretchen-whitmer-how-tariffs-hurt-michigan-6c2a0c85",
-      "title": "Gov. Gretchen Whitmer: How Tariffs Hurt Michigan",
-      "content_text": "Gov. Gretchen Whitmer: How Tariffs Hurt Michigan",
-      "summary": "",
-      "date_published": "2026-09-15T21:11:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "30e02b6d482691b1",
-      "url": "https://www.wsj.com/opinion/humans-are-to-blame-for-ai-failures-9e0b147d",
-      "title": "Humans Are to Blame for AI Failures",
-      "content_text": "Humans Are to Blame for AI Failures",
-      "summary": "",
-      "date_published": "2026-09-15T21:08:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "59edd11d73f83a50",
-      "url": "https://www.wsj.com/opinion/the-sat-didnt-create-the-education-gap-2fa1f6d1",
-      "title": "The SAT Didn’t Create the Education Gap",
-      "content_text": "The SAT Didn’t Create the Education Gap",
-      "summary": "",
-      "date_published": "2026-09-15T21:08:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "9dbd03810a6febba",
-      "url": "https://www.wsj.com/finance/investing/what-comes-next-now-that-the-10-year-treasury-yield-has-crossed-5-c3bd8b05",
-      "title": "What Comes Next, Now that the 10-Year Treasury Yield Has Crossed 5%?",
-      "content_text": "What Comes Next, Now that the 10-Year Treasury Yield Has Crossed 5%?",
-      "summary": "",
-      "date_published": "2026-09-15T21:01:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]
