@@ -6,10 +6,241 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
+      "id": "840de1c1322b8582",
+      "url": "https://www.wsj.com/tech/ai/nokia-shares-jump-as-microsoft-partnership-expands-data-offering-b90581e0",
+      "title": "Nokia Shares Jump as Microsoft Partnership Expands Data Offering",
+      "content_text": "Nokia Shares Jump as Microsoft Partnership Expands Data Offering",
+      "summary": "",
+      "date_published": "2026-09-17T10:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "fa08a15474b912e2",
+      "url": "https://www.wsj.com/articles/fed-rate-increase-puts-borrowers-on-notice-as-warsh-takes-hard-line-on-inflation-d56767bb",
+      "title": "Fed Rate Increase Puts Borrowers on Notice as Warsh Takes Hard Line on Inflation",
+      "content_text": "Fed Rate Increase Puts Borrowers on Notice as Warsh Takes Hard Line on Inflation",
+      "summary": "",
+      "date_published": "2026-09-17T09:53:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "99d26ecd586c1d18",
+      "url": "https://www.wsj.com/cio-journal/what-companies-actually-need-as-cybersecurity-risks-rise-20dc2840",
+      "title": "What Companies Actually Need as Cybersecurity Risks Rise",
+      "content_text": "What Companies Actually Need as Cybersecurity Risks Rise",
+      "summary": "",
+      "date_published": "2026-09-17T09:50:00+00:00",
+      "tags": [
+        "Cio Journal"
+      ]
+    },
+    {
+      "id": "5fb4997b95f00ca0",
+      "url": "https://www.wsj.com/business/earnings/bilfinger-shares-fall-20-on-lowered-outlook-job-cuts-c843f681",
+      "title": "Bilfinger Shares Fall 20% on Lowered Outlook, Job Cuts",
+      "content_text": "Bilfinger Shares Fall 20% on Lowered Outlook, Job Cuts",
+      "summary": "",
+      "date_published": "2026-09-17T09:37:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "d527ccf65cc80727",
+      "url": "https://www.wsj.com/tech/samsung-fans-are-thoroughly-unimpressed-by-apples-foldable-phone-0e6652fc",
+      "title": "Samsung Fans Are Thoroughly Unimpressed by Apple’s Foldable Phone",
+      "content_text": "Samsung Fans Are Thoroughly Unimpressed by Apple’s Foldable Phone",
+      "summary": "",
+      "date_published": "2026-09-17T09:30:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "0dab89b48b1593bd",
+      "url": "https://www.wsj.com/world/middle-east/saudi-arabia-has-another-option-to-get-its-oil-out-7ef2a9da",
+      "title": "Saudi Arabia Has Another Option to Get Its Oil Out",
+      "content_text": "Saudi Arabia Has Another Option to Get Its Oil Out",
+      "summary": "",
+      "date_published": "2026-09-17T09:30:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "9fdee08daefbbe36",
+      "url": "https://www.wsj.com/personal-finance/mortgages/the-new-rules-for-selling-your-home-with-mortgage-rates-near-7-b4628469",
+      "title": "The New Rules for Selling Your Home With Mortgage Rates Near 7%",
+      "content_text": "The New Rules for Selling Your Home With Mortgage Rates Near 7%",
+      "summary": "",
+      "date_published": "2026-09-17T09:30:00+00:00",
+      "tags": [
+        "Personal Finance"
+      ]
+    },
+    {
+      "id": "f841874d4af05ce0",
+      "url": "https://www.wsj.com/world/europe/eu-could-require-age-verification-to-stop-under-15s-opening-social-media-accounts-dc45c70a",
+      "title": "EU Could Require Age Verification to Stop Under 15s Opening Social Media Accounts",
+      "content_text": "EU Could Require Age Verification to Stop Under 15s Opening Social Media Accounts",
+      "summary": "",
+      "date_published": "2026-09-17T09:24:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "ee2f6f7110641aa5",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026/card/stocks-to-watch-lennar-generac-volvo-DAol7UnkE6rwaNoVAkBo",
+      "title": "Stocks to Watch: Lennar, Generac, Volvo",
+      "content_text": "Stocks to Watch: Lennar, Generac, Volvo",
+      "summary": "",
+      "date_published": "2026-09-17T09:14:09+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "fabc8d8b2900d29e",
+      "url": "https://www.wsj.com/economy/central-banking/taiwan-central-bank-holds-rates-steady-despite-higher-energy-costs-324ba626",
+      "title": "Taiwan Central Bank Holds Rates Steady Despite Higher Energy Costs",
+      "content_text": "Taiwan Central Bank Holds Rates Steady Despite Higher Energy Costs",
+      "summary": "",
+      "date_published": "2026-09-17T09:12:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "6036b6a03b8b0a35",
+      "url": "https://www.wsj.com/tech/ai/the-startup-that-built-openais-biggest-data-center-is-now-making-tiny-ones-71f36a4f",
+      "title": "The Startup That Built OpenAI’s Biggest Data Center Is Now Making Tiny Ones",
+      "content_text": "The Startup That Built OpenAI’s Biggest Data Center Is Now Making Tiny Ones",
+      "summary": "",
+      "date_published": "2026-09-17T09:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "2c339afa996a0740",
+      "url": "https://www.wsj.com/economy/central-banking/u-s-treasury-yields-fall-as-market-regains-trust-in-feds-inflation-resolve-62beaf8e",
+      "title": "U.S. Treasury Yields Fall as Market Regains Trust in Fed’s Inflation Resolve",
+      "content_text": "U.S. Treasury Yields Fall as Market Regains Trust in Fed’s Inflation Resolve",
+      "summary": "",
+      "date_published": "2026-09-17T08:49:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "4c5ead39e3731095",
+      "url": "https://www.wsj.com/finance/commodities-futures/stocks-rally-yields-fall-as-lower-oil-boosts-market-mood-e5c10b6c",
+      "title": "Stocks Rally, Yields Fall as Lower Oil Boosts Market Mood",
+      "content_text": "Stocks Rally, Yields Fall as Lower Oil Boosts Market Mood",
+      "summary": "",
+      "date_published": "2026-09-17T08:47:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "7c455ef01c1480d4",
+      "url": "https://www.wsj.com/business/energy-oil/oil-prices-slip-after-feds-first-rate-hike-in-three-years-4efe3854",
+      "title": "Oil Prices Slip After Fed’s First Rate Hike in Three Years",
+      "content_text": "Oil Prices Slip After Fed’s First Rate Hike in Three Years",
+      "summary": "",
+      "date_published": "2026-09-17T08:34:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "2940bdd4e53b90ef",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026/card/-watch-trump-says-fed-hiked-rates-for-political-reasons-tzMGAwq8H0yy5o1pK7tx",
+      "title": "📹 Watch: Trump Says Fed Hiked Rates for Political Reasons",
+      "content_text": "📹 Watch: Trump Says Fed Hiked Rates for Political Reasons",
+      "summary": "",
+      "date_published": "2026-09-17T07:58:09+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "74588ec2f885d949",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026/card/-money-quote-start-the-cycle-J38Ew1U1KGnUItcKNzHc",
+      "title": "💬 Money Quote: Start the Cycle",
+      "content_text": "💬 Money Quote: Start the Cycle",
+      "summary": "",
+      "date_published": "2026-09-17T07:58:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "8bdcf7239aad1a6f",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026/card/wednesday-recap-fed-issues-first-rate-hike-since-2023-fdpcKaCmHJKAiFo7nHeX",
+      "title": "Wednesday Recap: Fed Issues First Rate Hike Since 2023",
+      "content_text": "Wednesday Recap: Fed Issues First Rate Hike Since 2023",
+      "summary": "",
+      "date_published": "2026-09-17T07:57:51+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "e41eeb5e9a400143",
+      "url": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-european-inventories-remain-low-4d38b0ac",
+      "title": "European Gas Prices Rise as European Inventories Remain Low",
+      "content_text": "European Gas Prices Rise as European Inventories Remain Low",
+      "summary": "",
+      "date_published": "2026-09-17T07:57:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "f4e8664b0f134f87",
+      "url": "https://www.wsj.com/business/retail/next-plc-nudges-up-guidance-after-better-than-expected-performance-52ce7355",
+      "title": "Next Shares Rise After Guidance Lift",
+      "content_text": "Next Shares Rise After Guidance Lift",
+      "summary": "",
+      "date_published": "2026-09-17T07:04:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "9cd7882785d90678",
+      "url": "https://www.wsj.com/finance/currencies/fed-policy-outlook-weighs-on-yen-ahead-of-bank-of-japan-decision-41a586c7",
+      "title": "Fed Policy Outlook Weighs on Yen Ahead of Bank of Japan Decision",
+      "content_text": "Fed Policy Outlook Weighs on Yen Ahead of Bank of Japan Decision",
+      "summary": "",
+      "date_published": "2026-09-17T06:55:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "40f91a3a45b2187d",
+      "url": "https://www.wsj.com/business/autos/volvo-car-plans-major-model-lineup-revamp-9142ef94",
+      "title": "Carmaker Volvo Car Mounts 13-Model Product Push to Revive Fortunes",
+      "content_text": "Carmaker Volvo Car Mounts 13-Model Product Push to Revive Fortunes",
+      "summary": "",
+      "date_published": "2026-09-17T05:38:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
       "summary": "",
       "date_published": "2026-09-17T05:00:19+00:00",
       "tags": [
@@ -28,21 +259,10 @@
       ]
     },
     {
-      "id": "6cf8b3cf7c4b5fd3",
-      "url": "https://www.wsj.com/news/types/cultural-conversation",
-      "title": "Cultural conversation",
-      "content_text": "Cultural conversation",
-      "summary": "",
-      "date_published": "2026-09-17T05:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
       "summary": "",
       "date_published": "2026-09-17T05:00:19+00:00",
       "tags": [
@@ -54,6 +274,17 @@
       "url": "https://www.wsj.com/news/markets/real-estate-commercial",
       "title": "Real estate commercial",
       "content_text": "Real estate commercial",
+      "summary": "",
+      "date_published": "2026-09-17T05:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "6cf8b3cf7c4b5fd3",
+      "url": "https://www.wsj.com/news/types/cultural-conversation",
+      "title": "Cultural conversation",
+      "content_text": "Cultural conversation",
       "summary": "",
       "date_published": "2026-09-17T05:00:19+00:00",
       "tags": [
@@ -80,6 +311,17 @@
       "date_published": "2026-09-17T02:52:00+00:00",
       "tags": [
         "Economy"
+      ]
+    },
+    {
+      "id": "040994283e32eeae",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026",
+      "title": "Stock Market Today: Stock Futures Climb as Markets Retrace Post-Fed Moves",
+      "content_text": "Stock Market Today: Stock Futures Climb as Markets Retrace Post-Fed Moves",
+      "summary": "",
+      "date_published": "2026-09-17T02:06:11+00:00",
+      "tags": [
+        "Front Page"
       ]
     },
     {
@@ -160,17 +402,6 @@
       ]
     },
     {
-      "id": "4a5aff5c7c0316a1",
-      "url": "https://www.wsj.com/lifestyle/careers/why-the-purge-of-middle-managers-could-backfire-6f9168bc",
-      "title": "Why the Purge of Middle Managers Could Backfire",
-      "content_text": "Why the Purge of Middle Managers Could Backfire",
-      "summary": "",
-      "date_published": "2026-09-17T01:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
       "id": "05d161b0d0b8a4d4",
       "url": "https://www.wsj.com/tech/ai/jacob-coxon-quit-anthropic-ai-safety-3f4e877c",
       "title": "The Anonymous Math Geek Who Quit Anthropic—and Became the Face of AI Safety",
@@ -179,6 +410,17 @@
       "date_published": "2026-09-17T01:00:00+00:00",
       "tags": [
         "Tech"
+      ]
+    },
+    {
+      "id": "4a5aff5c7c0316a1",
+      "url": "https://www.wsj.com/lifestyle/careers/why-the-purge-of-middle-managers-could-backfire-6f9168bc",
+      "title": "Why the Purge of Middle Managers Could Backfire",
+      "content_text": "Why the Purge of Middle Managers Could Backfire",
+      "summary": "",
+      "date_published": "2026-09-17T01:00:00+00:00",
+      "tags": [
+        "Lifestyle"
       ]
     },
     {
@@ -1961,248 +2203,6 @@
       "date_published": "2026-09-16T06:30:00+00:00",
       "tags": [
         "Economy"
-      ]
-    },
-    {
-      "id": "340f6b62ce80d786",
-      "url": "https://www.wsj.com/business/databricks-piles-investments-into-asia-as-growth-accelerates-018b217d",
-      "title": "Databricks Piles Investments Into Asia as Growth Accelerates",
-      "content_text": "Databricks Piles Investments Into Asia as Growth Accelerates",
-      "summary": "",
-      "date_published": "2026-09-16T06:08:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "8bb4d82eab2babcd",
-      "url": "https://www.wsj.com/finance/stocks/oil-falls-asian-stocks-rise-ahead-of-fed-rate-decision-49a773a3",
-      "title": "Oil Falls, Asian Stocks Rise Ahead of Fed Rate Decision",
-      "content_text": "Oil Falls, Asian Stocks Rise Ahead of Fed Rate Decision",
-      "summary": "",
-      "date_published": "2026-09-16T05:14:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "839717871e9ea97f",
-      "url": "https://www.wsj.com/opinion/pepperand-salt-0236af1d",
-      "title": "Pepper…and Salt",
-      "content_text": "Pepper…and Salt",
-      "summary": "",
-      "date_published": "2026-09-16T04:00:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "3051abc6790731bd",
-      "url": "https://www.wsj.com/tech/ai/openai-considers-pre-ipo-funding-round-at-more-than-1-2-trillion-valuation-54555295",
-      "title": "OpenAI Considers Pre-IPO Funding Round at More Than $1.2 Trillion Valuation",
-      "content_text": "OpenAI Considers Pre-IPO Funding Round at More Than $1.2 Trillion Valuation",
-      "summary": "",
-      "date_published": "2026-09-16T02:35:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "010b30d9592030e7",
-      "url": "https://www.wsj.com/tech/ai/apple-finally-built-a-smarter-siri-it-still-hasnt-caught-up-in-the-ai-race-2663601e",
-      "title": "Apple Finally Built a Smarter Siri. It Still Hasn’t Caught Up in the AI Race.",
-      "content_text": "Apple Finally Built a Smarter Siri. It Still Hasn’t Caught Up in the AI Race.",
-      "summary": "",
-      "date_published": "2026-09-16T02:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "bfe7aa3dae55d96f",
-      "url": "https://www.wsj.com/politics/national-security/u-s-probes-cyberattacks-on-energy-tankers-bound-for-american-coast-33d92f3a",
-      "title": "U.S. Probes Cyberattacks on Energy Tankers Bound for American Coast",
-      "content_text": "U.S. Probes Cyberattacks on Energy Tankers Bound for American Coast",
-      "summary": "",
-      "date_published": "2026-09-16T01:20:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "777b5a1d86e414ad",
-      "url": "https://www.wsj.com/finance/currencies/fed-guidance-key-to-asian-fx-outlook-511a4410",
-      "title": "Singapore Dollar Weakens Ahead of Fed Rate Decision",
-      "content_text": "Singapore Dollar Weakens Ahead of Fed Rate Decision",
-      "summary": "",
-      "date_published": "2026-09-16T01:15:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "7d00df33dce84988",
-      "url": "https://www.wsj.com/business/energy-oil/americans-have-spent-100-billion-more-on-fuel-during-the-iran-war-377952a1",
-      "title": "Americans Have Spent $100 Billion More on Fuel During the Iran War",
-      "content_text": "Americans Have Spent $100 Billion More on Fuel During the Iran War",
-      "summary": "",
-      "date_published": "2026-09-16T01:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "8545e65a49a70074",
-      "url": "https://www.wsj.com/world/uk/elon-musk-uk-politics-9aba87a5",
-      "title": "Elon Musk Trains His Political Chaos Machine on the U.K.",
-      "content_text": "Elon Musk Trains His Political Chaos Machine on the U.K.",
-      "summary": "",
-      "date_published": "2026-09-16T01:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "93f2b22803d28baf",
-      "url": "https://www.wsj.com/world/middle-east/the-u-s-is-burning-through-its-supply-of-interceptors-to-counter-irans-attacks-f42c5ecd",
-      "title": "The U.S. Is Burning Through Its Supply of Interceptors to Counter Iran’s Attacks",
-      "content_text": "The U.S. Is Burning Through Its Supply of Interceptors to Counter Iran’s Attacks",
-      "summary": "",
-      "date_published": "2026-09-16T01:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "b5f1b7c6988f3214",
-      "url": "https://www.wsj.com/lifestyle/travel/how-to-press-your-case-when-your-airline-seat-gets-downgraded-ab39d145",
-      "title": "How to Press Your Case When Your Airline Seat Gets Downgraded",
-      "content_text": "How to Press Your Case When Your Airline Seat Gets Downgraded",
-      "summary": "",
-      "date_published": "2026-09-16T01:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "f81ce82b5ab0548c",
-      "url": "https://www.wsj.com/finance/jgb-yields-higher-amid-inflation-fears-c3a1bb4e",
-      "title": "JGB Yields Higher Amid Inflation Fears",
-      "content_text": "JGB Yields Higher Amid Inflation Fears",
-      "summary": "",
-      "date_published": "2026-09-16T00:59:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "1c6b0347da66fb10",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-declines-but-remains-elevated-amid-supply-concerns-geopolitical-risks-15e97c33",
-      "title": "Oil Declines But Remains Elevated Amid Supply Concerns, Geopolitical Risks",
-      "content_text": "Oil Declines But Remains Elevated Amid Supply Concerns, Geopolitical Risks",
-      "summary": "",
-      "date_published": "2026-09-16T00:44:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "6b015ee84d376711",
-      "url": "https://www.wsj.com/finance/commodities-futures/rate-hike-views-yields-keep-gold-under-pressure-49c31f66",
-      "title": "Rate-Hike Views, Yields Keep Gold Under Pressure",
-      "content_text": "Rate-Hike Views, Yields Keep Gold Under Pressure",
-      "summary": "",
-      "date_published": "2026-09-16T00:40:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "d6b6f9539214b72a",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-slips-0-2-dragged-by-chip-related-stocks-7a92f368",
-      "title": "Nikkei Slips 0.2%, Dragged by Chip-Related Stocks",
-      "content_text": "Nikkei Slips 0.2%, Dragged by Chip-Related Stocks",
-      "summary": "",
-      "date_published": "2026-09-16T00:37:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "1767e6284a4a489c",
-      "url": "https://www.wsj.com/world/uk/this-english-village-is-threatening-to-quit-the-u-k-over-planned-asylum-camp-cd0d7610",
-      "title": "This English Village Is Threatening to Quit the U.K. Over Planned Asylum Camp",
-      "content_text": "This English Village Is Threatening to Quit the U.K. Over Planned Asylum Camp",
-      "summary": "",
-      "date_published": "2026-09-16T00:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "1e6cb687371e1d04",
-      "url": "https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846",
-      "title": "How a Chinese Hacking Firm Tapped AI to Supercharge Cyber-Spying",
-      "content_text": "How a Chinese Hacking Firm Tapped AI to Supercharge Cyber-Spying",
-      "summary": "",
-      "date_published": "2026-09-16T00:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "7d8e71bc40aa134c",
-      "url": "https://www.wsj.com/business/deals/brookfield-agrees-to-2-9-billion-acquisition-of-australias-reliance-ec8240d7",
-      "title": "Brookfield Agrees to $2.9 Billion Acquisition of Australia’s Reliance",
-      "content_text": "Brookfield Agrees to $2.9 Billion Acquisition of Australia’s Reliance",
-      "summary": "",
-      "date_published": "2026-09-15T23:55:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "4c61a28f43d44468",
-      "url": "https://www.wsj.com/business/american-businesses-have-no-idea-how-to-set-prices-right-now-061274e0",
-      "title": "American Businesses Have No Idea How to Set Prices Right Now",
-      "content_text": "American Businesses Have No Idea How to Set Prices Right Now",
-      "summary": "",
-      "date_published": "2026-09-15T23:30:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "61c0dc71c4e9fa51",
-      "url": "https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd",
-      "title": "Europe’s Most Valuable Startup Gave Data to a Scammer. Now It Faces a Shakedown.",
-      "content_text": "Europe’s Most Valuable Startup Gave Data to a Scammer. Now It Faces a Shakedown.",
-      "summary": "",
-      "date_published": "2026-09-15T23:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "8360bfdee2e3f17b",
-      "url": "https://www.wsj.com/articles/corrections-amplifications-8bad2cf3",
-      "title": "Corrections & Amplifications",
-      "content_text": "Corrections & Amplifications",
-      "summary": "",
-      "date_published": "2026-09-15T22:55:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "913073f5cb29bf83",
-      "url": "https://www.wsj.com/arts-culture/music/ed-sheerans-opening-acts-quit-in-solidarity-with-pro-palestinian-performer-6caa2034",
-      "title": "Ed Sheeran’s Opening Acts Quit in Solidarity With Pro-Palestinian Performer",
-      "content_text": "Ed Sheeran’s Opening Acts Quit in Solidarity With Pro-Palestinian Performer",
-      "summary": "",
-      "date_published": "2026-09-15T22:39:00+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]
