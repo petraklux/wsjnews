@@ -6,43 +6,274 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "c7e480583f8ad0fd",
-      "url": "https://www.wsj.com/news/business/small-business-marketing",
-      "title": "Small business marketing",
-      "content_text": "Small business marketing",
+      "id": "8a457995bfa25ad0",
+      "url": "https://www.wsj.com/opinion/troubling-times-at-the-jewish-museum-berlin-7f2c8216",
+      "title": "Troubling Times at the Jewish Museum Berlin",
+      "content_text": "Troubling Times at the Jewish Museum Berlin",
       "summary": "",
-      "date_published": "2026-09-18T18:00:19+00:00",
+      "date_published": "2026-09-18T21:08:00+00:00",
       "tags": [
-        "News"
+        "Opinion"
       ]
     },
     {
-      "id": "a2c51ea641c8e80c",
-      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
-      "title": "Economic forecasting survey archive",
-      "content_text": "Economic forecasting survey archive",
+      "id": "a61ca4a447f08309",
+      "url": "https://www.wsj.com/politics/rfk-jr-got-free-flights-to-fiji-and-greece-from-a-top-donor-e4b8d525",
+      "title": "RFK Jr. Got Free Flights to Fiji and Greece From a Top Donor",
+      "content_text": "RFK Jr. Got Free Flights to Fiji and Greece From a Top Donor",
       "summary": "",
-      "date_published": "2026-09-18T18:00:19+00:00",
+      "date_published": "2026-09-18T21:03:00+00:00",
       "tags": [
-        "Economy"
+        "Politics"
       ]
     },
     {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
+      "id": "0a8e2feba99ae202",
+      "url": "https://www.wsj.com/games/crosswords/guest-workers-032c574a",
+      "title": "Guest Workers",
+      "content_text": "Guest Workers",
       "summary": "",
-      "date_published": "2026-09-18T18:00:19+00:00",
+      "date_published": "2026-09-18T20:50:00+00:00",
       "tags": [
-        "News"
+        "Games"
       ]
     },
     {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
+      "id": "17e78b24676bf520",
+      "url": "https://www.wsj.com/business/nvidia-backed-cloud-startup-nscale-files-for-ipo-2622ca12",
+      "title": "Nvidia-Backed Cloud Startup Nscale Files for IPO",
+      "content_text": "Nvidia-Backed Cloud Startup Nscale Files for IPO",
+      "summary": "",
+      "date_published": "2026-09-18T20:39:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "2962ca3c19855a59",
+      "url": "https://www.wsj.com/finance/stocks/buffett-hands-berkshire-chairmans-seat-to-son-howard-bd424456",
+      "title": "Buffett Hands Berkshire Chairman’s Seat to Son Howard",
+      "content_text": "Buffett Hands Berkshire Chairman’s Seat to Son Howard",
+      "summary": "",
+      "date_published": "2026-09-18T20:31:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "92c14a01cf901935",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-inflation-trepidation-offsets-ai-optimism-36053264",
+      "title": "U.S. Stocks Mixed as Inflation Trepidation Offsets AI Optimism",
+      "content_text": "U.S. Stocks Mixed as Inflation Trepidation Offsets AI Optimism",
+      "summary": "",
+      "date_published": "2026-09-18T20:29:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "baab75c0a4d0ecdc",
+      "url": "https://www.wsj.com/finance/lakers-buyers-lay-out-plans-to-reach-30-billion-valuation-in-pitch-to-investors-66945709",
+      "title": "Lakers Buyers Lay Out Plans to Reach $30 Billion Valuation in Pitch to Investors",
+      "content_text": "Lakers Buyers Lay Out Plans to Reach $30 Billion Valuation in Pitch to Investors",
+      "summary": "",
+      "date_published": "2026-09-18T20:27:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "5fdf61454226b617",
+      "url": "https://www.wsj.com/opinion/you-probably-have-the-iran-war-backward-61be55ea",
+      "title": "You Probably Have the Iran War Backward",
+      "content_text": "You Probably Have the Iran War Backward",
+      "summary": "",
+      "date_published": "2026-09-18T20:26:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "da65a44166747013",
+      "url": "https://www.wsj.com/opinion/ai-get-thee-to-an-ipo-855cab5b",
+      "title": "AI, Get Thee to an IPO!",
+      "content_text": "AI, Get Thee to an IPO!",
+      "summary": "",
+      "date_published": "2026-09-18T20:26:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "6e148cc35ca9a1c4",
+      "url": "https://www.wsj.com/articles/the-cherry-orchard-review-chekhov-speaks-korean-5064641a",
+      "title": "‘The Cherry Orchard’ Review: Chekhov Speaks Korean",
+      "content_text": "‘The Cherry Orchard’ Review: Chekhov Speaks Korean",
+      "summary": "",
+      "date_published": "2026-09-18T20:25:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "ec8532b7eb4b8c4a",
+      "url": "https://www.wsj.com/opinion/im-learning-to-look-again-861f9fef",
+      "title": "I’m Learning to Look Again",
+      "content_text": "I’m Learning to Look Again",
+      "summary": "",
+      "date_published": "2026-09-18T20:10:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "ee9c99587a9e496f",
+      "url": "https://www.wsj.com/finance/currencies/stablecoin-company-for-big-business-gets-a-conditional-banking-license-d457ed5d",
+      "title": "Stablecoin Company for Big Business Gets a Conditional Banking License",
+      "content_text": "Stablecoin Company for Big Business Gets a Conditional Banking License",
+      "summary": "",
+      "date_published": "2026-09-18T20:05:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "b113b909a0c6f035",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/2-year-yield-hits-highest-level-since-2024-56hR1p9TrE4z0lTSqFOq",
+      "title": "2-Year Yield Hits Highest Level Since 2024",
+      "content_text": "2-Year Yield Hits Highest Level Since 2024",
+      "summary": "",
+      "date_published": "2026-09-18T20:04:36+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "39edcb73ac714b73",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/preschool-teachers-and-child-care-workers-win-new-tax-break-HJsW3PSk1L2Ake3cjuQk",
+      "title": "Preschool Teachers and Child Care Workers Win New Tax Break",
+      "content_text": "Preschool Teachers and Child Care Workers Win New Tax Break",
+      "summary": "",
+      "date_published": "2026-09-18T19:42:43+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "6439f77ce4aa9776",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/its-hard-to-build-a-home-for-under-1-millionbut-it-isnt-impossible-4481e565",
+      "title": "It’s Hard to Build a Home for Under $1 Million—But It Isn’t Impossible",
+      "content_text": "It’s Hard to Build a Home for Under $1 Million—But It Isn’t Impossible",
+      "summary": "",
+      "date_published": "2026-09-18T19:25:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "0149ba1f73810701",
+      "url": "https://www.wsj.com/science/space-astronomy/nasa-in-talks-for-boeings-starliner-to-handle-new-missions-5726e1e5",
+      "title": "NASA in Talks for Boeing’s Starliner to Handle New Missions",
+      "content_text": "NASA in Talks for Boeing’s Starliner to Handle New Missions",
+      "summary": "",
+      "date_published": "2026-09-18T19:20:00+00:00",
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "id": "ef8e85c0b6c283ff",
+      "url": "https://www.wsj.com/politics/policy/trump-says-he-is-banning-cnn-ms-now-and-politico-from-the-white-house-af680f1b",
+      "title": "Trump Says He Is Banning CNN, MS NOW and Politico From the White House",
+      "content_text": "Trump Says He Is Banning CNN, MS NOW and Politico From the White House",
+      "summary": "",
+      "date_published": "2026-09-18T19:17:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "650993b251ae18a1",
+      "url": "https://www.wsj.com/business/autos/automakers-urge-trump-not-to-allow-chinese-cars-into-u-s-ahead-of-xi-summit-61bbcf86",
+      "title": "Automakers Urge Trump Not to Allow Chinese Cars Into U.S. Ahead of Xi Summit",
+      "content_text": "Automakers Urge Trump Not to Allow Chinese Cars Into U.S. Ahead of Xi Summit",
+      "summary": "",
+      "date_published": "2026-09-18T19:06:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "f72c7f0cb463028a",
+      "url": "https://www.wsj.com/business/autos/canada-ready-to-clawback-stellantis-cash-unless-production-resumes-at-toronto-area-factory-1217b3f1",
+      "title": "Canada Ready to Clawback Stellantis Cash Unless Production Resumes at Toronto-Area Factory",
+      "content_text": "Canada Ready to Clawback Stellantis Cash Unless Production Resumes at Toronto-Area Factory",
+      "summary": "",
+      "date_published": "2026-09-18T19:01:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "d5b9e991e0181d71",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/geometric-home-texas-hill-country-e77324b1",
+      "title": "House of the Week: A Curved Texas Home With A Fan-Shaped Roof",
+      "content_text": "House of the Week: A Curved Texas Home With A Fan-Shaped Roof",
+      "summary": "",
+      "date_published": "2026-09-18T19:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "4502b6579ba4fd74",
+      "url": "https://www.wsj.com/world/russia/why-russia-is-holding-an-election-when-voters-know-the-result-169acf43",
+      "title": "Why Russia Is Holding an Election When Voters Know the Result",
+      "content_text": "Why Russia Is Holding an Election When Voters Know the Result",
+      "summary": "",
+      "date_published": "2026-09-18T18:34:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "4fceced5fed51221",
+      "url": "https://www.wsj.com/lifestyle/remembering-windows-on-the-world-4262982b",
+      "title": "Weddings, Dates and the Best Scotch: How Readers Remember Windows on the World",
+      "content_text": "Weddings, Dates and the Best Scotch: How Readers Remember Windows on the World",
+      "summary": "",
+      "date_published": "2026-09-18T18:30:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "5ab1432fb318d535",
+      "url": "https://www.wsj.com/arts-culture/books/14-books-we-read-this-week-248bd83d",
+      "title": "14 Books We Read This Week",
+      "content_text": "14 Books We Read This Week",
+      "summary": "",
+      "date_published": "2026-09-18T18:22:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "c5d5d5417a7de379",
+      "url": "https://www.wsj.com/business/retail/exclusive-faire-won-over-main-street-now-it-wants-to-woo-wall-street-524fc733",
+      "title": "Faire Won Over Main Street. Now it Wants to Woo Wall Street.",
+      "content_text": "Faire Won Over Main Street. Now it Wants to Woo Wall Street.",
+      "summary": "",
+      "date_published": "2026-09-18T18:21:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
       "summary": "",
       "date_published": "2026-09-18T18:00:19+00:00",
       "tags": [
@@ -61,32 +292,10 @@
       ]
     },
     {
-      "id": "dea6ec2569a2d42b",
-      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
-      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "summary": "",
-      "date_published": "2026-09-18T18:00:19+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "6cf8b3cf7c4b5fd3",
-      "url": "https://www.wsj.com/news/types/cultural-conversation",
-      "title": "Cultural conversation",
-      "content_text": "Cultural conversation",
-      "summary": "",
-      "date_published": "2026-09-18T18:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
       "summary": "",
       "date_published": "2026-09-18T18:00:19+00:00",
       "tags": [
@@ -102,6 +311,61 @@
       "date_published": "2026-09-18T18:00:19+00:00",
       "tags": [
         "News"
+      ]
+    },
+    {
+      "id": "6cf8b3cf7c4b5fd3",
+      "url": "https://www.wsj.com/news/types/cultural-conversation",
+      "title": "Cultural conversation",
+      "content_text": "Cultural conversation",
+      "summary": "",
+      "date_published": "2026-09-18T18:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-09-18T18:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-09-18T18:00:19+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
+      "summary": "",
+      "date_published": "2026-09-18T18:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "dea6ec2569a2d42b",
+      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
+      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "summary": "",
+      "date_published": "2026-09-18T18:00:19+00:00",
+      "tags": [
+        "Arts Culture"
       ]
     },
     {
@@ -292,6 +556,17 @@
       ]
     },
     {
+      "id": "f34a406c387693d0",
+      "url": "https://www.wsj.com/arts-culture/books/shadow-before-the-flame-review-when-the-airship-exploded-ae9ecf88",
+      "title": "‘Shadow Before the Flame’ Review: When the Airship Exploded",
+      "content_text": "‘Shadow Before the Flame’ Review: When the Airship Exploded",
+      "summary": "",
+      "date_published": "2026-09-18T15:35:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
       "id": "44857abc8247d9bc",
       "url": "https://www.wsj.com/arts-culture/books/the-age-of-cures-review-what-the-chemist-ordered-9bfa5e41",
       "title": "‘The Age of Cures’ Review: What the Chemist Ordered",
@@ -432,6 +707,17 @@
       "date_published": "2026-09-18T14:52:00+00:00",
       "tags": [
         "Opinion"
+      ]
+    },
+    {
+      "id": "1dbbdae891d91f76",
+      "url": "https://www.wsj.com/arts-culture/books/the-battle-of-hengyang-review-the-fight-the-world-forgot-138028ed",
+      "title": "‘The Battle of Hengyang’ Review: The Fight the World Forgot",
+      "content_text": "‘The Battle of Hengyang’ Review: The Fight the World Forgot",
+      "summary": "",
+      "date_published": "2026-09-18T14:52:00+00:00",
+      "tags": [
+        "Arts Culture"
       ]
     },
     {
@@ -1917,292 +2203,6 @@
       "date_published": "2026-09-17T15:51:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "a1229a6c6974c860",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026/card/what-s-moving-markets-today--5HPobQmWmcp8LCOoKw9p",
-      "title": "What’s Moving Markets Today?",
-      "content_text": "What’s Moving Markets Today?",
-      "summary": "",
-      "date_published": "2026-09-17T15:50:12+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "462633a80ae54bb9",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026/card/chili-s-gearing-up-for-battle-with-taco-bell-szVswB7CntKtgwd7QwbU",
-      "title": "Chili’s Gearing Up for Battle With Taco Bell",
-      "content_text": "Chili’s Gearing Up for Battle With Taco Bell",
-      "summary": "",
-      "date_published": "2026-09-17T15:45:29+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "1f8074a5b2b03397",
-      "url": "https://www.wsj.com/economy/market-humanism-nick-hanauer-fba8b428",
-      "title": "America Made Me Very Rich. There’s a Pro-Market Way to Give Back.",
-      "content_text": "America Made Me Very Rich. There’s a Pro-Market Way to Give Back.",
-      "summary": "",
-      "date_published": "2026-09-17T15:31:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "cc7ed088751709d4",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026/card/costco-ramps-up-same-day-delivery-expanding-uber-doordash-partnerships-c875FZ3TXUcETeF3KlAA",
-      "title": "Costco Ramps Up Same-Day Delivery, Expanding Uber, DoorDash Partnerships",
-      "content_text": "Costco Ramps Up Same-Day Delivery, Expanding Uber, DoorDash Partnerships",
-      "summary": "",
-      "date_published": "2026-09-17T14:47:36+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "735c73349a88dc18",
-      "url": "https://www.wsj.com/business/hospitality/ftc-requests-additional-information-regarding-fertitta-caesars-merger-5af7103d",
-      "title": "FTC Requests Additional Information Regarding Fertitta, Caesars Merger",
-      "content_text": "FTC Requests Additional Information Regarding Fertitta, Caesars Merger",
-      "summary": "",
-      "date_published": "2026-09-17T14:40:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "32ac6032431d0c2e",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026/card/mark-walter-sued-by-class-action-lawyer-in-florida-IXCkAf6FxRBQeOquxtZ0",
-      "title": "Mark Walter Sued by Class Action Lawyer in Florida",
-      "content_text": "Mark Walter Sued by Class Action Lawyer in Florida",
-      "summary": "",
-      "date_published": "2026-09-17T14:36:20+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "e4af0ff69cbd651e",
-      "url": "https://www.wsj.com/arts-culture/books/the-25th-hour-review-mind-over-meetings-8a7de8d3",
-      "title": "‘The 25th Hour’ Review: Mind Over Meetings",
-      "content_text": "‘The 25th Hour’ Review: Mind Over Meetings",
-      "summary": "",
-      "date_published": "2026-09-17T14:27:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "5383556c55c91f8c",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026/card/securitize-surges-after-sec-clears-path-for-tokenized-stock-trading-2RG79FXCRlYNM2gDEwqw",
-      "title": "Securitize Surges After SEC Clears Path for Tokenized Stock Trading",
-      "content_text": "Securitize Surges After SEC Clears Path for Tokenized Stock Trading",
-      "summary": "",
-      "date_published": "2026-09-17T14:24:13+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "4996dda7d9eb728b",
-      "url": "https://www.wsj.com/politics/johnson-house-representatives-early-dismissal-008d44fb",
-      "title": "House Leaves Early for Campaign Trail, Reigniting Debate Over Work Ethic",
-      "content_text": "House Leaves Early for Campaign Trail, Reigniting Debate Over Work Ethic",
-      "summary": "",
-      "date_published": "2026-09-17T14:23:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "8e228be77002d3cd",
-      "url": "https://www.wsj.com/tech/ai/king-charles-iii-urges-ai-chiefs-to-stop-tech-going-rogue-2c562659",
-      "title": "King Charles III Urges AI Chiefs to Stop Tech Going Rogue",
-      "content_text": "King Charles III Urges AI Chiefs to Stop Tech Going Rogue",
-      "summary": "",
-      "date_published": "2026-09-17T14:23:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "efe10fa2f6b6e711",
-      "url": "https://www.wsj.com/finance/investing/rising-rates-will-make-private-equitys-bad-year-a-lot-worse-255daf59",
-      "title": "Rising Rates Will Make Private Equity’s Bad Year a Lot Worse",
-      "content_text": "Rising Rates Will Make Private Equity’s Bad Year a Lot Worse",
-      "summary": "",
-      "date_published": "2026-09-17T14:16:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "356bb4a691acefc3",
-      "url": "https://www.wsj.com/business/energy-oil/barrels-of-sake-and-rooftop-galas-energy-traders-toast-the-war-boom-5b4bdb1c",
-      "title": "Barrels of Sake and Rooftop Galas: Energy Traders Toast the War Boom",
-      "content_text": "Barrels of Sake and Rooftop Galas: Energy Traders Toast the War Boom",
-      "summary": "",
-      "date_published": "2026-09-17T14:03:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "444093579d7e4c10",
-      "url": "https://www.wsj.com/world/europe/canada-mark-carney-european-union-a515b2a4",
-      "title": "Carney Puts His Pivot Away From the U.S. to the Test",
-      "content_text": "Carney Puts His Pivot Away From the U.S. to the Test",
-      "summary": "",
-      "date_published": "2026-09-17T14:02:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "fa1ac5e98077038f",
-      "url": "https://www.wsj.com/health/wellness/patient-portal-healthcare-wsj-readers-61b65ec7",
-      "title": "Are Patient Portals a Blessing or a Curse? WSJ Readers Weigh In",
-      "content_text": "Are Patient Portals a Blessing or a Curse? WSJ Readers Weigh In",
-      "summary": "",
-      "date_published": "2026-09-17T14:00:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "97bfcc49827a9388",
-      "url": "https://www.wsj.com/arts-culture/books/the-invisible-list-review-goals-for-downtime-9dbd51a0",
-      "title": "‘The Invisible List’ Review: Goals for Downtime",
-      "content_text": "‘The Invisible List’ Review: Goals for Downtime",
-      "summary": "",
-      "date_published": "2026-09-17T13:55:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "66083d20c6fb3645",
-      "url": "https://www.wsj.com/cmo-today/retail-chatbots-draw-lawmaker-pushback-over-product-origins-98467f76",
-      "title": "Retail Chatbots Draw Lawmaker Pushback Over Product Origins",
-      "content_text": "Retail Chatbots Draw Lawmaker Pushback Over Product Origins",
-      "summary": "",
-      "date_published": "2026-09-17T13:49:00+00:00",
-      "tags": [
-        "Cmo Today"
-      ]
-    },
-    {
-      "id": "64b032ba4061d52f",
-      "url": "https://www.wsj.com/business/energy-oil/heres-what-the-world-is-doing-and-not-doing-to-stave-off-the-next-oil-shock-e8dc0ba6",
-      "title": "Here’s What the World Is Doing (and Not Doing) to Stave Off the Next Oil Shock",
-      "content_text": "Here’s What the World Is Doing (and Not Doing) to Stave Off the Next Oil Shock",
-      "summary": "",
-      "date_published": "2026-09-17T13:30:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "271aac9b8a9900be",
-      "url": "https://www.wsj.com/economy/canada-producer-prices-continue-to-increase-on-energy-costs-caede917",
-      "title": "Canada Producer Prices Continue to Increase on Energy Costs",
-      "content_text": "Canada Producer Prices Continue to Increase on Energy Costs",
-      "summary": "",
-      "date_published": "2026-09-17T13:23:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "a8c1e411022630e6",
-      "url": "https://www.wsj.com/cio-journal/ai-transformations-slow-march-and-one-giant-rewiring-itself-343177dd",
-      "title": "AI Transformation’s Slow March, and One Giant Rewiring Itself",
-      "content_text": "AI Transformation’s Slow March, and One Giant Rewiring Itself",
-      "summary": "",
-      "date_published": "2026-09-17T13:16:00+00:00",
-      "tags": [
-        "Cio Journal"
-      ]
-    },
-    {
-      "id": "1c7516fc12488773",
-      "url": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-tumbled-last-week-00f109ae",
-      "title": "U.S. Jobless Claims Tumbled Last Week",
-      "content_text": "U.S. Jobless Claims Tumbled Last Week",
-      "summary": "",
-      "date_published": "2026-09-17T13:00:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "483c0564a2191424",
-      "url": "https://www.wsj.com/business/autos/gm-to-produce-patriot-missile-parts-as-u-s-faces-critical-arms-shortage-c0f94101",
-      "title": "GM to Produce Patriot Missile Parts as U.S. Faces Critical Arms Shortage",
-      "content_text": "GM to Produce Patriot Missile Parts as U.S. Faces Critical Arms Shortage",
-      "summary": "",
-      "date_published": "2026-09-17T13:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "9b6b22425fc52b43",
-      "url": "https://www.wsj.com/finance/regulation/tokenized-stocks-get-u-s-regulators-green-light-to-come-ashore-c37d956f",
-      "title": "Tokenized Stocks Get U.S. Regulator’s Green Light to Come Ashore",
-      "content_text": "Tokenized Stocks Get U.S. Regulator’s Green Light to Come Ashore",
-      "summary": "",
-      "date_published": "2026-09-17T13:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "aa2f64d9c3fa9f4a",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/wenatchee-valley-washington-home-bffe68b0",
-      "title": "These Remote Workers Built a $861,000 Custom Home Without Blowing Their Budget",
-      "content_text": "These Remote Workers Built a $861,000 Custom Home Without Blowing Their Budget",
-      "summary": "",
-      "date_published": "2026-09-17T13:00:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "be5c624b4718efc7",
-      "url": "https://www.wsj.com/cio-journal/microsoft-is-preaching-ai-transformation-starting-with-itself-66cc4a81",
-      "title": "Microsoft Is Preaching AI Transformation, Starting With Itself",
-      "content_text": "Microsoft Is Preaching AI Transformation, Starting With Itself",
-      "summary": "",
-      "date_published": "2026-09-17T13:00:00+00:00",
-      "tags": [
-        "Cio Journal"
-      ]
-    },
-    {
-      "id": "cbcfda7b02c0fda7",
-      "url": "https://www.wsj.com/cmo-today/senators-ask-ftc-to-probe-walmart-and-amazon-over-bots-made-in-america-data-f239ebca",
-      "title": "Senators Ask FTC to Probe Walmart and Amazon Over Bots’ ‘Made in America’ Data",
-      "content_text": "Senators Ask FTC to Probe Walmart and Amazon Over Bots’ ‘Made in America’ Data",
-      "summary": "",
-      "date_published": "2026-09-17T13:00:00+00:00",
-      "tags": [
-        "Cmo Today"
-      ]
-    },
-    {
-      "id": "f34d7e2466f51518",
-      "url": "https://www.wsj.com/articles/number-puzzles-saturday-september-19-1878b1f3",
-      "title": "Number Puzzles (Saturday, September 19)",
-      "content_text": "Number Puzzles (Saturday, September 19)",
-      "summary": "",
-      "date_published": "2026-09-17T13:00:00+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
