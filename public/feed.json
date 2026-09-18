@@ -6,6 +6,127 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "02a394dde0e96564",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-worries-over-middle-east-supply-disruptions-ease-36be861a",
+      "title": "Oil Falls as Worries Over Middle East Supply Disruptions Ease",
+      "content_text": "Oil Falls as Worries Over Middle East Supply Disruptions Ease",
+      "summary": "",
+      "date_published": "2026-09-18T00:39:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "feac840ff09e531b",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-likely-supported-by-oil-pullback-0023a879",
+      "title": "Gold Rises, Likely Supported by Oil Pullback",
+      "content_text": "Gold Rises, Likely Supported by Oil Pullback",
+      "summary": "",
+      "date_published": "2026-09-18T00:19:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "ac4f6a931d917946",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-8-led-by-chip-related-stocks-2b0efbba",
+      "title": "Nikkei Rises 0.8%, Led by Chip-Related Stocks",
+      "content_text": "Nikkei Rises 0.8%, Led by Chip-Related Stocks",
+      "summary": "",
+      "date_published": "2026-09-18T00:14:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "443032fd5c181b80",
+      "url": "https://www.wsj.com/finance/currencies/christine-lagarde-helped-block-binances-foothold-in-europe-d905c86d",
+      "title": "Christine Lagarde Helped Block Binance’s Foothold in Europe",
+      "content_text": "Christine Lagarde Helped Block Binance’s Foothold in Europe",
+      "summary": "",
+      "date_published": "2026-09-18T00:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "21ff2e54c8019052",
+      "url": "https://www.wsj.com/politics/policy/how-warsh-raised-rates-without-drawing-trumps-ire-5b0063f0",
+      "title": "How Warsh Raised Rates Without Drawing Trump’s Ire",
+      "content_text": "How Warsh Raised Rates Without Drawing Trump’s Ire",
+      "summary": "",
+      "date_published": "2026-09-18T00:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "bbfb5b3a322ec73b",
+      "url": "https://www.wsj.com/articles/the-hope-theory-review-a-distinctly-american-magic-show-c8e159f7",
+      "title": "‘The Hope Theory’ Review: A Distinctly American Magic Show",
+      "content_text": "‘The Hope Theory’ Review: A Distinctly American Magic Show",
+      "summary": "",
+      "date_published": "2026-09-18T00:00:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "e718d0ce1b46b87e",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026/card/jana-partners-pushes-contact-lens-maker-cooper-to-replace-its-ceo-t55QnUCwX1WuTpvreQzw",
+      "title": "Jana Partners Pushes Contact-Lens Maker Cooper to Replace Its CEO",
+      "content_text": "Jana Partners Pushes Contact-Lens Maker Cooper to Replace Its CEO",
+      "summary": "",
+      "date_published": "2026-09-17T23:15:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "b204872126153d66",
+      "url": "https://www.wsj.com/us-news/red-and-blue-america-have-found-something-to-agree-on-flock-cameras-must-go-765cd0b2",
+      "title": "Red and Blue America Have Found Something to Agree On: Flock Cameras Must Go",
+      "content_text": "Red and Blue America Have Found Something to Agree On: Flock Cameras Must Go",
+      "summary": "",
+      "date_published": "2026-09-17T23:00:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "6de8edc2b146d0dd",
+      "url": "https://www.wsj.com/business/airlines/toxic-fume-complaints-ground-planes-from-airbus-venture-a86cdeab",
+      "title": "Toxic-Fume Complaints Ground Planes From Airbus Venture",
+      "content_text": "Toxic-Fume Complaints Ground Planes From Airbus Venture",
+      "summary": "",
+      "date_published": "2026-09-17T23:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "73050888b598b264",
+      "url": "https://www.wsj.com/business/deals/jana-partners-pushes-contact-lens-maker-cooper-to-replace-its-ceo-4a6f74ad",
+      "title": "Jana Partners Pushes Contact-Lens Maker Cooper to Replace Its CEO",
+      "content_text": "Jana Partners Pushes Contact-Lens Maker Cooper to Replace Its CEO",
+      "summary": "",
+      "date_published": "2026-09-17T23:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "8b31b0a2f8d1d31e",
+      "url": "https://www.wsj.com/tech/ai/tech-companies-staff-knew-their-ai-tools-posed-existential-threat-to-publishers-67ed8940",
+      "title": "Tech Companies’ Staff Knew Their AI Tools Posed ‘Existential Threat’ to Publishers",
+      "content_text": "Tech Companies’ Staff Knew Their AI Tools Posed ‘Existential Threat’ to Publishers",
+      "summary": "",
+      "date_published": "2026-09-17T22:43:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
       "id": "39be940e2a1848ec",
       "url": "https://www.wsj.com/opinion/remember-when-democrats-backed-ukraine-cc751e0c",
       "title": "Remember When Democrats Backed Ukraine?",
@@ -138,10 +259,10 @@
       ]
     },
     {
-      "id": "fa76d4670760ea55",
-      "url": "https://www.wsj.com/opinion/democrats-the-shutdown-party-38546f88",
-      "title": "Democrats: The Shutdown Party",
-      "content_text": "Democrats: The Shutdown Party",
+      "id": "69fa75bc9db68507",
+      "url": "https://www.wsj.com/opinion/there-are-no-atheists-on-third-and-long-8eb8fc8c",
+      "title": "There Are No Atheists on Third and Long",
+      "content_text": "There Are No Atheists on Third and Long",
       "summary": "",
       "date_published": "2026-09-17T21:17:00+00:00",
       "tags": [
@@ -149,10 +270,10 @@
       ]
     },
     {
-      "id": "69fa75bc9db68507",
-      "url": "https://www.wsj.com/opinion/there-are-no-atheists-on-third-and-long-8eb8fc8c",
-      "title": "There Are No Atheists on Third and Long",
-      "content_text": "There Are No Atheists on Third and Long",
+      "id": "fa76d4670760ea55",
+      "url": "https://www.wsj.com/opinion/democrats-the-shutdown-party-38546f88",
+      "title": "Democrats: The Shutdown Party",
+      "content_text": "Democrats: The Shutdown Party",
       "summary": "",
       "date_published": "2026-09-17T21:17:00+00:00",
       "tags": [
@@ -259,17 +380,6 @@
       ]
     },
     {
-      "id": "42880ebcdffaab9d",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/lake-washington-home-lists-for-71-million-5640f97d",
-      "title": "They Spent $50 Million Creating Their Own Four Seasons. Now It’s For Sale.",
-      "content_text": "They Spent $50 Million Creating Their Own Four Seasons. Now It’s For Sale.",
-      "summary": "",
-      "date_published": "2026-09-17T19:30:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
       "id": "1e2335ad021f7298",
       "url": "https://www.wsj.com/arts-culture/film/knife-the-attempted-murder-of-salman-rushdie-review-free-speech-and-survival-e4467600",
       "title": "‘Knife: The Attempted Murder of Salman Rushdie’ Review: Free Speech and Survival",
@@ -278,6 +388,17 @@
       "date_published": "2026-09-17T19:30:00+00:00",
       "tags": [
         "Arts Culture"
+      ]
+    },
+    {
+      "id": "42880ebcdffaab9d",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/lake-washington-home-lists-for-71-million-5640f97d",
+      "title": "They Spent $50 Million Creating Their Own Four Seasons. Now It’s For Sale.",
+      "content_text": "They Spent $50 Million Creating Their Own Four Seasons. Now It’s For Sale.",
+      "summary": "",
+      "date_published": "2026-09-17T19:30:00+00:00",
+      "tags": [
+        "Real Estate"
       ]
     },
     {
@@ -292,10 +413,10 @@
       ]
     },
     {
-      "id": "907958a8cb56d056",
-      "url": "https://www.wsj.com/opinion/development-banks-have-misplaced-priorities-9b4ade34",
-      "title": "Development Banks Have Misplaced Priorities",
-      "content_text": "Development Banks Have Misplaced Priorities",
+      "id": "8a5eaa66dcf410a6",
+      "url": "https://www.wsj.com/opinion/bring-back-state-led-corporate-governance-42f0c704",
+      "title": "Bring Back State-Led Corporate Governance",
+      "content_text": "Bring Back State-Led Corporate Governance",
       "summary": "",
       "date_published": "2026-09-17T19:25:00+00:00",
       "tags": [
@@ -303,10 +424,10 @@
       ]
     },
     {
-      "id": "8a5eaa66dcf410a6",
-      "url": "https://www.wsj.com/opinion/bring-back-state-led-corporate-governance-42f0c704",
-      "title": "Bring Back State-Led Corporate Governance",
-      "content_text": "Bring Back State-Led Corporate Governance",
+      "id": "907958a8cb56d056",
+      "url": "https://www.wsj.com/opinion/development-banks-have-misplaced-priorities-9b4ade34",
+      "title": "Development Banks Have Misplaced Priorities",
+      "content_text": "Development Banks Have Misplaced Priorities",
       "summary": "",
       "date_published": "2026-09-17T19:25:00+00:00",
       "tags": [
@@ -325,17 +446,6 @@
       ]
     },
     {
-      "id": "e85cd9ad19588fab",
-      "url": "https://www.wsj.com/opinion/american-ai-regulation-is-exactly-what-china-wants-bba5d688",
-      "title": "American AI Regulation Is Exactly What China Wants",
-      "content_text": "American AI Regulation Is Exactly What China Wants",
-      "summary": "",
-      "date_published": "2026-09-17T19:23:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
       "id": "1740ccd85651ea9e",
       "url": "https://www.wsj.com/opinion/higher-educations-real-test-67dea856",
       "title": "Higher Education’s Real Test",
@@ -347,14 +457,14 @@
       ]
     },
     {
-      "id": "dddcc875d54a49f5",
-      "url": "https://www.wsj.com/politics/corporate-donations-to-state-ags-are-setting-records-this-year-a92cf660",
-      "title": "Corporate Donations to State AGs Are Setting Records This Year",
-      "content_text": "Corporate Donations to State AGs Are Setting Records This Year",
+      "id": "e85cd9ad19588fab",
+      "url": "https://www.wsj.com/opinion/american-ai-regulation-is-exactly-what-china-wants-bba5d688",
+      "title": "American AI Regulation Is Exactly What China Wants",
+      "content_text": "American AI Regulation Is Exactly What China Wants",
       "summary": "",
-      "date_published": "2026-09-17T19:20:00+00:00",
+      "date_published": "2026-09-17T19:23:00+00:00",
       "tags": [
-        "Politics"
+        "Opinion"
       ]
     },
     {
@@ -366,6 +476,17 @@
       "date_published": "2026-09-17T19:20:00+00:00",
       "tags": [
         "Arts Culture"
+      ]
+    },
+    {
+      "id": "dddcc875d54a49f5",
+      "url": "https://www.wsj.com/politics/corporate-donations-to-state-ags-are-setting-records-this-year-a92cf660",
+      "title": "Corporate Donations to State AGs Are Setting Records This Year",
+      "content_text": "Corporate Donations to State AGs Are Setting Records This Year",
+      "summary": "",
+      "date_published": "2026-09-17T19:20:00+00:00",
+      "tags": [
+        "Politics"
       ]
     },
     {
@@ -2082,127 +2203,6 @@
       "date_published": "2026-09-16T20:05:00+00:00",
       "tags": [
         "Health"
-      ]
-    },
-    {
-      "id": "f54df10efe0f7adf",
-      "url": "https://www.wsj.com/opinion/americans-richer-than-ever-b9fc4949",
-      "title": "Americans Richer Than Ever",
-      "content_text": "Americans Richer Than Ever",
-      "summary": "",
-      "date_published": "2026-09-16T20:00:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "e042d440d9328b2a",
-      "url": "https://www.wsj.com/politics/policy/house-votes-to-hold-leon-black-in-contempt-of-congress-553113c0",
-      "title": "House Votes to Hold Leon Black in Contempt of Congress",
-      "content_text": "House Votes to Hold Leon Black in Contempt of Congress",
-      "summary": "",
-      "date_published": "2026-09-16T19:54:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "4d74d46ae1874245",
-      "url": "https://www.wsj.com/sports/football/bill-belichick-jordon-hudson-interview-fdb33b57",
-      "title": "Bill Belichick Is Back at UNC—and He Wants to Clear the Air About His Girlfriend",
-      "content_text": "Bill Belichick Is Back at UNC—and He Wants to Clear the Air About His Girlfriend",
-      "summary": "",
-      "date_published": "2026-09-16T19:35:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "6c36391cab91107a",
-      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/some-analysts-see-good-news-for-bonds-6mtFGhJGsTRcP7BRXBJz",
-      "title": "Some Analysts See Good News for Bonds",
-      "content_text": "Some Analysts See Good News for Bonds",
-      "summary": "",
-      "date_published": "2026-09-16T19:33:58+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "2b264fe87662194c",
-      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/how-today-s-rate-hike-hits-credit-card-debt-home-loans-savings-accounts-7YWSBnfOJKChDHHlB3JR",
-      "title": "How Today’s Rate Hike Hits Credit-Card Debt, Savings Accounts",
-      "content_text": "How Today’s Rate Hike Hits Credit-Card Debt, Savings Accounts",
-      "summary": "",
-      "date_published": "2026-09-16T19:32:18+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "631919f85eec06bd",
-      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/white-house-calls-rate-increase-rather-unfortunate--XmYSEiyZlYiGRWDinPeD",
-      "title": "White House Calls Rate Increase ‘Rather Unfortunate’",
-      "content_text": "White House Calls Rate Increase ‘Rather Unfortunate’",
-      "summary": "",
-      "date_published": "2026-09-16T19:31:32+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "71c46fcdb99fd7bb",
-      "url": "https://www.wsj.com/politics/policy/white-house-chief-of-staff-susie-wiles-says-she-is-cancer-free-88cb7a59",
-      "title": "White House Chief of Staff Susie Wiles Says She Is Cancer-Free",
-      "content_text": "White House Chief of Staff Susie Wiles Says She Is Cancer-Free",
-      "summary": "",
-      "date_published": "2026-09-16T19:31:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "247a10bdfbf80526",
-      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/traders-raise-odds-of-additional-rate-hikes-by-year-end-Tx280fvLvh5Q6Uk9PUuy",
-      "title": "Traders Raise Odds of Additional Rate Hikes by Year-End",
-      "content_text": "Traders Raise Odds of Additional Rate Hikes by Year-End",
-      "summary": "",
-      "date_published": "2026-09-16T19:26:39+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "a62e6040b0b35d47",
-      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/bank-stocks-tumbled-during-warsh-presser-yywHJk3OY9Dw4Tkz8uB7",
-      "title": "Bank Stocks Tumbled During Warsh Presser",
-      "content_text": "Bank Stocks Tumbled During Warsh Presser",
-      "summary": "",
-      "date_published": "2026-09-16T19:18:55+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "7840df11c5f12bac",
-      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/warsh-s-hawkish-tone-sends-stocks-bond-yields-lower-Iia3X7cEkZIaFSihUhwJ",
-      "title": "Warsh’s ‘Hawkish Tone’ Sends Stocks, Bonds Lower",
-      "content_text": "Warsh’s ‘Hawkish Tone’ Sends Stocks, Bonds Lower",
-      "summary": "",
-      "date_published": "2026-09-16T19:17:23+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "24e8e78688fffc71",
-      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/fed-s-warsh-says-interest-rates-aren-t-holding-economy-back-nXqzzqNkMdWmLQNFVBxi",
-      "title": "Fed’s Warsh Says Interest Rates Aren’t Holding Economy Back",
-      "content_text": "Fed’s Warsh Says Interest Rates Aren’t Holding Economy Back",
-      "summary": "",
-      "date_published": "2026-09-16T19:17:10+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
