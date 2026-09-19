@@ -6,6 +6,39 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "5b318f7d299f0ae3",
+      "url": "https://www.wsj.com/politics/elections/primaries-are-over-midterms-are-set-this-is-where-we-are-d16351cc",
+      "title": "Primaries Are Over. Midterms Are Set. This Is Where We Are.",
+      "content_text": "Primaries Are Over. Midterms Are Set. This Is Where We Are.",
+      "summary": "",
+      "date_published": "2026-09-19T19:11:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "a4ba32b67678b801",
+      "url": "https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f",
+      "title": "Trump Announces an ‘AI Force’ After Industry Sounded Alarm",
+      "content_text": "Trump Announces an ‘AI Force’ After Industry Sounded Alarm",
+      "summary": "",
+      "date_published": "2026-09-19T18:18:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "32635f3d0076cccc",
+      "url": "https://www.wsj.com/articles/the-next-frontier-for-autonomous-vehicles-is-burying-your-garbage-2955e3bc",
+      "title": "The Next Frontier For Autonomous Vehicles is Burying Your Garbage",
+      "content_text": "The Next Frontier For Autonomous Vehicles is Burying Your Garbage",
+      "summary": "",
+      "date_published": "2026-09-19T18:11:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "57f0e46f61a75293",
       "url": "https://www.wsj.com/world/europe/german-general-wins-top-nato-roleand-a-platform-to-warn-about-russia-fecf91c5",
       "title": "German General Wins Top NATO Role—and a Platform to Warn About Russia",
@@ -2168,39 +2201,6 @@
       "content_text": "The Sandbox at the End of the World",
       "summary": "",
       "date_published": "2026-09-17T21:51:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "45e7241e2b9171d3",
-      "url": "https://www.wsj.com/opinion/a-u-s-indictment-signals-an-emboldened-russia-12796f08",
-      "title": "A U.S. Indictment Signals an Emboldened Russia",
-      "content_text": "A U.S. Indictment Signals an Emboldened Russia",
-      "summary": "",
-      "date_published": "2026-09-17T21:48:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "d4c92bde61cc5e0d",
-      "url": "https://www.wsj.com/opinion/sanctions-bill-passes-house-lindsey-graham-russia-ukraine-donald-trump-6f5522cb",
-      "title": "Trump Gets New Power Against Putin",
-      "content_text": "Trump Gets New Power Against Putin",
-      "summary": "",
-      "date_published": "2026-09-17T21:47:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "f471c67eec25867b",
-      "url": "https://www.wsj.com/opinion/donald-trump-immigration-maria-elvira-salazar-gop-3ca29126",
-      "title": "An Immigration Warning to Trump From Rep. Salazar",
-      "content_text": "An Immigration Warning to Trump From Rep. Salazar",
-      "summary": "",
-      "date_published": "2026-09-17T21:43:00+00:00",
       "tags": [
         "Opinion"
       ]
