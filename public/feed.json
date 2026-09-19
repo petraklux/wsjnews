@@ -6,6 +6,94 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "26e9c8be63e99a91",
+      "url": "https://www.wsj.com/tech/howie-buffett-steps-in-to-preserve-what-his-father-built-5271efb3",
+      "title": "Howie Buffett Steps In to Preserve What His Father Built",
+      "content_text": "Howie Buffett Steps In to Preserve What His Father Built",
+      "summary": "",
+      "date_published": "2026-09-19T11:03:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "0dc18ce99a93b35a",
+      "url": "https://www.wsj.com/arts-culture/television/the-13-new-tv-shows-to-binge-this-fall-4f9bd656",
+      "title": "The 13 New TV Shows to Binge This Fall",
+      "content_text": "The 13 New TV Shows to Binge This Fall",
+      "summary": "",
+      "date_published": "2026-09-19T11:00:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "184f56b346934771",
+      "url": "https://www.wsj.com/tech/personal-tech/apple-iphone-18-pro-review-watch-2cfebb8e",
+      "title": "Apple’s Newest iPhones and Watches Just Hit Stores. Should You Upgrade?",
+      "content_text": "Apple’s Newest iPhones and Watches Just Hit Stores. Should You Upgrade?",
+      "summary": "",
+      "date_published": "2026-09-19T11:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "ccfcf27b1d62f29c",
+      "url": "https://www.wsj.com/tech/ai/sketchy-af-what-to-know-about-how-openai-staff-discussed-book-pirating-fdc788a1",
+      "title": "‘Sketchy AF’: What to Know About How OpenAI Staff Discussed Book-Pirating",
+      "content_text": "‘Sketchy AF’: What to Know About How OpenAI Staff Discussed Book-Pirating",
+      "summary": "",
+      "date_published": "2026-09-19T11:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "ca0026f01c875019",
+      "url": "https://www.wsj.com/arts-culture/fine-art/iris-van-herpen-sculpting-the-senses-review-fashioning-a-singular-world-5b4039dd",
+      "title": "‘Iris van Herpen: Sculpting the Senses’ Review: Fashioning a Singular World",
+      "content_text": "‘Iris van Herpen: Sculpting the Senses’ Review: Fashioning a Singular World",
+      "summary": "",
+      "date_published": "2026-09-19T11:00:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "c247b0c875115014",
+      "url": "https://www.wsj.com/articles/news-quiz-for-september-19-2026-07e49139",
+      "title": "News Quiz for September 19, 2026",
+      "content_text": "News Quiz for September 19, 2026",
+      "summary": "",
+      "date_published": "2026-09-19T10:00:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "651b7c3f3e924e02",
+      "url": "https://www.wsj.com/lifestyle/cars/2027-subaru-trailseeker-review-8de259d4",
+      "title": "The All-Electric Subaru That Practically Screams Toyota",
+      "content_text": "The All-Electric Subaru That Practically Screams Toyota",
+      "summary": "",
+      "date_published": "2026-09-19T09:30:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "2500c681e54f87f8",
+      "url": "https://www.wsj.com/finance/investing/dont-count-out-corporate-bonds-just-because-the-fed-is-raising-rates-de2e787a",
+      "title": "Don’t Count Out Corporate Bonds Just Because the Fed Is Raising Rates",
+      "content_text": "Don’t Count Out Corporate Bonds Just Because the Fed Is Raising Rates",
+      "summary": "",
+      "date_published": "2026-09-19T09:30:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "3b78d0b3722cecc1",
       "url": "https://www.wsj.com/opinion/pepperand-salt-31e25320",
       "title": "Pepper…and Salt",
@@ -39,17 +127,6 @@
       ]
     },
     {
-      "id": "90e718431a4a9b00",
-      "url": "https://www.wsj.com/world/europe/germanys-military-rebuild-is-making-its-neighbors-nervous-f7c0091e",
-      "title": "Germany’s Military Rebuild Is Making Its Neighbors Nervous",
-      "content_text": "Germany’s Military Rebuild Is Making Its Neighbors Nervous",
-      "summary": "",
-      "date_published": "2026-09-19T02:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
       "id": "514f917769ecf43a",
       "url": "https://www.wsj.com/politics/national-security/hegseth-is-trumps-untouchable-warriorbut-his-support-in-congress-is-slipping-a2ccdb21",
       "title": "Hegseth Is Trump’s Untouchable Warrior—But His Support in Congress Is Slipping",
@@ -58,6 +135,17 @@
       "date_published": "2026-09-19T02:00:00+00:00",
       "tags": [
         "Politics"
+      ]
+    },
+    {
+      "id": "90e718431a4a9b00",
+      "url": "https://www.wsj.com/world/europe/germanys-military-rebuild-is-making-its-neighbors-nervous-f7c0091e",
+      "title": "Germany’s Military Rebuild Is Making Its Neighbors Nervous",
+      "content_text": "Germany’s Military Rebuild Is Making Its Neighbors Nervous",
+      "summary": "",
+      "date_published": "2026-09-19T02:00:00+00:00",
+      "tags": [
+        "World"
       ]
     },
     {
@@ -2115,94 +2203,6 @@
       "date_published": "2026-09-17T21:15:00+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "7cca4804c37d13d4",
-      "url": "https://www.wsj.com/opinion/democrats-can-win-back-the-midwest-a6d00f5d",
-      "title": "Democrats Can Win Back the Midwest",
-      "content_text": "Democrats Can Win Back the Midwest",
-      "summary": "",
-      "date_published": "2026-09-17T21:07:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "ee5a1672e675d1a9",
-      "url": "https://www.wsj.com/lifestyle/travel/heidi-klum-berlin-a13cbcb9",
-      "title": "Heidi Klum’s Perfect Day in Berlin, From Döner Kebab to Berghain Nightclub",
-      "content_text": "Heidi Klum’s Perfect Day in Berlin, From Döner Kebab to Berghain Nightclub",
-      "summary": "",
-      "date_published": "2026-09-17T21:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "295a12c86a2e0211",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026",
-      "title": "Stock Market Today: Nasdaq Heads for Weekly Gain as AI Stocks Surge",
-      "content_text": "Stock Market Today: Nasdaq Heads for Weekly Gain as AI Stocks Surge",
-      "summary": "",
-      "date_published": "2026-09-17T20:45:31+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "80bc5b46f92e3671",
-      "url": "https://www.wsj.com/arts-culture/television/american-hostage-review-jon-hamm-plays-radio-host-to-a-kidnapping-193c91e1",
-      "title": "‘American Hostage’ Review: Jon Hamm Plays Radio Host to a Kidnapping",
-      "content_text": "‘American Hostage’ Review: Jon Hamm Plays Radio Host to a Kidnapping",
-      "summary": "",
-      "date_published": "2026-09-17T20:41:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "fbc1df7ce5173721",
-      "url": "https://www.wsj.com/finance/stocks/stocks-rally-shaking-off-feds-rate-hike-aebb2c0b",
-      "title": "Stocks Rally, Shaking Off Fed’s Rate Hike",
-      "content_text": "Stocks Rally, Shaking Off Fed’s Rate Hike",
-      "summary": "",
-      "date_published": "2026-09-17T20:36:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "d129217b8e241a4a",
-      "url": "https://www.wsj.com/arts-culture/television/joffrey-ballet-the-next-movement-review-forward-steps-on-pbs-80fd19d1",
-      "title": "‘Joffrey Ballet: The Next Movement’ Review: Forward Steps on PBS",
-      "content_text": "‘Joffrey Ballet: The Next Movement’ Review: Forward Steps on PBS",
-      "summary": "",
-      "date_published": "2026-09-17T20:24:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "225a129dcaeb4831",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-on-inflation-containment-hopes-4b45bf55",
-      "title": "U.S. Stocks Up on Hopes Rising Inflation, Oil Prices Are Now Contained",
-      "content_text": "U.S. Stocks Up on Hopes Rising Inflation, Oil Prices Are Now Contained",
-      "summary": "",
-      "date_published": "2026-09-17T20:22:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "52fadaed8f4d85d5",
-      "url": "https://www.wsj.com/business/seguso-family-murano-glassmakers-c57001f8",
-      "title": "The Italian Family Safeguarding 630 Years of Murano Glassmaking",
-      "content_text": "The Italian Family Safeguarding 630 Years of Murano Glassmaking",
-      "summary": "",
-      "date_published": "2026-09-17T20:00:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
