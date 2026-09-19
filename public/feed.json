@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "edeee60e9d4e699f",
+      "url": "https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba",
+      "title": "Refineries Are Now the Main Chokepoint for Global Energy Supplies",
+      "content_text": "Refineries Are Now the Main Chokepoint for Global Energy Supplies",
+      "summary": "",
+      "date_published": "2026-09-19T20:53:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "5b318f7d299f0ae3",
       "url": "https://www.wsj.com/politics/elections/primaries-are-over-midterms-are-set-this-is-where-we-are-d16351cc",
       "title": "Primaries Are Over. Midterms Are Set. This Is Where We Are.",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-09-17T22:00:00+00:00",
       "tags": [
         "Us News"
-      ]
-    },
-    {
-      "id": "4c40b7464393d50c",
-      "url": "https://www.wsj.com/opinion/the-sandbox-at-the-end-of-the-world-ec6809e7",
-      "title": "The Sandbox at the End of the World",
-      "content_text": "The Sandbox at the End of the World",
-      "summary": "",
-      "date_published": "2026-09-17T21:51:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
