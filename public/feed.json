@@ -6,6 +6,83 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "390743142829a762",
+      "url": "https://www.wsj.com/world/middle-east/air-attack-sets-fuel-depot-ablaze-at-airport-in-saudi-capital-8bcc439c",
+      "title": "Air Attack Sets Fuel Depot Ablaze at Airport in Saudi Capital",
+      "content_text": "Air Attack Sets Fuel Depot Ablaze at Airport in Saudi Capital",
+      "summary": "",
+      "date_published": "2026-09-19T14:18:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "afee54c3d24a0559",
+      "url": "https://www.wsj.com/world/middle-east/the-twin-sisters-facing-the-wrath-of-irans-crackdown-81adce68",
+      "title": "The Twin Sisters Facing the Wrath of Iran’s Crackdown",
+      "content_text": "The Twin Sisters Facing the Wrath of Iran’s Crackdown",
+      "summary": "",
+      "date_published": "2026-09-19T14:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "6bc14fc48b78cb1b",
+      "url": "https://www.wsj.com/politics/policy/ms-now-denied-entry-to-white-house-after-trump-ban-9c0cfaef",
+      "title": "MS NOW Denied Entry to White House After Trump Ban",
+      "content_text": "MS NOW Denied Entry to White House After Trump Ban",
+      "summary": "",
+      "date_published": "2026-09-19T13:56:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "6cfcab68b236fc20",
+      "url": "https://www.wsj.com/style/editors-letter-ari-emanuel-wrote-this-falls-must-read-dealmaking-memoir-bd1151e7",
+      "title": "Editor’s Letter: Ari Emanuel Wrote This Fall’s Must-Read Dealmaking Memoir",
+      "content_text": "Editor’s Letter: Ari Emanuel Wrote This Fall’s Must-Read Dealmaking Memoir",
+      "summary": "",
+      "date_published": "2026-09-19T12:25:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
+      "id": "5f2e3991eac7fa50",
+      "url": "https://www.wsj.com/tech/ai/nvidia-jensen-huang-resists-ai-slowdown-334a24e1",
+      "title": "Dario Says AI Should Slow Down. Jensen Wants to Go Full Steam Ahead.",
+      "content_text": "Dario Says AI Should Slow Down. Jensen Wants to Go Full Steam Ahead.",
+      "summary": "",
+      "date_published": "2026-09-19T12:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "3562086ad1fecfbb",
+      "url": "https://www.wsj.com/sports/football/the-hottest-spot-in-sports-this-weekend-is-oxford-miss-15caf2ec",
+      "title": "The Hottest Spot in Sports This Weekend is Oxford, Miss.",
+      "content_text": "The Hottest Spot in Sports This Weekend is Oxford, Miss.",
+      "summary": "",
+      "date_published": "2026-09-19T11:55:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "b8d20858553bb33e",
+      "url": "https://www.wsj.com/articles/hes-the-face-of-ai-doomsday-fears-8084f30a",
+      "title": "He’s the Face of AI Doomsday Fears",
+      "content_text": "He’s the Face of AI Doomsday Fears",
+      "summary": "",
+      "date_published": "2026-09-19T11:50:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "26e9c8be63e99a91",
       "url": "https://www.wsj.com/tech/howie-buffett-steps-in-to-preserve-what-his-father-built-5271efb3",
       "title": "Howie Buffett Steps In to Preserve What His Father Built",
@@ -39,17 +116,6 @@
       ]
     },
     {
-      "id": "ccfcf27b1d62f29c",
-      "url": "https://www.wsj.com/tech/ai/sketchy-af-what-to-know-about-how-openai-staff-discussed-book-pirating-fdc788a1",
-      "title": "‘Sketchy AF’: What to Know About How OpenAI Staff Discussed Book-Pirating",
-      "content_text": "‘Sketchy AF’: What to Know About How OpenAI Staff Discussed Book-Pirating",
-      "summary": "",
-      "date_published": "2026-09-19T11:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
       "id": "ca0026f01c875019",
       "url": "https://www.wsj.com/arts-culture/fine-art/iris-van-herpen-sculpting-the-senses-review-fashioning-a-singular-world-5b4039dd",
       "title": "‘Iris van Herpen: Sculpting the Senses’ Review: Fashioning a Singular World",
@@ -58,6 +124,17 @@
       "date_published": "2026-09-19T11:00:00+00:00",
       "tags": [
         "Arts Culture"
+      ]
+    },
+    {
+      "id": "ccfcf27b1d62f29c",
+      "url": "https://www.wsj.com/tech/ai/sketchy-af-what-to-know-about-how-openai-staff-discussed-book-pirating-fdc788a1",
+      "title": "‘Sketchy AF’: What to Know About How OpenAI Staff Discussed Book-Pirating",
+      "content_text": "‘Sketchy AF’: What to Know About How OpenAI Staff Discussed Book-Pirating",
+      "summary": "",
+      "date_published": "2026-09-19T11:00:00+00:00",
+      "tags": [
+        "Tech"
       ]
     },
     {
@@ -72,17 +149,6 @@
       ]
     },
     {
-      "id": "651b7c3f3e924e02",
-      "url": "https://www.wsj.com/lifestyle/cars/2027-subaru-trailseeker-review-8de259d4",
-      "title": "The All-Electric Subaru That Practically Screams Toyota",
-      "content_text": "The All-Electric Subaru That Practically Screams Toyota",
-      "summary": "",
-      "date_published": "2026-09-19T09:30:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
       "id": "2500c681e54f87f8",
       "url": "https://www.wsj.com/finance/investing/dont-count-out-corporate-bonds-just-because-the-fed-is-raising-rates-de2e787a",
       "title": "Don’t Count Out Corporate Bonds Just Because the Fed Is Raising Rates",
@@ -91,6 +157,17 @@
       "date_published": "2026-09-19T09:30:00+00:00",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "651b7c3f3e924e02",
+      "url": "https://www.wsj.com/lifestyle/cars/2027-subaru-trailseeker-review-8de259d4",
+      "title": "The All-Electric Subaru That Practically Screams Toyota",
+      "content_text": "The All-Electric Subaru That Practically Screams Toyota",
+      "summary": "",
+      "date_published": "2026-09-19T09:30:00+00:00",
+      "tags": [
+        "Lifestyle"
       ]
     },
     {
@@ -2126,83 +2203,6 @@
       "date_published": "2026-09-17T21:36:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "a74c1a0a2463eb75",
-      "url": "https://www.wsj.com/finance/investing/the-s-p-500-and-nasdaq-post-biggest-gains-in-six-weeks-d3ccd84e",
-      "title": "The S&P 500 and Nasdaq Post Biggest Gains in Six Weeks",
-      "content_text": "The S&P 500 and Nasdaq Post Biggest Gains in Six Weeks",
-      "summary": "",
-      "date_published": "2026-09-17T21:34:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "0aadc525998a9ba6",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026/card/rally-in-tech-stocks-brings-relief-to-investors-At4QQRPN9Hw4TEsuyaAu",
-      "title": "Rally in Tech Stocks Brings Relief to Investors",
-      "content_text": "Rally in Tech Stocks Brings Relief to Investors",
-      "summary": "",
-      "date_published": "2026-09-17T21:33:10+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "d7fe05ce2e7bd2a4",
-      "url": "https://www.wsj.com/finance/stocks/investors-come-back-to-ai-stocks-snapping-market-out-of-inflation-gloom-a7690ce5",
-      "title": "Investors Come Back to AI Stocks, Snapping Market Out of Inflation Gloom",
-      "content_text": "Investors Come Back to AI Stocks, Snapping Market Out of Inflation Gloom",
-      "summary": "",
-      "date_published": "2026-09-17T21:18:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "69fa75bc9db68507",
-      "url": "https://www.wsj.com/opinion/there-are-no-atheists-on-third-and-long-8eb8fc8c",
-      "title": "There Are No Atheists on Third and Long",
-      "content_text": "There Are No Atheists on Third and Long",
-      "summary": "",
-      "date_published": "2026-09-17T21:17:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "fa76d4670760ea55",
-      "url": "https://www.wsj.com/opinion/democrats-the-shutdown-party-38546f88",
-      "title": "Democrats: The Shutdown Party",
-      "content_text": "Democrats: The Shutdown Party",
-      "summary": "",
-      "date_published": "2026-09-17T21:17:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "8aa2708e2dd6e437",
-      "url": "https://www.wsj.com/opinion/new-mexicos-joke-police-a4879a82",
-      "title": "New Mexico’s Joke Police",
-      "content_text": "New Mexico’s Joke Police",
-      "summary": "",
-      "date_published": "2026-09-17T21:16:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "cd32f52f5fbe113a",
-      "url": "https://www.wsj.com/arts-culture/music/gustavo-dudamels-musical-renewal-of-the-new-york-philharmonic-b1e55264",
-      "title": "Gustavo Dudamel’s Musical Renewal of the New York Philharmonic",
-      "content_text": "Gustavo Dudamel’s Musical Renewal of the New York Philharmonic",
-      "summary": "",
-      "date_published": "2026-09-17T21:15:00+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]
