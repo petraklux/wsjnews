@@ -6,6 +6,61 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "3b78d0b3722cecc1",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-31e25320",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-09-19T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "0aecb51f28f293e2",
+      "url": "https://www.wsj.com/articles/whats-news-worldwide-06b6d912",
+      "title": "What’s News: Worldwide",
+      "content_text": "What’s News: Worldwide",
+      "summary": "",
+      "date_published": "2026-09-19T02:53:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "3dba607bf8f2649b",
+      "url": "https://www.wsj.com/articles/whats-news-business-finance-2240e34a",
+      "title": "What’s News: Business & Finance",
+      "content_text": "What’s News: Business & Finance",
+      "summary": "",
+      "date_published": "2026-09-19T02:46:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "90e718431a4a9b00",
+      "url": "https://www.wsj.com/world/europe/germanys-military-rebuild-is-making-its-neighbors-nervous-f7c0091e",
+      "title": "Germany’s Military Rebuild Is Making Its Neighbors Nervous",
+      "content_text": "Germany’s Military Rebuild Is Making Its Neighbors Nervous",
+      "summary": "",
+      "date_published": "2026-09-19T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "514f917769ecf43a",
+      "url": "https://www.wsj.com/politics/national-security/hegseth-is-trumps-untouchable-warriorbut-his-support-in-congress-is-slipping-a2ccdb21",
+      "title": "Hegseth Is Trump’s Untouchable Warrior—But His Support in Congress Is Slipping",
+      "content_text": "Hegseth Is Trump’s Untouchable Warrior—But His Support in Congress Is Slipping",
+      "summary": "",
+      "date_published": "2026-09-19T02:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "6b26d61b91e67599",
       "url": "https://www.wsj.com/articles/corrections-amplifications-61d96d22",
       "title": "Corrections & Amplifications",
@@ -61,17 +116,6 @@
       ]
     },
     {
-      "id": "e826c215b467e6cf",
-      "url": "https://www.wsj.com/lifestyle/relationships/childhood-psychology-anxiety-phones-common-core-peter-gray-88c92394",
-      "title": "Are Phones Really to Blame for the Rise in Childhood Anxiety?",
-      "content_text": "Are Phones Really to Blame for the Rise in Childhood Anxiety?",
-      "summary": "",
-      "date_published": "2026-09-19T00:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
       "id": "d3d87d048704c390",
       "url": "https://www.wsj.com/health/pharma/patients-sue-glp-1-drugmakers-over-risk-of-sudden-vision-loss-f60d7acb",
       "title": "Patients Sue GLP-1 Drugmakers Over Risk of Sudden Vision Loss",
@@ -80,6 +124,17 @@
       "date_published": "2026-09-19T00:00:00+00:00",
       "tags": [
         "Health"
+      ]
+    },
+    {
+      "id": "e826c215b467e6cf",
+      "url": "https://www.wsj.com/lifestyle/relationships/childhood-psychology-anxiety-phones-common-core-peter-gray-88c92394",
+      "title": "Are Phones Really to Blame for the Rise in Childhood Anxiety?",
+      "content_text": "Are Phones Really to Blame for the Rise in Childhood Anxiety?",
+      "summary": "",
+      "date_published": "2026-09-19T00:00:00+00:00",
+      "tags": [
+        "Lifestyle"
       ]
     },
     {
@@ -2148,61 +2203,6 @@
       "date_published": "2026-09-17T20:00:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "1e2335ad021f7298",
-      "url": "https://www.wsj.com/arts-culture/film/knife-the-attempted-murder-of-salman-rushdie-review-free-speech-and-survival-e4467600",
-      "title": "‘Knife: The Attempted Murder of Salman Rushdie’ Review: Free Speech and Survival",
-      "content_text": "‘Knife: The Attempted Murder of Salman Rushdie’ Review: Free Speech and Survival",
-      "summary": "",
-      "date_published": "2026-09-17T19:30:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "42880ebcdffaab9d",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/lake-washington-home-lists-for-71-million-5640f97d",
-      "title": "They Spent $50 Million Creating Their Own Four Seasons. Now It’s For Sale.",
-      "content_text": "They Spent $50 Million Creating Their Own Four Seasons. Now It’s For Sale.",
-      "summary": "",
-      "date_published": "2026-09-17T19:30:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "c62b1a2deb01172f",
-      "url": "https://www.wsj.com/arts-culture/books/sugar-coated-review-the-sweetest-meal-of-the-day-5ffb59f5",
-      "title": "‘Sugar Coated’ Review: The Sweetest Meal of the Day",
-      "content_text": "‘Sugar Coated’ Review: The Sweetest Meal of the Day",
-      "summary": "",
-      "date_published": "2026-09-17T19:29:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "8a5eaa66dcf410a6",
-      "url": "https://www.wsj.com/opinion/bring-back-state-led-corporate-governance-42f0c704",
-      "title": "Bring Back State-Led Corporate Governance",
-      "content_text": "Bring Back State-Led Corporate Governance",
-      "summary": "",
-      "date_published": "2026-09-17T19:25:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "907958a8cb56d056",
-      "url": "https://www.wsj.com/opinion/development-banks-have-misplaced-priorities-9b4ade34",
-      "title": "Development Banks Have Misplaced Priorities",
-      "content_text": "Development Banks Have Misplaced Priorities",
-      "summary": "",
-      "date_published": "2026-09-17T19:25:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
