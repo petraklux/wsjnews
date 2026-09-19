@@ -6,6 +6,83 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "6b26d61b91e67599",
+      "url": "https://www.wsj.com/articles/corrections-amplifications-61d96d22",
+      "title": "Corrections & Amplifications",
+      "content_text": "Corrections & Amplifications",
+      "summary": "",
+      "date_published": "2026-09-19T01:23:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "3da204cdee8e8547",
+      "url": "https://www.wsj.com/business/law-firms-retirement-incentives-packages-1e9bccbd",
+      "title": "Law Firms Have a Big Problem: Senior Partners Aren’t Retiring",
+      "content_text": "Law Firms Have a Big Problem: Senior Partners Aren’t Retiring",
+      "summary": "",
+      "date_published": "2026-09-19T01:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "cac7c95b74dcf803",
+      "url": "https://www.wsj.com/politics/elections/republicans-in-tough-races-are-tip-toeing-away-from-trump-374ddd4f",
+      "title": "Republicans in Tough Races Are Tip-Toeing Away From Trump",
+      "content_text": "Republicans in Tough Races Are Tip-Toeing Away From Trump",
+      "summary": "",
+      "date_published": "2026-09-19T01:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "2315d916c1c3417f",
+      "url": "https://www.wsj.com/world/americas/inside-machados-plan-to-return-to-venezuela-and-revive-its-democracy-5951dc98",
+      "title": "Inside Machado’s Plan to Return to Venezuela and Revive Its Democracy",
+      "content_text": "Inside Machado’s Plan to Return to Venezuela and Revive Its Democracy",
+      "summary": "",
+      "date_published": "2026-09-19T00:12:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "2c4bcc296f6521b3",
+      "url": "https://www.wsj.com/finance/a-new-buffett-takes-on-the-task-of-preserving-berkshire-hathaways-culture-bdb9cc30",
+      "title": "A New Buffett Takes On the Task of Preserving Berkshire Hathaway’s Culture",
+      "content_text": "A New Buffett Takes On the Task of Preserving Berkshire Hathaway’s Culture",
+      "summary": "",
+      "date_published": "2026-09-19T00:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "e826c215b467e6cf",
+      "url": "https://www.wsj.com/lifestyle/relationships/childhood-psychology-anxiety-phones-common-core-peter-gray-88c92394",
+      "title": "Are Phones Really to Blame for the Rise in Childhood Anxiety?",
+      "content_text": "Are Phones Really to Blame for the Rise in Childhood Anxiety?",
+      "summary": "",
+      "date_published": "2026-09-19T00:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "d3d87d048704c390",
+      "url": "https://www.wsj.com/health/pharma/patients-sue-glp-1-drugmakers-over-risk-of-sudden-vision-loss-f60d7acb",
+      "title": "Patients Sue GLP-1 Drugmakers Over Risk of Sudden Vision Loss",
+      "content_text": "Patients Sue GLP-1 Drugmakers Over Risk of Sudden Vision Loss",
+      "summary": "",
+      "date_published": "2026-09-19T00:00:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
       "id": "40e06f14885b7ced",
       "url": "https://www.wsj.com/world/china/xi-jinping-skipped-one-dinnerand-sparked-a-flurry-of-questions-about-his-health-348b55b7",
       "title": "Xi Jinping Skipped One Dinner—and Sparked a Flurry of Questions About His Health",
@@ -2126,83 +2203,6 @@
       "date_published": "2026-09-17T19:25:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "a22c831cb674d651",
-      "url": "https://www.wsj.com/opinion/the-most-effective-way-to-cut-child-poverty-7e696b4c",
-      "title": "The Most Effective Way to Cut Child Poverty",
-      "content_text": "The Most Effective Way to Cut Child Poverty",
-      "summary": "",
-      "date_published": "2026-09-17T19:24:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "1740ccd85651ea9e",
-      "url": "https://www.wsj.com/opinion/higher-educations-real-test-67dea856",
-      "title": "Higher Education’s Real Test",
-      "content_text": "Higher Education’s Real Test",
-      "summary": "",
-      "date_published": "2026-09-17T19:23:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "e85cd9ad19588fab",
-      "url": "https://www.wsj.com/opinion/american-ai-regulation-is-exactly-what-china-wants-bba5d688",
-      "title": "American AI Regulation Is Exactly What China Wants",
-      "content_text": "American AI Regulation Is Exactly What China Wants",
-      "summary": "",
-      "date_published": "2026-09-17T19:23:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "a02420664deb0d9e",
-      "url": "https://www.wsj.com/arts-culture/film/resident-evil-review-zach-creggers-zombie-delight-be3469eb",
-      "title": "‘Resident Evil’ Review: Zach Cregger’s Zombie Delight",
-      "content_text": "‘Resident Evil’ Review: Zach Cregger’s Zombie Delight",
-      "summary": "",
-      "date_published": "2026-09-17T19:20:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "dddcc875d54a49f5",
-      "url": "https://www.wsj.com/politics/corporate-donations-to-state-ags-are-setting-records-this-year-a92cf660",
-      "title": "Corporate Donations to State AGs Are Setting Records This Year",
-      "content_text": "Corporate Donations to State AGs Are Setting Records This Year",
-      "summary": "",
-      "date_published": "2026-09-17T19:20:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "be25f94394c8beb8",
-      "url": "https://www.wsj.com/world/middle-east/the-new-offensive-raising-oil-prices-and-complicating-trumps-iran-war-999c34d1",
-      "title": "The New Offensive Raising Oil Prices and Complicating Trump’s Iran War",
-      "content_text": "The New Offensive Raising Oil Prices and Complicating Trump’s Iran War",
-      "summary": "",
-      "date_published": "2026-09-17T19:02:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "133e875d6b825e29",
-      "url": "https://www.wsj.com/politics/elections/republican-lawmaker-breaks-with-trump-on-immigration-ea481428",
-      "title": "Republican Lawmaker Breaks With Trump on Immigration",
-      "content_text": "Republican Lawmaker Breaks With Trump on Immigration",
-      "summary": "",
-      "date_published": "2026-09-17T18:26:00+00:00",
-      "tags": [
-        "Politics"
       ]
     }
   ]
