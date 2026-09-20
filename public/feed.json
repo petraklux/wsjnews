@@ -6,10 +6,87 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "a109b7b913e4f107",
+      "url": "https://www.wsj.com/politics/policy/trump-to-meet-mamdani-in-new-york-amid-policy-strains-between-the-two-8e475aa8",
+      "title": "Trump to Meet Mamdani in New York Amid Policy Strains Between the Two",
+      "content_text": "Trump to Meet Mamdani in New York Amid Policy Strains Between the Two",
+      "summary": "",
+      "date_published": "2026-09-20T19:40:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "2bd13a49cfb65f69",
+      "url": "https://www.wsj.com/lifestyle/travel/disney-theme-parks-defy-industry-slump-with-price-cuts-and-promotions-75114b42",
+      "title": "Disney Theme Parks Defy Industry Slump With Price Cuts and Promotions",
+      "content_text": "Disney Theme Parks Defy Industry Slump With Price Cuts and Promotions",
+      "summary": "",
+      "date_published": "2026-09-20T19:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "445bf00ad1b67a37",
+      "url": "https://www.wsj.com/politics/policy/trump-administration-prepares-to-sanction-the-international-criminal-court-85f5f44c",
+      "title": "Trump Ramps Up Bid to Dismantle International Criminal Court",
+      "content_text": "Trump Ramps Up Bid to Dismantle International Criminal Court",
+      "summary": "",
+      "date_published": "2026-09-20T18:30:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "f811d4a5339f9195",
+      "url": "https://www.wsj.com/world/middle-east/how-ai-is-reshaping-election-campaigns-in-israel-f5a2e79a",
+      "title": "How AI Is Reshaping Election Campaigns in Israel",
+      "content_text": "How AI Is Reshaping Election Campaigns in Israel",
+      "summary": "",
+      "date_published": "2026-09-20T18:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "e9e27adf888f5b14",
+      "url": "https://www.wsj.com/opinion/what-is-saudi-arabias-plan-for-the-houthis-fff7e604",
+      "title": "What Is Saudi Arabia’s Plan for the Houthis?",
+      "content_text": "What Is Saudi Arabia’s Plan for the Houthis?",
+      "summary": "",
+      "date_published": "2026-09-20T17:43:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "a5f16bdb371294d7",
+      "url": "https://www.wsj.com/opinion/to-wean-off-china-build-domestic-batteries-4a11bce6",
+      "title": "To Wean Off China, Build Domestic Batteries",
+      "content_text": "To Wean Off China, Build Domestic Batteries",
+      "summary": "",
+      "date_published": "2026-09-20T17:37:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
       "id": "f87cdd5497f4a6f8",
       "url": "https://www.wsj.com/opinion/doge-from-within-is-better-4f2e702f",
       "title": "DOGE From Within Is Better",
       "content_text": "DOGE From Within Is Better",
+      "summary": "",
+      "date_published": "2026-09-20T17:36:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "635ef6a4c039eba1",
+      "url": "https://www.wsj.com/opinion/dont-dismiss-the-genius-of-norman-rockwell-c28663d5",
+      "title": "Don’t Dismiss the Genius of Norman Rockwell",
+      "content_text": "Don’t Dismiss the Genius of Norman Rockwell",
       "summary": "",
       "date_published": "2026-09-20T17:36:00+00:00",
       "tags": [
@@ -28,10 +105,10 @@
       ]
     },
     {
-      "id": "918dfaf9e0e903e5",
-      "url": "https://www.wsj.com/opinion/maria-corina-machados-risky-return-e74a9f76",
-      "title": "María Corina Machado’s Risky Return",
-      "content_text": "María Corina Machado’s Risky Return",
+      "id": "009546a95f42100f",
+      "url": "https://www.wsj.com/opinion/the-bessent-predicament-327b5552",
+      "title": "The Bessent Predicament",
+      "content_text": "The Bessent Predicament",
       "summary": "",
       "date_published": "2026-09-20T17:33:00+00:00",
       "tags": [
@@ -39,10 +116,10 @@
       ]
     },
     {
-      "id": "009546a95f42100f",
-      "url": "https://www.wsj.com/opinion/the-bessent-predicament-327b5552",
-      "title": "The Bessent Predicament",
-      "content_text": "The Bessent Predicament",
+      "id": "918dfaf9e0e903e5",
+      "url": "https://www.wsj.com/opinion/maria-corina-machados-risky-return-e74a9f76",
+      "title": "María Corina Machado’s Risky Return",
+      "content_text": "María Corina Machado’s Risky Return",
       "summary": "",
       "date_published": "2026-09-20T17:33:00+00:00",
       "tags": [
@@ -2126,83 +2203,6 @@
       "date_published": "2026-09-18T09:30:00+00:00",
       "tags": [
         "Tech"
-      ]
-    },
-    {
-      "id": "22c193c0e077cfbc",
-      "url": "https://www.wsj.com/lifestyle/travel/helicopters-noise-hamptons-westchester-long-island-40f99e47",
-      "title": "The Class War Raging Over Low-Flying Helicopters Headed to the Hamptons",
-      "content_text": "The Class War Raging Over Low-Flying Helicopters Headed to the Hamptons",
-      "summary": "",
-      "date_published": "2026-09-18T09:30:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "6020013811c296d5",
-      "url": "https://www.wsj.com/personal-finance/taxes/my-attempt-to-stop-the-irs-from-giving-me-a-tax-refund-this-year-a628b23a",
-      "title": "My Attempt to Stop the IRS From Giving Me a Tax Refund This Year",
-      "content_text": "My Attempt to Stop the IRS From Giving Me a Tax Refund This Year",
-      "summary": "",
-      "date_published": "2026-09-18T09:30:00+00:00",
-      "tags": [
-        "Personal Finance"
-      ]
-    },
-    {
-      "id": "f2f6b58ffa8eb0a0",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/stocks-to-watch-nestle-nike-sandoz-xnDrnn1kd6NhChk1fUOD",
-      "title": "Stocks to Watch: Nestle, Nike, Sandoz",
-      "content_text": "Stocks to Watch: Nestle, Nike, Sandoz",
-      "summary": "",
-      "date_published": "2026-09-18T09:28:25+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "fb28ee25d605ac57",
-      "url": "https://www.wsj.com/finance/stocks/stock-futures-rise-as-oil-extends-losses-treasury-yields-rise-0bda0bff",
-      "title": "Stock Futures Rise as Oil Extends Losses, Treasury Yields Rise",
-      "content_text": "Stock Futures Rise as Oil Extends Losses, Treasury Yields Rise",
-      "summary": "",
-      "date_published": "2026-09-18T09:01:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "05ee3aea9fb5cfdd",
-      "url": "https://www.wsj.com/business/retail/mothercare-shares-plunge-on-solvency-warning-65c60a28",
-      "title": "Mothercare Shares Plunge on Solvency Warning",
-      "content_text": "Mothercare Shares Plunge on Solvency Warning",
-      "summary": "",
-      "date_published": "2026-09-18T09:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "3d064b8902121d3a",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/yen-falls-after-bank-of-japan-raises-key-rate-to-30-year-high-z6yVui0TZSgFBFFMZsnE",
-      "title": "Yen Falls After Bank of Japan Raises Key Rate to 30-Year High",
-      "content_text": "Yen Falls After Bank of Japan Raises Key Rate to 30-Year High",
-      "summary": "",
-      "date_published": "2026-09-18T08:58:45+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "6da155f5ffa93739",
-      "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-for-third-day-as-wti-slips-below-100-e533d2fe",
-      "title": "Oil Prices Fall for Third Day as WTI Slips Below $100",
-      "content_text": "Oil Prices Fall for Third Day as WTI Slips Below $100",
-      "summary": "",
-      "date_published": "2026-09-18T08:39:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
