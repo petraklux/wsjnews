@@ -6,25 +6,47 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "eefef5b75fd37e67",
-      "url": "https://www.wsj.com/us-news/how-romanian-crime-rings-are-draining-u-s-welfare-accounts-c9750d32",
-      "title": "How Romanian Crime Rings Are Draining U.S. Welfare Accounts",
-      "content_text": "How Romanian Crime Rings Are Draining U.S. Welfare Accounts",
+      "id": "9ae6d605a7ce8530",
+      "url": "https://www.wsj.com/politics/elections/the-rust-belt-lawmaker-leading-the-fight-against-trumps-kennedy-center-plans-c9b6e5c2",
+      "title": "The Rust Belt Lawmaker Leading the Fight Against Trump’s Kennedy Center Plans",
+      "content_text": "The Rust Belt Lawmaker Leading the Fight Against Trump’s Kennedy Center Plans",
       "summary": "",
-      "date_published": "2026-09-20T09:30:00+00:00",
+      "date_published": "2026-09-20T12:00:00+00:00",
       "tags": [
-        "Us News"
+        "Politics"
       ]
     },
     {
-      "id": "eb04a249682aad9e",
-      "url": "https://www.wsj.com/lifestyle/the-weird-and-wild-send-off-to-a-movie-directors-summer-camp-cd74bc8a",
-      "title": "The Weird and Wild Send-Off to a Movie Director’s Summer Camp",
-      "content_text": "The Weird and Wild Send-Off to a Movie Director’s Summer Camp",
+      "id": "d3015d92cb7327ec",
+      "url": "https://www.wsj.com/business/the-romanian-crime-rings-draining-u-s-welfare-accounts-089b7f77",
+      "title": "The Romanian Crime Rings Draining U.S. Welfare Accounts",
+      "content_text": "The Romanian Crime Rings Draining U.S. Welfare Accounts",
       "summary": "",
-      "date_published": "2026-09-20T09:30:00+00:00",
+      "date_published": "2026-09-20T11:18:00+00:00",
       "tags": [
-        "Lifestyle"
+        "Business"
+      ]
+    },
+    {
+      "id": "feda16a38dd73a99",
+      "url": "https://www.wsj.com/arts-culture/food-cooking/kwame-onwuachi-tatiana-all-hours-c9b35b4e",
+      "title": "His Restaurant Is One of New York’s Hottest. At Home, He Makes Instant Ramen.",
+      "content_text": "His Restaurant Is One of New York’s Hottest. At Home, He Makes Instant Ramen.",
+      "summary": "",
+      "date_published": "2026-09-20T11:00:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "3173db19b89b923f",
+      "url": "https://www.wsj.com/sports/football/trinidad-chambliss-lane-kiffin-ole-miss-lsu-9bc15d82",
+      "title": "Lane Kiffin Nearly Broke Ole Miss Again. Then His Former QB Produced a Masterpiece",
+      "content_text": "Lane Kiffin Nearly Broke Ole Miss Again. Then His Former QB Produced a Masterpiece",
+      "summary": "",
+      "date_published": "2026-09-20T11:00:00+00:00",
+      "tags": [
+        "Sports"
       ]
     },
     {
@@ -47,6 +69,28 @@
       "date_published": "2026-09-20T09:30:00+00:00",
       "tags": [
         "Real Estate"
+      ]
+    },
+    {
+      "id": "eb04a249682aad9e",
+      "url": "https://www.wsj.com/lifestyle/the-weird-and-wild-send-off-to-a-movie-directors-summer-camp-cd74bc8a",
+      "title": "The Weird and Wild Send-Off to a Movie Director’s Summer Camp",
+      "content_text": "The Weird and Wild Send-Off to a Movie Director’s Summer Camp",
+      "summary": "",
+      "date_published": "2026-09-20T09:30:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "eefef5b75fd37e67",
+      "url": "https://www.wsj.com/us-news/how-romanian-crime-rings-are-draining-u-s-welfare-accounts-c9750d32",
+      "title": "How Romanian Crime Rings Are Draining U.S. Welfare Accounts",
+      "content_text": "How Romanian Crime Rings Are Draining U.S. Welfare Accounts",
+      "summary": "",
+      "date_published": "2026-09-20T09:30:00+00:00",
+      "tags": [
+        "Us News"
       ]
     },
     {
@@ -2159,50 +2203,6 @@
       "date_published": "2026-09-18T01:00:00+00:00",
       "tags": [
         "Health"
-      ]
-    },
-    {
-      "id": "70e38cc2e773989c",
-      "url": "https://www.wsj.com/economy/weeks-before-the-midterms-almost-everything-is-getting-more-expensive-5b201bb5",
-      "title": "Weeks Before the Midterms, Almost Everything Is Getting More Expensive",
-      "content_text": "Weeks Before the Midterms, Almost Everything Is Getting More Expensive",
-      "summary": "",
-      "date_published": "2026-09-18T01:00:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "77dc86e614bb4a07",
-      "url": "https://www.wsj.com/sports/football/oracle-ellison-michigan-underwood-jolin-65fd9c24",
-      "title": "The Super Donor Quarterbacking Michigan Sports: Larry Ellison’s Wife",
-      "content_text": "The Super Donor Quarterbacking Michigan Sports: Larry Ellison’s Wife",
-      "summary": "",
-      "date_published": "2026-09-18T01:00:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "9869eee81d48fa39",
-      "url": "https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883",
-      "title": "Hackers Used Anthropic’s Claude to Break Into OpenAI",
-      "content_text": "Hackers Used Anthropic’s Claude to Break Into OpenAI",
-      "summary": "",
-      "date_published": "2026-09-18T01:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "02a394dde0e96564",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-worries-over-middle-east-supply-disruptions-ease-36be861a",
-      "title": "Oil Falls as Worries Over Middle East Supply Disruptions Ease",
-      "content_text": "Oil Falls as Worries Over Middle East Supply Disruptions Ease",
-      "summary": "",
-      "date_published": "2026-09-18T00:39:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]

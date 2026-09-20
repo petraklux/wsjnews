@@ -52,19 +52,6 @@
       "title": "NASA in Talks for Boeing’s Starliner to Handle New Missions",
       "url": "https://www.wsj.com/science/space-astronomy/nasa-in-talks-for-boeings-starliner-to-handle-new-missions-5726e1e5"
     },
-    "02a394dde0e96564": {
-      "dek": "",
-      "first_seen": "2026-09-18T00:44:28.579825+00:00",
-      "guid": "02a394dde0e96564",
-      "published": "2026-09-18T00:39:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Oil Falls as Worries Over Middle East Supply Disruptions Ease",
-      "title": "Oil Falls as Worries Over Middle East Supply Disruptions Ease",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-worries-over-middle-east-supply-disruptions-ease-36be861a"
-    },
     "02f917faec2632c1": {
       "dek": "",
       "first_seen": "2026-09-18T14:56:21.263491+00:00",
@@ -558,6 +545,19 @@
       "summary": "Republicans Are in a Midterm Bind. An Avalanche of Cash Could Move the Needle.",
       "title": "Republicans Are in a Midterm Bind. An Avalanche of Cash Could Move the Needle.",
       "url": "https://www.wsj.com/politics/republicans-are-in-a-midterm-bind-an-avalanche-of-cash-could-move-the-needle-70ff91e4"
+    },
+    "3173db19b89b923f": {
+      "dek": "",
+      "first_seen": "2026-09-20T14:08:51.666799+00:00",
+      "guid": "3173db19b89b923f",
+      "published": "2026-09-20T11:00:00+00:00",
+      "section": "Sports",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Lane Kiffin Nearly Broke Ole Miss Again. Then His Former QB Produced a Masterpiece",
+      "title": "Lane Kiffin Nearly Broke Ole Miss Again. Then His Former QB Produced a Masterpiece",
+      "url": "https://www.wsj.com/sports/football/trinidad-chambliss-lane-kiffin-ole-miss-lsu-9bc15d82"
     },
     "32635f3d0076cccc": {
       "dek": "",
@@ -1339,32 +1339,6 @@
       "title": "How Wall Street is Reacting to Warren Buffett Stepping Down",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/how-wall-street-is-reacting-to-warren-buffett-stepping-down-fqX33ciimo4EAfichmVo"
     },
-    "70e38cc2e773989c": {
-      "dek": "",
-      "first_seen": "2026-09-18T05:49:47.013688+00:00",
-      "guid": "70e38cc2e773989c",
-      "published": "2026-09-18T01:00:00+00:00",
-      "section": "Economy",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Weeks Before the Midterms, Almost Everything Is Getting More Expensive",
-      "title": "Weeks Before the Midterms, Almost Everything Is Getting More Expensive",
-      "url": "https://www.wsj.com/economy/weeks-before-the-midterms-almost-everything-is-getting-more-expensive-5b201bb5"
-    },
-    "77dc86e614bb4a07": {
-      "dek": "",
-      "first_seen": "2026-09-18T05:49:47.013688+00:00",
-      "guid": "77dc86e614bb4a07",
-      "published": "2026-09-18T01:00:00+00:00",
-      "section": "Sports",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Super Donor Quarterbacking Michigan Sports: Larry Ellison’s Wife",
-      "title": "The Super Donor Quarterbacking Michigan Sports: Larry Ellison’s Wife",
-      "url": "https://www.wsj.com/sports/football/oracle-ellison-michigan-underwood-jolin-65fd9c24"
-    },
     "79b7548ed17e68a4": {
       "dek": "",
       "first_seen": "2026-09-18T14:56:21.263491+00:00",
@@ -1599,19 +1573,6 @@
       "title": "U.K. Retail Sales Climbed Despite Inflation Pickup",
       "url": "https://www.wsj.com/business/retail/u-k-retail-sales-climbed-despite-inflation-pickup-38c9bb67"
     },
-    "9869eee81d48fa39": {
-      "dek": "",
-      "first_seen": "2026-09-18T05:49:47.013688+00:00",
-      "guid": "9869eee81d48fa39",
-      "published": "2026-09-18T01:00:00+00:00",
-      "section": "Tech",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Hackers Used Anthropic’s Claude to Break Into OpenAI",
-      "title": "Hackers Used Anthropic’s Claude to Break Into OpenAI",
-      "url": "https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883"
-    },
     "9918667081a921f4": {
       "dek": "",
       "first_seen": "2026-09-18T14:56:21.263491+00:00",
@@ -1624,6 +1585,19 @@
       "summary": "Joby Says it Completed First Fully Autonomous Flight Across the U.S.",
       "title": "Joby Says it Completed First Fully Autonomous Flight Across the U.S.",
       "url": "https://www.wsj.com/business/airlines/joby-says-it-completed-first-fully-autonomous-flight-across-the-u-s-cec71190"
+    },
+    "9ae6d605a7ce8530": {
+      "dek": "",
+      "first_seen": "2026-09-20T14:08:51.666799+00:00",
+      "guid": "9ae6d605a7ce8530",
+      "published": "2026-09-20T12:00:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Rust Belt Lawmaker Leading the Fight Against Trump’s Kennedy Center Plans",
+      "title": "The Rust Belt Lawmaker Leading the Fight Against Trump’s Kennedy Center Plans",
+      "url": "https://www.wsj.com/politics/elections/the-rust-belt-lawmaker-leading-the-fight-against-trumps-kennedy-center-plans-c9b6e5c2"
     },
     "9db3f2f64a0e5fef": {
       "dek": "",
@@ -2053,6 +2027,19 @@
       "summary": "The U.S. and China Want AI Guardrails. But Their Ideas Couldn’t Be More Different.",
       "title": "The U.S. and China Want AI Guardrails. But Their Ideas Couldn’t Be More Different.",
       "url": "https://www.wsj.com/world/china/u-s-and-china-agree-ai-needs-guardrails-their-ideas-are-very-different-845415ff"
+    },
+    "d3015d92cb7327ec": {
+      "dek": "",
+      "first_seen": "2026-09-20T14:08:51.666799+00:00",
+      "guid": "d3015d92cb7327ec",
+      "published": "2026-09-20T11:18:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Romanian Crime Rings Draining U.S. Welfare Accounts",
+      "title": "The Romanian Crime Rings Draining U.S. Welfare Accounts",
+      "url": "https://www.wsj.com/business/the-romanian-crime-rings-draining-u-s-welfare-accounts-089b7f77"
     },
     "d3d87d048704c390": {
       "dek": "",
@@ -2587,6 +2574,19 @@
       "title": "Warren Buffett to Step Down as Berkshire Hathaway Chairman",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/warren-buffett-to-step-down-as-berkshire-hathaway-chairman-LRVlCTLMO8RzYp2DNdQ3"
     },
+    "feda16a38dd73a99": {
+      "dek": "",
+      "first_seen": "2026-09-20T14:08:51.666799+00:00",
+      "guid": "feda16a38dd73a99",
+      "published": "2026-09-20T11:00:00+00:00",
+      "section": "Arts Culture",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "His Restaurant Is One of New York’s Hottest. At Home, He Makes Instant Ramen.",
+      "title": "His Restaurant Is One of New York’s Hottest. At Home, He Makes Instant Ramen.",
+      "url": "https://www.wsj.com/arts-culture/food-cooking/kwame-onwuachi-tatiana-all-hours-c9b35b4e"
+    },
     "ff5225f2e89d0988": {
       "dek": "",
       "first_seen": "2026-09-20T05:20:09.392942+00:00",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3"
     }
   },
-  "updated": "2026-09-20T10:03:27.680807+00:00"
+  "updated": "2026-09-20T14:08:51.682680+00:00"
 }
