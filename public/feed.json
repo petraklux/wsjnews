@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "8b21000c59eb8024",
+      "url": "https://www.wsj.com/economy/housing/buying-a-first-home-isnt-completely-impossible-you-just-have-to-learn-to-settle-a4dce9e9",
+      "title": "Buying a First Home Isn’t Completely Impossible. You Just Have to Learn to Settle.",
+      "content_text": "Buying a First Home Isn’t Completely Impossible. You Just Have to Learn to Settle.",
+      "summary": "",
+      "date_published": "2026-09-20T00:00:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "4676ef9735d8dd63",
+      "url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003",
+      "title": "What It’s Like to Work in One of America’s Data Centers",
+      "content_text": "What It’s Like to Work in One of America’s Data Centers",
+      "summary": "",
+      "date_published": "2026-09-19T23:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "edeee60e9d4e699f",
       "url": "https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba",
       "title": "Refineries Are Now the Main Chokepoint for Global Energy Supplies",
@@ -2181,28 +2203,6 @@
       "date_published": "2026-09-17T22:01:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "aa9926e1df87a406",
-      "url": "https://www.wsj.com/personal-finance/the-three-dreaded-words-no-one-wants-to-hear-whats-for-dinner-7a9b2e51",
-      "title": "The Three Dreaded Words No One Wants to Hear: What’s for Dinner?",
-      "content_text": "The Three Dreaded Words No One Wants to Hear: What’s for Dinner?",
-      "summary": "",
-      "date_published": "2026-09-17T22:00:00+00:00",
-      "tags": [
-        "Personal Finance"
-      ]
-    },
-    {
-      "id": "d739b5ade53a8f9f",
-      "url": "https://www.wsj.com/us-news/the-three-dreaded-words-no-one-wants-to-hear-whats-for-dinner-7a9b2e51",
-      "title": "The Three Dreaded Words No One Wants to Hear: What’s for Dinner?",
-      "content_text": "The Three Dreaded Words No One Wants to Hear: What’s for Dinner?",
-      "summary": "",
-      "date_published": "2026-09-17T22:00:00+00:00",
-      "tags": [
-        "Us News"
       ]
     }
   ]
