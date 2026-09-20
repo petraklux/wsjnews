@@ -169,19 +169,6 @@
       "title": "AI: Ghostwriter in the Machine",
       "url": "https://www.wsj.com/opinion/ai-ghostwriter-in-the-machine-720d79c1"
     },
-    "11b14ce67ff6225e": {
-      "dek": "",
-      "first_seen": "2026-09-18T11:04:43.663642+00:00",
-      "guid": "11b14ce67ff6225e",
-      "published": "2026-09-18T09:30:00+00:00",
-      "section": "Tech",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Meta’s AI Agent Has a Trust Problem",
-      "title": "Meta’s AI Agent Has a Trust Problem",
-      "url": "https://www.wsj.com/tech/ai/metas-ai-agent-has-a-trust-problem-5ee5882c"
-    },
     "1226591018cdc3f9": {
       "dek": "",
       "first_seen": "2026-09-18T14:56:21.263491+00:00",
@@ -299,18 +286,18 @@
       "title": "‘The Battle of Hengyang’ Review: The Fight the World Forgot",
       "url": "https://www.wsj.com/arts-culture/books/the-battle-of-hengyang-review-the-fight-the-world-forgot-138028ed"
     },
-    "1f90a3422ea99971": {
+    "1f1991f7a8ed0849": {
       "dek": "",
-      "first_seen": "2026-09-18T11:04:43.663642+00:00",
-      "guid": "1f90a3422ea99971",
-      "published": "2026-09-18T09:33:00+00:00",
-      "section": "Politics",
+      "first_seen": "2026-09-20T23:10:23.814699+00:00",
+      "guid": "1f1991f7a8ed0849",
+      "published": "2026-09-20T20:53:00+00:00",
+      "section": "Opinion",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Failure of Clarity Act Turns Crypto Industry Focus to Federal Regulators",
-      "title": "Failure of Clarity Act Turns Crypto Industry Focus to Federal Regulators",
-      "url": "https://www.wsj.com/politics/policy/failure-of-clarity-act-turns-crypto-industry-focus-to-federal-regulators-135914cc"
+      "summary": "Illinois Taxpayers for Indiana Schools?",
+      "title": "Illinois Taxpayers for Indiana Schools?",
+      "url": "https://www.wsj.com/opinion/illinois-federal-tax-credit-scholarship-indiana-billboard-j-b-pritzker-fe62e27c"
     },
     "210d2c796678bf6f": {
       "dek": "",
@@ -337,6 +324,19 @@
       "summary": "Anthropic Shifts Planned IPO to November",
       "title": "Anthropic Shifts Planned IPO to November",
       "url": "https://www.wsj.com/tech/ai/anthropic-shifts-planned-ipo-to-november-8874dffc"
+    },
+    "21c1fa17faec8400": {
+      "dek": "",
+      "first_seen": "2026-09-20T23:10:23.814699+00:00",
+      "guid": "21c1fa17faec8400",
+      "published": "2026-09-20T20:55:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Donald Trump, Xi Jinping and Jimmy Lai",
+      "title": "Donald Trump, Xi Jinping and Jimmy Lai",
+      "url": "https://www.wsj.com/opinion/donald-trump-xi-jinping-and-jimmy-lai-fe457e86"
     },
     "221615f1597144c7": {
       "dek": "",
@@ -572,19 +572,6 @@
       "title": "The Hottest Spot in Sports This Weekend is Oxford, Miss.",
       "url": "https://www.wsj.com/sports/football/the-hottest-spot-in-sports-this-weekend-is-oxford-miss-15caf2ec"
     },
-    "3654fdf3a5b577f5": {
-      "dek": "",
-      "first_seen": "2026-09-18T11:04:43.663642+00:00",
-      "guid": "3654fdf3a5b577f5",
-      "published": "2026-09-18T10:26:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "How to Tell Whether a Plunging Stock Will Keep Plunging",
-      "title": "How to Tell Whether a Plunging Stock Will Keep Plunging",
-      "url": "https://www.wsj.com/finance/stocks/how-to-tell-whether-a-plunging-stock-will-keep-plunging-bf0be3ed"
-    },
     "37ca0854df826f0f": {
       "dek": "",
       "first_seen": "2026-09-18T18:19:58.998905+00:00",
@@ -649,6 +636,19 @@
       "summary": "Pepper…and Salt",
       "title": "Pepper…and Salt",
       "url": "https://www.wsj.com/opinion/pepperand-salt-31e25320"
+    },
+    "3bdf710488be9c00": {
+      "dek": "",
+      "first_seen": "2026-09-20T23:10:23.814699+00:00",
+      "guid": "3bdf710488be9c00",
+      "published": "2026-09-20T20:54:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "In the End, a Good Greenland Deal",
+      "title": "In the End, a Good Greenland Deal",
+      "url": "https://www.wsj.com/opinion/in-the-end-a-good-greenland-deal-9a7cf4e5"
     },
     "3da204cdee8e8547": {
       "dek": "",
@@ -910,6 +910,19 @@
       "title": "German General Wins Top NATO Role—and a Platform to Warn About Russia",
       "url": "https://www.wsj.com/world/europe/german-general-wins-top-nato-roleand-a-platform-to-warn-about-russia-fecf91c5"
     },
+    "596c8429447b5578": {
+      "dek": "",
+      "first_seen": "2026-09-20T23:10:23.814699+00:00",
+      "guid": "596c8429447b5578",
+      "published": "2026-09-20T21:00:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Trump’s Greenland Deal Eases Way for U.S. Business on Arctic Island",
+      "title": "Trump’s Greenland Deal Eases Way for U.S. Business on Arctic Island",
+      "url": "https://www.wsj.com/world/trumps-greenland-deal-eases-way-for-u-s-business-on-arctic-island-1cbef960"
+    },
     "59adc5fb785fed35": {
       "dek": "",
       "first_seen": "2026-09-18T18:19:58.998905+00:00",
@@ -1027,18 +1040,18 @@
       "title": "You Probably Have the Iran War Backward",
       "url": "https://www.wsj.com/opinion/you-probably-have-the-iran-war-backward-61be55ea"
     },
-    "6052ee71bebccfae": {
+    "61da969d755a7a43": {
       "dek": "",
-      "first_seen": "2026-09-18T11:04:43.663642+00:00",
-      "guid": "6052ee71bebccfae",
-      "published": "2026-09-18T09:55:00+00:00",
-      "section": "Front Page",
+      "first_seen": "2026-09-20T23:10:23.814699+00:00",
+      "guid": "61da969d755a7a43",
+      "published": "2026-09-20T21:45:00+00:00",
+      "section": "Us News",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Making the AI Math Work",
-      "title": "Making the AI Math Work",
-      "url": "https://www.wsj.com/articles/making-the-ai-math-work-072a00a5"
+      "summary": "ICE Agent Accused of Shooting Man in Texas",
+      "title": "ICE Agent Accused of Shooting Man in Texas",
+      "url": "https://www.wsj.com/us-news/ice-agent-accused-of-shooting-person-in-texas-e5144dfa"
     },
     "635ef6a4c039eba1": {
       "dek": "",
@@ -1065,6 +1078,19 @@
       "summary": "It’s Hard to Build a Home for Under $1 Million—But It Isn’t Impossible",
       "title": "It’s Hard to Build a Home for Under $1 Million—But It Isn’t Impossible",
       "url": "https://www.wsj.com/real-estate/luxury-homes/its-hard-to-build-a-home-for-under-1-millionbut-it-isnt-impossible-4481e565"
+    },
+    "64924457be88a926": {
+      "dek": "",
+      "first_seen": "2026-09-20T23:10:23.814699+00:00",
+      "guid": "64924457be88a926",
+      "published": "2026-09-20T21:00:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Wave of Setbacks Leaves Trump Frustrated and Looking for Credit",
+      "title": "Wave of Setbacks Leaves Trump Frustrated and Looking for Credit",
+      "url": "https://www.wsj.com/politics/elections/wave-of-setbacks-leaves-trump-frustrated-and-looking-for-credit-949ae311"
     },
     "6507363b7325fa2b": {
       "dek": "",
@@ -1169,19 +1195,6 @@
       "summary": "MS NOW Denied Entry to White House After Trump Ban",
       "title": "MS NOW Denied Entry to White House After Trump Ban",
       "url": "https://www.wsj.com/politics/policy/ms-now-denied-entry-to-white-house-after-trump-ban-9c0cfaef"
-    },
-    "6cabdb1904e2c08b": {
-      "dek": "",
-      "first_seen": "2026-09-18T14:56:21.263491+00:00",
-      "guid": "6cabdb1904e2c08b",
-      "published": "2026-09-18T10:12:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Warren Buffett Steps Down as Berkshire Hathaway Chairman",
-      "title": "Warren Buffett Steps Down as Berkshire Hathaway Chairman",
-      "url": "https://www.wsj.com/finance/warren-buffett-to-step-down-as-berkshire-hathaway-chairman-de0e003f"
     },
     "6cf8b3cf7c4b5fd3": {
       "dek": "",
@@ -1417,19 +1430,6 @@
       "title": "Buying a First Home Isn’t Completely Impossible. You Just Have to Learn to Settle.",
       "url": "https://www.wsj.com/economy/housing/buying-a-first-home-isnt-completely-impossible-you-just-have-to-learn-to-settle-a4dce9e9"
     },
-    "8c575786e9e14ed0": {
-      "dek": "",
-      "first_seen": "2026-09-18T11:04:43.663642+00:00",
-      "guid": "8c575786e9e14ed0",
-      "published": "2026-09-18T10:03:00+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "How Larry Ellison’s Wife Became a Michigan Sports Power Player",
-      "title": "How Larry Ellison’s Wife Became a Michigan Sports Power Player",
-      "url": "https://www.wsj.com/articles/how-larry-ellisons-wife-became-a-michigan-sports-power-player-1bbfaf1f"
-    },
     "8c59ba971fc62ff1": {
       "dek": "",
       "first_seen": "2026-09-18T14:56:21.263491+00:00",
@@ -1494,6 +1494,19 @@
       "summary": "How Crypto Blew Its Big Moment",
       "title": "How Crypto Blew Its Big Moment",
       "url": "https://www.wsj.com/articles/how-crypto-blew-its-big-moment-31f80b3c"
+    },
+    "98557949c73d4bb9": {
+      "dek": "",
+      "first_seen": "2026-09-20T23:10:23.814699+00:00",
+      "guid": "98557949c73d4bb9",
+      "published": "2026-09-20T22:05:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "This Man Finds Hollywood Blockbusters Where Nobody Else Is Looking",
+      "title": "This Man Finds Hollywood Blockbusters Where Nobody Else Is Looking",
+      "url": "https://www.wsj.com/business/media/this-man-finds-hollywood-blockbusters-where-nobody-else-is-looking-2b060519"
     },
     "9918667081a921f4": {
       "dek": "",
@@ -1690,19 +1703,6 @@
       "title": "RFK Jr. Got Free Flights to Fiji and Greece From a Top Donor",
       "url": "https://www.wsj.com/politics/rfk-jr-got-free-flights-to-fiji-and-greece-from-a-top-donor-e4b8d525"
     },
-    "a639545da0c7eb37": {
-      "dek": "",
-      "first_seen": "2026-09-18T11:04:43.663642+00:00",
-      "guid": "a639545da0c7eb37",
-      "published": "2026-09-18T11:00:00+00:00",
-      "section": "Sports",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "These Teams Have Been Utterly Mediocre. They’re Vying for the Playoffs Anyway.",
-      "title": "These Teams Have Been Utterly Mediocre. They’re Vying for the Playoffs Anyway.",
-      "url": "https://www.wsj.com/sports/baseball/mlb-playoffs-american-league-mediocre-a918798e"
-    },
     "a7f7f1df6c48a725": {
       "dek": "",
       "first_seen": "2026-09-20T17:38:26.298786+00:00",
@@ -1833,19 +1833,6 @@
       "title": "Trump Says Proposed Arch Will Double as ‘Military Complex’",
       "url": "https://www.wsj.com/politics/national-security/trump-says-proposed-arch-will-double-as-military-complex-ad5c73e1"
     },
-    "beeafcfe39bc884f": {
-      "dek": "",
-      "first_seen": "2026-09-18T11:04:43.663642+00:00",
-      "guid": "beeafcfe39bc884f",
-      "published": "2026-09-18T10:12:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Warren Buffett Steps Down as Berkshire Hathaway Chairman",
-      "title": "Warren Buffett Steps Down as Berkshire Hathaway Chairman",
-      "url": "https://www.wsj.com/business/warren-buffett-to-step-down-as-berkshire-hathaway-chairman-de0e003f"
-    },
     "c00070e0e3f58d48": {
       "dek": "",
       "first_seen": "2026-09-18T14:56:21.263491+00:00",
@@ -1858,6 +1845,19 @@
       "summary": "Dementia, the Karaoke Test and the Vanishing Self",
       "title": "Dementia, the Karaoke Test and the Vanishing Self",
       "url": "https://www.wsj.com/health/wellness/dementia-kolker-karaoke-identity-soul-self-a89b3578"
+    },
+    "c12d68d07c1c1cc5": {
+      "dek": "",
+      "first_seen": "2026-09-20T23:10:23.814699+00:00",
+      "guid": "c12d68d07c1c1cc5",
+      "published": "2026-09-20T20:53:00+00:00",
+      "section": "Arts Culture",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "‘The Defector’ Review: A Proposal to Intrigue",
+      "title": "‘The Defector’ Review: A Proposal to Intrigue",
+      "url": "https://www.wsj.com/arts-culture/books/the-defector-review-a-proposal-to-intrigue-e6f8032b"
     },
     "c1ff2184aed0fc8a": {
       "dek": "",
@@ -1949,6 +1949,19 @@
       "summary": "‘Iris van Herpen: Sculpting the Senses’ Review: Fashioning a Singular World",
       "title": "‘Iris van Herpen: Sculpting the Senses’ Review: Fashioning a Singular World",
       "url": "https://www.wsj.com/arts-culture/fine-art/iris-van-herpen-sculpting-the-senses-review-fashioning-a-singular-world-5b4039dd"
+    },
+    "ca5295db52d86a7f": {
+      "dek": "",
+      "first_seen": "2026-09-20T23:10:23.814699+00:00",
+      "guid": "ca5295db52d86a7f",
+      "published": "2026-09-20T23:00:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Why the Best Price on Your Next Car Is Getting Harder to Find",
+      "title": "Why the Best Price on Your Next Car Is Getting Harder to Find",
+      "url": "https://www.wsj.com/business/autos/why-the-best-price-on-your-next-car-is-getting-harder-to-find-c32e80de"
     },
     "cac7c95b74dcf803": {
       "dek": "",
@@ -2118,6 +2131,19 @@
       "summary": "AI, Get Thee to an IPO!",
       "title": "AI, Get Thee to an IPO!",
       "url": "https://www.wsj.com/opinion/ai-get-thee-to-an-ipo-855cab5b"
+    },
+    "dc077f1e6b7408f5": {
+      "dek": "",
+      "first_seen": "2026-09-20T23:10:23.814699+00:00",
+      "guid": "dc077f1e6b7408f5",
+      "published": "2026-09-20T20:58:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "A Grail Cancer Test for the FDA",
+      "title": "A Grail Cancer Test for the FDA",
+      "url": "https://www.wsj.com/opinion/a-grail-cancer-test-for-the-fda-376051a0"
     },
     "dea6ec2569a2d42b": {
       "dek": "",
@@ -2405,19 +2431,6 @@
       "title": "How Romanian Crime Rings Are Draining U.S. Welfare Accounts",
       "url": "https://www.wsj.com/us-news/how-romanian-crime-rings-are-draining-u-s-welfare-accounts-c9750d32"
     },
-    "ef606a69cb82e549": {
-      "dek": "",
-      "first_seen": "2026-09-18T11:04:43.663642+00:00",
-      "guid": "ef606a69cb82e549",
-      "published": "2026-09-18T10:26:19+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "💬 Money Quote: Howie Buffett Is Used to Learning on the Job",
-      "title": "💬 Money Quote: Howie Buffett Is Used to Learning on the Job",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/-money-quote-howie-buffett-is-used-to-learning-on-the-job-zZ7fFEQQWjdg0Ih1yNVz"
-    },
     "ef8e85c0b6c283ff": {
       "dek": "",
       "first_seen": "2026-09-18T21:11:26.604836+00:00",
@@ -2561,19 +2574,6 @@
       "title": "The Beekeeping Ex-Privacy Lawyer Challenging Perceptions as OnlyFans CEO",
       "url": "https://www.wsj.com/cmo-today/the-beekeeping-ex-privacy-lawyer-challenging-perceptions-as-onlyfans-ceo-ac576f0b"
     },
-    "fde39bb7a016e0c3": {
-      "dek": "",
-      "first_seen": "2026-09-18T11:04:43.663642+00:00",
-      "guid": "fde39bb7a016e0c3",
-      "published": "2026-09-18T10:22:15+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Warren Buffett to Step Down as Berkshire Hathaway Chairman",
-      "title": "Warren Buffett to Step Down as Berkshire Hathaway Chairman",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/warren-buffett-to-step-down-as-berkshire-hathaway-chairman-LRVlCTLMO8RzYp2DNdQ3"
-    },
     "feda16a38dd73a99": {
       "dek": "",
       "first_seen": "2026-09-20T14:08:51.666799+00:00",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3"
     }
   },
-  "updated": "2026-09-20T20:44:06.389864+00:00"
+  "updated": "2026-09-20T23:10:23.829266+00:00"
 }
