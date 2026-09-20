@@ -6,6 +6,61 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "eefef5b75fd37e67",
+      "url": "https://www.wsj.com/us-news/how-romanian-crime-rings-are-draining-u-s-welfare-accounts-c9750d32",
+      "title": "How Romanian Crime Rings Are Draining U.S. Welfare Accounts",
+      "content_text": "How Romanian Crime Rings Are Draining U.S. Welfare Accounts",
+      "summary": "",
+      "date_published": "2026-09-20T09:30:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "eb04a249682aad9e",
+      "url": "https://www.wsj.com/lifestyle/the-weird-and-wild-send-off-to-a-movie-directors-summer-camp-cd74bc8a",
+      "title": "The Weird and Wild Send-Off to a Movie Director’s Summer Camp",
+      "content_text": "The Weird and Wild Send-Off to a Movie Director’s Summer Camp",
+      "summary": "",
+      "date_published": "2026-09-20T09:30:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "166c9589b51d0a43",
+      "url": "https://www.wsj.com/finance/investing/why-its-so-hard-to-work-out-what-the-bond-market-is-telling-us-aeac2d3a",
+      "title": "Why It’s So Hard to Work Out What the Bond Market Is Telling Us",
+      "content_text": "Why It’s So Hard to Work Out What the Bond Market Is Telling Us",
+      "summary": "",
+      "date_published": "2026-09-20T09:30:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "4932d84f509bff51",
+      "url": "https://www.wsj.com/real-estate/ken-griffins-new-miami-headquarters-on-pause-after-construction-accident-3ea3b5af",
+      "title": "Ken Griffin’s New Miami Headquarters on Pause After Construction Accident",
+      "content_text": "Ken Griffin’s New Miami Headquarters on Pause After Construction Accident",
+      "summary": "",
+      "date_published": "2026-09-20T09:30:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "ec351ff5aab43a57",
+      "url": "https://www.wsj.com/arts-culture/fine-art/arts-calendar-happenings-for-the-week-of-september-20-airdigital-c8de52ed",
+      "title": "Arts Calendar: Happenings for the Week of September 20",
+      "content_text": "Arts Calendar: Happenings for the Week of September 20",
+      "summary": "",
+      "date_published": "2026-09-20T09:00:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
       "id": "ff5225f2e89d0988",
       "url": "https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3",
       "title": "Burned Out and Unemployed, Young People in China Are Launching AI Startups",
@@ -2148,61 +2203,6 @@
       "date_published": "2026-09-18T00:39:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "feac840ff09e531b",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-likely-supported-by-oil-pullback-0023a879",
-      "title": "Gold Rises, Likely Supported by Oil Pullback",
-      "content_text": "Gold Rises, Likely Supported by Oil Pullback",
-      "summary": "",
-      "date_published": "2026-09-18T00:19:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "ac4f6a931d917946",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-8-led-by-chip-related-stocks-2b0efbba",
-      "title": "Nikkei Rises 0.8%, Led by Chip-Related Stocks",
-      "content_text": "Nikkei Rises 0.8%, Led by Chip-Related Stocks",
-      "summary": "",
-      "date_published": "2026-09-18T00:14:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "21ff2e54c8019052",
-      "url": "https://www.wsj.com/politics/policy/how-warsh-raised-rates-without-drawing-trumps-ire-5b0063f0",
-      "title": "How Warsh Raised Rates Without Drawing Trump’s Ire",
-      "content_text": "How Warsh Raised Rates Without Drawing Trump’s Ire",
-      "summary": "",
-      "date_published": "2026-09-18T00:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "443032fd5c181b80",
-      "url": "https://www.wsj.com/finance/currencies/christine-lagarde-helped-block-binances-foothold-in-europe-d905c86d",
-      "title": "Christine Lagarde Helped Block Binance’s Foothold in Europe",
-      "content_text": "Christine Lagarde Helped Block Binance’s Foothold in Europe",
-      "summary": "",
-      "date_published": "2026-09-18T00:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "bbfb5b3a322ec73b",
-      "url": "https://www.wsj.com/articles/the-hope-theory-review-a-distinctly-american-magic-show-c8e159f7",
-      "title": "‘The Hope Theory’ Review: A Distinctly American Magic Show",
-      "content_text": "‘The Hope Theory’ Review: A Distinctly American Magic Show",
-      "summary": "",
-      "date_published": "2026-09-18T00:00:00+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
