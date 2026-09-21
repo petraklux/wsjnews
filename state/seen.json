@@ -13,19 +13,6 @@
       "title": "Elizabeth anne bernstein",
       "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein"
     },
-    "0077b423eb3c2c70": {
-      "dek": "",
-      "first_seen": "2026-09-18T14:56:21.263491+00:00",
-      "guid": "0077b423eb3c2c70",
-      "published": "2026-09-18T12:45:02+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Coinbase Files to List U.S. Single-Stock Perpetual Futures",
-      "title": "Coinbase Files to List U.S. Single-Stock Perpetual Futures",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/coinbase-files-to-list-u-s-single-stock-perpetual-futures-f2q6W4mtxLA3hkVHvqcT"
-    },
     "0092a6fee896fb26": {
       "dek": "",
       "first_seen": "2026-09-18T23:33:02.456370+00:00",
@@ -65,18 +52,31 @@
       "title": "NASA in Talks for Boeing’s Starliner to Handle New Missions",
       "url": "https://www.wsj.com/science/space-astronomy/nasa-in-talks-for-boeings-starliner-to-handle-new-missions-5726e1e5"
     },
-    "02f917faec2632c1": {
+    "022523d63567d241": {
       "dek": "",
-      "first_seen": "2026-09-18T14:56:21.263491+00:00",
-      "guid": "02f917faec2632c1",
-      "published": "2026-09-18T12:45:53+00:00",
-      "section": "Front Page",
+      "first_seen": "2026-09-21T07:03:23.846887+00:00",
+      "guid": "022523d63567d241",
+      "published": "2026-09-21T04:00:00+00:00",
+      "section": "Opinion",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Berkshire Stock Peaked the Day Before Warren Buffett Said He'd Step Down as CEO",
-      "title": "Berkshire Stock Peaked the Day Before Warren Buffett Said He'd Step Down as CEO",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/berkshire-stock-peaked-the-day-before-warren-buffett-said-he-d-step-down-as-ceo-P7dfpIHZRWK28JvtWk5j"
+      "summary": "Pepper…and Salt",
+      "title": "Pepper…and Salt",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-416f1f82"
+    },
+    "063df833538cc1bb": {
+      "dek": "",
+      "first_seen": "2026-09-21T07:03:23.846887+00:00",
+      "guid": "063df833538cc1bb",
+      "published": "2026-09-21T02:12:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Paramount Discussed $1.5 Billion California Investment to Clear Merger Hurdle",
+      "title": "Paramount Discussed $1.5 Billion California Investment to Clear Merger Hurdle",
+      "url": "https://www.wsj.com/business/media/paramount-discussed-1-5-billion-california-investment-to-clear-merger-hurdle-ebe9f59b"
     },
     "06b053f4af98a9c3": {
       "dek": "",
@@ -143,19 +143,6 @@
       "title": "The 13 New TV Shows to Binge This Fall",
       "url": "https://www.wsj.com/arts-culture/television/the-13-new-tv-shows-to-binge-this-fall-4f9bd656"
     },
-    "0e5550833f108bd8": {
-      "dek": "",
-      "first_seen": "2026-09-18T14:56:21.263491+00:00",
-      "guid": "0e5550833f108bd8",
-      "published": "2026-09-18T12:06:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Energy & Utilities Roundup: Market Talk",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-84efa181"
-    },
     "0f7543abb4f098e1": {
       "dek": "",
       "first_seen": "2026-09-18T18:19:58.998905+00:00",
@@ -168,19 +155,6 @@
       "summary": "AI: Ghostwriter in the Machine",
       "title": "AI: Ghostwriter in the Machine",
       "url": "https://www.wsj.com/opinion/ai-ghostwriter-in-the-machine-720d79c1"
-    },
-    "1226591018cdc3f9": {
-      "dek": "",
-      "first_seen": "2026-09-18T14:56:21.263491+00:00",
-      "guid": "1226591018cdc3f9",
-      "published": "2026-09-18T11:53:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Financial Services Roundup: Market Talk",
-      "title": "Financial Services Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-2666de92"
     },
     "133b6a527fcb172e": {
       "dek": "",
@@ -285,6 +259,19 @@
       "summary": "Illinois Taxpayers for Indiana Schools?",
       "title": "Illinois Taxpayers for Indiana Schools?",
       "url": "https://www.wsj.com/opinion/illinois-federal-tax-credit-scholarship-indiana-billboard-j-b-pritzker-fe62e27c"
+    },
+    "1fa0544505cc4e63": {
+      "dek": "",
+      "first_seen": "2026-09-21T07:03:23.846887+00:00",
+      "guid": "1fa0544505cc4e63",
+      "published": "2026-09-21T03:40:00+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "What’s News: Business & Finance",
+      "title": "What’s News: Business & Finance",
+      "url": "https://www.wsj.com/articles/whats-news-business-finance-7fcb8b18"
     },
     "210d2c796678bf6f": {
       "dek": "",
@@ -637,19 +624,6 @@
       "title": "What’s News: Business & Finance",
       "url": "https://www.wsj.com/articles/whats-news-business-finance-2240e34a"
     },
-    "3fa5262eeec822ed": {
-      "dek": "",
-      "first_seen": "2026-09-18T14:56:21.263491+00:00",
-      "guid": "3fa5262eeec822ed",
-      "published": "2026-09-18T12:17:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Basic Materials Roundup: Market Talk",
-      "title": "Basic Materials Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-1ec7c0ee"
-    },
     "40e06f14885b7ced": {
       "dek": "",
       "first_seen": "2026-09-18T23:33:02.456370+00:00",
@@ -688,6 +662,19 @@
       "summary": "AI Startup Manus Seeks to Raise $500 Million and Weighs Hong Kong IPO",
       "title": "AI Startup Manus Seeks to Raise $500 Million and Weighs Hong Kong IPO",
       "url": "https://www.wsj.com/business/ai-startup-manus-seeks-to-raise-500-million-and-weighs-hong-kong-ipo-ef7d3ead"
+    },
+    "441b5c3119c72149": {
+      "dek": "",
+      "first_seen": "2026-09-21T07:03:23.846887+00:00",
+      "guid": "441b5c3119c72149",
+      "published": "2026-09-21T01:36:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Oil Slides 2% With Focus on Saudi Flows, Diplomatic Efforts",
+      "title": "Oil Slides 2% With Focus on Saudi Flows, Diplomatic Efforts",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-declines-as-concerns-over-extended-supply-disruptions-ease-f7ff8ec9"
     },
     "445bf00ad1b67a37": {
       "dek": "",
@@ -819,19 +806,6 @@
       "title": "U.S. Natural Gas Futures on Track for Weekly Gains",
       "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-on-track-for-weekly-gains-7f67c787"
     },
-    "4f4db879d5375c45": {
-      "dek": "",
-      "first_seen": "2026-09-18T14:56:21.263491+00:00",
-      "guid": "4f4db879d5375c45",
-      "published": "2026-09-18T12:25:00+00:00",
-      "section": "Lifestyle",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "My Airline Lost and Found Saga With a Happy but Head-Scratching Ending",
-      "title": "My Airline Lost and Found Saga With a Happy but Head-Scratching Ending",
-      "url": "https://www.wsj.com/lifestyle/travel/my-airline-lost-and-found-saga-with-a-happy-but-head-scratching-ending-44bbe57d"
-    },
     "4fceced5fed51221": {
       "dek": "",
       "first_seen": "2026-09-18T21:11:26.604836+00:00",
@@ -870,6 +844,19 @@
       "summary": "See the 10-Year Treasury Yield’s Wild Ride on the Road to 5%",
       "title": "See the 10-Year Treasury Yield’s Wild Ride on the Road to 5%",
       "url": "https://www.wsj.com/finance/investing/see-the-10-year-treasury-yields-wild-ride-on-the-road-to-5-22e4bbc2"
+    },
+    "54f45d9c9d390798": {
+      "dek": "",
+      "first_seen": "2026-09-21T07:03:23.846887+00:00",
+      "guid": "54f45d9c9d390798",
+      "published": "2026-09-21T06:39:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "BOJ Succeeds in Achieving JGB Market Stability",
+      "title": "BOJ Succeeds in Achieving JGB Market Stability",
+      "url": "https://www.wsj.com/finance/boj-succeeds-in-achieving-jgb-market-stability-5cc9ec05"
     },
     "57f0e46f61a75293": {
       "dek": "",
@@ -974,19 +961,6 @@
       "summary": "Kimberley a strassel",
       "title": "Kimberley a strassel",
       "url": "https://www.wsj.com/news/author/kimberley-a-strassel"
-    },
-    "5c6ebf3585ab87ee": {
-      "dek": "",
-      "first_seen": "2026-09-18T14:56:21.263491+00:00",
-      "guid": "5c6ebf3585ab87ee",
-      "published": "2026-09-18T13:00:00+00:00",
-      "section": "Tech",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "ETFs Are Getting Wackier. Investors Must Stay Sane.",
-      "title": "ETFs Are Getting Wackier. Investors Must Stay Sane.",
-      "url": "https://www.wsj.com/tech/ai/etfs-are-getting-wackier-investors-must-stay-sane-50ff8860"
     },
     "5f2e3991eac7fa50": {
       "dek": "",
@@ -1196,6 +1170,19 @@
       "title": "Editor’s Letter: Ari Emanuel Wrote This Fall’s Must-Read Dealmaking Memoir",
       "url": "https://www.wsj.com/style/editors-letter-ari-emanuel-wrote-this-falls-must-read-dealmaking-memoir-bd1151e7"
     },
+    "6d891aec4a154b44": {
+      "dek": "",
+      "first_seen": "2026-09-21T07:03:23.846887+00:00",
+      "guid": "6d891aec4a154b44",
+      "published": "2026-09-21T06:16:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "U.S. Treasury Yields Decline as Oil Prices Ease",
+      "title": "U.S. Treasury Yields Decline as Oil Prices Ease",
+      "url": "https://www.wsj.com/finance/citi-raises-10-year-u-s-treasury-yield-forecast-ee0a5651"
+    },
     "6e148cc35ca9a1c4": {
       "dek": "",
       "first_seen": "2026-09-18T21:11:26.604836+00:00",
@@ -1391,6 +1378,19 @@
       "title": "Buying a First Home Isn’t Completely Impossible. You Just Have to Learn to Settle.",
       "url": "https://www.wsj.com/economy/housing/buying-a-first-home-isnt-completely-impossible-you-just-have-to-learn-to-settle-a4dce9e9"
     },
+    "8bed8c0865435971": {
+      "dek": "",
+      "first_seen": "2026-09-21T07:03:23.846887+00:00",
+      "guid": "8bed8c0865435971",
+      "published": "2026-09-21T03:20:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Chip Boom to Boost Korean Companies’ Cash, Goldman Sachs Says",
+      "title": "Chip Boom to Boost Korean Companies’ Cash, Goldman Sachs Says",
+      "url": "https://www.wsj.com/finance/stocks/chip-boom-to-boost-korean-companies-cash-goldman-sachs-says-8862719a"
+    },
     "8c59ba971fc62ff1": {
       "dek": "",
       "first_seen": "2026-09-18T14:56:21.263491+00:00",
@@ -1468,19 +1468,6 @@
       "summary": "This Man Finds Hollywood Blockbusters Where Nobody Else Is Looking",
       "title": "This Man Finds Hollywood Blockbusters Where Nobody Else Is Looking",
       "url": "https://www.wsj.com/business/media/this-man-finds-hollywood-blockbusters-where-nobody-else-is-looking-2b060519"
-    },
-    "9918667081a921f4": {
-      "dek": "",
-      "first_seen": "2026-09-18T14:56:21.263491+00:00",
-      "guid": "9918667081a921f4",
-      "published": "2026-09-18T12:33:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Joby Says it Completed First Fully Autonomous Flight Across the U.S.",
-      "title": "Joby Says it Completed First Fully Autonomous Flight Across the U.S.",
-      "url": "https://www.wsj.com/business/airlines/joby-says-it-completed-first-fully-autonomous-flight-across-the-u-s-cec71190"
     },
     "99ffa1c3090c0eae": {
       "dek": "",
@@ -1625,18 +1612,18 @@
       "title": "Trump Announces an ‘AI Force’ After Industry Sounded Alarm",
       "url": "https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f"
     },
-    "a5de1840f789d3b7": {
+    "a4e213b1e7299b3d": {
       "dek": "",
-      "first_seen": "2026-09-18T14:56:21.263491+00:00",
-      "guid": "a5de1840f789d3b7",
-      "published": "2026-09-18T12:12:00+00:00",
+      "first_seen": "2026-09-21T07:03:23.846887+00:00",
+      "guid": "a4e213b1e7299b3d",
+      "published": "2026-09-21T05:27:00+00:00",
       "section": "Business",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Auto & Transport Roundup: Market Talk",
-      "title": "Auto & Transport Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-69274855"
+      "summary": "Societe Generale Targets Boost to Profitability, Shareholder Payouts",
+      "title": "Societe Generale Targets Boost to Profitability, Shareholder Payouts",
+      "url": "https://www.wsj.com/business/earnings/societe-generale-targets-boost-to-profitability-shareholder-payouts-dffabc2b"
     },
     "a5f16bdb371294d7": {
       "dek": "",
@@ -2015,6 +2002,19 @@
       "title": "Gemini Joins the Hacker Club",
       "url": "https://www.wsj.com/tech/ai/gemini-joins-the-hacker-club-d4338198"
     },
+    "d2101456990d3463": {
+      "dek": "",
+      "first_seen": "2026-09-21T07:03:23.846887+00:00",
+      "guid": "d2101456990d3463",
+      "published": "2026-09-21T03:53:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Perpetual Rejects EQT AB’s Improved Offer, Ends Takeover Talks",
+      "title": "Perpetual Rejects EQT AB’s Improved Offer, Ends Takeover Talks",
+      "url": "https://www.wsj.com/business/deals/perpetual-rejects-eqt-abs-improved-offer-ends-takeover-talks-44f70f5e"
+    },
     "d3015d92cb7327ec": {
       "dek": "",
       "first_seen": "2026-09-20T14:08:51.666799+00:00",
@@ -2041,19 +2041,6 @@
       "title": "Patients Sue GLP-1 Drugmakers Over Risk of Sudden Vision Loss",
       "url": "https://www.wsj.com/health/pharma/patients-sue-glp-1-drugmakers-over-risk-of-sudden-vision-loss-f60d7acb"
     },
-    "d503f844398b396e": {
-      "dek": "",
-      "first_seen": "2026-09-18T14:56:21.263491+00:00",
-      "guid": "d503f844398b396e",
-      "published": "2026-09-18T13:16:00+00:00",
-      "section": "Cio Journal",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "AI Job Fears Grow, Tech Leaders Say Reskilling Can’t Wait",
-      "title": "AI Job Fears Grow, Tech Leaders Say Reskilling Can’t Wait",
-      "url": "https://www.wsj.com/cio-journal/ai-job-fears-grow-tech-leaders-say-reskilling-cant-wait-acbfcec4"
-    },
     "d5b9e991e0181d71": {
       "dek": "",
       "first_seen": "2026-09-18T21:11:26.604836+00:00",
@@ -2079,19 +2066,6 @@
       "summary": "Hundreds of Thousands Rally in Iran as War and Economy Squeeze",
       "title": "Hundreds of Thousands Rally in Iran as War and Economy Squeeze",
       "url": "https://www.wsj.com/world/middle-east/hundreds-of-thousands-rally-in-iran-as-war-and-economy-squeeze-7dadb4d4"
-    },
-    "d92f09381ef52346": {
-      "dek": "",
-      "first_seen": "2026-09-18T14:56:21.263491+00:00",
-      "guid": "d92f09381ef52346",
-      "published": "2026-09-18T12:12:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "LPP Shares Pop After Second-Quarter Profits Jump",
-      "title": "LPP Shares Pop After Second-Quarter Profits Jump",
-      "url": "https://www.wsj.com/business/retail/lpp-shares-pop-after-second-quarter-profits-jump-87292979"
     },
     "da65a44166747013": {
       "dek": "",
@@ -2158,19 +2132,6 @@
       "title": "Crypto Blew Its Big Moment—and the Blame Game Has Begun",
       "url": "https://www.wsj.com/finance/currencies/crypto-blew-its-big-momentand-the-blame-game-has-begun-dff66a10"
     },
-    "df0741f97a3fba3b": {
-      "dek": "",
-      "first_seen": "2026-09-18T14:56:21.263491+00:00",
-      "guid": "df0741f97a3fba3b",
-      "published": "2026-09-18T12:47:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Who Is Howie Buffett, Berkshire Hathaway’s New Chairman?",
-      "title": "Who Is Howie Buffett, Berkshire Hathaway’s New Chairman?",
-      "url": "https://www.wsj.com/business/who-is-howie-buffett-berkshire-hathaways-new-chairman-6ead3461"
-    },
     "df497e3a610764e9": {
       "dek": "",
       "first_seen": "2026-09-18T18:19:58.998905+00:00",
@@ -2183,6 +2144,19 @@
       "summary": "Leave the Big Hat at Home—and Other Concert Etiquette Tips",
       "title": "Leave the Big Hat at Home—and Other Concert Etiquette Tips",
       "url": "https://www.wsj.com/arts-culture/music/leave-the-big-hat-at-homeand-other-concert-etiquette-tips-5964fc21"
+    },
+    "e05950dff43c1cd5": {
+      "dek": "",
+      "first_seen": "2026-09-21T07:03:23.846887+00:00",
+      "guid": "e05950dff43c1cd5",
+      "published": "2026-09-21T03:38:00+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "What’s News: Worldwide",
+      "title": "What’s News: Worldwide",
+      "url": "https://www.wsj.com/articles/whats-news-worldwide-5dbf7098"
     },
     "e15ac56fd422aab2": {
       "dek": "",
@@ -2287,6 +2261,19 @@
       "summary": "Trump Scores a Win in Greenland",
       "title": "Trump Scores a Win in Greenland",
       "url": "https://www.wsj.com/opinion/trump-scores-a-win-in-greenland-805e804c"
+    },
+    "e7552dca3fa08c47": {
+      "dek": "",
+      "first_seen": "2026-09-21T07:03:23.846887+00:00",
+      "guid": "e7552dca3fa08c47",
+      "published": "2026-09-21T04:16:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Ingenia Communities Rejects Warburg Pincus’s Improved $1.47 Billion Takeover Offer",
+      "title": "Ingenia Communities Rejects Warburg Pincus’s Improved $1.47 Billion Takeover Offer",
+      "url": "https://www.wsj.com/business/deals/ingenia-communities-rejects-warburg-pincuss-improved-1-47-billion-takeover-offer-c36f1391"
     },
     "e826c215b467e6cf": {
       "dek": "",
@@ -2443,6 +2430,19 @@
       "summary": "Trump Says He Is Banning CNN, MS NOW and Politico From the White House",
       "title": "Trump Says He Is Banning CNN, MS NOW and Politico From the White House",
       "url": "https://www.wsj.com/politics/policy/trump-says-he-is-banning-cnn-ms-now-and-politico-from-the-white-house-af680f1b"
+    },
+    "f2e69cd5760e8d35": {
+      "dek": "",
+      "first_seen": "2026-09-21T07:03:23.846887+00:00",
+      "guid": "f2e69cd5760e8d35",
+      "published": "2026-09-21T01:51:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Dollar Gains on Prospects of Further Fed Tightening",
+      "title": "Dollar Gains on Prospects of Further Fed Tightening",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-focus-turns-to-trump-xi-meeting-2caa497e"
     },
     "f34a406c387693d0": {
       "dek": "",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3"
     }
   },
-  "updated": "2026-09-21T01:33:24.412422+00:00"
+  "updated": "2026-09-21T07:03:23.869009+00:00"
 }
