@@ -6,6 +6,83 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "4736edb8ba676294",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-investors-monitor-central-bank-clues-on-rates-77edee32",
+      "title": "Gold Edges Lower as Investors Monitor Central Bank Clues on Rates",
+      "content_text": "Gold Edges Lower as Investors Monitor Central Bank Clues on Rates",
+      "summary": "",
+      "date_published": "2026-09-21T01:26:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "c1509311cb583a6d",
+      "url": "https://www.wsj.com/articles/corrections-amplifications-40f8ec11",
+      "title": "Corrections & Amplifications",
+      "content_text": "Corrections & Amplifications",
+      "summary": "",
+      "date_published": "2026-09-21T01:21:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "e23337054a7b0faf",
+      "url": "https://www.wsj.com/world/americas/cuba-americans-plans-trump-rubio-03030eb8",
+      "title": "The Wealthy Miami Residents Who Are Plotting Cuba’s Future",
+      "content_text": "The Wealthy Miami Residents Who Are Plotting Cuba’s Future",
+      "summary": "",
+      "date_published": "2026-09-21T01:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "54750823365b14fb",
+      "url": "https://www.wsj.com/finance/investing/see-the-10-year-treasury-yields-wild-ride-on-the-road-to-5-22e4bbc2",
+      "title": "See the 10-Year Treasury Yield’s Wild Ride on the Road to 5%",
+      "content_text": "See the 10-Year Treasury Yield’s Wild Ride on the Road to 5%",
+      "summary": "",
+      "date_published": "2026-09-21T01:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "316f77e7634afce4",
+      "url": "https://www.wsj.com/politics/elections/republicans-are-unleashing-their-fundraising-advantage-against-the-democrats-b44742a0",
+      "title": "Republicans Are Unleashing Their Fundraising Advantage Against the Democrats",
+      "content_text": "Republicans Are Unleashing Their Fundraising Advantage Against the Democrats",
+      "summary": "",
+      "date_published": "2026-09-21T01:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "39066e137602eef2",
+      "url": "https://www.wsj.com/business/energy-oil/a-shortage-of-oil-tankers-is-threatening-to-keep-gas-prices-high-66b2675a",
+      "title": "A Shortage of Oil Tankers Is Threatening to Keep Gas Prices High",
+      "content_text": "A Shortage of Oil Tankers Is Threatening to Keep Gas Prices High",
+      "summary": "",
+      "date_published": "2026-09-21T00:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "ddd5bdd01a52c869",
+      "url": "https://www.wsj.com/lifestyle/careers/the-new-ways-to-thrive-at-work-now-according-to-adam-grant-4d3ad022",
+      "title": "The New Ways to Thrive at Work Now, According to Adam Grant",
+      "content_text": "The New Ways to Thrive at Work Now, According to Adam Grant",
+      "summary": "",
+      "date_published": "2026-09-21T00:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
       "id": "ca5295db52d86a7f",
       "url": "https://www.wsj.com/business/autos/why-the-best-price-on-your-next-car-is-getting-harder-to-find-c32e80de",
       "title": "Why the Best Price on Your Next Car Is Getting Harder to Find",
@@ -2126,83 +2203,6 @@
       "date_published": "2026-09-18T11:53:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "52a69edd21207f0b",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-62546ecf",
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-09-18T11:45:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "2cb72871b6e12303",
-      "url": "https://www.wsj.com/business/uber-ordered-to-pay-40-million-in-wrongful-death-lawsuit-29590cc4",
-      "title": "Uber Ordered to Pay $40 Million in Wrongful Death Lawsuit",
-      "content_text": "Uber Ordered to Pay $40 Million in Wrongful Death Lawsuit",
-      "summary": "",
-      "date_published": "2026-09-18T11:34:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "6e8d74ffc4bed39c",
-      "url": "https://www.wsj.com/cfo-journal/accenture-blackline-leaders-on-the-reinvention-of-finance-59884c35",
-      "title": "Accenture, BlackLine Leaders on the Reinvention of Finance",
-      "content_text": "Accenture, BlackLine Leaders on the Reinvention of Finance",
-      "summary": "",
-      "date_published": "2026-09-18T11:25:00+00:00",
-      "tags": [
-        "Cfo Journal"
-      ]
-    },
-    {
-      "id": "15c7ce79ac5b45bf",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-senators-ask-ftc-to-probe-walmart-and-amazon-over-bots-made-in-america-data-e84cf6e7",
-      "title": "The Morning Risk Report: Senators Ask FTC to Probe Walmart and Amazon Over Bots’ ‘Made in America’ Data",
-      "content_text": "The Morning Risk Report: Senators Ask FTC to Probe Walmart and Amazon Over Bots’ ‘Made in America’ Data",
-      "summary": "",
-      "date_published": "2026-09-18T11:16:00+00:00",
-      "tags": [
-        "Risk Compliance Journal"
-      ]
-    },
-    {
-      "id": "2743f2a95588af3c",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/how-markets-shook-off-this-week-s-shocks-d3xYn009pIcrzFr6sjRl",
-      "title": "How Markets Shook Off This Week's Shocks",
-      "content_text": "How Markets Shook Off This Week's Shocks",
-      "summary": "",
-      "date_published": "2026-09-18T11:10:42+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "2566d36f75ce8da7",
-      "url": "https://www.wsj.com/logistics-report/u-s-to-launch-ai-powered-tool-for-air-traffic-control-4b6adef2",
-      "title": "U.S. to Launch AI-Powered Tool for Air-Traffic Control",
-      "content_text": "U.S. to Launch AI-Powered Tool for Air-Traffic Control",
-      "summary": "",
-      "date_published": "2026-09-18T11:01:00+00:00",
-      "tags": [
-        "Logistics Report"
-      ]
-    },
-    {
-      "id": "30af0a4531dad0ca",
-      "url": "https://www.wsj.com/politics/republicans-are-in-a-midterm-bind-an-avalanche-of-cash-could-move-the-needle-70ff91e4",
-      "title": "Republicans Are in a Midterm Bind. An Avalanche of Cash Could Move the Needle.",
-      "content_text": "Republicans Are in a Midterm Bind. An Avalanche of Cash Could Move the Needle.",
-      "summary": "",
-      "date_published": "2026-09-18T11:00:00+00:00",
-      "tags": [
-        "Politics"
       ]
     }
   ]
