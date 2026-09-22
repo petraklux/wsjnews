@@ -6,14 +6,113 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "fcec1ec4c4276727",
-      "url": "https://www.wsj.com/world/china/trump-xi-taiwan-f236f228",
-      "title": "In Trump, Xi Sees ‘Rare Window’ to Convince Taiwan That Resistance Is Futile",
-      "content_text": "In Trump, Xi Sees ‘Rare Window’ to Convince Taiwan That Resistance Is Futile",
+      "id": "d299bfd6460771dd",
+      "url": "https://www.wsj.com/business/earnings/travel-group-tui-tightens-earnings-guidance-citing-strong-vacation-demand-a22befc1",
+      "title": "Travel Group TUI Tightens Earnings Guidance, Citing Strong Vacation Demand",
+      "content_text": "Travel Group TUI Tightens Earnings Guidance, Citing Strong Vacation Demand",
       "summary": "",
-      "date_published": "2026-09-22T01:00:00+00:00",
+      "date_published": "2026-09-22T06:39:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "e6ad01e223fd6ed7",
+      "url": "https://www.wsj.com/world/uk/uk-government-borrowing-rose-in-august-as-budget-looms-1b5afb71",
+      "title": "UK Government Borrowing Rose in August as Budget Looms",
+      "content_text": "UK Government Borrowing Rose in August as Budget Looms",
+      "summary": "",
+      "date_published": "2026-09-22T06:25:00+00:00",
       "tags": [
         "World"
+      ]
+    },
+    {
+      "id": "b6f38435912ce4e8",
+      "url": "https://www.wsj.com/finance/macro-backdrop-might-weigh-on-two-year-u-s-treasury-auction-ebc5d728",
+      "title": "U.S. Treasury Yields Rise, Geopolitics in Focus",
+      "content_text": "U.S. Treasury Yields Rise, Geopolitics in Focus",
+      "summary": "",
+      "date_published": "2026-09-22T05:41:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "ebfcab69fd75e58c",
+      "url": "https://www.wsj.com/health/pharma/roche-says-drug-helped-patients-reduce-blood-sugar-levels-weight-in-trial-298b21de",
+      "title": "Roche Says Drug Helped Patients Reduce Blood-Sugar Levels, Weight in Trial",
+      "content_text": "Roche Says Drug Helped Patients Reduce Blood-Sugar Levels, Weight in Trial",
+      "summary": "",
+      "date_published": "2026-09-22T05:32:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "e1cfad3616b53aec",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-8db72432",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-09-22T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "7f95b6b0022d3c4b",
+      "url": "https://www.wsj.com/articles/whats-news-business-finance-3e2d32a6",
+      "title": "What’s News: Business & Finance",
+      "content_text": "What’s News: Business & Finance",
+      "summary": "",
+      "date_published": "2026-09-22T02:39:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "deaa3e182190138d",
+      "url": "https://www.wsj.com/articles/whats-news-worldwide-9959c7d7",
+      "title": "What’s News: Worldwide",
+      "content_text": "What’s News: Worldwide",
+      "summary": "",
+      "date_published": "2026-09-22T02:33:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "cb7500acefa19fba",
+      "url": "https://www.wsj.com/finance/stocks/oil-prices-gain-as-hopes-fade-for-u-s-iran-talks-42bc5a49",
+      "title": "Oil Prices Gain as Hopes Fade for U.S.-Iran Talks",
+      "content_text": "Oil Prices Gain as Hopes Fade for U.S.-Iran Talks",
+      "summary": "",
+      "date_published": "2026-09-22T02:11:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "22d7bbe578fc6ec4",
+      "url": "https://www.wsj.com/world/europe/in-the-baltics-nato-forces-are-trying-to-learn-the-new-way-of-war-097aa2dc",
+      "title": "In the Baltics, NATO Forces Are Trying to Learn the New Way of War",
+      "content_text": "In the Baltics, NATO Forces Are Trying to Learn the New Way of War",
+      "summary": "",
+      "date_published": "2026-09-22T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "cdc1df699f93c1ce",
+      "url": "https://www.wsj.com/business/a-rocket-supply-crunch-is-making-it-harder-to-hitch-a-ride-to-space-883f5e53",
+      "title": "A Rocket Supply Crunch Is Making It Harder to Hitch a Ride to Space",
+      "content_text": "A Rocket Supply Crunch Is Making It Harder to Hitch a Ride to Space",
+      "summary": "",
+      "date_published": "2026-09-22T02:00:00+00:00",
+      "tags": [
+        "Business"
       ]
     },
     {
@@ -25,6 +124,17 @@
       "date_published": "2026-09-22T01:00:00+00:00",
       "tags": [
         "Tech"
+      ]
+    },
+    {
+      "id": "fcec1ec4c4276727",
+      "url": "https://www.wsj.com/world/china/trump-xi-taiwan-f236f228",
+      "title": "In Trump, Xi Sees ‘Rare Window’ to Convince Taiwan That Resistance Is Futile",
+      "content_text": "In Trump, Xi Sees ‘Rare Window’ to Convince Taiwan That Resistance Is Futile",
+      "summary": "",
+      "date_published": "2026-09-22T01:00:00+00:00",
+      "tags": [
+        "World"
       ]
     },
     {
@@ -83,10 +193,10 @@
       ]
     },
     {
-      "id": "a09b8490be30480e",
-      "url": "https://www.wsj.com/world/middle-east/irans-president-gets-rare-opportunity-to-make-his-case-to-the-world-b8eaeafe",
-      "title": "Iran’s President Gets Rare Opportunity to Make His Case to the World",
-      "content_text": "Iran’s President Gets Rare Opportunity to Make His Case to the World",
+      "id": "65a2dbd9057e8a14",
+      "url": "https://www.wsj.com/world/middle-east/saudi-arabia-strait-of-hormuz-57e8fcb4",
+      "title": "Saudi Arabia Spent Months Trying to Bypass Hormuz. Now There’s No Way Around It.",
+      "content_text": "Saudi Arabia Spent Months Trying to Bypass Hormuz. Now There’s No Way Around It.",
       "summary": "",
       "date_published": "2026-09-22T00:00:00+00:00",
       "tags": [
@@ -94,10 +204,10 @@
       ]
     },
     {
-      "id": "65a2dbd9057e8a14",
-      "url": "https://www.wsj.com/world/middle-east/saudi-arabia-strait-of-hormuz-57e8fcb4",
-      "title": "Saudi Arabia Spent Months Trying to Bypass Hormuz. Now There’s No Way Around It.",
-      "content_text": "Saudi Arabia Spent Months Trying to Bypass Hormuz. Now There’s No Way Around It.",
+      "id": "a09b8490be30480e",
+      "url": "https://www.wsj.com/world/middle-east/irans-president-gets-rare-opportunity-to-make-his-case-to-the-world-b8eaeafe",
+      "title": "Iran’s President Gets Rare Opportunity to Make His Case to the World",
+      "content_text": "Iran’s President Gets Rare Opportunity to Make His Case to the World",
       "summary": "",
       "date_published": "2026-09-22T00:00:00+00:00",
       "tags": [
@@ -2093,116 +2203,6 @@
       "date_published": "2026-09-20T09:30:00+00:00",
       "tags": [
         "Lifestyle"
-      ]
-    },
-    {
-      "id": "eefef5b75fd37e67",
-      "url": "https://www.wsj.com/us-news/how-romanian-crime-rings-are-draining-u-s-welfare-accounts-c9750d32",
-      "title": "How Romanian Crime Rings Are Draining U.S. Welfare Accounts",
-      "content_text": "How Romanian Crime Rings Are Draining U.S. Welfare Accounts",
-      "summary": "",
-      "date_published": "2026-09-20T09:30:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "ec351ff5aab43a57",
-      "url": "https://www.wsj.com/arts-culture/fine-art/arts-calendar-happenings-for-the-week-of-september-20-airdigital-c8de52ed",
-      "title": "Arts Calendar: Happenings for the Week of September 20",
-      "content_text": "Arts Calendar: Happenings for the Week of September 20",
-      "summary": "",
-      "date_published": "2026-09-20T09:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "ff5225f2e89d0988",
-      "url": "https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3",
-      "title": "Burned Out and Unemployed, Young People in China Are Launching AI Startups",
-      "content_text": "Burned Out and Unemployed, Young People in China Are Launching AI Startups",
-      "summary": "",
-      "date_published": "2026-09-20T03:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "cdb28e9284daee51",
-      "url": "https://www.wsj.com/politics/elections/even-in-reliably-red-kansas-republican-enthusiasm-is-fading-260dabb5",
-      "title": "Even in Reliably Red Kansas, Republican Enthusiasm Is Fading",
-      "content_text": "Even in Reliably Red Kansas, Republican Enthusiasm Is Fading",
-      "summary": "",
-      "date_published": "2026-09-20T02:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "9e4da39d26668378",
-      "url": "https://www.wsj.com/articles/china-1-year-loan-prime-rate-unchanged-at-3-0-eb66f748",
-      "title": "China 1-Year Loan Prime Rate Unchanged at 3.0%",
-      "content_text": "China 1-Year Loan Prime Rate Unchanged at 3.0%",
-      "summary": "",
-      "date_published": "2026-09-20T01:29:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "844055b9fec1b137",
-      "url": "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0",
-      "title": "Polymarket’s Rush to Grow Left a Door Wide Open For Fraudsters",
-      "content_text": "Polymarket’s Rush to Grow Left a Door Wide Open For Fraudsters",
-      "summary": "",
-      "date_published": "2026-09-20T01:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "dec11fb6a8422308",
-      "url": "https://www.wsj.com/finance/currencies/crypto-blew-its-big-momentand-the-blame-game-has-begun-dff66a10",
-      "title": "Crypto Blew Its Big Moment—and the Blame Game Has Begun",
-      "content_text": "Crypto Blew Its Big Moment—and the Blame Game Has Begun",
-      "summary": "",
-      "date_published": "2026-09-20T01:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "b708cb6ae9c12a1d",
-      "url": "https://www.wsj.com/arts-culture/music/defiant-ed-sheeran-fans-show-up-for-the-musicnot-controversyas-tour-resumes-with-no-billed-openers-77e869fd",
-      "title": "A Teary Ed Sheeran Apologizes to His Fans as Tour Resumes With No Openers",
-      "content_text": "A Teary Ed Sheeran Apologizes to His Fans as Tour Resumes With No Openers",
-      "summary": "",
-      "date_published": "2026-09-20T00:32:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "8b21000c59eb8024",
-      "url": "https://www.wsj.com/economy/housing/buying-a-first-home-isnt-completely-impossible-you-just-have-to-learn-to-settle-a4dce9e9",
-      "title": "Buying a First Home Isn’t Completely Impossible. You Just Have to Learn to Settle.",
-      "content_text": "Buying a First Home Isn’t Completely Impossible. You Just Have to Learn to Settle.",
-      "summary": "",
-      "date_published": "2026-09-20T00:00:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "4676ef9735d8dd63",
-      "url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003",
-      "title": "What It’s Like to Work in One of America’s Data Centers",
-      "content_text": "What It’s Like to Work in One of America’s Data Centers",
-      "summary": "",
-      "date_published": "2026-09-19T23:00:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
