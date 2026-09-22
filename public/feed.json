@@ -6,43 +6,153 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "c7e480583f8ad0fd",
-      "url": "https://www.wsj.com/news/business/small-business-marketing",
-      "title": "Small business marketing",
-      "content_text": "Small business marketing",
+      "id": "fcec1ec4c4276727",
+      "url": "https://www.wsj.com/world/china/trump-xi-taiwan-f236f228",
+      "title": "In Trump, Xi Sees ‘Rare Window’ to Convince Taiwan That Resistance Is Futile",
+      "content_text": "In Trump, Xi Sees ‘Rare Window’ to Convince Taiwan That Resistance Is Futile",
       "summary": "",
-      "date_published": "2026-09-21T22:30:19+00:00",
+      "date_published": "2026-09-22T01:00:00+00:00",
       "tags": [
-        "News"
+        "World"
       ]
     },
     {
-      "id": "a2c51ea641c8e80c",
-      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
-      "title": "Economic forecasting survey archive",
-      "content_text": "Economic forecasting survey archive",
+      "id": "a093ebcacf47ac1c",
+      "url": "https://www.wsj.com/tech/ai/startup-hiring-ai-staffing-8c626f75",
+      "title": "These Tiny Startups Are Getting Even Smaller With Help From AI",
+      "content_text": "These Tiny Startups Are Getting Even Smaller With Help From AI",
       "summary": "",
-      "date_published": "2026-09-21T22:30:19+00:00",
+      "date_published": "2026-09-22T01:00:00+00:00",
       "tags": [
-        "Economy"
+        "Tech"
       ]
     },
     {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
+      "id": "fd883e104eb629aa",
+      "url": "https://www.wsj.com/business/media/how-david-ellison-ended-his-stalemate-with-california-e0e1cc9b",
+      "title": "How David Ellison Ended His Stalemate With California",
+      "content_text": "How David Ellison Ended His Stalemate With California",
       "summary": "",
-      "date_published": "2026-09-21T22:30:19+00:00",
+      "date_published": "2026-09-22T01:00:00+00:00",
       "tags": [
-        "News"
+        "Business"
       ]
     },
     {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
+      "id": "e86a1776d1826c06",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-could-rally-on-modest-catalysts-as-shorts-pile-up-39640022",
+      "title": "Nikkei Could Rally on Modest Catalysts as Shorts Pile Up",
+      "content_text": "Nikkei Could Rally on Modest Catalysts as Shorts Pile Up",
+      "summary": "",
+      "date_published": "2026-09-22T00:45:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "c3e38d6fc1b21ef9",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-focus-on-signs-of-diplomacy-in-mideast-conflict-2712f57a",
+      "title": "Oil Edges Higher; Focus on Signs of Diplomacy in Mideast Conflict",
+      "content_text": "Oil Edges Higher; Focus on Signs of Diplomacy in Mideast Conflict",
+      "summary": "",
+      "date_published": "2026-09-22T00:38:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "4329cda220d5dba4",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-on-hopes-for-u-s-iran-negotiations-95e21ec2",
+      "title": "Asian Currencies Mixed on Hopes for U.S.-Iran Negotiations",
+      "content_text": "Asian Currencies Mixed on Hopes for U.S.-Iran Negotiations",
+      "summary": "",
+      "date_published": "2026-09-22T00:32:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "8eed2d0cc69e2fe5",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-as-strong-fundamentals-support-9f92da11",
+      "title": "Gold Rises as Strong Fundamentals Support",
+      "content_text": "Gold Rises as Strong Fundamentals Support",
+      "summary": "",
+      "date_published": "2026-09-22T00:15:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "a09b8490be30480e",
+      "url": "https://www.wsj.com/world/middle-east/irans-president-gets-rare-opportunity-to-make-his-case-to-the-world-b8eaeafe",
+      "title": "Iran’s President Gets Rare Opportunity to Make His Case to the World",
+      "content_text": "Iran’s President Gets Rare Opportunity to Make His Case to the World",
+      "summary": "",
+      "date_published": "2026-09-22T00:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "65a2dbd9057e8a14",
+      "url": "https://www.wsj.com/world/middle-east/saudi-arabia-strait-of-hormuz-57e8fcb4",
+      "title": "Saudi Arabia Spent Months Trying to Bypass Hormuz. Now There’s No Way Around It.",
+      "content_text": "Saudi Arabia Spent Months Trying to Bypass Hormuz. Now There’s No Way Around It.",
+      "summary": "",
+      "date_published": "2026-09-22T00:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "a8a138a13d35be4c",
+      "url": "https://www.wsj.com/politics/policy/bill-pulte-scrutinized-mortgages-of-trumps-political-rivalsand-todd-blanche-314e4ae3",
+      "title": "Bill Pulte Scrutinized Mortgages of Trump’s Political Rivals—and Todd Blanche",
+      "content_text": "Bill Pulte Scrutinized Mortgages of Trump’s Political Rivals—and Todd Blanche",
+      "summary": "",
+      "date_published": "2026-09-22T00:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "d57e0fd9468fdb5d",
+      "url": "https://www.wsj.com/articles/corrections-amplifications-77e63313",
+      "title": "Corrections & Amplifications",
+      "content_text": "Corrections & Amplifications",
+      "summary": "",
+      "date_published": "2026-09-21T23:45:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "309f80626e18a48e",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026/card/-under-the-radar-grail-shares-surge-on-fda-results-gUmzg6fCwlUKXFMIqlKT",
+      "title": "🔎Under the Radar: Grail Shares Surge on FDA Results",
+      "content_text": "🔎Under the Radar: Grail Shares Surge on FDA Results",
+      "summary": "",
+      "date_published": "2026-09-21T22:57:07+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "677fa607d90ec8d8",
+      "url": "https://www.wsj.com/politics/policy/trump-and-mamdani-maintain-their-rapporteven-when-they-disagree-fe79d01a",
+      "title": "Trump and Mamdani Maintain Their Rapport—Even When They Disagree",
+      "content_text": "Trump and Mamdani Maintain Their Rapport—Even When They Disagree",
+      "summary": "",
+      "date_published": "2026-09-21T22:49:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
       "summary": "",
       "date_published": "2026-09-21T22:30:19+00:00",
       "tags": [
@@ -61,32 +171,10 @@
       ]
     },
     {
-      "id": "dea6ec2569a2d42b",
-      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
-      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "summary": "",
-      "date_published": "2026-09-21T22:30:19+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "6cf8b3cf7c4b5fd3",
-      "url": "https://www.wsj.com/news/types/cultural-conversation",
-      "title": "Cultural conversation",
-      "content_text": "Cultural conversation",
-      "summary": "",
-      "date_published": "2026-09-21T22:30:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
       "summary": "",
       "date_published": "2026-09-21T22:30:19+00:00",
       "tags": [
@@ -102,6 +190,61 @@
       "date_published": "2026-09-21T22:30:19+00:00",
       "tags": [
         "News"
+      ]
+    },
+    {
+      "id": "6cf8b3cf7c4b5fd3",
+      "url": "https://www.wsj.com/news/types/cultural-conversation",
+      "title": "Cultural conversation",
+      "content_text": "Cultural conversation",
+      "summary": "",
+      "date_published": "2026-09-21T22:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-09-21T22:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-09-21T22:30:19+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
+      "summary": "",
+      "date_published": "2026-09-21T22:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "dea6ec2569a2d42b",
+      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
+      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "summary": "",
+      "date_published": "2026-09-21T22:30:19+00:00",
+      "tags": [
+        "Arts Culture"
       ]
     },
     {
@@ -226,10 +369,10 @@
       ]
     },
     {
-      "id": "8fec666e9c1eb24c",
-      "url": "https://www.wsj.com/opinion/whos-stronger-xi-or-trump-2d834cd2",
-      "title": "Who’s Stronger, Xi or Trump?",
-      "content_text": "Who’s Stronger, Xi or Trump?",
+      "id": "09c0de657387a8a7",
+      "url": "https://www.wsj.com/opinion/ais-threat-to-chinas-control-8d7d9966",
+      "title": "AI’s Threat to China’s Control",
+      "content_text": "AI’s Threat to China’s Control",
       "summary": "",
       "date_published": "2026-09-21T21:12:00+00:00",
       "tags": [
@@ -237,10 +380,10 @@
       ]
     },
     {
-      "id": "09c0de657387a8a7",
-      "url": "https://www.wsj.com/opinion/ais-threat-to-chinas-control-8d7d9966",
-      "title": "AI’s Threat to China’s Control",
-      "content_text": "AI’s Threat to China’s Control",
+      "id": "8fec666e9c1eb24c",
+      "url": "https://www.wsj.com/opinion/whos-stronger-xi-or-trump-2d834cd2",
+      "title": "Who’s Stronger, Xi or Trump?",
+      "content_text": "Who’s Stronger, Xi or Trump?",
       "summary": "",
       "date_published": "2026-09-21T21:12:00+00:00",
       "tags": [
@@ -358,10 +501,10 @@
       ]
     },
     {
-      "id": "fe80b27021aeda05",
-      "url": "https://www.wsj.com/opinion/helpi-feel-a-bad-case-of-tds-coming-on-0d2515aa",
-      "title": "Help—I Feel a Bad Case of TDS Coming On",
-      "content_text": "Help—I Feel a Bad Case of TDS Coming On",
+      "id": "d732fd3173b82f7e",
+      "url": "https://www.wsj.com/opinion/good-news-for-the-gop-some-politics-is-still-local-ec81c8ca",
+      "title": "Good News for the GOP: Some Politics Is Still Local",
+      "content_text": "Good News for the GOP: Some Politics Is Still Local",
       "summary": "",
       "date_published": "2026-09-21T20:20:00+00:00",
       "tags": [
@@ -369,10 +512,10 @@
       ]
     },
     {
-      "id": "d732fd3173b82f7e",
-      "url": "https://www.wsj.com/opinion/good-news-for-the-gop-some-politics-is-still-local-ec81c8ca",
-      "title": "Good News for the GOP: Some Politics Is Still Local",
-      "content_text": "Good News for the GOP: Some Politics Is Still Local",
+      "id": "fe80b27021aeda05",
+      "url": "https://www.wsj.com/opinion/helpi-feel-a-bad-case-of-tds-coming-on-0d2515aa",
+      "title": "Help—I Feel a Bad Case of TDS Coming On",
+      "content_text": "Help—I Feel a Bad Case of TDS Coming On",
       "summary": "",
       "date_published": "2026-09-21T20:20:00+00:00",
       "tags": [
@@ -2060,149 +2203,6 @@
       "date_published": "2026-09-19T23:00:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "edeee60e9d4e699f",
-      "url": "https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba",
-      "title": "Refineries Are Now the Main Chokepoint for Global Energy Supplies",
-      "content_text": "Refineries Are Now the Main Chokepoint for Global Energy Supplies",
-      "summary": "",
-      "date_published": "2026-09-19T20:53:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "5b318f7d299f0ae3",
-      "url": "https://www.wsj.com/politics/elections/primaries-are-over-midterms-are-set-this-is-where-we-are-d16351cc",
-      "title": "Primaries Are Over. Midterms Are Set. This Is Where We Are.",
-      "content_text": "Primaries Are Over. Midterms Are Set. This Is Where We Are.",
-      "summary": "",
-      "date_published": "2026-09-19T19:11:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "a4ba32b67678b801",
-      "url": "https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f",
-      "title": "Trump Announces an ‘AI Force’ After Industry Sounded Alarm",
-      "content_text": "Trump Announces an ‘AI Force’ After Industry Sounded Alarm",
-      "summary": "",
-      "date_published": "2026-09-19T18:18:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "32635f3d0076cccc",
-      "url": "https://www.wsj.com/articles/the-next-frontier-for-autonomous-vehicles-is-burying-your-garbage-2955e3bc",
-      "title": "The Next Frontier For Autonomous Vehicles is Burying Your Garbage",
-      "content_text": "The Next Frontier For Autonomous Vehicles is Burying Your Garbage",
-      "summary": "",
-      "date_published": "2026-09-19T18:11:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "57f0e46f61a75293",
-      "url": "https://www.wsj.com/world/europe/german-general-wins-top-nato-roleand-a-platform-to-warn-about-russia-fecf91c5",
-      "title": "German General Wins Top NATO Role—and a Platform to Warn About Russia",
-      "content_text": "German General Wins Top NATO Role—and a Platform to Warn About Russia",
-      "summary": "",
-      "date_published": "2026-09-19T16:31:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "e15ac56fd422aab2",
-      "url": "https://www.wsj.com/business/race-to-save-florida-orange-industry-from-total-collapse-69604769",
-      "title": "The Race to Save Florida Orange Industry From Total Collapse",
-      "content_text": "The Race to Save Florida Orange Industry From Total Collapse",
-      "summary": "",
-      "date_published": "2026-09-19T16:26:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "35586f5c85526e50",
-      "url": "https://www.wsj.com/us-news/on-the-shores-of-trumps-lake-america-its-still-lake-ontario-582333ab",
-      "title": "On the Shores of Trump’s Lake America, It’s Still Lake Ontario",
-      "content_text": "On the Shores of Trump’s Lake America, It’s Still Lake Ontario",
-      "summary": "",
-      "date_published": "2026-09-19T15:55:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "390743142829a762",
-      "url": "https://www.wsj.com/world/middle-east/air-attack-sets-fuel-depot-ablaze-at-airport-in-saudi-capital-8bcc439c",
-      "title": "Air Attack Sets Fuel Depot Ablaze at Airport in Saudi Capital",
-      "content_text": "Air Attack Sets Fuel Depot Ablaze at Airport in Saudi Capital",
-      "summary": "",
-      "date_published": "2026-09-19T14:18:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "afee54c3d24a0559",
-      "url": "https://www.wsj.com/world/middle-east/the-twin-sisters-facing-the-wrath-of-irans-crackdown-81adce68",
-      "title": "The Twin Sisters Facing the Wrath of Iran’s Crackdown",
-      "content_text": "The Twin Sisters Facing the Wrath of Iran’s Crackdown",
-      "summary": "",
-      "date_published": "2026-09-19T14:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "6bc14fc48b78cb1b",
-      "url": "https://www.wsj.com/politics/policy/ms-now-denied-entry-to-white-house-after-trump-ban-9c0cfaef",
-      "title": "MS NOW Denied Entry to White House After Trump Ban",
-      "content_text": "MS NOW Denied Entry to White House After Trump Ban",
-      "summary": "",
-      "date_published": "2026-09-19T13:56:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "6cfcab68b236fc20",
-      "url": "https://www.wsj.com/style/editors-letter-ari-emanuel-wrote-this-falls-must-read-dealmaking-memoir-bd1151e7",
-      "title": "Editor’s Letter: Ari Emanuel Wrote This Fall’s Must-Read Dealmaking Memoir",
-      "content_text": "Editor’s Letter: Ari Emanuel Wrote This Fall’s Must-Read Dealmaking Memoir",
-      "summary": "",
-      "date_published": "2026-09-19T12:25:00+00:00",
-      "tags": [
-        "Style"
-      ]
-    },
-    {
-      "id": "5f2e3991eac7fa50",
-      "url": "https://www.wsj.com/tech/ai/nvidia-jensen-huang-resists-ai-slowdown-334a24e1",
-      "title": "Dario Says AI Should Slow Down. Jensen Wants to Go Full Steam Ahead.",
-      "content_text": "Dario Says AI Should Slow Down. Jensen Wants to Go Full Steam Ahead.",
-      "summary": "",
-      "date_published": "2026-09-19T12:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "3562086ad1fecfbb",
-      "url": "https://www.wsj.com/sports/football/the-hottest-spot-in-sports-this-weekend-is-oxford-miss-15caf2ec",
-      "title": "The Hottest Spot in Sports This Weekend is Oxford, Miss.",
-      "content_text": "The Hottest Spot in Sports This Weekend is Oxford, Miss.",
-      "summary": "",
-      "date_published": "2026-09-19T11:55:00+00:00",
-      "tags": [
-        "Sports"
       ]
     }
   ]
