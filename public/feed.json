@@ -6,6 +6,391 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "0be7763b26652030",
+      "url": "https://www.wsj.com/business/retail/gap-is-getting-into-the-boy-band-business-4ab0ac16",
+      "title": "Gap Is Getting Into the Boy-Band Business",
+      "content_text": "Gap Is Getting Into the Boy-Band Business",
+      "summary": "",
+      "date_published": "2026-09-22T12:30:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "c2a7a26be2fa48d6",
+      "url": "https://www.wsj.com/world/china/trump-summit-with-xi-unlikely-to-include-chinese-ceos-7a9e90dd",
+      "title": "Trump Summit With Xi Unlikely to Include Chinese CEOs",
+      "content_text": "Trump Summit With Xi Unlikely to Include Chinese CEOs",
+      "summary": "",
+      "date_published": "2026-09-22T12:09:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "64acd7a5d3c73b5b",
+      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-83121414",
+      "title": "Auto & Transport Roundup: Market Talk",
+      "content_text": "Auto & Transport Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-09-22T12:01:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "e70a230df3826c6d",
+      "url": "https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e",
+      "title": "The Tech Elite Is Funding an Alternative to College",
+      "content_text": "The Tech Elite Is Funding an Alternative to College",
+      "summary": "",
+      "date_published": "2026-09-22T12:00:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "018d19ec13ccf19f",
+      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-2f40e335",
+      "title": "Health Care Roundup: Market Talk",
+      "content_text": "Health Care Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-09-22T11:56:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "ce993c577b5faf65",
+      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-415ce2e2",
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "content_text": "Energy & Utilities Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-09-22T11:50:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "4edee4ac912e816b",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-9ea269b4",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-09-22T11:45:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "8b5bfbc2dbe5e841",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-8962d0c7",
+      "title": "Basic Materials Roundup: Market Talk",
+      "content_text": "Basic Materials Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-09-22T11:38:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "dcef5ed3ea2f3747",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-22-2026/card/saudi-arabia-tests-key-oil-pipeline-for-potential-restart-l9d64ch90lKJpgo4zCdJ",
+      "title": "Saudi Arabia Tests Key Oil Pipeline for Potential Restart",
+      "content_text": "Saudi Arabia Tests Key Oil Pipeline for Potential Restart",
+      "summary": "",
+      "date_published": "2026-09-22T11:37:41+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "f9404d6777ff604e",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-f25d3281",
+      "title": "Financial Services Roundup: Market Talk",
+      "content_text": "Financial Services Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-09-22T11:32:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "a6bb093911a01f70",
+      "url": "https://www.wsj.com/business/doordash-to-pay-131-5-million-to-resolve-nyc-investigation-into-minimum-pay-law-compliance-8237c60e",
+      "title": "DoorDash to Pay $131.5 Million to Resolve NYC Investigation Into Minimum-Pay Law Compliance",
+      "content_text": "DoorDash to Pay $131.5 Million to Resolve NYC Investigation Into Minimum-Pay Law Compliance",
+      "summary": "",
+      "date_published": "2026-09-22T11:31:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "135b1df806268935",
+      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-paramount-settles-states-antitrust-suit-clearing-way-for-warner-megadeal-248a115f",
+      "title": "The Morning Risk Report: Paramount Settles States’ Antitrust Suit, Clearing Way for Warner Megadeal",
+      "content_text": "The Morning Risk Report: Paramount Settles States’ Antitrust Suit, Clearing Way for Warner Megadeal",
+      "summary": "",
+      "date_published": "2026-09-22T11:25:00+00:00",
+      "tags": [
+        "Risk Compliance Journal"
+      ]
+    },
+    {
+      "id": "2180633616abfc77",
+      "url": "https://www.wsj.com/business/earnings/autozone-sales-rise-and-further-growth-is-expected-f2ba8aac",
+      "title": "AutoZone Sales Rise and Further Growth is Expected",
+      "content_text": "AutoZone Sales Rise and Further Growth is Expected",
+      "summary": "",
+      "date_published": "2026-09-22T11:25:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "3996148812e0aa67",
+      "url": "https://www.wsj.com/economy/trade/eu-philippines-reach-breakthrough-in-free-trade-talks-0fdf1e12",
+      "title": "EU, Philippines Reach Breakthrough in Free-Trade Talks",
+      "content_text": "EU, Philippines Reach Breakthrough in Free-Trade Talks",
+      "summary": "",
+      "date_published": "2026-09-22T11:21:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "09f37dd66a6524ba",
+      "url": "https://www.wsj.com/cfo-journal/a-new-hollywood-plus-carmax-cuts-jobs-again-82ea7e3b",
+      "title": "A New Hollywood? Plus, CarMax Cuts Jobs Again",
+      "content_text": "A New Hollywood? Plus, CarMax Cuts Jobs Again",
+      "summary": "",
+      "date_published": "2026-09-22T11:11:00+00:00",
+      "tags": [
+        "Cfo Journal"
+      ]
+    },
+    {
+      "id": "55878b2e0c585519",
+      "url": "https://www.wsj.com/business/earnings/thor-industries-gears-up-to-face-more-headwinds-in-fiscal-2027-f8ca4e7f",
+      "title": "Thor Industries Gears Up to Face More Headwinds in Fiscal 2027",
+      "content_text": "Thor Industries Gears Up to Face More Headwinds in Fiscal 2027",
+      "summary": "",
+      "date_published": "2026-09-22T11:11:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "bf637381930e1348",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-22-2026/card/binance-invests-100-million-in-circle-expands-stablecoin-partnership-ldgGopE6tVh2CNtuChsW",
+      "title": "Binance Invests $100 Million in Circle, Expands Stablecoin Partnership",
+      "content_text": "Binance Invests $100 Million in Circle, Expands Stablecoin Partnership",
+      "summary": "",
+      "date_published": "2026-09-22T11:00:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "bfb1f596c02c991e",
+      "url": "https://www.wsj.com/sports/baseball/phillies-lineup-schwarber-arraez-23fbe50d",
+      "title": "The MLB Team Upending Everything You Thought You Knew About Batting Orders",
+      "content_text": "The MLB Team Upending Everything You Thought You Knew About Batting Orders",
+      "summary": "",
+      "date_published": "2026-09-22T11:00:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "9d121698de1cd3fc",
+      "url": "https://www.wsj.com/logistics-report/spacexs-falcon-9-phaseout-spurs-hunt-for-new-ways-to-launch-payloads-585be3e8",
+      "title": "SpaceX’s Falcon 9 Phaseout Spurs Hunt for New Ways to Launch Payloads",
+      "content_text": "SpaceX’s Falcon 9 Phaseout Spurs Hunt for New Ways to Launch Payloads",
+      "summary": "",
+      "date_published": "2026-09-22T10:59:00+00:00",
+      "tags": [
+        "Logistics Report"
+      ]
+    },
+    {
+      "id": "39b260518bcc226f",
+      "url": "https://www.wsj.com/world/china/before-the-trump-xi-summit-an-insiders-read-on-how-beijing-sees-taiwan-3f2f5535",
+      "title": "Before the Trump-Xi Summit, an Insider’s Read on How Beijing Sees Taiwan",
+      "content_text": "Before the Trump-Xi Summit, an Insider’s Read on How Beijing Sees Taiwan",
+      "summary": "",
+      "date_published": "2026-09-22T10:55:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "b52010a20470ee97",
+      "url": "https://www.wsj.com/politics/trumps-second-term-is-made-for-tv-but-the-cameras-have-clicked-off-7497b938",
+      "title": "Trump’s Second Term Is Made-for-TV, but the Cameras Have Clicked Off",
+      "content_text": "Trump’s Second Term Is Made-for-TV, but the Cameras Have Clicked Off",
+      "summary": "",
+      "date_published": "2026-09-22T10:52:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "699f09173870dfc5",
+      "url": "https://www.wsj.com/finance/stocks/dividend-cuts-send-a-bearish-signal-a57c2bc0",
+      "title": "Dividend Cuts Send a Bearish Signal",
+      "content_text": "Dividend Cuts Send a Bearish Signal",
+      "summary": "",
+      "date_published": "2026-09-22T10:27:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "87aa234944ee7cb5",
+      "url": "https://www.wsj.com/articles/trumps-u-n-speech-and-china-talks-put-tariffs-ai-and-energy-in-focus-36a90be6",
+      "title": "Trump’s U.N. Speech and China Talks Put Tariffs, AI and Energy in Focus",
+      "content_text": "Trump’s U.N. Speech and China Talks Put Tariffs, AI and Energy in Focus",
+      "summary": "",
+      "date_published": "2026-09-22T09:59:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "0b8e7696327bf0cb",
+      "url": "https://www.wsj.com/articles/there-are-no-vps-svpswhy-hut-8-eliminated-most-traditional-job-titles-fa7861a2",
+      "title": "‘There Are No VPs, SVPs’—Why Hut 8 Eliminated Most Traditional Job Titles",
+      "content_text": "‘There Are No VPs, SVPs’—Why Hut 8 Eliminated Most Traditional Job Titles",
+      "summary": "",
+      "date_published": "2026-09-22T09:54:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "c992c8f249725438",
+      "url": "https://www.wsj.com/economy/central-banking/beware-oils-second-strike-on-inflation-a07161d3",
+      "title": "Beware Oil’s Second Strike on Inflation",
+      "content_text": "Beware Oil’s Second Strike on Inflation",
+      "summary": "",
+      "date_published": "2026-09-22T09:48:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "b0802585aacf9fde",
+      "url": "https://www.wsj.com/finance/stocks/ai-stock-rally-loses-steam-oil-prices-turn-negative-e19323a8",
+      "title": "AI Stock Rally Loses Steam, Oil Prices Turn Negative",
+      "content_text": "AI Stock Rally Loses Steam, Oil Prices Turn Negative",
+      "summary": "",
+      "date_published": "2026-09-22T09:48:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "b4f03f8c49b93da5",
+      "url": "https://www.wsj.com/us-news/the-california-surf-spot-with-epic-wavesand-rusty-metal-spikes-f1159b30",
+      "title": "The California Surf Spot With Epic Waves—and Rusty Metal Spikes",
+      "content_text": "The California Surf Spot With Epic Waves—and Rusty Metal Spikes",
+      "summary": "",
+      "date_published": "2026-09-22T09:30:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "c7fdb9a3f0ffdbb3",
+      "url": "https://www.wsj.com/real-estate/looking-for-real-estate-bargains-watch-these-apartment-loans-cc49fa8e",
+      "title": "Looking for Real-Estate Bargains? Watch These Apartment Loans",
+      "content_text": "Looking for Real-Estate Bargains? Watch These Apartment Loans",
+      "summary": "",
+      "date_published": "2026-09-22T09:30:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "882b242e20dc0b2b",
+      "url": "https://www.wsj.com/style/fashion/discount-caviar-is-everywhereand-the-luxury-food-is-having-an-identity-crisis-17f49cf6",
+      "title": "Discount Caviar Is Everywhere—and the Luxury Food Is Having an Identity Crisis",
+      "content_text": "Discount Caviar Is Everywhere—and the Luxury Food Is Having an Identity Crisis",
+      "summary": "",
+      "date_published": "2026-09-22T09:30:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
+      "id": "86a265008bb0030c",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-22-2026/card/stocks-to-watch-meta-shopify-roche-HZDxyGhxTZidFLyjgExJ",
+      "title": "Stocks to Watch: Meta, Shopify, Roche",
+      "content_text": "Stocks to Watch: Meta, Shopify, Roche",
+      "summary": "",
+      "date_published": "2026-09-22T09:23:05+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "7d02da0a02ce8106",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-22-2026/card/meta-stock-has-a-banner-day-zZgrXpjFPIt8c5VDSpq4",
+      "title": "Meta Stock Has a Banner Day",
+      "content_text": "Meta Stock Has a Banner Day",
+      "summary": "",
+      "date_published": "2026-09-22T08:16:20+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "737b969832e4cad4",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-22-2026/card/trump-xi-meeting-costco-earnings-what-to-watch-this-week-Z0E6s81Rn3FORxDqDFwX",
+      "title": "Trump-Xi Meeting, Costco Earnings: What to Watch This Week",
+      "content_text": "Trump-Xi Meeting, Costco Earnings: What to Watch This Week",
+      "summary": "",
+      "date_published": "2026-09-22T08:14:16+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "b28afaa30a2469f9",
+      "url": "https://www.wsj.com/business/earnings/smiths-group-shares-rise-after-better-than-expected-results-f3fb3473",
+      "title": "Smiths Group Shares Rise After Better-Than-Expected Results",
+      "content_text": "Smiths Group Shares Rise After Better-Than-Expected Results",
+      "summary": "",
+      "date_published": "2026-09-22T08:02:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "6be96727c5ab4b53",
+      "url": "https://www.wsj.com/tech/ai/alibaba-unveils-new-ai-chip-outlines-plan-for-larger-model-1a989146",
+      "title": "Alibaba Unveils New AI Chip, Outlines Plan for Larger Model",
+      "content_text": "Alibaba Unveils New AI Chip, Outlines Plan for Larger Model",
+      "summary": "",
+      "date_published": "2026-09-22T07:49:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "d2a23da2d2581661",
+      "url": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-hormuz-shipping-risks-persist-363fbeb1",
+      "title": "Brent Falls Below $100 a Barrel on U.S.-Iran Diplomacy Hopes",
+      "content_text": "Brent Falls Below $100 a Barrel on U.S.-Iran Diplomacy Hopes",
+      "summary": "",
+      "date_published": "2026-09-22T07:18:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "d299bfd6460771dd",
       "url": "https://www.wsj.com/business/earnings/travel-group-tui-tightens-earnings-guidance-citing-strong-vacation-demand-a22befc1",
       "title": "Travel Group TUI Tightens Earnings Guidance, Citing Strong Vacation Demand",
@@ -25,6 +410,17 @@
       "date_published": "2026-09-22T06:25:00+00:00",
       "tags": [
         "World"
+      ]
+    },
+    {
+      "id": "5886cb6eda2230a8",
+      "url": "https://www.wsj.com/economy/uk-government-borrowing-rose-in-august-as-budget-looms-1b5afb71",
+      "title": "U.K. Government Borrowing Rose in August as Budget Looms",
+      "content_text": "U.K. Government Borrowing Rose in August as Budget Looms",
+      "summary": "",
+      "date_published": "2026-09-22T06:25:00+00:00",
+      "tags": [
+        "Economy"
       ]
     },
     {
@@ -1807,402 +2203,6 @@
       "date_published": "2026-09-20T21:00:00+00:00",
       "tags": [
         "Politics"
-      ]
-    },
-    {
-      "id": "dc077f1e6b7408f5",
-      "url": "https://www.wsj.com/opinion/a-grail-cancer-test-for-the-fda-376051a0",
-      "title": "A Grail Cancer Test for the FDA",
-      "content_text": "A Grail Cancer Test for the FDA",
-      "summary": "",
-      "date_published": "2026-09-20T20:58:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "21c1fa17faec8400",
-      "url": "https://www.wsj.com/opinion/donald-trump-xi-jinping-and-jimmy-lai-fe457e86",
-      "title": "Donald Trump, Xi Jinping and Jimmy Lai",
-      "content_text": "Donald Trump, Xi Jinping and Jimmy Lai",
-      "summary": "",
-      "date_published": "2026-09-20T20:55:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "3bdf710488be9c00",
-      "url": "https://www.wsj.com/opinion/in-the-end-a-good-greenland-deal-9a7cf4e5",
-      "title": "In the End, a Good Greenland Deal",
-      "content_text": "In the End, a Good Greenland Deal",
-      "summary": "",
-      "date_published": "2026-09-20T20:54:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "1f1991f7a8ed0849",
-      "url": "https://www.wsj.com/opinion/illinois-federal-tax-credit-scholarship-indiana-billboard-j-b-pritzker-fe62e27c",
-      "title": "Illinois Taxpayers for Indiana Schools?",
-      "content_text": "Illinois Taxpayers for Indiana Schools?",
-      "summary": "",
-      "date_published": "2026-09-20T20:53:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "c12d68d07c1c1cc5",
-      "url": "https://www.wsj.com/arts-culture/books/the-defector-review-a-proposal-to-intrigue-e6f8032b",
-      "title": "‘The Defector’ Review: A Proposal to Intrigue",
-      "content_text": "‘The Defector’ Review: A Proposal to Intrigue",
-      "summary": "",
-      "date_published": "2026-09-20T20:53:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "a109b7b913e4f107",
-      "url": "https://www.wsj.com/politics/policy/trump-to-meet-mamdani-in-new-york-amid-policy-strains-between-the-two-8e475aa8",
-      "title": "Trump to Meet Mamdani in New York Amid Policy Strains Between the Two",
-      "content_text": "Trump to Meet Mamdani in New York Amid Policy Strains Between the Two",
-      "summary": "",
-      "date_published": "2026-09-20T19:40:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "2bd13a49cfb65f69",
-      "url": "https://www.wsj.com/lifestyle/travel/disney-theme-parks-defy-industry-slump-with-price-cuts-and-promotions-75114b42",
-      "title": "Disney Theme Parks Defy Industry Slump With Price Cuts and Promotions",
-      "content_text": "Disney Theme Parks Defy Industry Slump With Price Cuts and Promotions",
-      "summary": "",
-      "date_published": "2026-09-20T19:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "445bf00ad1b67a37",
-      "url": "https://www.wsj.com/politics/policy/trump-administration-prepares-to-sanction-the-international-criminal-court-85f5f44c",
-      "title": "Trump Ramps Up Bid to Dismantle International Criminal Court",
-      "content_text": "Trump Ramps Up Bid to Dismantle International Criminal Court",
-      "summary": "",
-      "date_published": "2026-09-20T18:30:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "f811d4a5339f9195",
-      "url": "https://www.wsj.com/world/middle-east/how-ai-is-reshaping-election-campaigns-in-israel-f5a2e79a",
-      "title": "How AI Is Reshaping Election Campaigns in Israel",
-      "content_text": "How AI Is Reshaping Election Campaigns in Israel",
-      "summary": "",
-      "date_published": "2026-09-20T18:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "e9e27adf888f5b14",
-      "url": "https://www.wsj.com/opinion/what-is-saudi-arabias-plan-for-the-houthis-fff7e604",
-      "title": "What Is Saudi Arabia’s Plan for the Houthis?",
-      "content_text": "What Is Saudi Arabia’s Plan for the Houthis?",
-      "summary": "",
-      "date_published": "2026-09-20T17:43:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "a5f16bdb371294d7",
-      "url": "https://www.wsj.com/opinion/to-wean-off-china-build-domestic-batteries-4a11bce6",
-      "title": "To Wean Off China, Build Domestic Batteries",
-      "content_text": "To Wean Off China, Build Domestic Batteries",
-      "summary": "",
-      "date_published": "2026-09-20T17:37:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "635ef6a4c039eba1",
-      "url": "https://www.wsj.com/opinion/dont-dismiss-the-genius-of-norman-rockwell-c28663d5",
-      "title": "Don’t Dismiss the Genius of Norman Rockwell",
-      "content_text": "Don’t Dismiss the Genius of Norman Rockwell",
-      "summary": "",
-      "date_published": "2026-09-20T17:36:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "f87cdd5497f4a6f8",
-      "url": "https://www.wsj.com/opinion/doge-from-within-is-better-4f2e702f",
-      "title": "DOGE From Within Is Better",
-      "content_text": "DOGE From Within Is Better",
-      "summary": "",
-      "date_published": "2026-09-20T17:36:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "e6b099cda853850a",
-      "url": "https://www.wsj.com/opinion/will-andrew-cuomo-confront-his-own-partys-antisemitism-1b7dc1a1",
-      "title": "Will Andrew Cuomo Confront His Own Party’s Antisemitism?",
-      "content_text": "Will Andrew Cuomo Confront His Own Party’s Antisemitism?",
-      "summary": "",
-      "date_published": "2026-09-20T17:35:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "009546a95f42100f",
-      "url": "https://www.wsj.com/opinion/the-bessent-predicament-327b5552",
-      "title": "The Bessent Predicament",
-      "content_text": "The Bessent Predicament",
-      "summary": "",
-      "date_published": "2026-09-20T17:33:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "918dfaf9e0e903e5",
-      "url": "https://www.wsj.com/opinion/maria-corina-machados-risky-return-e74a9f76",
-      "title": "María Corina Machado’s Risky Return",
-      "content_text": "María Corina Machado’s Risky Return",
-      "summary": "",
-      "date_published": "2026-09-20T17:33:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "a7f7f1df6c48a725",
-      "url": "https://www.wsj.com/opinion/wheres-the-beef-down-under-43bc34ea",
-      "title": "Where’s the Beef? Down Under",
-      "content_text": "Where’s the Beef? Down Under",
-      "summary": "",
-      "date_published": "2026-09-20T17:32:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "187d64a3527ae1f0",
-      "url": "https://www.wsj.com/opinion/a-quiet-summit-should-alarm-taiwan-cf13113c",
-      "title": "A Quiet Summit Should Alarm Taiwan",
-      "content_text": "A Quiet Summit Should Alarm Taiwan",
-      "summary": "",
-      "date_published": "2026-09-20T17:31:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "cbff0269bcc895bd",
-      "url": "https://www.wsj.com/opinion/teach-students-to-think-with-without-and-about-ai-55bcf34b",
-      "title": "Teach Students to Think With, Without and About AI",
-      "content_text": "Teach Students to Think With, Without and About AI",
-      "summary": "",
-      "date_published": "2026-09-20T17:29:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "99ffa1c3090c0eae",
-      "url": "https://www.wsj.com/opinion/notable-quotable-packing-24a4b7a4",
-      "title": "Notable & Quotable: Packing",
-      "content_text": "Notable & Quotable: Packing",
-      "summary": "",
-      "date_published": "2026-09-20T17:15:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "cbdbe6cb8b99a397",
-      "url": "https://www.wsj.com/opinion/liberal-billionaires-enable-californias-government-fraud-024a7be6",
-      "title": "Liberal Billionaires Enable California’s Government Fraud",
-      "content_text": "Liberal Billionaires Enable California’s Government Fraud",
-      "summary": "",
-      "date_published": "2026-09-20T16:11:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "e6c30f9041fac60a",
-      "url": "https://www.wsj.com/opinion/trump-scores-a-win-in-greenland-805e804c",
-      "title": "Trump Scores a Win in Greenland",
-      "content_text": "Trump Scores a Win in Greenland",
-      "summary": "",
-      "date_published": "2026-09-20T16:10:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "fc70dd49add16a9a",
-      "url": "https://www.wsj.com/sports/football/vanderbilt-north-carolina-state-7e7d924a",
-      "title": "Is This the Most Shocking Collapse in College Football History?",
-      "content_text": "Is This the Most Shocking Collapse in College Football History?",
-      "summary": "",
-      "date_published": "2026-09-20T16:00:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "96c8684ade60cd40",
-      "url": "https://www.wsj.com/articles/how-crypto-blew-its-big-moment-31f80b3c",
-      "title": "How Crypto Blew Its Big Moment",
-      "content_text": "How Crypto Blew Its Big Moment",
-      "summary": "",
-      "date_published": "2026-09-20T15:52:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "e8347e23eca8cf01",
-      "url": "https://www.wsj.com/economy/central-banking/the-silver-lining-in-soaring-interest-rates-the-economy-can-handle-them-842e29ff",
-      "title": "The Silver Lining in Soaring Interest Rates: The Economy Can Handle Them",
-      "content_text": "The Silver Lining in Soaring Interest Rates: The Economy Can Handle Them",
-      "summary": "",
-      "date_published": "2026-09-20T15:18:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "4a98092e03846626",
-      "url": "https://www.wsj.com/business/media/how-everyday-tiktokers-are-making-6-000-a-month-posting-stealth-ads-225d6f32",
-      "title": "How Everyday Tiktokers Are Making $6,000 a Month Posting Stealth Ads",
-      "content_text": "How Everyday Tiktokers Are Making $6,000 a Month Posting Stealth Ads",
-      "summary": "",
-      "date_published": "2026-09-20T14:59:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "cf2d08bc59f5599a",
-      "url": "https://www.wsj.com/tech/ai/gemini-joins-the-hacker-club-d4338198",
-      "title": "Gemini Joins the Hacker Club",
-      "content_text": "Gemini Joins the Hacker Club",
-      "summary": "",
-      "date_published": "2026-09-20T14:55:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "bb19d4744f2e0b19",
-      "url": "https://www.wsj.com/politics/national-security/trump-says-proposed-arch-will-double-as-military-complex-ad5c73e1",
-      "title": "Trump Says Proposed Arch Will Double as ‘Military Complex’",
-      "content_text": "Trump Says Proposed Arch Will Double as ‘Military Complex’",
-      "summary": "",
-      "date_published": "2026-09-20T14:24:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "e3803b3ad5fd2a15",
-      "url": "https://www.wsj.com/business/autos/volvo-recruits-a-top-vw-executive-to-steer-its-turnaround-4ae45ee6",
-      "title": "Volvo Recruits a Top VW Executive to Steer Its Turnaround",
-      "content_text": "Volvo Recruits a Top VW Executive to Steer Its Turnaround",
-      "summary": "",
-      "date_published": "2026-09-20T14:15:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "9ae6d605a7ce8530",
-      "url": "https://www.wsj.com/politics/elections/the-rust-belt-lawmaker-leading-the-fight-against-trumps-kennedy-center-plans-c9b6e5c2",
-      "title": "The Rust Belt Lawmaker Leading the Fight Against Trump’s Kennedy Center Plans",
-      "content_text": "The Rust Belt Lawmaker Leading the Fight Against Trump’s Kennedy Center Plans",
-      "summary": "",
-      "date_published": "2026-09-20T12:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "d3015d92cb7327ec",
-      "url": "https://www.wsj.com/business/the-romanian-crime-rings-draining-u-s-welfare-accounts-089b7f77",
-      "title": "The Romanian Crime Rings Draining U.S. Welfare Accounts",
-      "content_text": "The Romanian Crime Rings Draining U.S. Welfare Accounts",
-      "summary": "",
-      "date_published": "2026-09-20T11:18:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "3173db19b89b923f",
-      "url": "https://www.wsj.com/sports/football/trinidad-chambliss-lane-kiffin-ole-miss-lsu-9bc15d82",
-      "title": "Lane Kiffin Nearly Broke Ole Miss Again. Then His Former QB Produced a Masterpiece",
-      "content_text": "Lane Kiffin Nearly Broke Ole Miss Again. Then His Former QB Produced a Masterpiece",
-      "summary": "",
-      "date_published": "2026-09-20T11:00:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "feda16a38dd73a99",
-      "url": "https://www.wsj.com/arts-culture/food-cooking/kwame-onwuachi-tatiana-all-hours-c9b35b4e",
-      "title": "His Restaurant Is One of New York’s Hottest. At Home, He Makes Instant Ramen.",
-      "content_text": "His Restaurant Is One of New York’s Hottest. At Home, He Makes Instant Ramen.",
-      "summary": "",
-      "date_published": "2026-09-20T11:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "166c9589b51d0a43",
-      "url": "https://www.wsj.com/finance/investing/why-its-so-hard-to-work-out-what-the-bond-market-is-telling-us-aeac2d3a",
-      "title": "Why It’s So Hard to Work Out What the Bond Market Is Telling Us",
-      "content_text": "Why It’s So Hard to Work Out What the Bond Market Is Telling Us",
-      "summary": "",
-      "date_published": "2026-09-20T09:30:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "4932d84f509bff51",
-      "url": "https://www.wsj.com/real-estate/ken-griffins-new-miami-headquarters-on-pause-after-construction-accident-3ea3b5af",
-      "title": "Ken Griffin’s New Miami Headquarters on Pause After Construction Accident",
-      "content_text": "Ken Griffin’s New Miami Headquarters on Pause After Construction Accident",
-      "summary": "",
-      "date_published": "2026-09-20T09:30:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "eb04a249682aad9e",
-      "url": "https://www.wsj.com/lifestyle/the-weird-and-wild-send-off-to-a-movie-directors-summer-camp-cd74bc8a",
-      "title": "The Weird and Wild Send-Off to a Movie Director’s Summer Camp",
-      "content_text": "The Weird and Wild Send-Off to a Movie Director’s Summer Camp",
-      "summary": "",
-      "date_published": "2026-09-20T09:30:00+00:00",
-      "tags": [
-        "Lifestyle"
       ]
     }
   ]
