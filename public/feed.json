@@ -6,6 +6,127 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "275e77a35faf5686",
+      "url": "https://www.wsj.com/tech/ai/meta-ai-agent-muse-reactions-5bf236af",
+      "title": "Meta’s New AI Agent Is an Instant Hit—and the Backlash Has Already Begun",
+      "content_text": "Meta’s New AI Agent Is an Instant Hit—and the Backlash Has Already Begun",
+      "summary": "",
+      "date_published": "2026-09-23T01:12:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "9f669118b4835de3",
+      "url": "https://www.wsj.com/world/americas/cocaine-smugglers-europe-speedboats-9bed7f31",
+      "title": "Cocaine Smugglers Blow Past Europe’s Law Enforcement With Speedboats and Tech",
+      "content_text": "Cocaine Smugglers Blow Past Europe’s Law Enforcement With Speedboats and Tech",
+      "summary": "",
+      "date_published": "2026-09-23T01:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "eba8ed54f334bc69",
+      "url": "https://www.wsj.com/politics/elections/trump-puts-legacy-ahead-of-midterm-politics-in-speech-at-u-n-a3523188",
+      "title": "Trump Puts Legacy Ahead of Midterm Politics in Speech at U.N.",
+      "content_text": "Trump Puts Legacy Ahead of Midterm Politics in Speech at U.N.",
+      "summary": "",
+      "date_published": "2026-09-23T01:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "61b1f8ddb82ab518",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-mideast-developments-remain-in-focus-9a5a30e4",
+      "title": "Oil Falls as Mideast Developments Remain in Focus",
+      "content_text": "Oil Falls as Mideast Developments Remain in Focus",
+      "summary": "",
+      "date_published": "2026-09-23T00:36:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "d032006d6eb645a7",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-up-as-markets-weigh-oil-pullback-af01967f",
+      "title": "Gold Edges Up as Markets Weigh Oil Pullback",
+      "content_text": "Gold Edges Up as Markets Weigh Oil Pullback",
+      "summary": "",
+      "date_published": "2026-09-23T00:33:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "747c6fea0d802ee2",
+      "url": "https://www.wsj.com/lifestyle/travel/are-airport-vip-packages-really-worth-the-price-i-tested-three-to-find-out-ed3415db",
+      "title": "Are Airport VIP Packages Really Worth the Price? I Tested Three to Find Out",
+      "content_text": "Are Airport VIP Packages Really Worth the Price? I Tested Three to Find Out",
+      "summary": "",
+      "date_published": "2026-09-23T00:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "03b7717eb8e02c03",
+      "url": "https://www.wsj.com/politics/policy/rfk-jr-hhs-security-cost-minority-health-office-f1c7b62a",
+      "title": "RFK Jr.’s Enhanced Security Was Funded With Money From Minority Health Office",
+      "content_text": "RFK Jr.’s Enhanced Security Was Funded With Money From Minority Health Office",
+      "summary": "",
+      "date_published": "2026-09-23T00:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "2f44c24e9483a0a7",
+      "url": "https://www.wsj.com/health/healthcare/us-customs-prescription-drugs-canada-71978a47",
+      "title": "Americans Are About to Lose Access to Cheap Gray-Market Prescriptions From Canada",
+      "content_text": "Americans Are About to Lose Access to Cheap Gray-Market Prescriptions From Canada",
+      "summary": "",
+      "date_published": "2026-09-23T00:00:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "a86930b68f037070",
+      "url": "https://www.wsj.com/finance/banking/private-credit-firms-are-buzzing-about-getting-in-on-jpmorgans-card-empire-a738f517",
+      "title": "Private-Credit Firms Are Buzzing About Getting In on JPMorgan’s Card Empire",
+      "content_text": "Private-Credit Firms Are Buzzing About Getting In on JPMorgan’s Card Empire",
+      "summary": "",
+      "date_published": "2026-09-23T00:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "c1b500c7e7d1fdec",
+      "url": "https://www.wsj.com/tech/the-vigilante-whos-taking-down-recruitment-scammers-one-fake-job-ad-at-a-time-e441b100",
+      "title": "The Vigilante Who’s Taking Down Recruitment Scammers, One Fake Job Ad at a Time",
+      "content_text": "The Vigilante Who’s Taking Down Recruitment Scammers, One Fake Job Ad at a Time",
+      "summary": "",
+      "date_published": "2026-09-22T23:55:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "469ae6c07d2be214",
+      "url": "https://www.wsj.com/us-news/law/federal-judge-pauses-deportation-of-man-shot-by-ice-in-texas-c53a1643",
+      "title": "Federal Judge Pauses Deportation of Man Shot by ICE in Texas",
+      "content_text": "Federal Judge Pauses Deportation of Man Shot by ICE in Texas",
+      "summary": "",
+      "date_published": "2026-09-22T23:19:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
       "id": "f8dab54f731bd05f",
       "url": "https://www.wsj.com/business/deals/activist-jana-partners-urges-six-flags-to-explore-sale-4c9e3a93",
       "title": "Activist Jana Partners Urges Six Flags to Explore Sale",
@@ -138,17 +259,6 @@
       ]
     },
     {
-      "id": "69902b107bb3c74a",
-      "url": "https://www.wsj.com/opinion/in-the-name-of-trust-free-jimmy-lai-139327d5",
-      "title": "In the Name of Trust, Free Jimmy Lai",
-      "content_text": "In the Name of Trust, Free Jimmy Lai",
-      "summary": "",
-      "date_published": "2026-09-22T21:22:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
       "id": "5318642aa6efd433",
       "url": "https://www.wsj.com/opinion/surprise-racial-crime-disparities-have-narrowed-a-lot-f4bea48f",
       "title": "Surprise: Racial Crime Disparities Have Narrowed a Lot",
@@ -160,14 +270,14 @@
       ]
     },
     {
-      "id": "ce39afb79e070f34",
-      "url": "https://www.wsj.com/us-news/hostages-like-me-were-also-nazacollateral-damage-7cfeb4aa",
-      "title": "Hostages Like Me Were Also ‘NAZA’—Collateral Damage",
-      "content_text": "Hostages Like Me Were Also ‘NAZA’—Collateral Damage",
+      "id": "69902b107bb3c74a",
+      "url": "https://www.wsj.com/opinion/in-the-name-of-trust-free-jimmy-lai-139327d5",
+      "title": "In the Name of Trust, Free Jimmy Lai",
+      "content_text": "In the Name of Trust, Free Jimmy Lai",
       "summary": "",
       "date_published": "2026-09-22T21:22:00+00:00",
       "tags": [
-        "Us News"
+        "Opinion"
       ]
     },
     {
@@ -179,6 +289,17 @@
       "date_published": "2026-09-22T21:22:00+00:00",
       "tags": [
         "World"
+      ]
+    },
+    {
+      "id": "ce39afb79e070f34",
+      "url": "https://www.wsj.com/us-news/hostages-like-me-were-also-nazacollateral-damage-7cfeb4aa",
+      "title": "Hostages Like Me Were Also ‘NAZA’—Collateral Damage",
+      "content_text": "Hostages Like Me Were Also ‘NAZA’—Collateral Damage",
+      "summary": "",
+      "date_published": "2026-09-22T21:22:00+00:00",
+      "tags": [
+        "Us News"
       ]
     },
     {
@@ -2080,127 +2201,6 @@
       "content_text": "Bitcoin Climbs to $86,000",
       "summary": "",
       "date_published": "2026-09-21T15:05:56+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "dc730819d5d1aa2f",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026/card/treasury-secretary-scott-bessent-on-ai-risk-kevin-warsh-and-china-dA3D8zDPqhMFNGyg3myb",
-      "title": "Treasury Secretary Scott Bessent on AI Risk, Kevin Warsh and China",
-      "content_text": "Treasury Secretary Scott Bessent on AI Risk, Kevin Warsh and China",
-      "summary": "",
-      "date_published": "2026-09-21T15:00:04+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "8fa5faeb95b53ab2",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026/card/tech-stocks-push-s-p-back-to-positive-territory-for-september-tVbFucRJIto5MWy0sbwX",
-      "title": "Tech Stocks Push S&P Back to Positive Territory for September",
-      "content_text": "Tech Stocks Push S&P Back to Positive Territory for September",
-      "summary": "",
-      "date_published": "2026-09-21T14:47:49+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "493f77bc5c0c8426",
-      "url": "https://www.wsj.com/business/media/paramount-settles-states-antitrust-suit-clearing-way-for-warner-megadeal-95588926",
-      "title": "Paramount Settles States’ Antitrust Suit, Clearing Way for Warner Megadeal",
-      "content_text": "Paramount Settles States’ Antitrust Suit, Clearing Way for Warner Megadeal",
-      "summary": "",
-      "date_published": "2026-09-21T14:41:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "b636a14d69109cc0",
-      "url": "https://www.wsj.com/business/deals/silver-lake-takes-on-carl-icahn-and-all-of-merger-arbitrage-in-endeavor-fight-4da9e2ba",
-      "title": "Silver Lake Takes On Carl Icahn and the Merger Arbitrage World in Endeavor Fight",
-      "content_text": "Silver Lake Takes On Carl Icahn and the Merger Arbitrage World in Endeavor Fight",
-      "summary": "",
-      "date_published": "2026-09-21T14:20:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "b57e5df5584d5cdc",
-      "url": "https://www.wsj.com/politics/policy/jb-pritzker-weight-loss-drugs-f15668f1",
-      "title": "Ahead of Possible Presidential Bid, JB Pritzker Says He Is Taking Weight-Loss Drugs",
-      "content_text": "Ahead of Possible Presidential Bid, JB Pritzker Says He Is Taking Weight-Loss Drugs",
-      "summary": "",
-      "date_published": "2026-09-21T14:18:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "5ae905ba3c0daedf",
-      "url": "https://www.wsj.com/politics/elections/republicans-running-out-of-time-on-lowering-diesel-gas-prices-before-midterms-51b9d1fe",
-      "title": "Worried Republicans Back Ideas to Lower Diesel, Gas Prices Before Midterms",
-      "content_text": "Worried Republicans Back Ideas to Lower Diesel, Gas Prices Before Midterms",
-      "summary": "",
-      "date_published": "2026-09-21T14:13:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "2af6bf1e986f6b0e",
-      "url": "https://www.wsj.com/business/autos/auto-industry-workers-protest-in-germany-against-job-cuts-industrial-policy-19fef607",
-      "title": "Auto Industry Workers Protest in Germany Against Job Cuts, Industrial Policy",
-      "content_text": "Auto Industry Workers Protest in Germany Against Job Cuts, Industrial Policy",
-      "summary": "",
-      "date_published": "2026-09-21T13:49:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "8e315692d6834bc6",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pull-back-on-cooling-weather-5a695bc9",
-      "title": "U.S. Natural Gas Futures Pull Back on Cooling Weather",
-      "content_text": "U.S. Natural Gas Futures Pull Back on Cooling Weather",
-      "summary": "",
-      "date_published": "2026-09-21T13:43:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "3944fc43ed324cfa",
-      "url": "https://www.wsj.com/sports/football/oregon-portland-state-84-0-b48f9b2a",
-      "title": "Is It Rude to Win a Football Game 84-0—or Am I Just Soft?",
-      "content_text": "Is It Rude to Win a Football Game 84-0—or Am I Just Soft?",
-      "summary": "",
-      "date_published": "2026-09-21T13:36:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "92472d16f93748e8",
-      "url": "https://www.wsj.com/finance/investing/qatar-investment-authority-jpmorgan-announce-20-billion-partnership-63037e76",
-      "title": "Qatar Investment Authority, JPMorgan Announce $20 Billion Partnership",
-      "content_text": "Qatar Investment Authority, JPMorgan Announce $20 Billion Partnership",
-      "summary": "",
-      "date_published": "2026-09-21T13:17:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "7627057d446020bd",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026/card/coinbase-gives-individual-investors-access-to-ipos-sUVvSltJyRuD9WMlZnjT",
-      "title": "Coinbase Gives Individual Investors Access to IPOs",
-      "content_text": "Coinbase Gives Individual Investors Access to IPOs",
-      "summary": "",
-      "date_published": "2026-09-21T12:58:07+00:00",
       "tags": [
         "Front Page"
       ]
