@@ -6,6 +6,149 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "8c6f6802a80ad45d",
+      "url": "https://www.wsj.com/business/retail/jd-sports-profit-falls-on-sector-challenges-ef7fd2ee",
+      "title": "JD Sports’ Profit Falls on Sector Challenges",
+      "content_text": "JD Sports’ Profit Falls on Sector Challenges",
+      "summary": "",
+      "date_published": "2026-09-23T07:12:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "2110860d8bea37f2",
+      "url": "https://www.wsj.com/business/deals/airtel-money-plans-london-listing-e50f163d",
+      "title": "Airtel Money Plans London Listing",
+      "content_text": "Airtel Money Plans London Listing",
+      "summary": "",
+      "date_published": "2026-09-23T07:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "afea8dad297350a7",
+      "url": "https://www.wsj.com/finance/stocks/ai-tech-enthusiasm-sends-taiwans-taiex-to-another-record-close-7b6b839e",
+      "title": "European Indexes Led Higher by Banks, Tech",
+      "content_text": "European Indexes Led Higher by Banks, Tech",
+      "summary": "",
+      "date_published": "2026-09-23T06:49:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "8af20a7a239f1e26",
+      "url": "https://www.wsj.com/business/c-suite/diageo-names-wpp-finance-chief-joanne-wilson-as-next-cfo-d054b0a6",
+      "title": "Diageo Names WPP Finance Chief Joanne Wilson as Next CFO",
+      "content_text": "Diageo Names WPP Finance Chief Joanne Wilson as Next CFO",
+      "summary": "",
+      "date_published": "2026-09-23T06:28:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "c14cd4b790b74c6b",
+      "url": "https://www.wsj.com/economy/ai-cycle-set-to-offset-energy-hit-for-asia-economies-b9257568",
+      "title": "AI Cycle Set to Offset Energy Hit for Asia Economies",
+      "content_text": "AI Cycle Set to Offset Energy Hit for Asia Economies",
+      "summary": "",
+      "date_published": "2026-09-23T06:27:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "c6f965b343d1c743",
+      "url": "https://www.wsj.com/health/pharma/roche-drug-candidate-hits-target-in-late-stage-study-for-autoimmune-disease-c94f81e7",
+      "title": "Roche Drug Candidate Hits Target in Late-Stage Study for Autoimmune Disease",
+      "content_text": "Roche Drug Candidate Hits Target in Late-Stage Study for Autoimmune Disease",
+      "summary": "",
+      "date_published": "2026-09-23T06:11:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "0ae24e4d774cb5f2",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-7a45cc72",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-09-23T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "b1dfd52f6385cfc3",
+      "url": "https://www.wsj.com/finance/emerging-market-debt-offers-diverse-opportunities-904e98f2",
+      "title": "French 10-Year OAT Yield Trims Falls After Better-Than-Expected Flash PMIs",
+      "content_text": "French 10-Year OAT Yield Trims Falls After Better-Than-Expected Flash PMIs",
+      "summary": "",
+      "date_published": "2026-09-23T03:39:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "75fae7d5923d475d",
+      "url": "https://www.wsj.com/world/china/trump-xi-meeting-china-image-df83c33f",
+      "title": "The Behind-the-Scenes Push to Get Xi a Red Carpet Welcome in America",
+      "content_text": "The Behind-the-Scenes Push to Get Xi a Red Carpet Welcome in America",
+      "summary": "",
+      "date_published": "2026-09-23T03:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "bc7f41861655cee2",
+      "url": "https://www.wsj.com/business/airlines/qantas-plans-nonstop-sydney-new-york-flights-4ad93572",
+      "title": "Qantas Plans Nonstop Sydney-New York Flights",
+      "content_text": "Qantas Plans Nonstop Sydney-New York Flights",
+      "summary": "",
+      "date_published": "2026-09-23T02:43:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "c88c7fd5d54d73d9",
+      "url": "https://www.wsj.com/world/asia/japans-leader-calls-on-u-n-to-drop-enemy-state-label-7da04175",
+      "title": "Japan’s Leader Calls on U.N. to Drop ‘Enemy State’ Label",
+      "content_text": "Japan’s Leader Calls on U.N. to Drop ‘Enemy State’ Label",
+      "summary": "",
+      "date_published": "2026-09-23T02:32:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "e9d86948fedb2d29",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-falling-oil-prices-e3c4d4d6",
+      "title": "Dollar Jumps on U.S. Rate-Rise Bets",
+      "content_text": "Dollar Jumps on U.S. Rate-Rise Bets",
+      "summary": "",
+      "date_published": "2026-09-23T01:54:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "dfb369e8efd8d411",
+      "url": "https://www.wsj.com/articles/corrections-amplifications-2064e5a6",
+      "title": "Corrections & Amplifications",
+      "content_text": "Corrections & Amplifications",
+      "summary": "",
+      "date_published": "2026-09-23T01:50:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "275e77a35faf5686",
       "url": "https://www.wsj.com/tech/ai/meta-ai-agent-muse-reactions-5bf236af",
       "title": "Meta’s New AI Agent Is an Instant Hit—and the Backlash Has Already Begun",
@@ -61,17 +204,6 @@
       ]
     },
     {
-      "id": "747c6fea0d802ee2",
-      "url": "https://www.wsj.com/lifestyle/travel/are-airport-vip-packages-really-worth-the-price-i-tested-three-to-find-out-ed3415db",
-      "title": "Are Airport VIP Packages Really Worth the Price? I Tested Three to Find Out",
-      "content_text": "Are Airport VIP Packages Really Worth the Price? I Tested Three to Find Out",
-      "summary": "",
-      "date_published": "2026-09-23T00:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
       "id": "03b7717eb8e02c03",
       "url": "https://www.wsj.com/politics/policy/rfk-jr-hhs-security-cost-minority-health-office-f1c7b62a",
       "title": "RFK Jr.’s Enhanced Security Was Funded With Money From Minority Health Office",
@@ -91,6 +223,17 @@
       "date_published": "2026-09-23T00:00:00+00:00",
       "tags": [
         "Health"
+      ]
+    },
+    {
+      "id": "747c6fea0d802ee2",
+      "url": "https://www.wsj.com/lifestyle/travel/are-airport-vip-packages-really-worth-the-price-i-tested-three-to-find-out-ed3415db",
+      "title": "Are Airport VIP Packages Really Worth the Price? I Tested Three to Find Out",
+      "content_text": "Are Airport VIP Packages Really Worth the Price? I Tested Three to Find Out",
+      "summary": "",
+      "date_published": "2026-09-23T00:00:00+00:00",
+      "tags": [
+        "Lifestyle"
       ]
     },
     {
@@ -2060,149 +2203,6 @@
       "date_published": "2026-09-21T16:54:00+00:00",
       "tags": [
         "Economy"
-      ]
-    },
-    {
-      "id": "b2db8a4617e10991",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026/card/trump-we-will-be-careful-but-only-encourage-ai--AFWkhvXV8WH42bcoMuAp",
-      "title": "Trump: ‘We Will Be Careful,’ but ‘Only Encourage AI’",
-      "content_text": "Trump: ‘We Will Be Careful,’ but ‘Only Encourage AI’",
-      "summary": "",
-      "date_published": "2026-09-21T16:39:36+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "3d56d747e4cf9fb6",
-      "url": "https://www.wsj.com/opinion/the-dangers-of-fractional-reserve-banking-87f0ddbb",
-      "title": "The Dangers of Fractional-Reserve Banking",
-      "content_text": "The Dangers of Fractional-Reserve Banking",
-      "summary": "",
-      "date_published": "2026-09-21T16:04:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "8979539487754416",
-      "url": "https://www.wsj.com/opinion/gov-gretchen-whitmer-is-to-blame-for-michigans-troubles-3590ad98",
-      "title": "Gov. Gretchen Whitmer Is to Blame for Michigan’s Troubles",
-      "content_text": "Gov. Gretchen Whitmer Is to Blame for Michigan’s Troubles",
-      "summary": "",
-      "date_published": "2026-09-21T16:03:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "7ec0ac17b5ee42f1",
-      "url": "https://www.wsj.com/opinion/dont-expand-payroll-taxes-for-social-security-493897c2",
-      "title": "Don’t Expand Payroll Taxes for Social Security",
-      "content_text": "Don’t Expand Payroll Taxes for Social Security",
-      "summary": "",
-      "date_published": "2026-09-21T16:01:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "4ca83a76c93af6b2",
-      "url": "https://www.wsj.com/opinion/smartphones-in-the-military-7a34dd1d",
-      "title": "Smartphones in the Military",
-      "content_text": "Smartphones in the Military",
-      "summary": "",
-      "date_published": "2026-09-21T16:00:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "a7d0c041859e1f65",
-      "url": "https://www.wsj.com/opinion/conservatism-isnt-bigoted-f3135700",
-      "title": "Conservatism Isn’t Bigoted",
-      "content_text": "Conservatism Isn’t Bigoted",
-      "summary": "",
-      "date_published": "2026-09-21T15:59:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "ae5143cc2ba89b43",
-      "url": "https://www.wsj.com/opinion/praying-for-football-games-and-the-longer-game-of-life-6850047b",
-      "title": "Praying for Football Games And the Longer Game of Life",
-      "content_text": "Praying for Football Games And the Longer Game of Life",
-      "summary": "",
-      "date_published": "2026-09-21T15:59:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "c8485931c7a5dd06",
-      "url": "https://www.wsj.com/business/ethan-allen-launches-search-for-next-chief-executive-aa0ebce2",
-      "title": "Ethan Allen Launches Search for Next Chief Executive",
-      "content_text": "Ethan Allen Launches Search for Next Chief Executive",
-      "summary": "",
-      "date_published": "2026-09-21T15:52:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "04cb1e87db75c02f",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026/card/what-s-moving-markets-today--ra36onS2TE6qyKdZ7iCU",
-      "title": "What’s Moving Markets Today?",
-      "content_text": "What’s Moving Markets Today?",
-      "summary": "",
-      "date_published": "2026-09-21T15:49:49+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "2a8494f128e9df48",
-      "url": "https://www.wsj.com/arts-culture/food-cooking/gruner-veltliner-wine-pairings-8dc910eb",
-      "title": "The White Wine for People Who Disagree About White Wine",
-      "content_text": "The White Wine for People Who Disagree About White Wine",
-      "summary": "",
-      "date_published": "2026-09-21T15:30:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "71f10d2bbf1b4bbe",
-      "url": "https://www.wsj.com/world/europe/germanys-merz-pledges-to-stay-on-despite-disastrous-election-result-1a312f0b",
-      "title": "Germany’s Merz Pledges to Stay On Despite ‘Disastrous’ Election Result",
-      "content_text": "Germany’s Merz Pledges to Stay On Despite ‘Disastrous’ Election Result",
-      "summary": "",
-      "date_published": "2026-09-21T15:28:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "e55154defe58cb49",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026/card/goolsbee-the-fed-can-t-keep-waiting-out-oil-shocks-wdK1lFxonmVgmKyEwOnF",
-      "title": "Goolsbee: The Fed Can’t Keep Waiting Out Oil Shocks",
-      "content_text": "Goolsbee: The Fed Can’t Keep Waiting Out Oil Shocks",
-      "summary": "",
-      "date_published": "2026-09-21T15:11:54+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "018a63eadbbd15af",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026/card/bitcoin-climbs-above-85-000-after-etf-inflows-strategy-purchases-qgos9wls2EyYjd7Wbcs4",
-      "title": "Bitcoin Climbs to $86,000",
-      "content_text": "Bitcoin Climbs to $86,000",
-      "summary": "",
-      "date_published": "2026-09-21T15:05:56+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
