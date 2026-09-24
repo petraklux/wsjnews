@@ -6,6 +6,182 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "19112a77119dbb46",
+      "url": "https://www.wsj.com/politics/policy/tech-industry-calls-on-trump-administration-to-withdraw-new-h-1b-visa-fee-dcf918f8",
+      "title": "Tech Industry Calls on Trump Administration to Withdraw New H-1B Visa Fee",
+      "content_text": "Tech Industry Calls on Trump Administration to Withdraw New H-1B Visa Fee",
+      "summary": "",
+      "date_published": "2026-09-24T09:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "09635b47d1d09bbe",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/trump-xi-meeting-costco-earnings-what-to-watch-the-rest-of-the-week-PhUpvXIp2rbaQRq3D74p",
+      "title": "Trump-Xi Meeting, Costco Earnings: What to Watch the Rest of the Week",
+      "content_text": "Trump-Xi Meeting, Costco Earnings: What to Watch the Rest of the Week",
+      "summary": "",
+      "date_published": "2026-09-24T08:50:43+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "d6f5ce05fe32bcb3",
+      "url": "https://www.wsj.com/finance/commodities-futures/global-bond-selloff-continues-stock-futures-drop-549047fd",
+      "title": "Global Bond Selloff Continues, Stock Futures Drop",
+      "content_text": "Global Bond Selloff Continues, Stock Futures Drop",
+      "summary": "",
+      "date_published": "2026-09-24T08:35:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "293e132c85dddec2",
+      "url": "https://www.wsj.com/economy/central-banking/german-business-sentiment-climbs-to-highest-level-in-three-years-ba9e26d1",
+      "title": "German Business Sentiment Climbs to Highest Level in Three Years",
+      "content_text": "German Business Sentiment Climbs to Highest Level in Three Years",
+      "summary": "",
+      "date_published": "2026-09-24T08:32:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "8c5482df215daf09",
+      "url": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-storage-levels-worry-market-2ac6836d",
+      "title": "European Gas Prices Rise as Storage Levels Worry Market",
+      "content_text": "European Gas Prices Rise as Storage Levels Worry Market",
+      "summary": "",
+      "date_published": "2026-09-24T08:25:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "74f72467aef376f1",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/what-s-driving-the-jump-in-u-s-treasury-yields--adOrbqQPCXChYiF8k9MH",
+      "title": "What’s Driving the Jump in U.S. Treasury Yields?",
+      "content_text": "What’s Driving the Jump in U.S. Treasury Yields?",
+      "summary": "",
+      "date_published": "2026-09-24T08:20:03+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "7d441ec064b03a31",
+      "url": "https://www.wsj.com/finance/u-s-treasury-yields-hover-close-to-multiyear-highs-a9126b6e",
+      "title": "U.S. Treasury Yields Hover Close to Multiyear Highs",
+      "content_text": "U.S. Treasury Yields Hover Close to Multiyear Highs",
+      "summary": "",
+      "date_published": "2026-09-24T08:10:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "caf0402eede7912e",
+      "url": "https://www.wsj.com/business/delivery-hero-cancels-ceo-exit-plans-due-to-ubers-14-8-billion-takeover-bid-de155bf8",
+      "title": "Delivery Hero Cancels CEO Exit Plans Due to Uber’s $14.8 Billion Takeover Bid",
+      "content_text": "Delivery Hero Cancels CEO Exit Plans Due to Uber’s $14.8 Billion Takeover Bid",
+      "summary": "",
+      "date_published": "2026-09-24T08:04:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "b451cac710de3888",
+      "url": "https://www.wsj.com/finance/stocks/national-stock-exchange-of-india-rises-in-trading-debut-0b9b147d",
+      "title": "National Stock Exchange of India Rises in Trading Debut",
+      "content_text": "National Stock Exchange of India Rises in Trading Debut",
+      "summary": "",
+      "date_published": "2026-09-24T07:55:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "f6eefaf4778cb6b5",
+      "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-on-optimism-around-u-s-iran-diplomacy-saudi-pipeline-restart-523fe9d3",
+      "title": "Oil Prices Fall on Optimism Around U.S.-Iran Diplomacy, Saudi Pipeline Restart",
+      "content_text": "Oil Prices Fall on Optimism Around U.S.-Iran Diplomacy, Saudi Pipeline Restart",
+      "summary": "",
+      "date_published": "2026-09-24T07:31:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "d715106c2f7bf16f",
+      "url": "https://www.wsj.com/business/retail/arnault-family-moves-to-cement-control-of-lvmh-in-ownership-overhaul-898d9649",
+      "title": "Arnault Family Moves to Cement Control of LVMH in Ownership Overhaul",
+      "content_text": "Arnault Family Moves to Cement Control of LVMH in Ownership Overhaul",
+      "summary": "",
+      "date_published": "2026-09-24T06:54:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "8a6451f2786a1409",
+      "url": "https://www.wsj.com/business/earnings/h-m-earnings-rise-as-cost-saving-push-pays-off-17e903ea",
+      "title": "H&M Earnings Rise as Cost-Saving Push Pays Off",
+      "content_text": "H&M Earnings Rise as Cost-Saving Push Pays Off",
+      "summary": "",
+      "date_published": "2026-09-24T06:47:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "dd6a5fc4e645c98e",
+      "url": "https://www.wsj.com/business/deals/schneider-electric-to-launch-bid-for-shelly-group-in-1-4-billion-deal-c6cc008e",
+      "title": "Schneider Electric to Launch Bid for Shelly Group in $1.4 Billion Deal",
+      "content_text": "Schneider Electric to Launch Bid for Shelly Group in $1.4 Billion Deal",
+      "summary": "",
+      "date_published": "2026-09-24T06:26:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "1212d46f54461121",
+      "url": "https://www.wsj.com/business/autos/chinese-carmakers-keep-gaining-ground-in-europe-as-monthly-sales-surge-496266cb",
+      "title": "Chinese Carmakers Keep Gaining Ground in Europe as Monthly Sales Surge",
+      "content_text": "Chinese Carmakers Keep Gaining Ground in Europe as Monthly Sales Surge",
+      "summary": "",
+      "date_published": "2026-09-24T06:03:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "e27e529160698e1f",
+      "url": "https://www.wsj.com/politics/policy/judge-orders-trump-to-lift-ban-on-cnn-ms-now-politico-475e56d4",
+      "title": "Judge Orders Trump to Lift Ban on CNN, MS NOW, Politico",
+      "content_text": "Judge Orders Trump to Lift Ban on CNN, MS NOW, Politico",
+      "summary": "",
+      "date_published": "2026-09-24T05:51:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "6a4d1a92dc066c38",
+      "url": "https://www.wsj.com/world/europe/ukraines-economy-hampered-by-black-sea-energy-disruptions-says-ebrd-e2baedde",
+      "title": "Ukraine’s Economy Hampered by Black Sea, Energy Disruptions, Says EBRD",
+      "content_text": "Ukraine’s Economy Hampered by Black Sea, Energy Disruptions, Says EBRD",
+      "summary": "",
+      "date_published": "2026-09-24T05:24:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "ef1697b9b62df7f3",
       "url": "https://www.wsj.com/opinion/pepperand-salt-8634bbb4",
       "title": "Pepper…and Salt",
@@ -267,6 +443,17 @@
       "date_published": "2026-09-23T22:08:00+00:00",
       "tags": [
         "Business"
+      ]
+    },
+    {
+      "id": "03daa6b72dd562f2",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026",
+      "title": "Stock Market Today: Government Bond Selloff Widens",
+      "content_text": "Stock Market Today: Government Bond Selloff Widens",
+      "summary": "",
+      "date_published": "2026-09-23T22:03:07+00:00",
+      "tags": [
+        "Front Page"
       ]
     },
     {
@@ -2016,193 +2203,6 @@
       "date_published": "2026-09-22T22:04:00+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "4ff4fae19bccce9b",
-      "url": "https://www.wsj.com/us-news/law/supreme-court-turns-away-surrogate-appeal-in-messy-custody-fight-86e6b6ef",
-      "title": "Supreme Court Turns Away Surrogate Appeal in Messy Custody Fight",
-      "content_text": "Supreme Court Turns Away Surrogate Appeal in Messy Custody Fight",
-      "summary": "",
-      "date_published": "2026-09-22T22:02:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "f16af49e0bfd9cf6",
-      "url": "https://www.wsj.com/opinion/newark-air-traffic-control-delays-sean-duffy-6114505b",
-      "title": "Welcome to New York (Hours Late)",
-      "content_text": "Welcome to New York (Hours Late)",
-      "summary": "",
-      "date_published": "2026-09-22T21:57:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "802eebdf145bbe04",
-      "url": "https://www.wsj.com/politics/policy/trump-threatens-irans-annihilation-in-u-n-speech-08b4921d",
-      "title": "Trump Threatens Iran’s ‘Annihilation’ in U.N. Speech",
-      "content_text": "Trump Threatens Iran’s ‘Annihilation’ in U.N. Speech",
-      "summary": "",
-      "date_published": "2026-09-22T21:44:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "57fd8ff569b707a9",
-      "url": "https://www.wsj.com/opinion/republicans-diesel-fuel-exports-ban-donald-trump-gop-f5cf8543",
-      "title": "Republicans Are Running on Empty",
-      "content_text": "Republicans Are Running on Empty",
-      "summary": "",
-      "date_published": "2026-09-22T21:43:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "f2a4b373a3401163",
-      "url": "https://www.wsj.com/opinion/federal-school-choice-tax-credit-donations-patrick-graff-report-3044cba3",
-      "title": "Federal School Choice Could Be Huge",
-      "content_text": "Federal School Choice Could Be Huge",
-      "summary": "",
-      "date_published": "2026-09-22T21:40:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "646c39d2d0afab3a",
-      "url": "https://www.wsj.com/opinion/donald-trump-unga-speech-iran-8d480dab",
-      "title": "Trump’s U.N. Message to the World",
-      "content_text": "Trump’s U.N. Message to the World",
-      "summary": "",
-      "date_published": "2026-09-22T21:38:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "75973734fd321d67",
-      "url": "https://www.wsj.com/opinion/antitrust-lays-an-egg-e875fc82",
-      "title": "Antitrust Lays an Egg",
-      "content_text": "Antitrust Lays an Egg",
-      "summary": "",
-      "date_published": "2026-09-22T21:23:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "5318642aa6efd433",
-      "url": "https://www.wsj.com/opinion/surprise-racial-crime-disparities-have-narrowed-a-lot-f4bea48f",
-      "title": "Surprise: Racial Crime Disparities Have Narrowed a Lot",
-      "content_text": "Surprise: Racial Crime Disparities Have Narrowed a Lot",
-      "summary": "",
-      "date_published": "2026-09-22T21:22:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "69902b107bb3c74a",
-      "url": "https://www.wsj.com/opinion/in-the-name-of-trust-free-jimmy-lai-139327d5",
-      "title": "In the Name of Trust, Free Jimmy Lai",
-      "content_text": "In the Name of Trust, Free Jimmy Lai",
-      "summary": "",
-      "date_published": "2026-09-22T21:22:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "6fa29a1c115a131a",
-      "url": "https://www.wsj.com/world/world-leaders-almost-all-agree-on-one-thing-the-u-n-is-failing-8740b01d",
-      "title": "World Leaders Almost All Agree on One Thing: The U.N. Is Failing",
-      "content_text": "World Leaders Almost All Agree on One Thing: The U.N. Is Failing",
-      "summary": "",
-      "date_published": "2026-09-22T21:22:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "ce39afb79e070f34",
-      "url": "https://www.wsj.com/us-news/hostages-like-me-were-also-nazacollateral-damage-7cfeb4aa",
-      "title": "Hostages Like Me Were Also ‘NAZA’—Collateral Damage",
-      "content_text": "Hostages Like Me Were Also ‘NAZA’—Collateral Damage",
-      "summary": "",
-      "date_published": "2026-09-22T21:22:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "9dd75318554199a3",
-      "url": "https://www.wsj.com/opinion/the-right-attitude-at-altitude-afe39c2e",
-      "title": "The Right Attitude at Altitude",
-      "content_text": "The Right Attitude at Altitude",
-      "summary": "",
-      "date_published": "2026-09-22T21:21:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "edd2b32605842bf6",
-      "url": "https://www.wsj.com/arts-culture/film/jeff-zucker-primetime-to-catch-a-predator-93e105a3",
-      "title": "Jeff Zucker Cameos In ‘Primetime’ and Calls ‘To Catch a Predator’ ‘Important’",
-      "content_text": "Jeff Zucker Cameos In ‘Primetime’ and Calls ‘To Catch a Predator’ ‘Important’",
-      "summary": "",
-      "date_published": "2026-09-22T21:16:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "73080114e6037b77",
-      "url": "https://www.wsj.com/world/ukraine-zelensky-interview-emma-tucker-757e9a30",
-      "title": "Watch WSJ Editor in Chief Emma Tucker Interview Ukrainian President Zelensky",
-      "content_text": "Watch WSJ Editor in Chief Emma Tucker Interview Ukrainian President Zelensky",
-      "summary": "",
-      "date_published": "2026-09-22T21:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "d06e359b769161ce",
-      "url": "https://www.wsj.com/arts-culture/music/bass-persuades-review-mileys-dancefloor-detour-8e60e5ed",
-      "title": "‘Bass Persuades’ Review: Miley’s Dancefloor Detour",
-      "content_text": "‘Bass Persuades’ Review: Miley’s Dancefloor Detour",
-      "summary": "",
-      "date_published": "2026-09-22T21:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "4c3240b255e9b9fc",
-      "url": "https://www.wsj.com/finance/investing/metas-muse-comes-for-financial-stocks-17bdf11a",
-      "title": "Meta’s Muse Comes for Financial Stocks",
-      "content_text": "Meta’s Muse Comes for Financial Stocks",
-      "summary": "",
-      "date_published": "2026-09-22T20:47:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "63b3524abd0f6348",
-      "url": "https://www.wsj.com/economy/housing/kb-home-cuts-margin-outlook-as-housing-conditions-worsen-caa020ae",
-      "title": "KB Home Cuts Margin Outlook as Housing Conditions Worsen",
-      "content_text": "KB Home Cuts Margin Outlook as Housing Conditions Worsen",
-      "summary": "",
-      "date_published": "2026-09-22T20:45:00+00:00",
-      "tags": [
-        "Economy"
       ]
     }
   ]
