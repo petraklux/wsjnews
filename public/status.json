@@ -1,15 +1,15 @@
 {
-  "built_at": "2026-09-26T12:24:02.081952+00:00",
+  "built_at": "2026-09-26T16:43:08.445633+00:00",
   "item_count": 200,
-  "newest_published": "2026-09-26T12:00:00+00:00",
-  "newest_age_hours": 0.4,
+  "newest_published": "2026-09-26T15:45:00+00:00",
+  "newest_age_hours": 0.97,
   "collect_report": {
     "sitemap": 120,
     "homepage": 0,
     "sections": 0,
-    "merged": 86,
+    "merged": 88,
     "by_source": {
-      "sitemap-news": 86
+      "sitemap-news": 88
     }
   }
 }

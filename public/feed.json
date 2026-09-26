@@ -6,6 +6,61 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "6786167246aada5f",
+      "url": "https://www.wsj.com/politics/policy/how-a-business-litigator-became-dojs-point-man-against-transgender-care-86171021",
+      "title": "How a Business Litigator Became DOJ’s Point Man Against Transgender Care",
+      "content_text": "How a Business Litigator Became DOJ’s Point Man Against Transgender Care",
+      "summary": "",
+      "date_published": "2026-09-26T15:45:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "1367992a70b22e4d",
+      "url": "https://www.wsj.com/lifestyle/relationships/ai-chatbot-use-middle-school-a1a77589",
+      "title": "Middle-Schoolers Are Seeking Out AI Friends Instead of Real Human Ones",
+      "content_text": "Middle-Schoolers Are Seeking Out AI Friends Instead of Real Human Ones",
+      "summary": "",
+      "date_published": "2026-09-26T14:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "908b590a373c1bc0",
+      "url": "https://www.wsj.com/politics/policy/how-the-trump-administrations-election-plan-is-falling-into-place-aa991667",
+      "title": "Where the White House Stands in Its Push for a Bigger Role in Running Elections",
+      "content_text": "Where the White House Stands in Its Push for a Bigger Role in Running Elections",
+      "summary": "",
+      "date_published": "2026-09-26T14:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "2a5470e86e202532",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/ann-arbor-general-motors-home-6ddb00de",
+      "title": "Historic Homes: A Michigan Cow Farm Built by a GM Exec",
+      "content_text": "Historic Homes: A Michigan Cow Farm Built by a GM Exec",
+      "summary": "",
+      "date_published": "2026-09-26T13:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "5083e015bbc1b340",
+      "url": "https://www.wsj.com/style/editors-letter-a-quest-to-name-the-woman-at-the-center-of-an-18th-century-painting-14c1d24e",
+      "title": "Editor’s Letter: A Quest to Name the Woman at the Center of an 18th-Century Painting",
+      "content_text": "Editor’s Letter: A Quest to Name the Woman at the Center of an 18th-Century Painting",
+      "summary": "",
+      "date_published": "2026-09-26T12:25:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
       "id": "57e0d77397d0eb87",
       "url": "https://www.wsj.com/arts-culture/fine-art/eleonora-painting-ontario-324850bc",
       "title": "The Six-Year Quest to Find the Mystery Woman in an 18th-Century Painting",
@@ -61,17 +116,6 @@
       ]
     },
     {
-      "id": "b5b4f89c25f982af",
-      "url": "https://www.wsj.com/lifestyle/cars/ferrari-amalfi-2027-review-dd935f9d",
-      "title": "Why the Least Expensive Ferrari Is the One Worth Having",
-      "content_text": "Why the Least Expensive Ferrari Is the One Worth Having",
-      "summary": "",
-      "date_published": "2026-09-26T11:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
       "id": "acc11c7ce516e44c",
       "url": "https://www.wsj.com/arts-culture/fine-art/the-bayeux-tapestry-makes-landfall-at-the-british-museum-059a6fb7",
       "title": "The Bayeux Tapestry Makes Landfall at the British Museum",
@@ -80,6 +124,17 @@
       "date_published": "2026-09-26T11:00:00+00:00",
       "tags": [
         "Arts Culture"
+      ]
+    },
+    {
+      "id": "b5b4f89c25f982af",
+      "url": "https://www.wsj.com/lifestyle/cars/ferrari-amalfi-2027-review-dd935f9d",
+      "title": "Why the Least Expensive Ferrari Is the One Worth Having",
+      "content_text": "Why the Least Expensive Ferrari Is the One Worth Having",
+      "summary": "",
+      "date_published": "2026-09-26T11:00:00+00:00",
+      "tags": [
+        "Lifestyle"
       ]
     },
     {
@@ -116,17 +171,6 @@
       ]
     },
     {
-      "id": "720928e7f916be11",
-      "url": "https://www.wsj.com/personal-finance/wedding-registry-down-payment-funds-7a1a13f1",
-      "title": "Yes, It’s OK to Ask Your Wedding Guests for Money to Help Buy a Home",
-      "content_text": "Yes, It’s OK to Ask Your Wedding Guests for Money to Help Buy a Home",
-      "summary": "",
-      "date_published": "2026-09-26T09:30:00+00:00",
-      "tags": [
-        "Personal Finance"
-      ]
-    },
-    {
       "id": "5b016c67c9695d71",
       "url": "https://www.wsj.com/business/how-ashevilles-artists-and-shopkeepers-rebuilt-their-city-80762f93",
       "title": "How Asheville’s Artists and Shopkeepers Rebuilt Their City",
@@ -135,6 +179,17 @@
       "date_published": "2026-09-26T09:30:00+00:00",
       "tags": [
         "Business"
+      ]
+    },
+    {
+      "id": "720928e7f916be11",
+      "url": "https://www.wsj.com/personal-finance/wedding-registry-down-payment-funds-7a1a13f1",
+      "title": "Yes, It’s OK to Ask Your Wedding Guests for Money to Help Buy a Home",
+      "content_text": "Yes, It’s OK to Ask Your Wedding Guests for Money to Help Buy a Home",
+      "summary": "",
+      "date_published": "2026-09-26T09:30:00+00:00",
+      "tags": [
+        "Personal Finance"
       ]
     },
     {
@@ -2148,61 +2203,6 @@
       "date_published": "2026-09-24T20:07:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "02f96a54e2857f1e",
-      "url": "https://www.wsj.com/arts-culture/books/sylvester-stallone-steps-memoir-34d8cccb",
-      "title": "Sylvester Stallone Wrote the Script. He Wasn’t Letting Anyone Else Play Rocky.",
-      "content_text": "Sylvester Stallone Wrote the Script. He Wasn’t Letting Anyone Else Play Rocky.",
-      "summary": "",
-      "date_published": "2026-09-24T20:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "ff2f3ddebdbac16a",
-      "url": "https://www.wsj.com/us-news/law/kalshis-embrace-of-sports-betting-tests-rules-for-prediction-markets-a18eecbd",
-      "title": "Kalshi’s Embrace of Sports Betting Tests Rules for Prediction Markets",
-      "content_text": "Kalshi’s Embrace of Sports Betting Tests Rules for Prediction Markets",
-      "summary": "",
-      "date_published": "2026-09-24T19:48:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "f8182982116e6a5c",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/bipartisan-lawmakers-back-film-tax-credit-plan-LuS0xibYtxHP0mZE6Cxy",
-      "title": "Bipartisan Lawmakers Back Film Tax Credit Plan",
-      "content_text": "Bipartisan Lawmakers Back Film Tax Credit Plan",
-      "summary": "",
-      "date_published": "2026-09-24T19:45:01+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "5b2431167a00a2a0",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/angelina-jolie-los-angeles-estate-539426c8",
-      "title": "Angelina Jolie Sells Los Angeles Home for $24.75 Million",
-      "content_text": "Angelina Jolie Sells Los Angeles Home for $24.75 Million",
-      "summary": "",
-      "date_published": "2026-09-24T19:44:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "582a08a7f3cc0e5a",
-      "url": "https://www.wsj.com/arts-culture/film/heart-of-the-beast-review-brad-pitt-and-a-loyal-pet-070c10b7",
-      "title": "‘Heart of the Beast’ Review: Brad Pitt and a Loyal Pet",
-      "content_text": "‘Heart of the Beast’ Review: Brad Pitt and a Loyal Pet",
-      "summary": "",
-      "date_published": "2026-09-24T19:26:00+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]
