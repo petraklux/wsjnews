@@ -6,6 +6,39 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "db2f1e2d77cb8b38",
+      "url": "https://www.wsj.com/world/europe/pope-leo-receives-rockstar-welcome-in-secular-france-dd8216ba",
+      "title": "Pope Leo Receives Rockstar Welcome in Secular France",
+      "content_text": "Pope Leo Receives Rockstar Welcome in Secular France",
+      "summary": "",
+      "date_published": "2026-09-26T18:40:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "ef15602c29af4cd3",
+      "url": "https://www.wsj.com/business/airlines/new-boeing-737-max-software-glitch-could-disrupt-navigation-feature-d537b8d8",
+      "title": "New Boeing 737 MAX Software Glitch Could Disrupt Navigation Feature",
+      "content_text": "New Boeing 737 MAX Software Glitch Could Disrupt Navigation Feature",
+      "summary": "",
+      "date_published": "2026-09-26T18:16:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "82495715175cd049",
+      "url": "https://www.wsj.com/health/wellness/why-are-so-many-adults-cutting-off-their-parents-d4e1190c",
+      "title": "Why Are So Many Adults Cutting Off Their Parents?",
+      "content_text": "Why Are So Many Adults Cutting Off Their Parents?",
+      "summary": "",
+      "date_published": "2026-09-26T18:00:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
       "id": "6786167246aada5f",
       "url": "https://www.wsj.com/politics/policy/how-a-business-litigator-became-dojs-point-man-against-transgender-care-86171021",
       "title": "How a Business Litigator Became DOJ’s Point Man Against Transgender Care",
@@ -2170,39 +2203,6 @@
       "date_published": "2026-09-24T20:20:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "dee800b4225c3665",
-      "url": "https://www.wsj.com/arts-culture/film/ha-chan-shake-your-booty-review-dancing-while-grieving-1226a2d2",
-      "title": "‘Ha-Chan, Shake Your Booty!’ Review: Dancing While Grieving",
-      "content_text": "‘Ha-Chan, Shake Your Booty!’ Review: Dancing While Grieving",
-      "summary": "",
-      "date_published": "2026-09-24T20:17:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "57f082c2e3350d33",
-      "url": "https://www.wsj.com/world/the-debate-over-a-diesel-export-ban-is-giving-europe-whiplash-1b12894f",
-      "title": "The Debate Over a Diesel Export Ban Is Giving Europe Whiplash",
-      "content_text": "The Debate Over a Diesel Export Ban Is Giving Europe Whiplash",
-      "summary": "",
-      "date_published": "2026-09-24T20:11:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "414da85095968737",
-      "url": "https://www.wsj.com/business/jeff-bezos-blue-origin-is-fueled-with-30-billion-of-his-fortune-b7407e6e",
-      "title": "Jeff Bezos’ Blue Origin Is Fueled With $30 Billion of His Fortune",
-      "content_text": "Jeff Bezos’ Blue Origin Is Fueled With $30 Billion of His Fortune",
-      "summary": "",
-      "date_published": "2026-09-24T20:07:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
