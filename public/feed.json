@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "9f5661d66aae32f2",
+      "url": "https://www.wsj.com/politics/elections/americas-farmers-are-rethinking-their-loyalty-to-the-gop-af5c85fe",
+      "title": "America’s Farmers Are Rethinking Their Loyalty to the GOP",
+      "content_text": "America’s Farmers Are Rethinking Their Loyalty to the GOP",
+      "summary": "",
+      "date_published": "2026-09-26T21:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "db2f1e2d77cb8b38",
       "url": "https://www.wsj.com/world/europe/pope-leo-receives-rockstar-welcome-in-secular-france-dd8216ba",
       "title": "Pope Leo Receives Rockstar Welcome in Secular France",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-09-24T20:29:00+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "7cebe1b2e12d75b4",
-      "url": "https://www.wsj.com/finance/investing/raging-conflict-in-the-middle-east-and-rising-yields-weigh-on-u-s-stocks-88265952",
-      "title": "Raging Conflict in the Middle East and Rising Yields Weigh on U.S. Stocks",
-      "content_text": "Raging Conflict in the Middle East and Rising Yields Weigh on U.S. Stocks",
-      "summary": "",
-      "date_published": "2026-09-24T20:20:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]
