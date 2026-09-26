@@ -6,12 +6,111 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "4231c6f4df08378c",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-aa742c6e",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-09-26T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "64885a9a128694c3",
+      "url": "https://www.wsj.com/articles/whats-news-business-finance-4778dd9d",
+      "title": "What’s News: Business & Finance",
+      "content_text": "What’s News: Business & Finance",
+      "summary": "",
+      "date_published": "2026-09-26T03:26:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "0e67d2bf97294750",
+      "url": "https://www.wsj.com/articles/whats-news-worldwide-24165d64",
+      "title": "What’s News: Worldwide",
+      "content_text": "What’s News: Worldwide",
+      "summary": "",
+      "date_published": "2026-09-26T03:22:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "12e31bed0eb608a5",
+      "url": "https://www.wsj.com/articles/corrections-amplifications-91cdf72a",
+      "title": "Corrections & Amplifications",
+      "content_text": "Corrections & Amplifications",
+      "summary": "",
+      "date_published": "2026-09-26T02:37:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "bae01e4abbc2cfb7",
+      "url": "https://www.wsj.com/world/russia/overwhelmed-by-ukraines-drones-russia-tells-businesses-to-defend-themselves-731f294f",
+      "title": "Overwhelmed by Ukraine’s Drones, Russia Tells Businesses to Defend Themselves",
+      "content_text": "Overwhelmed by Ukraine’s Drones, Russia Tells Businesses to Defend Themselves",
+      "summary": "",
+      "date_published": "2026-09-26T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "25f3defa5f773365",
+      "url": "https://www.wsj.com/world/middle-east/a-u-s-arm-twisting-campaign-is-cutting-iran-off-from-the-rest-of-the-world-ebcd990e",
+      "title": "A U.S. Arm-Twisting Campaign Is Cutting Iran Off From the Rest of the World",
+      "content_text": "A U.S. Arm-Twisting Campaign Is Cutting Iran Off From the Rest of the World",
+      "summary": "",
+      "date_published": "2026-09-26T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "9b53c3b10454b01f",
+      "url": "https://www.wsj.com/politics/policy/trump-angers-lawmakers-with-810-million-in-cuts-760da086",
+      "title": "Trump Angers Lawmakers With $810 Million in Cuts",
+      "content_text": "Trump Angers Lawmakers With $810 Million in Cuts",
+      "summary": "",
+      "date_published": "2026-09-26T01:58:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "8391a09e8103a586",
+      "url": "https://www.wsj.com/tech/ai/openai-agents-hacked-u-s-government-websites-d999df5f",
+      "title": "OpenAI Agents Hit U.S. Government Websites",
+      "content_text": "OpenAI Agents Hit U.S. Government Websites",
+      "summary": "",
+      "date_published": "2026-09-26T01:52:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
       "id": "9f2dc132f9e982b9",
       "url": "https://www.wsj.com/politics/policy/white-house-removes-cnn-from-planned-weekend-trip-7c7d6455",
       "title": "White House Removes CNN From Planned Weekend Trip",
       "content_text": "White House Removes CNN From Planned Weekend Trip",
       "summary": "",
       "date_published": "2026-09-26T01:40:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "84ea819ea3c157c2",
+      "url": "https://www.wsj.com/politics/elections/trump-is-predicting-midterms-success-but-republicans-are-starting-to-panic-439edf97",
+      "title": "Trump Is Predicting Midterms Success but Republicans Are Starting to Panic",
+      "content_text": "Trump Is Predicting Midterms Success but Republicans Are Starting to Panic",
+      "summary": "",
+      "date_published": "2026-09-26T01:00:00+00:00",
       "tags": [
         "Politics"
       ]
@@ -25,17 +124,6 @@
       "date_published": "2026-09-26T01:00:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "84ea819ea3c157c2",
-      "url": "https://www.wsj.com/politics/elections/trump-is-predicting-midterms-success-but-republicans-are-starting-to-panic-439edf97",
-      "title": "Trump Is Predicting Midterms Success but Republicans Are Starting to Panic",
-      "content_text": "Trump Is Predicting Midterms Success but Republicans Are Starting to Panic",
-      "summary": "",
-      "date_published": "2026-09-26T01:00:00+00:00",
-      "tags": [
-        "Politics"
       ]
     },
     {
@@ -2115,94 +2203,6 @@
       "date_published": "2026-09-24T18:15:01+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "38b5f63a3a39c008",
-      "url": "https://www.wsj.com/politics/policy/u-s-government-airs-pro-trump-anti-communism-ad-39cd8227",
-      "title": "U.S. Government Airs Pro-Trump, Anti-Communism Ad",
-      "content_text": "U.S. Government Airs Pro-Trump, Anti-Communism Ad",
-      "summary": "",
-      "date_published": "2026-09-24T18:11:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "d4331c9ef9c40e2b",
-      "url": "https://www.wsj.com/politics/u-s-government-airs-pro-trump-anti-communism-ad-39cd8227",
-      "title": "U.S. Government Airs Pro-Trump, Anti-Communism Ad",
-      "content_text": "U.S. Government Airs Pro-Trump, Anti-Communism Ad",
-      "summary": "",
-      "date_published": "2026-09-24T18:11:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "5bc8d9d2f8864d51",
-      "url": "https://www.wsj.com/tech/ai/america-is-behind-on-memory-chipsand-tariffs-threaten-to-make-things-harder-fb79e365",
-      "title": "America Is Behind on Memory Chips—and Tariffs Threaten to Make Things Harder",
-      "content_text": "America Is Behind on Memory Chips—and Tariffs Threaten to Make Things Harder",
-      "summary": "",
-      "date_published": "2026-09-24T17:56:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "2494cbd7bad07355",
-      "url": "https://www.wsj.com/world/europe/in-france-a-baptism-boom-stirs-hope-of-catholic-revival-a22a4096",
-      "title": "In France, a Baptism Boom Stirs Hope of Catholic Revival",
-      "content_text": "In France, a Baptism Boom Stirs Hope of Catholic Revival",
-      "summary": "",
-      "date_published": "2026-09-24T17:53:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "16f1436dde431a58",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/what-s-moving-markets-today--VH3vWgesBoDRIQZh9HJJ",
-      "title": "What’s Moving Markets Today?",
-      "content_text": "What’s Moving Markets Today?",
-      "summary": "",
-      "date_published": "2026-09-24T17:36:15+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "9b3b24b96830276e",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/-flash-heard-surge-in-bond-market-volatility-signals-new-risks-for-investors-owVt3Hw7B7zyTJgLV9Ov",
-      "title": "⚡ Flash Heard: Surge in Bond-Market Volatility Signals New Risks for Investors",
-      "content_text": "⚡ Flash Heard: Surge in Bond-Market Volatility Signals New Risks for Investors",
-      "summary": "",
-      "date_published": "2026-09-24T17:13:36+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "6e41b76c52ea1320",
-      "url": "https://www.wsj.com/us-news/the-california-district-attorney-cracking-down-on-the-scourge-of-e-bikes-a5dbaff5",
-      "title": "The California District Attorney Cracking Down on the Scourge of E-Bikes",
-      "content_text": "The California District Attorney Cracking Down on the Scourge of E-Bikes",
-      "summary": "",
-      "date_published": "2026-09-24T17:04:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "b0f27c5be6a1d1f8",
-      "url": "https://www.wsj.com/politics/national-security/trump-administration-presses-china-on-suspected-nuclear-tests-in-confidential-talks-cdf26360",
-      "title": "Trump Administration Presses China on Suspected Nuclear Tests in Confidential Talks",
-      "content_text": "Trump Administration Presses China on Suspected Nuclear Tests in Confidential Talks",
-      "summary": "",
-      "date_published": "2026-09-24T17:00:00+00:00",
-      "tags": [
-        "Politics"
       ]
     }
   ]
