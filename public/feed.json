@@ -6,6 +6,72 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "9f2dc132f9e982b9",
+      "url": "https://www.wsj.com/politics/policy/white-house-removes-cnn-from-planned-weekend-trip-7c7d6455",
+      "title": "White House Removes CNN From Planned Weekend Trip",
+      "content_text": "White House Removes CNN From Planned Weekend Trip",
+      "summary": "",
+      "date_published": "2026-09-26T01:40:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "9d41e4642486e69e",
+      "url": "https://www.wsj.com/business/inflation-costs-diesel-port-trucks-1062d089",
+      "title": "The Cost of Transporting Pretty Much Everything Just Won’t Stop Going Up",
+      "content_text": "The Cost of Transporting Pretty Much Everything Just Won’t Stop Going Up",
+      "summary": "",
+      "date_published": "2026-09-26T01:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "84ea819ea3c157c2",
+      "url": "https://www.wsj.com/politics/elections/trump-is-predicting-midterms-success-but-republicans-are-starting-to-panic-439edf97",
+      "title": "Trump Is Predicting Midterms Success but Republicans Are Starting to Panic",
+      "content_text": "Trump Is Predicting Midterms Success but Republicans Are Starting to Panic",
+      "summary": "",
+      "date_published": "2026-09-26T01:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "8570b9f855de4593",
+      "url": "https://www.wsj.com/world/middle-east/trump-rejects-iran-ceasefire-expects-renewed-bombing-after-midterms-5982ee50",
+      "title": "Trump Rejects Iran Ceasefire, Expects Renewed Bombing After Midterms",
+      "content_text": "Trump Rejects Iran Ceasefire, Expects Renewed Bombing After Midterms",
+      "summary": "",
+      "date_published": "2026-09-26T00:26:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "c9cf82c0b05df2c1",
+      "url": "https://www.wsj.com/lifestyle/careers/we-all-hated-busy-work-now-that-its-disappearing-it-turns-out-we-miss-it-d56bb48b",
+      "title": "We All Hated Busy Work. Now That It’s Disappearing, It Turns Out We Miss It.",
+      "content_text": "We All Hated Busy Work. Now That It’s Disappearing, It Turns Out We Miss It.",
+      "summary": "",
+      "date_published": "2026-09-26T00:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "e71b0b85fe6d8815",
+      "url": "https://www.wsj.com/politics/ilhan-omar-is-the-progressive-brawler-conservatives-cant-stop-talking-about-ea04c243",
+      "title": "Ilhan Omar Is the Progressive Brawler Conservatives Can’t Stop Talking About",
+      "content_text": "Ilhan Omar Is the Progressive Brawler Conservatives Can’t Stop Talking About",
+      "summary": "",
+      "date_published": "2026-09-26T00:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "6614cb0d9739888c",
       "url": "https://www.wsj.com/us-news/law/how-missouris-republican-gerrymander-struck-out-at-the-supreme-court-110b5835",
       "title": "How Missouri’s Republican Gerrymander Struck Out at the Supreme Court",
@@ -17,17 +83,6 @@
       ]
     },
     {
-      "id": "ab256fb6e0fe2255",
-      "url": "https://www.wsj.com/articles/kimberly-guilfoyle-mystery-man-energy-5adeb541",
-      "title": "The Mystery Man Shadowing Kimberly Guilfoyle as She Pushes Deals Across Europe",
-      "content_text": "The Mystery Man Shadowing Kimberly Guilfoyle as She Pushes Deals Across Europe",
-      "summary": "",
-      "date_published": "2026-09-25T23:00:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
       "id": "72acd3fe9c8ec286",
       "url": "https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181",
       "title": "He’s Completely Terrified of AI—and He’s About to Make Billions Off It",
@@ -36,6 +91,17 @@
       "date_published": "2026-09-25T23:00:00+00:00",
       "tags": [
         "Tech"
+      ]
+    },
+    {
+      "id": "ab256fb6e0fe2255",
+      "url": "https://www.wsj.com/articles/kimberly-guilfoyle-mystery-man-energy-5adeb541",
+      "title": "The Mystery Man Shadowing Kimberly Guilfoyle as She Pushes Deals Across Europe",
+      "content_text": "The Mystery Man Shadowing Kimberly Guilfoyle as She Pushes Deals Across Europe",
+      "summary": "",
+      "date_published": "2026-09-25T23:00:00+00:00",
+      "tags": [
+        "Front Page"
       ]
     },
     {
@@ -2137,72 +2203,6 @@
       "date_published": "2026-09-24T17:00:00+00:00",
       "tags": [
         "Politics"
-      ]
-    },
-    {
-      "id": "4424c94eab84ec7c",
-      "url": "https://www.wsj.com/tech/ai/are-boomers-too-attached-to-ai-readers-disagree-d324f54c",
-      "title": "Are Boomers Too Attached to AI? Readers Disagree.",
-      "content_text": "Are Boomers Too Attached to AI? Readers Disagree.",
-      "summary": "",
-      "date_published": "2026-09-24T16:56:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "5d7bba65327f5cea",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/trump-xi-summit-could-bring-bigger-purchases-of-u-s-farm-goods-c5VIswCfzdHqHt1kM6dF",
-      "title": "Trump-Xi Summit Could Bring Bigger Purchases of U.S. Farm Goods",
-      "content_text": "Trump-Xi Summit Could Bring Bigger Purchases of U.S. Farm Goods",
-      "summary": "",
-      "date_published": "2026-09-24T16:15:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "2043129035551763",
-      "url": "https://www.wsj.com/opinion/americas-military-power-is-already-in-orbit-cb18f3d9",
-      "title": "America’s Military Power Is Already in Orbit",
-      "content_text": "America’s Military Power Is Already in Orbit",
-      "summary": "",
-      "date_published": "2026-09-24T16:11:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "70a4a51aa8f3b8d1",
-      "url": "https://www.wsj.com/opinion/the-future-depends-on-todays-ai-safeguards-cdbe4eff",
-      "title": "The Future Depends on Today’s AI Safeguards",
-      "content_text": "The Future Depends on Today’s AI Safeguards",
-      "summary": "",
-      "date_published": "2026-09-24T16:10:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "cdc9ddc0346e3b98",
-      "url": "https://www.wsj.com/opinion/a-thank-you-note-dudamel-hid-in-the-score-6292c54c",
-      "title": "A Thank-You Note Dudamel Hid in the Score",
-      "content_text": "A Thank-You Note Dudamel Hid in the Score",
-      "summary": "",
-      "date_published": "2026-09-24T16:10:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "d679dca5803b537d",
-      "url": "https://www.wsj.com/us-news/education/student-loan-borrowers-allege-canceled-debt-is-still-trailing-them-193f4231",
-      "title": "Student Loan Borrowers Allege Canceled Debt Is Still Trailing Them",
-      "content_text": "Student Loan Borrowers Allege Canceled Debt Is Still Trailing Them",
-      "summary": "",
-      "date_published": "2026-09-24T16:10:00+00:00",
-      "tags": [
-        "Us News"
       ]
     }
   ]
