@@ -6,6 +6,105 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "e472a6dc5fb4ba0c",
+      "url": "https://www.wsj.com/opinion/fit-the-school-to-the-student-297328fa",
+      "title": "Fit the School to the Student",
+      "content_text": "Fit the School to the Student",
+      "summary": "",
+      "date_published": "2026-09-27T17:36:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "82e0b424bcfe4ca7",
+      "url": "https://www.wsj.com/world/asia/china-wants-more-babies-so-it-is-glamming-up-the-city-hall-wedding-84816f21",
+      "title": "China Wants More Babies. So It Is Glamming Up the City Hall Wedding.",
+      "content_text": "China Wants More Babies. So It Is Glamming Up the City Hall Wedding.",
+      "summary": "",
+      "date_published": "2026-09-27T17:27:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "0ce14a2a3e2ab29d",
+      "url": "https://www.wsj.com/world/these-doomers-have-wielded-big-influence-in-ai-development-67d232df",
+      "title": "These Doomers Have Wielded Big Influence in AI Development",
+      "content_text": "These Doomers Have Wielded Big Influence in AI Development",
+      "summary": "",
+      "date_published": "2026-09-27T16:07:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "8f1b278fd3d563b7",
+      "url": "https://www.wsj.com/lifestyle/travel/boulder-colorado-sundance-trip-a1c3194c",
+      "title": "Go to Boulder for the Mountains. Stay for the Culture.",
+      "content_text": "Go to Boulder for the Mountains. Stay for the Culture.",
+      "summary": "",
+      "date_published": "2026-09-27T16:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "0e30d84581ae1b0b",
+      "url": "https://www.wsj.com/business/hospitality/uber-kenya-safari-630e8bd7",
+      "title": "Uber’s New Kenyan Safari Business Is Already Stumbling",
+      "content_text": "Uber’s New Kenyan Safari Business Is Already Stumbling",
+      "summary": "",
+      "date_published": "2026-09-27T15:59:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "109c63792a8d83bf",
+      "url": "https://www.wsj.com/world/uk/u-k-arrests-five-in-suspected-terrorist-plot-near-air-base-used-by-u-s-28d8a97a",
+      "title": "U.K. Arrests Five in Suspected Terrorist Plot Near Air Base Used by U.S.",
+      "content_text": "U.K. Arrests Five in Suspected Terrorist Plot Near Air Base Used by U.S.",
+      "summary": "",
+      "date_published": "2026-09-27T15:34:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "d502d73a44ec8b76",
+      "url": "https://www.wsj.com/opinion/how-to-put-time-back-on-the-clock-in-iran-2eda585e",
+      "title": "How to Put Time Back on the Clock in Iran",
+      "content_text": "How to Put Time Back on the Clock in Iran",
+      "summary": "",
+      "date_published": "2026-09-27T15:18:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "93523902e9c163ac",
+      "url": "https://www.wsj.com/opinion/the-real-ai-fear-lawyers-69280f52",
+      "title": "The Real AI Fear: Lawyers",
+      "content_text": "The Real AI Fear: Lawyers",
+      "summary": "",
+      "date_published": "2026-09-27T15:15:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "c5c70f6313d6e482",
+      "url": "https://www.wsj.com/tech/ai/metas-muse-moment-4c49ac0e",
+      "title": "Meta’s Muse Moment",
+      "content_text": "Meta’s Muse Moment",
+      "summary": "",
+      "date_published": "2026-09-27T14:55:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
       "id": "bab68240e2951792",
       "url": "https://www.wsj.com/sports/football/dylan-raiola-dante-moore-oregon-b799eec3",
       "title": "A Brutal Hit Knocked Out a Heisman Candidate. His Understudy Saved the Season.",
@@ -39,21 +138,21 @@
       ]
     },
     {
+      "id": "1ccceeaebb945b3a",
+      "url": "https://www.wsj.com/us-news/law/philadelphias-da-the-dean-of-progressive-prosecutors-has-his-own-legal-trouble-97fbd394",
+      "title": "Philadelphia’s DA, the Dean of Progressive Prosecutors, Has His Own Legal Trouble",
+      "content_text": "Philadelphia’s DA, the Dean of Progressive Prosecutors, Has His Own Legal Trouble",
+      "summary": "",
+      "date_published": "2026-09-27T09:30:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
       "id": "36a223d0c98985db",
       "url": "https://www.wsj.com/business/autos/fords-factory-hermosillo-mexico-pigeons-hawk-el-charro-b78d90ae",
       "title": "Ford’s Latest Employee of the Month is a Hawk Named ‘El Charro’",
       "content_text": "Ford’s Latest Employee of the Month is a Hawk Named ‘El Charro’",
-      "summary": "",
-      "date_published": "2026-09-27T09:30:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "cc9d8f6c49d2143c",
-      "url": "https://www.wsj.com/business/retail/these-10-000-cameras-are-a-rare-european-manufacturing-success-d91cf324",
-      "title": "These $10,000 Cameras Are a Rare European Manufacturing Success",
-      "content_text": "These $10,000 Cameras Are a Rare European Manufacturing Success",
       "summary": "",
       "date_published": "2026-09-27T09:30:00+00:00",
       "tags": [
@@ -72,14 +171,14 @@
       ]
     },
     {
-      "id": "1ccceeaebb945b3a",
-      "url": "https://www.wsj.com/us-news/law/philadelphias-da-the-dean-of-progressive-prosecutors-has-his-own-legal-trouble-97fbd394",
-      "title": "Philadelphia’s DA, the Dean of Progressive Prosecutors, Has His Own Legal Trouble",
-      "content_text": "Philadelphia’s DA, the Dean of Progressive Prosecutors, Has His Own Legal Trouble",
+      "id": "cc9d8f6c49d2143c",
+      "url": "https://www.wsj.com/business/retail/these-10-000-cameras-are-a-rare-european-manufacturing-success-d91cf324",
+      "title": "These $10,000 Cameras Are a Rare European Manufacturing Success",
+      "content_text": "These $10,000 Cameras Are a Rare European Manufacturing Success",
       "summary": "",
       "date_published": "2026-09-27T09:30:00+00:00",
       "tags": [
-        "Us News"
+        "Business"
       ]
     },
     {
@@ -2104,105 +2203,6 @@
       "date_published": "2026-09-24T23:55:00+00:00",
       "tags": [
         "Politics"
-      ]
-    },
-    {
-      "id": "295d31b8f78522ef",
-      "url": "https://www.wsj.com/arts-culture/books/orlien-france-book-ai-accusations-f053fee6",
-      "title": "His Debut Novel Was a Literary Triumph. Was It Actually Written by AI?",
-      "content_text": "His Debut Novel Was a Literary Triumph. Was It Actually Written by AI?",
-      "summary": "",
-      "date_published": "2026-09-24T23:15:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "2cc38c628e755135",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/streetwise-bond-traders-are-paying-too-much-attention-to-oil-prices-6ZIu6H0W3ZdPZ6ypsPfk",
-      "title": "Streetwise: Bond Traders Are Paying Too Much Attention to Oil Prices",
-      "content_text": "Streetwise: Bond Traders Are Paying Too Much Attention to Oil Prices",
-      "summary": "",
-      "date_published": "2026-09-24T23:01:25+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "c390121211e88699",
-      "url": "https://www.wsj.com/opinion/ceo-pressured-to-lead-campaign-for-woke-policies-6e03c1e1",
-      "title": "CEO Pressured to Lead Campaign for Woke Policies",
-      "content_text": "CEO Pressured to Lead Campaign for Woke Policies",
-      "summary": "",
-      "date_published": "2026-09-24T22:31:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "1c9e971478900cd8",
-      "url": "https://www.wsj.com/finance/investing/bond-traders-are-paying-too-much-attention-to-the-oil-price-faa6a6cb",
-      "title": "Bond Traders Are Paying Too Much Attention to the Oil Price",
-      "content_text": "Bond Traders Are Paying Too Much Attention to the Oil Price",
-      "summary": "",
-      "date_published": "2026-09-24T22:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "d1649303a232248f",
-      "url": "https://www.wsj.com/opinion/trump-is-in-denial-about-ais-danger-695349d0",
-      "title": "Trump Is in Denial About AI’s Danger",
-      "content_text": "Trump Is in Denial About AI’s Danger",
-      "summary": "",
-      "date_published": "2026-09-24T21:55:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "2e1fbe7e004a95d5",
-      "url": "https://www.wsj.com/opinion/malaysia-is-a-lifeline-for-iran-3ad18740",
-      "title": "Malaysia Is a Lifeline for Iran",
-      "content_text": "Malaysia Is a Lifeline for Iran",
-      "summary": "",
-      "date_published": "2026-09-24T21:54:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "efb2675f13cfd95b",
-      "url": "https://www.wsj.com/arts-culture/fine-art/the-best-work-at-spring-break-art-show-airdigital-da886db6",
-      "title": "The Best Work at Spring/Break Art Show",
-      "content_text": "The Best Work at Spring/Break Art Show",
-      "summary": "",
-      "date_published": "2026-09-24T21:54:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "43490bb0320d89f9",
-      "url": "https://www.wsj.com/opinion/china-taiwan-xi-jinping-donald-trump-summit-b7f647b5",
-      "title": "Mr. Xi Makes His Taiwan ‘Independence’ Move",
-      "content_text": "Mr. Xi Makes His Taiwan ‘Independence’ Move",
-      "summary": "",
-      "date_published": "2026-09-24T21:51:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "25d804700f3e249f",
-      "url": "https://www.wsj.com/opinion/white-house-press-passes-donald-trump-judge-timothy-kelly-2c71a8f1",
-      "title": "Trump’s Fight With the White House Press",
-      "content_text": "Trump’s Fight With the White House Press",
-      "summary": "",
-      "date_published": "2026-09-24T21:44:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
