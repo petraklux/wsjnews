@@ -6,6 +6,83 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "ffa0df89548729ba",
+      "url": "https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05",
+      "title": "‘Things Will Never Be Chill Again’: The Doomers Who Shaped the AI Safety Freakout",
+      "content_text": "‘Things Will Never Be Chill Again’: The Doomers Who Shaped the AI Safety Freakout",
+      "summary": "",
+      "date_published": "2026-09-27T01:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "9fb614c9d4042944",
+      "url": "https://www.wsj.com/politics/policy/vance-woos-skeptical-conservatives-with-his-own-take-on-trumps-messaging-aa1ac28f",
+      "title": "Vance Woos Skeptical Conservatives With His Own Take on Trump’s Messaging",
+      "content_text": "Vance Woos Skeptical Conservatives With His Own Take on Trump’s Messaging",
+      "summary": "",
+      "date_published": "2026-09-27T01:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "70b2294be6c709a4",
+      "url": "https://www.wsj.com/finance/investing/stocks-are-defying-surging-bond-yields-heres-what-history-says-could-come-next-7d13bb2d",
+      "title": "Stocks Are Defying Surging Bond Yields. Here’s What History Says Could Come Next.",
+      "content_text": "Stocks Are Defying Surging Bond Yields. Here’s What History Says Could Come Next.",
+      "summary": "",
+      "date_published": "2026-09-27T01:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "168982a4384d0cd9",
+      "url": "https://www.wsj.com/business/energy-oil/nevada-solar-industry-trump-states-b838c7e4",
+      "title": "Nevada Is Making Surprising Gains on Solar Energy",
+      "content_text": "Nevada Is Making Surprising Gains on Solar Energy",
+      "summary": "",
+      "date_published": "2026-09-27T00:30:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "fd6e7c058e87cb74",
+      "url": "https://www.wsj.com/tech/ai/openai-agents-used-aggressive-techniques-to-access-u-n-website-522c70ff",
+      "title": "OpenAI Agents Used Aggressive Techniques to Access U.N. Website",
+      "content_text": "OpenAI Agents Used Aggressive Techniques to Access U.N. Website",
+      "summary": "",
+      "date_published": "2026-09-27T00:14:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "4f697d271384a6ae",
+      "url": "https://www.wsj.com/world/europe/a-world-war-ii-era-feud-is-threatening-a-pivotal-alliance-for-ukraine-e648a66e",
+      "title": "A World War II-Era Feud Is Threatening a Pivotal Alliance for Ukraine",
+      "content_text": "A World War II-Era Feud Is Threatening a Pivotal Alliance for Ukraine",
+      "summary": "",
+      "date_published": "2026-09-27T00:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "0be8d2c9dbbfc4f9",
+      "url": "https://www.wsj.com/personal-finance/the-surprise-social-security-benefit-that-goes-to-parents-who-have-kids-late-05497d3e",
+      "title": "The Surprise Social Security Benefit That Goes to Parents Who Have Kids Late",
+      "content_text": "The Surprise Social Security Benefit That Goes to Parents Who Have Kids Late",
+      "summary": "",
+      "date_published": "2026-09-26T23:00:00+00:00",
+      "tags": [
+        "Personal Finance"
+      ]
+    },
+    {
       "id": "9f5661d66aae32f2",
       "url": "https://www.wsj.com/politics/elections/americas-farmers-are-rethinking-their-loyalty-to-the-gop-af5c85fe",
       "title": "America’s Farmers Are Rethinking Their Loyalty to the GOP",
@@ -2124,83 +2201,6 @@
       "content_text": "‘Alexander’s Feast’ Review: Spies in the Seminar",
       "summary": "",
       "date_published": "2026-09-24T20:57:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "bc9456ef9cd8c6a2",
-      "url": "https://www.wsj.com/arts-culture/film/forgotten-island-review-an-animated-filipino-fantasy-0ccb9bb1",
-      "title": "‘Forgotten Island’ Review: An Animated Filipino Fantasy",
-      "content_text": "‘Forgotten Island’ Review: An Animated Filipino Fantasy",
-      "summary": "",
-      "date_published": "2026-09-24T20:56:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "2a5baba77eb82cbb",
-      "url": "https://www.wsj.com/arts-culture/television/scammed-review-an-expose-of-internet-swindles-on-pbs-c486c460",
-      "title": "‘Scammed’ Review: An Exposé of Internet Swindles on PBS",
-      "content_text": "‘Scammed’ Review: An Exposé of Internet Swindles on PBS",
-      "summary": "",
-      "date_published": "2026-09-24T20:51:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "3b59ab349f91d9d5",
-      "url": "https://www.wsj.com/tech/u-s-files-to-intervene-with-e-u-decision-on-x-elon-musk-8befc848",
-      "title": "U.S. Files to Intervene With EU Decision on X, Elon Musk",
-      "content_text": "U.S. Files to Intervene With EU Decision on X, Elon Musk",
-      "summary": "",
-      "date_published": "2026-09-24T20:47:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "921e2d14b5ddfb9f",
-      "url": "https://www.wsj.com/business/earnings/costco-reports-higher-fourth-quarter-profit-as-sales-membership-fees-rise-4156cc4a",
-      "title": "Costco Reports Higher Fourth-Quarter Profit as Sales, Membership Fees Rise",
-      "content_text": "Costco Reports Higher Fourth-Quarter Profit as Sales, Membership Fees Rise",
-      "summary": "",
-      "date_published": "2026-09-24T20:42:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "6a58c3d56495afef",
-      "url": "https://www.wsj.com/finance/stocks/stocks-climb-back-to-par-598f973c",
-      "title": "Stocks Climb Back To Par",
-      "content_text": "Stocks Climb Back To Par",
-      "summary": "",
-      "date_published": "2026-09-24T20:39:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "b2d694dfd74e20c4",
-      "url": "https://www.wsj.com/world/middle-east/france-to-deploy-forces-to-protect-saudi-red-sea-oil-port-90b24750",
-      "title": "France to Deploy Forces to Protect Saudi Red Sea Oil Port",
-      "content_text": "France to Deploy Forces to Protect Saudi Red Sea Oil Port",
-      "summary": "",
-      "date_published": "2026-09-24T20:34:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "279fb3f412f1c3c3",
-      "url": "https://www.wsj.com/arts-culture/theater/macbeth-review-a-ferocious-start-to-the-met-operas-season-491640f2",
-      "title": "‘Macbeth’ Review: A Ferocious Start to the Met Opera’s Season",
-      "content_text": "‘Macbeth’ Review: A Ferocious Start to the Met Opera’s Season",
-      "summary": "",
-      "date_published": "2026-09-24T20:29:00+00:00",
       "tags": [
         "Arts Culture"
       ]
