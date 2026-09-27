@@ -6,6 +6,61 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "dea6ec2569a2d42b",
+      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
+      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "summary": "",
+      "date_published": "2026-09-27T23:30:19+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "0be008ef0c86b4c0",
+      "url": "https://www.wsj.com/world/china/u-s-says-no-plans-to-sell-weapons-to-china-after-perdue-comments-ed99bf46",
+      "title": "U.S. Says No Plans to Sell Weapons to China After Perdue Comments",
+      "content_text": "U.S. Says No Plans to Sell Weapons to China After Perdue Comments",
+      "summary": "",
+      "date_published": "2026-09-27T23:19:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "54685a75817dc842",
+      "url": "https://www.wsj.com/real-estate/every-household-in-this-rural-town-receives-10-000-if-a-data-center-gets-built-86554cb7",
+      "title": "Every Household in This Rural Town Receives $10,000 if a Data Center Gets Built",
+      "content_text": "Every Household in This Rural Town Receives $10,000 if a Data Center Gets Built",
+      "summary": "",
+      "date_published": "2026-09-27T23:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "2974c5820c2feb5a",
+      "url": "https://www.wsj.com/articles/corrections-amplifications-2b5ab517",
+      "title": "Corrections & Amplifications",
+      "content_text": "Corrections & Amplifications",
+      "summary": "",
+      "date_published": "2026-09-27T21:35:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "5d4f323bb07002c1",
+      "url": "https://www.wsj.com/world/middle-east/egypt-warned-netanyahu-of-impending-attack-on-israel-before-oct-7-8e3d5ae0",
+      "title": "Egypt Warned Netanyahu of Impending Attack on Israel Before Oct. 7",
+      "content_text": "Egypt Warned Netanyahu of Impending Attack on Israel Before Oct. 7",
+      "summary": "",
+      "date_published": "2026-09-27T21:21:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "fd64427bde785331",
       "url": "https://www.wsj.com/world/middle-east/iran-pressed-to-make-nuclear-concessions-to-revive-peace-talks-with-u-s-80016aff",
       "title": "Iran Pressed to Make Nuclear Concessions to Revive Peace Talks With U.S.",
@@ -116,10 +171,10 @@
       ]
     },
     {
-      "id": "98cadc538022d283",
-      "url": "https://www.wsj.com/opinion/when-ai-tells-a-story-about-your-health-is-it-true-52dd850c",
-      "title": "When AI Tells a Story About Your Health, Is It True?",
-      "content_text": "When AI Tells a Story About Your Health, Is It True?",
+      "id": "224094c65158c687",
+      "url": "https://www.wsj.com/opinion/can-north-american-trade-survive-trump-4dae26a7",
+      "title": "Can North American Trade Survive Trump?",
+      "content_text": "Can North American Trade Survive Trump?",
       "summary": "",
       "date_published": "2026-09-27T18:37:00+00:00",
       "tags": [
@@ -127,10 +182,10 @@
       ]
     },
     {
-      "id": "224094c65158c687",
-      "url": "https://www.wsj.com/opinion/can-north-american-trade-survive-trump-4dae26a7",
-      "title": "Can North American Trade Survive Trump?",
-      "content_text": "Can North American Trade Survive Trump?",
+      "id": "98cadc538022d283",
+      "url": "https://www.wsj.com/opinion/when-ai-tells-a-story-about-your-health-is-it-true-52dd850c",
+      "title": "When AI Tells a Story About Your Health, Is It True?",
+      "content_text": "When AI Tells a Story About Your Health, Is It True?",
       "summary": "",
       "date_published": "2026-09-27T18:37:00+00:00",
       "tags": [
@@ -160,17 +215,6 @@
       ]
     },
     {
-      "id": "f97824b353307308",
-      "url": "https://www.wsj.com/opinion/the-complicated-aftermath-of-a-trump-vote-54e4157f",
-      "title": "The Complicated Aftermath of a Trump Vote",
-      "content_text": "The Complicated Aftermath of a Trump Vote",
-      "summary": "",
-      "date_published": "2026-09-27T17:46:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
       "id": "b8a81f1858d5c17b",
       "url": "https://www.wsj.com/arts-culture/books/auslander-review-the-lives-of-outsiders-ae0ce2c2",
       "title": "‘Ausländer’ Review: The Lives of Outsiders",
@@ -179,6 +223,17 @@
       "date_published": "2026-09-27T17:46:00+00:00",
       "tags": [
         "Arts Culture"
+      ]
+    },
+    {
+      "id": "f97824b353307308",
+      "url": "https://www.wsj.com/opinion/the-complicated-aftermath-of-a-trump-vote-54e4157f",
+      "title": "The Complicated Aftermath of a Trump Vote",
+      "content_text": "The Complicated Aftermath of a Trump Vote",
+      "summary": "",
+      "date_published": "2026-09-27T17:46:00+00:00",
+      "tags": [
+        "Opinion"
       ]
     },
     {
@@ -2148,61 +2203,6 @@
       "date_published": "2026-09-25T08:17:14+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "285cf6e04041bd81",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-25-2026/card/see-the-high-profile-guests-who-attended-the-trump-xi-dinner-o9KcNI43VsXjaXoWmoh0",
-      "title": "See the High-Profile Guests Who Attended the Trump-Xi Dinner",
-      "content_text": "See the High-Profile Guests Who Attended the Trump-Xi Dinner",
-      "summary": "",
-      "date_published": "2026-09-25T08:16:10+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "44a4b6124af817fa",
-      "url": "https://www.wsj.com/articles/oil-prices-fall-as-u-s-iran-diplomacy-and-regional-tensions-remain-in-focus-0a4887e8",
-      "title": "Oil Prices Fall as U.S.-Iran Diplomacy and Regional Tensions Remain in Focus",
-      "content_text": "Oil Prices Fall as U.S.-Iran Diplomacy and Regional Tensions Remain in Focus",
-      "summary": "",
-      "date_published": "2026-09-25T07:43:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "c1e7e3805c5f56a3",
-      "url": "https://www.wsj.com/world/europe/arcelormittal-says-it-cant-restart-ukrainian-operations-after-missile-strikes-462821fa",
-      "title": "ArcelorMittal Drops Plan to Restart Ukrainian Operations After Missile Strikes",
-      "content_text": "ArcelorMittal Drops Plan to Restart Ukrainian Operations After Missile Strikes",
-      "summary": "",
-      "date_published": "2026-09-25T07:14:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "cd7a8a66752623cc",
-      "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-stay-near-multiyear-highs-in-asian-trade-69ae3ed8",
-      "title": "Eurozone Bond Yields Fall as Oil Prices Decline; U.S. Treasury Yields Edge Higher",
-      "content_text": "Eurozone Bond Yields Fall as Oil Prices Decline; U.S. Treasury Yields Edge Higher",
-      "summary": "",
-      "date_published": "2026-09-25T06:53:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "bddd9500b044bdc3",
-      "url": "https://www.wsj.com/economy/consumers/german-consumer-confidence-falls-to-lowest-since-may-on-energy-costs-32e99994",
-      "title": "German Consumer Confidence Falls to Lowest Since May on Energy Costs",
-      "content_text": "German Consumer Confidence Falls to Lowest Since May on Energy Costs",
-      "summary": "",
-      "date_published": "2026-09-25T06:10:00+00:00",
-      "tags": [
-        "Economy"
       ]
     }
   ]
