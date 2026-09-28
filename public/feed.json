@@ -6,6 +6,171 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "db64076abccccb7d",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-23d000be",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-09-28T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "1eb985a5735015e5",
+      "url": "https://www.wsj.com/articles/whats-news-business-finance-57a6ee53",
+      "title": "What’s News: Business & Finance",
+      "content_text": "What’s News: Business & Finance",
+      "summary": "",
+      "date_published": "2026-09-28T03:57:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "7a745920ae3a4553",
+      "url": "https://www.wsj.com/articles/whats-news-worldwide-e7dbe772",
+      "title": "What’s News: Worldwide",
+      "content_text": "What’s News: Worldwide",
+      "summary": "",
+      "date_published": "2026-09-28T03:56:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "18652ba59a78ec54",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-weaken-amid-ongoing-geopolitical-tensions-31226800",
+      "title": "Singapore Dollar Weakens as Risk Appetite Fades",
+      "content_text": "Singapore Dollar Weakens as Risk Appetite Fades",
+      "summary": "",
+      "date_published": "2026-09-28T03:07:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "83699c34bdd3e06c",
+      "url": "https://www.wsj.com/business/deals/warburg-pincus-makes-improved-1-5-billion-offer-for-australias-ingenia-03f3b2af",
+      "title": "Warburg Pincus Makes Improved $1.5 Billion Offer for Australia’s Ingenia",
+      "content_text": "Warburg Pincus Makes Improved $1.5 Billion Offer for Australia’s Ingenia",
+      "summary": "",
+      "date_published": "2026-09-28T03:07:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "a6c219b5d430809d",
+      "url": "https://www.wsj.com/business/energy-oil/northern-star-rejects-27-billion-takeover-proposal-from-gold-fields-1b2ae9d9",
+      "title": "Northern Star Rejects $27 Billion Takeover Proposal From Gold Fields",
+      "content_text": "Northern Star Rejects $27 Billion Takeover Proposal From Gold Fields",
+      "summary": "",
+      "date_published": "2026-09-28T03:04:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "a1bb5a90b530db2a",
+      "url": "https://www.wsj.com/politics/national-security/defense-firms-are-rushing-to-boost-missile-output-its-coming-too-late-ea6dd7ea",
+      "title": "Defense Firms Are Rushing to Boost Missile Output. It’s Coming Too Late.",
+      "content_text": "Defense Firms Are Rushing to Boost Missile Output. It’s Coming Too Late.",
+      "summary": "",
+      "date_published": "2026-09-28T02:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "05523d8549443d73",
+      "url": "https://www.wsj.com/finance/jgb-yields-rise-amid-concerns-about-iran-conflict-inflation-b79fa6d5",
+      "title": "JPMorgan Stays Bearish on U.S. Treasury Duration",
+      "content_text": "JPMorgan Stays Bearish on U.S. Treasury Duration",
+      "summary": "",
+      "date_published": "2026-09-28T01:32:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "7414db260466e1a2",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-on-expectations-of-higher-for-longer-fed-rates-238bf7a5",
+      "title": "Gold Falls on Expectations of Higher for Longer Fed Rates",
+      "content_text": "Gold Falls on Expectations of Higher for Longer Fed Rates",
+      "summary": "",
+      "date_published": "2026-09-28T01:11:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "67642d5a54302542",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-geopolitical-risks-stockpile-decline-1e019399",
+      "title": "Oil Rises on Geopolitical Risks, Stockpile Decline",
+      "content_text": "Oil Rises on Geopolitical Risks, Stockpile Decline",
+      "summary": "",
+      "date_published": "2026-09-28T01:08:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "55c634bd0131a848",
+      "url": "https://www.wsj.com/finance/investing/investors-trade-bond-yields-treasuries-60ee83f9",
+      "title": "Six Investing Pros Weigh In on Surging Yields—and How to Trade Them",
+      "content_text": "Six Investing Pros Weigh In on Surging Yields—and How to Trade Them",
+      "summary": "",
+      "date_published": "2026-09-28T01:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "85330a9ab199cf08",
+      "url": "https://www.wsj.com/economy/trump-economy-inflation-jobs-724e4da8",
+      "title": "The Moves That Backfired on Trump and Drove Interest Rates and Inflation Higher",
+      "content_text": "The Moves That Backfired on Trump and Drove Interest Rates and Inflation Higher",
+      "summary": "",
+      "date_published": "2026-09-28T01:00:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "e813be63b1ad71ea",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-8-led-by-chip-related-stocks-07fd1af5",
+      "title": "Chinese Equities Extend Losses; August Industrial Profit Growth Cooled",
+      "content_text": "Chinese Equities Extend Losses; August Industrial Profit Growth Cooled",
+      "summary": "",
+      "date_published": "2026-09-28T00:49:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "edb206971df5b1ed",
+      "url": "https://www.wsj.com/health/this-startup-is-using-ai-to-fight-off-a-future-ai-pandemic-aceedf1b",
+      "title": "This Startup Is Using AI to Fight Off a Future AI Pandemic",
+      "content_text": "This Startup Is Using AI to Fight Off a Future AI Pandemic",
+      "summary": "",
+      "date_published": "2026-09-28T00:00:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "19059258999d0690",
+      "url": "https://www.wsj.com/business/retail/prada-is-wooing-the-ultrarich-with-snorkeling-trips-and-100-000-skirts-feee7a9f",
+      "title": "Prada Is Wooing the Ultrarich With Snorkeling Trips and $100,000 Skirts",
+      "content_text": "Prada Is Wooing the Ultrarich With Snorkeling Trips and $100,000 Skirts",
+      "summary": "",
+      "date_published": "2026-09-28T00:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "dea6ec2569a2d42b",
       "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
       "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
@@ -2038,171 +2203,6 @@
       "date_published": "2026-09-25T10:32:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "a4ad5c8c29396f3a",
-      "url": "https://www.wsj.com/business/moderna-ceos-realistic-approach-to-innovation-cc84144e",
-      "title": "Moderna CEO’s Realistic Approach to Innovation",
-      "content_text": "Moderna CEO’s Realistic Approach to Innovation",
-      "summary": "",
-      "date_published": "2026-09-25T09:53:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "6da2bfcdb935b069",
-      "url": "https://www.wsj.com/articles/borrowing-costs-are-soaring-theyre-not-slowing-a-robust-u-s-economy-2c13a1c6",
-      "title": "Borrowing Costs Are Soaring. They’re Not Slowing a Robust U.S. Economy.",
-      "content_text": "Borrowing Costs Are Soaring. They’re Not Slowing a Robust U.S. Economy.",
-      "summary": "",
-      "date_published": "2026-09-25T09:49:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "47ce3dff662f79a7",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-25-2026/card/stocks-to-watch-akamai-technologies-nanexa-people-3BXdLxg0RsSEfbXGMCCe",
-      "title": "Stocks to Watch: Akamai Technologies, Nanexa, People",
-      "content_text": "Stocks to Watch: Akamai Technologies, Nanexa, People",
-      "summary": "",
-      "date_published": "2026-09-25T09:36:24+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "0a554c029b370f1a",
-      "url": "https://www.wsj.com/real-estate/portland-real-estate-is-such-a-mess-that-all-housing-is-affordable-housing-26bbea6a",
-      "title": "Portland Real Estate Is Such a Mess That All Housing Is Affordable Housing",
-      "content_text": "Portland Real Estate Is Such a Mess That All Housing Is Affordable Housing",
-      "summary": "",
-      "date_published": "2026-09-25T09:30:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "119161aada3e6c83",
-      "url": "https://www.wsj.com/world/russia/evan-gershkovich-this-cursed-beautiful-land-book-25290d0b",
-      "title": "Did Putin Really Think I Was a Spy?",
-      "content_text": "Did Putin Really Think I Was a Spy?",
-      "summary": "",
-      "date_published": "2026-09-25T09:30:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "2c3b6aecad28b962",
-      "url": "https://www.wsj.com/lifestyle/careers/how-an-iced-coffee-in-a-job-interview-sparked-a-raging-etiquette-debate-46ffb767",
-      "title": "How an Iced Coffee in a Job Interview Sparked a Raging Etiquette Debate",
-      "content_text": "How an Iced Coffee in a Job Interview Sparked a Raging Etiquette Debate",
-      "summary": "",
-      "date_published": "2026-09-25T09:30:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "464e78643741c194",
-      "url": "https://www.wsj.com/finance/investing/cracks-in-oracles-ai-data-center-build-out-appear-in-massive-new-mexico-project-effb51c2",
-      "title": "Cracks in Oracle’s AI Data-Center Build-Out Appear in Massive New Mexico Project",
-      "content_text": "Cracks in Oracle’s AI Data-Center Build-Out Appear in Massive New Mexico Project",
-      "summary": "",
-      "date_published": "2026-09-25T09:30:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "7b07f25fc15d7b93",
-      "url": "https://www.wsj.com/health/pharma/the-peptide-boom-that-isnt-about-your-muscles-4aa63e38",
-      "title": "The Peptide Boom That Isn’t About Your Muscles",
-      "content_text": "The Peptide Boom That Isn’t About Your Muscles",
-      "summary": "",
-      "date_published": "2026-09-25T09:30:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "81412960ab9d0e74",
-      "url": "https://www.wsj.com/us-news/education/college-tuition-cuts-costs-financial-aid-38e749df",
-      "title": "Colleges Once Saw High Tuition as a Sign of Quality. Now They’re Slashing Prices.",
-      "content_text": "Colleges Once Saw High Tuition as a Sign of Quality. Now They’re Slashing Prices.",
-      "summary": "",
-      "date_published": "2026-09-25T09:30:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "8c09c4a8da0798ba",
-      "url": "https://www.wsj.com/logistics-report/dp-world-reroutes-cargo-as-costs-mount-from-hormuz-disruption-bf704cf2",
-      "title": "DP World Reroutes Cargo as Costs Mount From Hormuz Disruption",
-      "content_text": "DP World Reroutes Cargo as Costs Mount From Hormuz Disruption",
-      "summary": "",
-      "date_published": "2026-09-25T09:30:00+00:00",
-      "tags": [
-        "Logistics Report"
-      ]
-    },
-    {
-      "id": "148e6b6b68f42470",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-25-2026/card/u-s-treasury-yields-are-ending-the-week-sharply-higher-xcRoAAlHgoZy2K9N31Pt",
-      "title": "U.S. Treasury Yields Are Ending the Week Sharply Higher",
-      "content_text": "U.S. Treasury Yields Are Ending the Week Sharply Higher",
-      "summary": "",
-      "date_published": "2026-09-25T09:04:07+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "9172d5e7cdeb1df1",
-      "url": "https://www.wsj.com/health/pharma/novo-nordisk-to-pay-up-to-1-3-billion-for-nanexas-drug-delivery-technology-395b3770",
-      "title": "Novo Nordisk to Pay Up to $1.3 Billion for Nanexa’s Drug Delivery Technology",
-      "content_text": "Novo Nordisk to Pay Up to $1.3 Billion for Nanexa’s Drug Delivery Technology",
-      "summary": "",
-      "date_published": "2026-09-25T08:45:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "60783dd18faba2f0",
-      "url": "https://www.wsj.com/finance/stocks/bond-selloff-pauses-stocks-edge-higher-as-market-sentiment-cautiously-improves-a73fa2d3",
-      "title": "Bond Selloff Pauses, Stocks Edge Higher as Market Sentiment Cautiously Improves",
-      "content_text": "Bond Selloff Pauses, Stocks Edge Higher as Market Sentiment Cautiously Improves",
-      "summary": "",
-      "date_published": "2026-09-25T08:37:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "175f62475bd4f185",
-      "url": "https://www.wsj.com/finance/banking/bank-lending-to-eurozone-businesses-halved-in-august-11b0ec4b",
-      "title": "Bank Lending to Eurozone Businesses Halved in August",
-      "content_text": "Bank Lending to Eurozone Businesses Halved in August",
-      "summary": "",
-      "date_published": "2026-09-25T08:31:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "89bd82516ee72cce",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-25-2026/card/-money-quote-when-ai-resists-higher-borrowing-costs-RPSZx8tgC7CUjq6jZNez",
-      "title": "💬 Money Quote: When AI Resists Higher Borrowing Costs",
-      "content_text": "💬 Money Quote: When AI Resists Higher Borrowing Costs",
-      "summary": "",
-      "date_published": "2026-09-25T08:17:14+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
