@@ -6,43 +6,186 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "c7e480583f8ad0fd",
-      "url": "https://www.wsj.com/news/business/small-business-marketing",
-      "title": "Small business marketing",
-      "content_text": "Small business marketing",
+      "id": "7e5706640d25b837",
+      "url": "https://www.wsj.com/tech/google-appeals-eu-requests-on-android-ai-access-search-data-sharing-4a281f71",
+      "title": "Google Appeals EU Requests on Android AI Access, Search Data Sharing",
+      "content_text": "Google Appeals EU Requests on Android AI Access, Search Data Sharing",
       "summary": "",
-      "date_published": "2026-09-28T23:30:19+00:00",
+      "date_published": "2026-09-29T05:24:00+00:00",
       "tags": [
-        "News"
+        "Tech"
       ]
     },
     {
-      "id": "a2c51ea641c8e80c",
-      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
-      "title": "Economic forecasting survey archive",
-      "content_text": "Economic forecasting survey archive",
+      "id": "7251cb0fa5ce5abf",
+      "url": "https://www.wsj.com/economy/central-banking/reserve-bank-of-australia-raises-rates-a-fourth-time-as-inflation-fears-materialize-7afd2711",
+      "title": "Reserve Bank of Australia Raises Rates a Fourth Time as Inflation Fears Materialize",
+      "content_text": "Reserve Bank of Australia Raises Rates a Fourth Time as Inflation Fears Materialize",
       "summary": "",
-      "date_published": "2026-09-28T23:30:19+00:00",
+      "date_published": "2026-09-29T05:13:00+00:00",
       "tags": [
         "Economy"
       ]
     },
     {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
+      "id": "3e66eea223e8839c",
+      "url": "https://www.wsj.com/business/retail/sheins-earnings-disappoint-sending-stock-lower-6d3d9e62",
+      "title": "Shein’s Earnings Disappoint, Sending Stock Lower",
+      "content_text": "Shein’s Earnings Disappoint, Sending Stock Lower",
       "summary": "",
-      "date_published": "2026-09-28T23:30:19+00:00",
+      "date_published": "2026-09-29T04:38:00+00:00",
       "tags": [
-        "News"
+        "Business"
       ]
     },
     {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
+      "id": "9d75f195cf8e596a",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-8c447f67",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-09-29T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "37623c0c5ba4b610",
+      "url": "https://www.wsj.com/finance/currencies/japan-finance-minister-reaffirms-u-s-coordination-on-yen-stability-61a0a809",
+      "title": "Japan Finance Minister Reaffirms U.S. Coordination on Yen Stability",
+      "content_text": "Japan Finance Minister Reaffirms U.S. Coordination on Yen Stability",
+      "summary": "",
+      "date_published": "2026-09-29T02:59:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "e853398ed922bd2d",
+      "url": "https://www.wsj.com/sports/the-senate-just-passed-a-college-sports-law-heres-what-it-does-22015f29",
+      "title": "The Senate Just Passed a College Sports Law. Here’s What It Does.",
+      "content_text": "The Senate Just Passed a College Sports Law. Here’s What It Does.",
+      "summary": "",
+      "date_published": "2026-09-29T02:19:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "19e345df6f7ce6cb",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-prices-remain-under-pressure-69d48e15",
+      "title": "Gold Edges Higher; Prices Remain Under Pressure",
+      "content_text": "Gold Edges Higher; Prices Remain Under Pressure",
+      "summary": "",
+      "date_published": "2026-09-29T02:02:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "a7ec304f175f2fc5",
+      "url": "https://www.wsj.com/finance/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-69333638",
+      "title": "JGBs Edge Lower, Tracking Declines in U.S. Treasurys",
+      "content_text": "JGBs Edge Lower, Tracking Declines in U.S. Treasurys",
+      "summary": "",
+      "date_published": "2026-09-29T01:59:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "117993eed622fdb8",
+      "url": "https://www.wsj.com/business/american-made-monopoly-game-tariffs-china-e9a06e68",
+      "title": "The ‘Colossal Headache’ of Building a Made-in-America Monopoly Game",
+      "content_text": "The ‘Colossal Headache’ of Building a Made-in-America Monopoly Game",
+      "summary": "",
+      "date_published": "2026-09-29T01:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "3a570798c7a151fa",
+      "url": "https://www.wsj.com/world/middle-east/middle-east-oil-exports-rebound-as-irans-chokehold-on-hormuz-breaks-down-4ffde655",
+      "title": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down",
+      "content_text": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down",
+      "summary": "",
+      "date_published": "2026-09-29T01:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "88066d5e907732f4",
+      "url": "https://www.wsj.com/politics/policy/rfk-jr-s-push-to-revamp-american-food-runs-into-white-house-resistance-d26fe9f6",
+      "title": "RFK Jr.’s Push to Revamp American Food Runs Into White House Resistance",
+      "content_text": "RFK Jr.’s Push to Revamp American Food Runs Into White House Resistance",
+      "summary": "",
+      "date_published": "2026-09-29T01:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "b87d3f5604f45587",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-rising-oil-prices-110bd4f8",
+      "title": "Singapore Dollar Edges Lower Amid U.S.-Iran Tensions",
+      "content_text": "Singapore Dollar Edges Lower Amid U.S.-Iran Tensions",
+      "summary": "",
+      "date_published": "2026-09-29T00:56:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "a47b7cfb1c1b70bf",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-8-dragged-by-auto-steel-stocks-787a1136",
+      "title": "Nikkei Falls 0.8%, Dragged by Auto, Steel Stocks",
+      "content_text": "Nikkei Falls 0.8%, Dragged by Auto, Steel Stocks",
+      "summary": "",
+      "date_published": "2026-09-29T00:53:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "50b50fb2edd52203",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-deadlock-in-u-s-iran-ceasefire-talks-288f189e",
+      "title": "Oil Rises Amid Deadlock in U.S.-Iran Ceasefire Talks",
+      "content_text": "Oil Rises Amid Deadlock in U.S.-Iran Ceasefire Talks",
+      "summary": "",
+      "date_published": "2026-09-29T00:50:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "cceb61ee39de6192",
+      "url": "https://www.wsj.com/articles/corrections-amplifications-304eeb0e",
+      "title": "Corrections & Amplifications",
+      "content_text": "Corrections & Amplifications",
+      "summary": "",
+      "date_published": "2026-09-29T00:35:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "ea0f60f01b83df03",
+      "url": "https://www.wsj.com/tech/personal-tech/meta-muse-ai-agent-review-ab956101",
+      "title": "I Tried Meta’s Muse AI Agent. It’s Helpful and Scary at the Same Time.",
+      "content_text": "I Tried Meta’s Muse AI Agent. It’s Helpful and Scary at the Same Time.",
+      "summary": "",
+      "date_published": "2026-09-29T00:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
       "summary": "",
       "date_published": "2026-09-28T23:30:19+00:00",
       "tags": [
@@ -61,21 +204,10 @@
       ]
     },
     {
-      "id": "6cf8b3cf7c4b5fd3",
-      "url": "https://www.wsj.com/news/types/cultural-conversation",
-      "title": "Cultural conversation",
-      "content_text": "Cultural conversation",
-      "summary": "",
-      "date_published": "2026-09-28T23:30:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
       "summary": "",
       "date_published": "2026-09-28T23:30:19+00:00",
       "tags": [
@@ -87,6 +219,50 @@
       "url": "https://www.wsj.com/news/markets/real-estate-commercial",
       "title": "Real estate commercial",
       "content_text": "Real estate commercial",
+      "summary": "",
+      "date_published": "2026-09-28T23:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "6cf8b3cf7c4b5fd3",
+      "url": "https://www.wsj.com/news/types/cultural-conversation",
+      "title": "Cultural conversation",
+      "content_text": "Cultural conversation",
+      "summary": "",
+      "date_published": "2026-09-28T23:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-09-28T23:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-09-28T23:30:19+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
       "summary": "",
       "date_published": "2026-09-28T23:30:19+00:00",
       "tags": [
@@ -441,6 +617,28 @@
       "content_text": "FAA to Delay 737 MAX 10 Approval Over New Software Glitch",
       "summary": "",
       "date_published": "2026-09-28T20:01:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "955fd24d2ef9950b",
+      "url": "https://www.wsj.com/business/deals/aar-to-pay-1-8-billion-for-stake-in-aircraft-maintenance-company-37875803",
+      "title": "AAR to Pay $1.8 Billion for Stake in Aircraft-Maintenance Company",
+      "content_text": "AAR to Pay $1.8 Billion for Stake in Aircraft-Maintenance Company",
+      "summary": "",
+      "date_published": "2026-09-28T20:01:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "183124e309fa8238",
+      "url": "https://www.wsj.com/business/energy-oil/utilities-large-batteries-crowded-neighborhoods-095ada99",
+      "title": "Pushback Builds as Large Batteries Come to Crowded Neighborhoods",
+      "content_text": "Pushback Builds as Large Batteries Come to Crowded Neighborhoods",
+      "summary": "",
+      "date_published": "2026-09-28T19:55:00+00:00",
       "tags": [
         "Business"
       ]
@@ -883,6 +1081,72 @@
       "date_published": "2026-09-28T13:01:00+00:00",
       "tags": [
         "Business"
+      ]
+    },
+    {
+      "id": "f4a36112847f6cee",
+      "url": "https://www.wsj.com/finance/currencies/senate-investigation-finds-rampant-use-of-tethers-stablecoin-by-iranian-regime-ce652e22",
+      "title": "Senate Investigation Finds Rampant Use of Tether’s Stablecoin by Iranian Regime",
+      "content_text": "Senate Investigation Finds Rampant Use of Tether’s Stablecoin by Iranian Regime",
+      "summary": "",
+      "date_published": "2026-09-28T13:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "fa1c9cdcab742681",
+      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-5f9e0aa3",
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "content_text": "Energy & Utilities Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-09-28T12:56:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "2a48a36a6eefdb68",
+      "url": "https://www.wsj.com/politics/trump-to-unveil-planned-15-billion-iowa-steel-project-051bc7d8",
+      "title": "Trump Unveils $15 Billion Iowa Steel Project",
+      "content_text": "Trump Unveils $15 Billion Iowa Steel Project",
+      "summary": "",
+      "date_published": "2026-09-28T12:51:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "1d37a57e698371a4",
+      "url": "https://www.wsj.com/business/roche-halts-development-of-obesity-drug-candidate-a88b5ace",
+      "title": "Roche Halts Development of Obesity Drug Candidate",
+      "content_text": "Roche Halts Development of Obesity Drug Candidate",
+      "summary": "",
+      "date_published": "2026-09-28T12:48:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "85d601193155a8b9",
+      "url": "https://www.wsj.com/cio-journal/ai-usage-now-at-18-8-among-working-age-people-f465362a",
+      "title": "AI Usage Now at 18.8% Among Working-Age People",
+      "content_text": "AI Usage Now at 18.8% Among Working-Age People",
+      "summary": "",
+      "date_published": "2026-09-28T12:46:00+00:00",
+      "tags": [
+        "Cio Journal"
+      ]
+    },
+    {
+      "id": "595d1a70b947a16b",
+      "url": "https://www.wsj.com/tech/ai/meta-seeks-payoff-from-ai-spending-with-new-push-for-business-customers-8b9ca5bc",
+      "title": "Meta Seeks Payoff From AI Spending With New Push for Business Customers",
+      "content_text": "Meta Seeks Payoff From AI Spending With New Push for Business Customers",
+      "summary": "",
+      "date_published": "2026-09-28T12:32:00+00:00",
+      "tags": [
+        "Tech"
       ]
     },
     {
@@ -1939,270 +2203,6 @@
       "date_published": "2026-09-27T00:14:00+00:00",
       "tags": [
         "Tech"
-      ]
-    },
-    {
-      "id": "4f697d271384a6ae",
-      "url": "https://www.wsj.com/world/europe/a-world-war-ii-era-feud-is-threatening-a-pivotal-alliance-for-ukraine-e648a66e",
-      "title": "A World War II-Era Feud Is Threatening a Pivotal Alliance for Ukraine",
-      "content_text": "A World War II-Era Feud Is Threatening a Pivotal Alliance for Ukraine",
-      "summary": "",
-      "date_published": "2026-09-27T00:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "0be8d2c9dbbfc4f9",
-      "url": "https://www.wsj.com/personal-finance/the-surprise-social-security-benefit-that-goes-to-parents-who-have-kids-late-05497d3e",
-      "title": "The Surprise Social Security Benefit That Goes to Parents Who Have Kids Late",
-      "content_text": "The Surprise Social Security Benefit That Goes to Parents Who Have Kids Late",
-      "summary": "",
-      "date_published": "2026-09-26T23:00:00+00:00",
-      "tags": [
-        "Personal Finance"
-      ]
-    },
-    {
-      "id": "9f5661d66aae32f2",
-      "url": "https://www.wsj.com/politics/elections/americas-farmers-are-rethinking-their-loyalty-to-the-gop-af5c85fe",
-      "title": "America’s Farmers Are Rethinking Their Loyalty to the GOP",
-      "content_text": "America’s Farmers Are Rethinking Their Loyalty to the GOP",
-      "summary": "",
-      "date_published": "2026-09-26T21:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "db2f1e2d77cb8b38",
-      "url": "https://www.wsj.com/world/europe/pope-leo-receives-rockstar-welcome-in-secular-france-dd8216ba",
-      "title": "Pope Leo Receives Rockstar Welcome in Secular France",
-      "content_text": "Pope Leo Receives Rockstar Welcome in Secular France",
-      "summary": "",
-      "date_published": "2026-09-26T18:40:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "ef15602c29af4cd3",
-      "url": "https://www.wsj.com/business/airlines/new-boeing-737-max-software-glitch-could-disrupt-navigation-feature-d537b8d8",
-      "title": "New Boeing 737 MAX Software Glitch Could Disrupt Navigation Feature",
-      "content_text": "New Boeing 737 MAX Software Glitch Could Disrupt Navigation Feature",
-      "summary": "",
-      "date_published": "2026-09-26T18:16:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "82495715175cd049",
-      "url": "https://www.wsj.com/health/wellness/why-are-so-many-adults-cutting-off-their-parents-d4e1190c",
-      "title": "Why Are So Many Adults Cutting Off Their Parents?",
-      "content_text": "Why Are So Many Adults Cutting Off Their Parents?",
-      "summary": "",
-      "date_published": "2026-09-26T18:00:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "6786167246aada5f",
-      "url": "https://www.wsj.com/politics/policy/how-a-business-litigator-became-dojs-point-man-against-transgender-care-86171021",
-      "title": "How a Business Litigator Became DOJ’s Point Man Against Transgender Care",
-      "content_text": "How a Business Litigator Became DOJ’s Point Man Against Transgender Care",
-      "summary": "",
-      "date_published": "2026-09-26T15:45:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "1367992a70b22e4d",
-      "url": "https://www.wsj.com/lifestyle/relationships/ai-chatbot-use-middle-school-a1a77589",
-      "title": "Middle-Schoolers Are Seeking Out AI Friends Instead of Real Human Ones",
-      "content_text": "Middle-Schoolers Are Seeking Out AI Friends Instead of Real Human Ones",
-      "summary": "",
-      "date_published": "2026-09-26T14:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "908b590a373c1bc0",
-      "url": "https://www.wsj.com/politics/policy/how-the-trump-administrations-election-plan-is-falling-into-place-aa991667",
-      "title": "Where the White House Stands in Its Push for a Bigger Role in Running Elections",
-      "content_text": "Where the White House Stands in Its Push for a Bigger Role in Running Elections",
-      "summary": "",
-      "date_published": "2026-09-26T14:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "2a5470e86e202532",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/ann-arbor-general-motors-home-6ddb00de",
-      "title": "Historic Homes: A Michigan Cow Farm Built by a GM Exec",
-      "content_text": "Historic Homes: A Michigan Cow Farm Built by a GM Exec",
-      "summary": "",
-      "date_published": "2026-09-26T13:00:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "bedb8533c03ea837",
-      "url": "https://www.wsj.com/business/media/what-is-the-white-house-press-pool-f831c619",
-      "title": "What is the white house press pool",
-      "content_text": "What is the white house press pool",
-      "summary": "",
-      "date_published": "2026-09-26T13:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "5083e015bbc1b340",
-      "url": "https://www.wsj.com/style/editors-letter-a-quest-to-name-the-woman-at-the-center-of-an-18th-century-painting-14c1d24e",
-      "title": "Editor’s Letter: A Quest to Name the Woman at the Center of an 18th-Century Painting",
-      "content_text": "Editor’s Letter: A Quest to Name the Woman at the Center of an 18th-Century Painting",
-      "summary": "",
-      "date_published": "2026-09-26T12:25:00+00:00",
-      "tags": [
-        "Style"
-      ]
-    },
-    {
-      "id": "57e0d77397d0eb87",
-      "url": "https://www.wsj.com/arts-culture/fine-art/eleonora-painting-ontario-324850bc",
-      "title": "The Six-Year Quest to Find the Mystery Woman in an 18th-Century Painting",
-      "content_text": "The Six-Year Quest to Find the Mystery Woman in an 18th-Century Painting",
-      "summary": "",
-      "date_published": "2026-09-26T12:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "9b77ef9e7275b9c9",
-      "url": "https://www.wsj.com/sports/remco-evenepoel-road-cycling-world-championships-4a34a3f7",
-      "title": "The Belgian ‘Aerobullet’ Who Was Born to Go Fast—on Two Wheels",
-      "content_text": "The Belgian ‘Aerobullet’ Who Was Born to Go Fast—on Two Wheels",
-      "summary": "",
-      "date_published": "2026-09-26T12:00:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "920b3f33c5176c5e",
-      "url": "https://www.wsj.com/sports/baseball/baseballs-162-game-marathon-gives-way-to-a-playoff-sprint-7aa7ef99",
-      "title": "Baseball’s 162-Game Marathon Gives Way to a Playoff Sprint",
-      "content_text": "Baseball’s 162-Game Marathon Gives Way to a Playoff Sprint",
-      "summary": "",
-      "date_published": "2026-09-26T11:55:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "3350a974fdbeb4fe",
-      "url": "https://www.wsj.com/lifestyle/travel/a-reporters-16-months-in-russian-custody-5e7880cc",
-      "title": "A Reporter’s 16 Months in Russian Custody",
-      "content_text": "A Reporter’s 16 Months in Russian Custody",
-      "summary": "",
-      "date_published": "2026-09-26T11:50:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "f325af741646aa60",
-      "url": "https://www.wsj.com/articles/moving-everything-americans-buy-is-getting-more-expensive-06cbe146",
-      "title": "Moving Everything Americans Buy Is Getting More Expensive",
-      "content_text": "Moving Everything Americans Buy Is Getting More Expensive",
-      "summary": "",
-      "date_published": "2026-09-26T11:01:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "acc11c7ce516e44c",
-      "url": "https://www.wsj.com/arts-culture/fine-art/the-bayeux-tapestry-makes-landfall-at-the-british-museum-059a6fb7",
-      "title": "The Bayeux Tapestry Makes Landfall at the British Museum",
-      "content_text": "The Bayeux Tapestry Makes Landfall at the British Museum",
-      "summary": "",
-      "date_published": "2026-09-26T11:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "b5b4f89c25f982af",
-      "url": "https://www.wsj.com/lifestyle/cars/ferrari-amalfi-2027-review-dd935f9d",
-      "title": "Why the Least Expensive Ferrari Is the One Worth Having",
-      "content_text": "Why the Least Expensive Ferrari Is the One Worth Having",
-      "summary": "",
-      "date_published": "2026-09-26T11:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "e82bd73b4a66ebd4",
-      "url": "https://www.wsj.com/world/china/u-s-china-agree-to-reduce-tariffs-on-30-billion-of-trade-fd798758",
-      "title": "U.S., China Agree to Trim Tariffs, Start AI Dialogue",
-      "content_text": "U.S., China Agree to Trim Tariffs, Start AI Dialogue",
-      "summary": "",
-      "date_published": "2026-09-26T10:13:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "5230d99f647952f9",
-      "url": "https://www.wsj.com/articles/news-quiz-for-september-26-2026-a7a91784",
-      "title": "News Quiz for September 26, 2026",
-      "content_text": "News Quiz for September 26, 2026",
-      "summary": "",
-      "date_published": "2026-09-26T10:00:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "58fa69353e3a53b1",
-      "url": "https://www.wsj.com/business/hospitality/how-americas-biggest-buffet-chain-cracked-the-math-of-all-you-can-eat-0c834503",
-      "title": "How America’s Biggest Buffet Chain Cracked the Math of All You Can Eat",
-      "content_text": "How America’s Biggest Buffet Chain Cracked the Math of All You Can Eat",
-      "summary": "",
-      "date_published": "2026-09-26T09:30:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "5b016c67c9695d71",
-      "url": "https://www.wsj.com/business/how-ashevilles-artists-and-shopkeepers-rebuilt-their-city-80762f93",
-      "title": "How Asheville’s Artists and Shopkeepers Rebuilt Their City",
-      "content_text": "How Asheville’s Artists and Shopkeepers Rebuilt Their City",
-      "summary": "",
-      "date_published": "2026-09-26T09:30:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "720928e7f916be11",
-      "url": "https://www.wsj.com/personal-finance/wedding-registry-down-payment-funds-7a1a13f1",
-      "title": "Yes, It’s OK to Ask Your Wedding Guests for Money to Help Buy a Home",
-      "content_text": "Yes, It’s OK to Ask Your Wedding Guests for Money to Help Buy a Home",
-      "summary": "",
-      "date_published": "2026-09-26T09:30:00+00:00",
-      "tags": [
-        "Personal Finance"
       ]
     }
   ]
