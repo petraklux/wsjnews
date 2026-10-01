@@ -6,6 +6,149 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "58492b581e4fe559",
+      "url": "https://www.wsj.com/articles/east-of-eden-review-netflixs-absorbing-steinbeck-series-d431c157",
+      "title": "‘East of Eden’ Review: Netflix’s Absorbing Steinbeck Series",
+      "content_text": "‘East of Eden’ Review: Netflix’s Absorbing Steinbeck Series",
+      "summary": "",
+      "date_published": "2026-10-01T07:00:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "f41e672bd8906fb2",
+      "url": "https://www.wsj.com/economy/ai-boom-keeps-asian-factory-activity-humming-despite-cost-pressures-2b1f0218",
+      "title": "AI Boom Keeps Asian Factory Activity Humming Despite Cost Pressures",
+      "content_text": "AI Boom Keeps Asian Factory Activity Humming Despite Cost Pressures",
+      "summary": "",
+      "date_published": "2026-10-01T06:53:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "f306e46280710511",
+      "url": "https://www.wsj.com/health/pharma/sanofi-regeneron-to-expand-alliance-in-deal-valued-at-up-to-8-billion-5b924eba",
+      "title": "Sanofi, Regeneron to Expand Alliance in Deal Valued at Up to $8 Billion",
+      "content_text": "Sanofi, Regeneron to Expand Alliance in Deal Valued at Up to $8 Billion",
+      "summary": "",
+      "date_published": "2026-10-01T06:27:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "a8508ed7ccab73ab",
+      "url": "https://www.wsj.com/business/arla-foods-to-invest-millions-to-tap-protein-rich-dairy-demand-ceo-says-3e1ad1da",
+      "title": "Arla Foods to Invest Millions to Tap Protein-Rich Dairy Demand, CEO Says",
+      "content_text": "Arla Foods to Invest Millions to Tap Protein-Rich Dairy Demand, CEO Says",
+      "summary": "",
+      "date_published": "2026-10-01T05:03:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "7423d7d32a83f445",
+      "url": "https://www.wsj.com/business/lynas-rare-earths-to-buy-meteoric-resources-in-672-million-deal-2701e09b",
+      "title": "Lynas Rare Earths to Buy Meteoric Resources in $672 Million Deal",
+      "content_text": "Lynas Rare Earths to Buy Meteoric Resources in $672 Million Deal",
+      "summary": "",
+      "date_published": "2026-10-01T04:56:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "d28985a7d36e1659",
+      "url": "https://www.wsj.com/business/telecom/apples-biggest-battleground-for-foldable-phones-is-china-a15b9663",
+      "title": "Apple’s Biggest Battleground for Foldable Phones Is China",
+      "content_text": "Apple’s Biggest Battleground for Foldable Phones Is China",
+      "summary": "",
+      "date_published": "2026-10-01T04:11:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "40cca1a31a6bea68",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-69522c1d",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-10-01T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "38e9e2e8636f0373",
+      "url": "https://www.wsj.com/finance/currencies/china-will-find-a-way-to-manage-crypto-solanas-ceo-says-7e42a518",
+      "title": "China Will Find a Way to Manage Crypto, Solana Co.’s CEO Says",
+      "content_text": "China Will Find a Way to Manage Crypto, Solana Co.’s CEO Says",
+      "summary": "",
+      "date_published": "2026-10-01T03:17:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "1e99274eef9ad889",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-edge-lower-on-signs-of-rising-crude-exports-from-middle-east-40e9f1f1",
+      "title": "Oil Prices Edge Lower on Signs of Rising Crude Exports From Middle East",
+      "content_text": "Oil Prices Edge Lower on Signs of Rising Crude Exports From Middle East",
+      "summary": "",
+      "date_published": "2026-10-01T02:30:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "42a2fdc5650caab8",
+      "url": "https://www.wsj.com/health/pharma/trump-administration-finalizes-plan-to-lower-drug-prices-in-medicare-5bf6227f",
+      "title": "Trump Administration Finalizes Plan to Lower Drug Prices in Medicare",
+      "content_text": "Trump Administration Finalizes Plan to Lower Drug Prices in Medicare",
+      "summary": "",
+      "date_published": "2026-10-01T02:23:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "ee356d23c1821a73",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-prices-could-remain-under-pressure-near-term-57294882",
+      "title": "Gold Edges Higher; Prices Could Remain Under Pressure Near Term",
+      "content_text": "Gold Edges Higher; Prices Could Remain Under Pressure Near Term",
+      "summary": "",
+      "date_published": "2026-10-01T02:09:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "e1ffcec844e0d0eb",
+      "url": "https://www.wsj.com/world/asia/u-s-pressure-campaign-leaves-iranian-tankers-stranded-in-asian-waters-ba7bc23a",
+      "title": "U.S. Pressure Campaign Leaves Iranian Tankers Stranded in Asian Waters",
+      "content_text": "U.S. Pressure Campaign Leaves Iranian Tankers Stranded in Asian Waters",
+      "summary": "",
+      "date_published": "2026-10-01T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "22bdec0cdef1db0d",
+      "url": "https://www.wsj.com/world/uk/u-k-prime-minister-burnham-pitches-an-unapologetically-socialist-makeover-2ad7f602",
+      "title": "U.K. Prime Minister Burnham Pitches an Unapologetically Socialist Makeover",
+      "content_text": "U.K. Prime Minister Burnham Pitches an Unapologetically Socialist Makeover",
+      "summary": "",
+      "date_published": "2026-10-01T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "621a1bb2d277723d",
       "url": "https://www.wsj.com/politics/national-security/democratic-senators-challenge-trump-officials-on-pentagons-venezuela-oil-deal-25672687",
       "title": "Democratic Senators Challenge Trump Officials on Pentagon’s Venezuela Oil Deal",
@@ -138,17 +281,6 @@
       ]
     },
     {
-      "id": "9e8e10393c75beee",
-      "url": "https://www.wsj.com/world/middle-east/the-cockpit-stabbing-and-terrifying-nosedive-that-brought-chaos-to-flight-1073-2b5e9157",
-      "title": "The Cockpit Stabbing and Terrifying Nosedive That Brought Chaos to FlyDubai Flight 1073",
-      "content_text": "The Cockpit Stabbing and Terrifying Nosedive That Brought Chaos to FlyDubai Flight 1073",
-      "summary": "",
-      "date_published": "2026-09-30T23:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
       "id": "4a112a791edd4db3",
       "url": "https://www.wsj.com/finance/investing/money-managers-are-asking-clients-to-give-the-bond-market-another-chance-6f874f1c",
       "title": "Money Managers Are Asking Clients to Give the Bond Market Another Chance",
@@ -157,6 +289,17 @@
       "date_published": "2026-09-30T23:00:00+00:00",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "9e8e10393c75beee",
+      "url": "https://www.wsj.com/world/middle-east/the-cockpit-stabbing-and-terrifying-nosedive-that-brought-chaos-to-flight-1073-2b5e9157",
+      "title": "The Cockpit Stabbing and Terrifying Nosedive That Brought Chaos to FlyDubai Flight 1073",
+      "content_text": "The Cockpit Stabbing and Terrifying Nosedive That Brought Chaos to FlyDubai Flight 1073",
+      "summary": "",
+      "date_published": "2026-09-30T23:00:00+00:00",
+      "tags": [
+        "World"
       ]
     },
     {
@@ -2060,149 +2203,6 @@
       "date_published": "2026-09-29T20:23:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "f26512ba606421d9",
-      "url": "https://www.wsj.com/finance/investing/long-term-treasury-yields-push-higher-despite-decline-in-oil-prices-7f69c1b7",
-      "title": "Long-Term Treasury Yields Push Higher Despite Decline in Oil Prices",
-      "content_text": "Long-Term Treasury Yields Push Higher Despite Decline in Oil Prices",
-      "summary": "",
-      "date_published": "2026-09-29T20:20:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "7cf06293e01a0b44",
-      "url": "https://www.wsj.com/opinion/strategic-stability-is-a-comforting-foreign-policy-fantasy-0cce4625",
-      "title": "‘Strategic Stability’ Is a Comforting Foreign-Policy Fantasy",
-      "content_text": "‘Strategic Stability’ Is a Comforting Foreign-Policy Fantasy",
-      "summary": "",
-      "date_published": "2026-09-29T20:13:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "a95c9944136c9902",
-      "url": "https://www.wsj.com/opinion/is-all-art-political-3e86e3dd",
-      "title": "Is All Art Political?",
-      "content_text": "Is All Art Political?",
-      "summary": "",
-      "date_published": "2026-09-29T20:12:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "6a152044e4e83554",
-      "url": "https://www.wsj.com/tech/ai/trump-defends-light-touch-ai-strategy-after-industry-sounds-alarms-2f9599eb",
-      "title": "Trump Defends Light-Touch AI Strategy After Industry Sounds Alarms",
-      "content_text": "Trump Defends Light-Touch AI Strategy After Industry Sounds Alarms",
-      "summary": "",
-      "date_published": "2026-09-29T20:10:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "2c3210c73a3dbeab",
-      "url": "https://www.wsj.com/arts-culture/music/violins-review-blondshells-eccentric-enveloping-songs-f7000e76",
-      "title": "‘Violins’ Review: Blondshell’s Eccentric, Enveloping Songs",
-      "content_text": "‘Violins’ Review: Blondshell’s Eccentric, Enveloping Songs",
-      "summary": "",
-      "date_published": "2026-09-29T19:53:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "cd8d46f07a31d783",
-      "url": "https://www.wsj.com/arts-culture/food-cooking/corn-salad-recipe-easy-f11020b7",
-      "title": "Make This Caramelized Corn Salad While Fresh Cobs Are Still at Their Peak",
-      "content_text": "Make This Caramelized Corn Salad While Fresh Cobs Are Still at Their Peak",
-      "summary": "",
-      "date_published": "2026-09-29T19:42:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "ff6cba7da8dfe0b0",
-      "url": "https://www.wsj.com/arts-culture/television/war-review-in-the-trenches-of-divorce-on-hbo-3811a4dc",
-      "title": "‘War’ Review: HBO’s Legal Drama in the Trenches of Divorce",
-      "content_text": "‘War’ Review: HBO’s Legal Drama in the Trenches of Divorce",
-      "summary": "",
-      "date_published": "2026-09-29T19:33:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "9280b750f33789f9",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2026/card/-money-quote-no-need-for-urgency-RtXe2NRCGjWabpheIhdJ",
-      "title": "💬 Money Quote: No Need for Urgency",
-      "content_text": "💬 Money Quote: No Need for Urgency",
-      "summary": "",
-      "date_published": "2026-09-29T19:30:01+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "044f9d6b9409a10b",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2026/card/bitcoin-on-pace-for-best-quarter-in-nearly-two-years-IQQRRL3Qd5zpc80YKqk2",
-      "title": "Bitcoin on Pace for Best Quarter in Nearly Two Years",
-      "content_text": "Bitcoin on Pace for Best Quarter in Nearly Two Years",
-      "summary": "",
-      "date_published": "2026-09-29T19:10:23+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "eeb1d8cad4579251",
-      "url": "https://www.wsj.com/us-news/law/new-lawsuit-alleges-new-york-mayor-mamdanis-pied-a-terre-tax-is-illegal-285db949",
-      "title": "Mayor Mamdani Must Redo New York City Pied-à-Terre Tax, Judge Says",
-      "content_text": "Mayor Mamdani Must Redo New York City Pied-à-Terre Tax, Judge Says",
-      "summary": "",
-      "date_published": "2026-09-29T19:00:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "581090f34eb05711",
-      "url": "https://www.wsj.com/opinion/how-the-u-s-can-strengthen-its-diesel-supply-1faed8a6",
-      "title": "How the U.S. Can Strengthen Its Diesel Supply",
-      "content_text": "How the U.S. Can Strengthen Its Diesel Supply",
-      "summary": "",
-      "date_published": "2026-09-29T18:56:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "fd6de20f937864aa",
-      "url": "https://www.wsj.com/opinion/rethinking-political-polling-in-the-age-of-ai-1d9ee87b",
-      "title": "Rethinking Political Polling in the Age of AI",
-      "content_text": "Rethinking Political Polling in the Age of AI",
-      "summary": "",
-      "date_published": "2026-09-29T18:56:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "5ec4d5af120ba87a",
-      "url": "https://www.wsj.com/opinion/ai-regulation-needs-to-look-beyond-america-652f888a",
-      "title": "AI Regulation Needs to Look Beyond America",
-      "content_text": "AI Regulation Needs to Look Beyond America",
-      "summary": "",
-      "date_published": "2026-09-29T18:55:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
