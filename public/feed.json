@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "dea6ec2569a2d42b",
+      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
+      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "summary": "",
+      "date_published": "2026-10-03T22:30:19+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "451632626442d1f2",
+      "url": "https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef",
+      "title": "New White House AI Task Force to Report on the Techology’s Risks",
+      "content_text": "New White House AI Task Force to Report on the Techology’s Risks",
+      "summary": "",
+      "date_published": "2026-10-03T22:26:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
       "id": "cac7b2a1af1ab3f1",
       "url": "https://www.wsj.com/world/middle-east/netanyahu-in-tough-election-fight-embraces-those-who-stopped-flydubai-attack-68366a96",
       "title": "Netanyahu, in Tough Election Fight, Embraces Those Who Stopped FlyDubai Attack",
@@ -2179,28 +2201,6 @@
       "content_text": "Treasury Selloff Flips in Volatile Trading Day",
       "summary": "",
       "date_published": "2026-10-01T20:27:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "dfc1c88b6308daa1",
-      "url": "https://www.wsj.com/world/africa/drones-strike-ethiopias-capital-as-country-severs-ties-with-eritrea-c5651f70",
-      "title": "Drones Strike Ethiopia’s Capital as Country Severs Ties with Eritrea",
-      "content_text": "Drones Strike Ethiopia’s Capital as Country Severs Ties with Eritrea",
-      "summary": "",
-      "date_published": "2026-10-01T20:26:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "5723befb58463d7a",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-after-bond-market-flips-in-choppy-trading-b1e0b39e",
-      "title": "U.S. Stocks Rise After Bond Market Flips In Choppy Trading",
-      "content_text": "U.S. Stocks Rise After Bond Market Flips In Choppy Trading",
-      "summary": "",
-      "date_published": "2026-10-01T20:20:00+00:00",
       "tags": [
         "Finance"
       ]
