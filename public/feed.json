@@ -6,6 +6,39 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "cac7b2a1af1ab3f1",
+      "url": "https://www.wsj.com/world/middle-east/netanyahu-in-tough-election-fight-embraces-those-who-stopped-flydubai-attack-68366a96",
+      "title": "Netanyahu, in Tough Election Fight, Embraces Those Who Stopped FlyDubai Attack",
+      "content_text": "Netanyahu, in Tough Election Fight, Embraces Those Who Stopped FlyDubai Attack",
+      "summary": "",
+      "date_published": "2026-10-03T19:30:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "6362ab00031d69ce",
+      "url": "https://www.wsj.com/politics/policy/trump-announces-another-payment-to-voters-ahead-of-midterms-ad0671d0",
+      "title": "Trump Announces Another Payment to Voters Ahead of Midterms",
+      "content_text": "Trump Announces Another Payment to Voters Ahead of Midterms",
+      "summary": "",
+      "date_published": "2026-10-03T18:34:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "23276fd5f8f942be",
+      "url": "https://www.wsj.com/us-news/law/tennessee-prison-chief-resigns-after-failed-execution-20eea9cc",
+      "title": "Tennessee Prison Chief Resigns After Failed Execution",
+      "content_text": "Tennessee Prison Chief Resigns After Failed Execution",
+      "summary": "",
+      "date_published": "2026-10-03T17:35:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
       "id": "41f26e7a7699c497",
       "url": "https://www.wsj.com/world/africa/africas-richest-man-wants-to-turn-a-pristine-coastline-into-an-oil-hub-5ce1e62e",
       "title": "Africa’s Richest Man Wants to Turn a Pristine Coastline Into an Oil Hub",
@@ -39,17 +72,6 @@
       ]
     },
     {
-      "id": "c50285b379ba61d0",
-      "url": "https://www.wsj.com/finance/investing/hiring-financial-advisor-tips-02056b3e",
-      "title": "Five Things I Learned in Hiring a Financial Adviser",
-      "content_text": "Five Things I Learned in Hiring a Financial Adviser",
-      "summary": "",
-      "date_published": "2026-10-03T14:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "24abfc22e1610905",
       "url": "https://www.wsj.com/health/pharma/botched-tennessee-execution-draws-scrutiny-of-lethal-injection-drugs-55cb4bc6",
       "title": "Botched Tennessee Execution Draws Scrutiny of Lethal Injection Drugs",
@@ -58,6 +80,17 @@
       "date_published": "2026-10-03T14:00:00+00:00",
       "tags": [
         "Health"
+      ]
+    },
+    {
+      "id": "c50285b379ba61d0",
+      "url": "https://www.wsj.com/finance/investing/hiring-financial-advisor-tips-02056b3e",
+      "title": "Five Things I Learned in Hiring a Financial Adviser",
+      "content_text": "Five Things I Learned in Hiring a Financial Adviser",
+      "summary": "",
+      "date_published": "2026-10-03T14:00:00+00:00",
+      "tags": [
+        "Finance"
       ]
     },
     {
@@ -2170,39 +2203,6 @@
       "date_published": "2026-10-01T20:20:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "8ae46e59422d1082",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-01-2026/card/mattel-stock-ends-sharply-higher-after-wsj-report-of-takeover-interest-o5oEDHf7yISsRJ1g1UiI",
-      "title": "Mattel Stock Ends Sharply Higher After WSJ Report of Takeover Interest",
-      "content_text": "Mattel Stock Ends Sharply Higher After WSJ Report of Takeover Interest",
-      "summary": "",
-      "date_published": "2026-10-01T20:18:53+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "a1157343c0b23b7e",
-      "url": "https://www.wsj.com/arts-culture/television/tip-toe-review-alan-cummings-drama-of-neighbors-at-odds-48b5c1cf",
-      "title": "‘Tip Toe’ Review: Alan Cumming’s Drama of Neighbors at Odds",
-      "content_text": "‘Tip Toe’ Review: Alan Cumming’s Drama of Neighbors at Odds",
-      "summary": "",
-      "date_published": "2026-10-01T20:11:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "dea6ec2569a2d42b",
-      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
-      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "summary": "",
-      "date_published": "2026-10-01T20:00:19+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]
