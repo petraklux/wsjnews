@@ -6,6 +6,83 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "05ea7fb932ddcf5c",
+      "url": "https://www.wsj.com/business/on-running-shoes-sneakers-mbappe-a74ed595",
+      "title": "The Sneaker Taking Over America Was Inspired by iPhones and a Vacuum Cleaner",
+      "content_text": "The Sneaker Taking Over America Was Inspired by iPhones and a Vacuum Cleaner",
+      "summary": "",
+      "date_published": "2026-10-03T01:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "24c26ac05be7ae56",
+      "url": "https://www.wsj.com/business/media/david-ellison-won-warner-bros-now-he-has-to-make-the-81-billion-deal-work-2724e9e0",
+      "title": "David Ellison Won Warner Bros. Now he Has to Make the $81 Billion Deal Work.",
+      "content_text": "David Ellison Won Warner Bros. Now he Has to Make the $81 Billion Deal Work.",
+      "summary": "",
+      "date_published": "2026-10-03T01:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "0dd3d9f7a748dde6",
+      "url": "https://www.wsj.com/business/retail/mavis-tire-business-expansion-7c1b1222",
+      "title": "The Brothers Dominating the $211 Billion Car Repair Market",
+      "content_text": "The Brothers Dominating the $211 Billion Car Repair Market",
+      "summary": "",
+      "date_published": "2026-10-03T00:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "74416c7d3b4135be",
+      "url": "https://www.wsj.com/politics/elections/these-double-haters-have-lost-faith-in-both-partiesand-could-decide-the-midterms-7efa284e",
+      "title": "These ‘Double Haters’ Have Lost Faith in Both Parties—and Could Decide the Midterms",
+      "content_text": "These ‘Double Haters’ Have Lost Faith in Both Parties—and Could Decide the Midterms",
+      "summary": "",
+      "date_published": "2026-10-03T00:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "dae0aa75e1c93ac1",
+      "url": "https://www.wsj.com/finance/investing/ai-is-squeezing-out-the-rest-of-the-stock-market-60928dd3",
+      "title": "AI Is Squeezing Out the Rest of the Stock Market",
+      "content_text": "AI Is Squeezing Out the Rest of the Stock Market",
+      "summary": "",
+      "date_published": "2026-10-02T23:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "2c6f3ca7a139ac46",
+      "url": "https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659",
+      "title": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App",
+      "content_text": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App",
+      "summary": "",
+      "date_published": "2026-10-02T23:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "7b154d01a02d099b",
+      "url": "https://www.wsj.com/us-news/law/cornell-rape-allegations-reignite-furor-over-title-ix-337785cc",
+      "title": "Cornell Rape Allegations Reignite Furor Over Title IX",
+      "content_text": "Cornell Rape Allegations Reignite Furor Over Title IX",
+      "summary": "",
+      "date_published": "2026-10-02T22:45:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
       "id": "ca3a11f5ddc103a2",
       "url": "https://www.wsj.com/world/middle-east/oman-had-previously-banned-the-flydubai-attacker-from-flying-71c5fa18",
       "title": "Oman Had Previously Banned the FlyDubai Attacker From Flying",
@@ -314,17 +391,6 @@
       ]
     },
     {
-      "id": "f3f922de97dae9e7",
-      "url": "https://www.wsj.com/business/airlines/faa-determines-737-max-software-glitch-doesnt-pose-safety-issue-2fed3394",
-      "title": "FAA Says 737 MAX Software Glitch Doesn’t Pose Safety Issue",
-      "content_text": "FAA Says 737 MAX Software Glitch Doesn’t Pose Safety Issue",
-      "summary": "",
-      "date_published": "2026-10-02T18:34:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
       "id": "3d74d9fcc23860e7",
       "url": "https://www.wsj.com/politics/elections/deep-pocketed-gop-group-exits-north-carolina-senate-race-7d1cd8f3",
       "title": "Deep-Pocketed GOP Group Exits North Carolina Senate Race",
@@ -333,6 +399,17 @@
       "date_published": "2026-10-02T18:34:00+00:00",
       "tags": [
         "Politics"
+      ]
+    },
+    {
+      "id": "f3f922de97dae9e7",
+      "url": "https://www.wsj.com/business/airlines/faa-determines-737-max-software-glitch-doesnt-pose-safety-issue-2fed3394",
+      "title": "FAA Says 737 MAX Software Glitch Doesn’t Pose Safety Issue",
+      "content_text": "FAA Says 737 MAX Software Glitch Doesn’t Pose Safety Issue",
+      "summary": "",
+      "date_published": "2026-10-02T18:34:00+00:00",
+      "tags": [
+        "Business"
       ]
     },
     {
@@ -380,10 +457,10 @@
       ]
     },
     {
-      "id": "c533ddebd53ab1d5",
-      "url": "https://www.wsj.com/opinion/the-thomas-transformation-9ffd450d",
-      "title": "The Thomas Transformation",
-      "content_text": "The Thomas Transformation",
+      "id": "339f94c5dfd34c51",
+      "url": "https://www.wsj.com/opinion/a-recusal-question-justice-alito-cant-avoid-cf8ae334",
+      "title": "A Recusal Question Justice Alito Can’t Avoid",
+      "content_text": "A Recusal Question Justice Alito Can’t Avoid",
       "summary": "",
       "date_published": "2026-10-02T18:20:00+00:00",
       "tags": [
@@ -391,10 +468,10 @@
       ]
     },
     {
-      "id": "339f94c5dfd34c51",
-      "url": "https://www.wsj.com/opinion/a-recusal-question-justice-alito-cant-avoid-cf8ae334",
-      "title": "A Recusal Question Justice Alito Can’t Avoid",
-      "content_text": "A Recusal Question Justice Alito Can’t Avoid",
+      "id": "c533ddebd53ab1d5",
+      "url": "https://www.wsj.com/opinion/the-thomas-transformation-9ffd450d",
+      "title": "The Thomas Transformation",
+      "content_text": "The Thomas Transformation",
       "summary": "",
       "date_published": "2026-10-02T18:20:00+00:00",
       "tags": [
@@ -443,6 +520,17 @@
       "date_published": "2026-10-02T18:00:00+00:00",
       "tags": [
         "Style"
+      ]
+    },
+    {
+      "id": "941628393937cc2c",
+      "url": "https://www.wsj.com/opinion/ai-will-be-a-boon-for-savers-abb4d884",
+      "title": "AI Will Be a Boon for Savers",
+      "content_text": "AI Will Be a Boon for Savers",
+      "summary": "",
+      "date_published": "2026-10-02T17:58:00+00:00",
+      "tags": [
+        "Opinion"
       ]
     },
     {
@@ -578,6 +666,17 @@
       ]
     },
     {
+      "id": "0099d413aa699e94",
+      "url": "https://www.wsj.com/economy/jobs/september-jobs-report-unemployment-6b6d6643",
+      "title": "September jobs report unemployment",
+      "content_text": "September jobs report unemployment",
+      "summary": "",
+      "date_published": "2026-10-02T16:29:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
       "id": "654e581fc6a458fa",
       "url": "https://www.wsj.com/livecoverage/jobs-report-september-stock-market-10-02-2026/card/g-7-makes-a-move-to-bring-down-soaring-fuel-prices-9MP3PI3MrUSeWIzvuwEc",
       "title": "G-7 Makes a Move to Bring Down Soaring Fuel Prices",
@@ -641,6 +740,17 @@
       "date_published": "2026-10-02T15:38:00+00:00",
       "tags": [
         "Arts Culture"
+      ]
+    },
+    {
+      "id": "86874f95447b69d9",
+      "url": "https://www.wsj.com/finance/u-s-treasury-yields-steady-as-buyers-resurface-4c139277",
+      "title": "U s treasury yields steady as buyers resurface",
+      "content_text": "U s treasury yields steady as buyers resurface",
+      "summary": "",
+      "date_published": "2026-10-02T15:34:00+00:00",
+      "tags": [
+        "Finance"
       ]
     },
     {
@@ -2093,116 +2203,6 @@
       "date_published": "2026-10-01T16:45:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "3e4ddbe182fe5e31",
-      "url": "https://www.wsj.com/opinion/boulder-has-no-business-making-foreign-policy-1a731264",
-      "title": "Boulder Has No Business Making Foreign Policy",
-      "content_text": "Boulder Has No Business Making Foreign Policy",
-      "summary": "",
-      "date_published": "2026-10-01T16:42:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "26c2db273fa44de4",
-      "url": "https://www.wsj.com/opinion/if-the-fed-cant-stay-on-budget-can-it-manage-the-economy-610fd1ad",
-      "title": "If the Fed Can’t Stay on Budget, Can It Manage the Economy?",
-      "content_text": "If the Fed Can’t Stay on Budget, Can It Manage the Economy?",
-      "summary": "",
-      "date_published": "2026-10-01T16:41:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "c9ac777511348501",
-      "url": "https://www.wsj.com/politics/elections/we-used-ai-to-find-out-just-how-much-americans-hate-ai-2ca70c5a",
-      "title": "We Used AI to Find Out Just How Much Americans Hate AI",
-      "content_text": "We Used AI to Find Out Just How Much Americans Hate AI",
-      "summary": "",
-      "date_published": "2026-10-01T16:30:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "3d159830e2a10f23",
-      "url": "https://www.wsj.com/business/autos/general-motors-third-quarter-vehicle-sales-fall-5-5-0585f610",
-      "title": "General Motors Third-Quarter Vehicle Sales Fall 5.5%",
-      "content_text": "General Motors Third-Quarter Vehicle Sales Fall 5.5%",
-      "summary": "",
-      "date_published": "2026-10-01T16:21:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "7590bb031059e54d",
-      "url": "https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528",
-      "title": "OpenAI Parts Ways With Researchers Who Allegedly Shared Confidential Information",
-      "content_text": "OpenAI Parts Ways With Researchers Who Allegedly Shared Confidential Information",
-      "summary": "",
-      "date_published": "2026-10-01T16:20:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "0793f534945cb3ad",
-      "url": "https://www.wsj.com/us-news/law/judge-bars-future-reflecting-pool-charges-against-olympian-602b5923",
-      "title": "Judge Bars Future Reflecting Pool Charges Against Olympian",
-      "content_text": "Judge Bars Future Reflecting Pool Charges Against Olympian",
-      "summary": "",
-      "date_published": "2026-10-01T16:15:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "0b67cf673b350370",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-01-2026/card/what-s-moving-markets-today--NOtetg5JFA53vmmWTZfs",
-      "title": "What’s Moving Markets Today?",
-      "content_text": "What’s Moving Markets Today?",
-      "summary": "",
-      "date_published": "2026-10-01T16:12:21+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "21c061fbded84fca",
-      "url": "https://www.wsj.com/us-news/law/decades-after-watergate-justice-department-reviews-whether-nixon-got-a-raw-deal-8e25380f",
-      "title": "Decades After Watergate, Justice Department Reviews Whether Nixon Got a Raw Deal",
-      "content_text": "Decades After Watergate, Justice Department Reviews Whether Nixon Got a Raw Deal",
-      "summary": "",
-      "date_published": "2026-10-01T16:06:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "773a72e14569fdd7",
-      "url": "https://www.wsj.com/business/airlines/boeings-engineers-hold-leverage-in-contract-showdown-0de44742",
-      "title": "Boeing Engineers Bless New Contract After Summer Showdown",
-      "content_text": "Boeing Engineers Bless New Contract After Summer Showdown",
-      "summary": "",
-      "date_published": "2026-10-01T16:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "f4ab560ca11557a0",
-      "url": "https://www.wsj.com/economy/housing/mortgage-rates-surge-notching-largest-weekly-gain-in-four-years-e4d029af",
-      "title": "Mortgage Rates Surge, Notching Largest Weekly Gain in Four Years",
-      "content_text": "Mortgage Rates Surge, Notching Largest Weekly Gain in Four Years",
-      "summary": "",
-      "date_published": "2026-10-01T16:00:00+00:00",
-      "tags": [
-        "Economy"
       ]
     }
   ]
