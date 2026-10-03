@@ -6,6 +6,83 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "41f26e7a7699c497",
+      "url": "https://www.wsj.com/world/africa/africas-richest-man-wants-to-turn-a-pristine-coastline-into-an-oil-hub-5ce1e62e",
+      "title": "Africa’s Richest Man Wants to Turn a Pristine Coastline Into an Oil Hub",
+      "content_text": "Africa’s Richest Man Wants to Turn a Pristine Coastline Into an Oil Hub",
+      "summary": "",
+      "date_published": "2026-10-03T16:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "99829a3447fabc09",
+      "url": "https://www.wsj.com/politics/policy/irs-employees-looked-at-celebrities-tax-records-report-says-8eb8bc22",
+      "title": "IRS Employees Looked at Celebrities’ Tax Records, Report Says",
+      "content_text": "IRS Employees Looked at Celebrities’ Tax Records, Report Says",
+      "summary": "",
+      "date_published": "2026-10-03T15:55:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "98c9e8dc864008b5",
+      "url": "https://www.wsj.com/politics/national-security/the-latest-battlefield-essential-for-u-s-soldiers-smartphones-ad143d97",
+      "title": "The Latest Battlefield Essential for U.S. Soldiers: Smartphones",
+      "content_text": "The Latest Battlefield Essential for U.S. Soldiers: Smartphones",
+      "summary": "",
+      "date_published": "2026-10-03T15:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "c50285b379ba61d0",
+      "url": "https://www.wsj.com/finance/investing/hiring-financial-advisor-tips-02056b3e",
+      "title": "Five Things I Learned in Hiring a Financial Adviser",
+      "content_text": "Five Things I Learned in Hiring a Financial Adviser",
+      "summary": "",
+      "date_published": "2026-10-03T14:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "24abfc22e1610905",
+      "url": "https://www.wsj.com/health/pharma/botched-tennessee-execution-draws-scrutiny-of-lethal-injection-drugs-55cb4bc6",
+      "title": "Botched Tennessee Execution Draws Scrutiny of Lethal Injection Drugs",
+      "content_text": "Botched Tennessee Execution Draws Scrutiny of Lethal Injection Drugs",
+      "summary": "",
+      "date_published": "2026-10-03T14:00:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "56cc96a7da4ba893",
+      "url": "https://www.wsj.com/tech/personal-tech/tiktok-instgram-reels-youtube-shorts-future-time-perspective-395d055a",
+      "title": "Teens Who Can’t Put Down TikTok and Instagram Are Losing Their Sense of Time",
+      "content_text": "Teens Who Can’t Put Down TikTok and Instagram Are Losing Their Sense of Time",
+      "summary": "",
+      "date_published": "2026-10-03T13:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "e514441d791aed37",
+      "url": "https://www.wsj.com/style/womens-biceps-have-the-starring-role-8b80efcb",
+      "title": "Women’s Biceps Have the Starring Role",
+      "content_text": "Women’s Biceps Have the Starring Role",
+      "summary": "",
+      "date_published": "2026-10-03T12:25:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
       "id": "80e5f66e2a7d0051",
       "url": "https://www.wsj.com/style/fashion/southern-university-human-jukebox-marching-band-e125eeba",
       "title": "Keeping Time With One of the Country’s Top Marching Bands",
@@ -94,25 +171,14 @@
       ]
     },
     {
-      "id": "f9d4880c1cc151df",
-      "url": "https://www.wsj.com/business/autos/the-carmaker-vying-with-tesla-to-conquer-the-robot-future-8ae76147",
-      "title": "The Carmaker Vying With Tesla to Conquer the Robot Future",
-      "content_text": "The Carmaker Vying With Tesla to Conquer the Robot Future",
+      "id": "05a3e5c40a371214",
+      "url": "https://www.wsj.com/finance/kalshi-prediction-traders-profiles-2130f3b0",
+      "title": "Meet the Gen-Z High Rollers Dominating the Prediction Markets",
+      "content_text": "Meet the Gen-Z High Rollers Dominating the Prediction Markets",
       "summary": "",
       "date_published": "2026-10-03T09:30:00+00:00",
       "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "bb280d6d827325f8",
-      "url": "https://www.wsj.com/business/retail/luxury-stocks-are-selling-at-fast-fashion-prices-691ae978",
-      "title": "Luxury Stocks Are Selling at Fast-Fashion Prices",
-      "content_text": "Luxury Stocks Are Selling at Fast-Fashion Prices",
-      "summary": "",
-      "date_published": "2026-10-03T09:30:00+00:00",
-      "tags": [
-        "Business"
+        "Finance"
       ]
     },
     {
@@ -127,14 +193,25 @@
       ]
     },
     {
-      "id": "05a3e5c40a371214",
-      "url": "https://www.wsj.com/finance/kalshi-prediction-traders-profiles-2130f3b0",
-      "title": "Meet the Gen-Z High Rollers Dominating the Prediction Markets",
-      "content_text": "Meet the Gen-Z High Rollers Dominating the Prediction Markets",
+      "id": "bb280d6d827325f8",
+      "url": "https://www.wsj.com/business/retail/luxury-stocks-are-selling-at-fast-fashion-prices-691ae978",
+      "title": "Luxury Stocks Are Selling at Fast-Fashion Prices",
+      "content_text": "Luxury Stocks Are Selling at Fast-Fashion Prices",
       "summary": "",
       "date_published": "2026-10-03T09:30:00+00:00",
       "tags": [
-        "Finance"
+        "Business"
+      ]
+    },
+    {
+      "id": "f9d4880c1cc151df",
+      "url": "https://www.wsj.com/business/autos/the-carmaker-vying-with-tesla-to-conquer-the-robot-future-8ae76147",
+      "title": "The Carmaker Vying With Tesla to Conquer the Robot Future",
+      "content_text": "The Carmaker Vying With Tesla to Conquer the Robot Future",
+      "summary": "",
+      "date_published": "2026-10-03T09:30:00+00:00",
+      "tags": [
+        "Business"
       ]
     },
     {
@@ -2126,83 +2203,6 @@
       "date_published": "2026-10-01T20:00:19+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "20710e52696f33e6",
-      "url": "https://www.wsj.com/health/healthcare/health-insurance-employer-vs-medicare-f15cf6dc",
-      "title": "Should You Keep Your Employer Insurance or Go on Medicare?",
-      "content_text": "Should You Keep Your Employer Insurance or Go on Medicare?",
-      "summary": "",
-      "date_published": "2026-10-01T20:00:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "b2cdcbfde942d298",
-      "url": "https://www.wsj.com/arts-culture/television/infirmary-review-found-footage-horror-at-a-derelict-hospital-93218e06",
-      "title": "‘Infirmary’ Review: Found-Footage Horror at a Derelict Hospital",
-      "content_text": "‘Infirmary’ Review: Found-Footage Horror at a Derelict Hospital",
-      "summary": "",
-      "date_published": "2026-10-01T19:53:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "230c52d8c659f8a5",
-      "url": "https://www.wsj.com/finance/commodities-futures/why-are-diesel-prices-soaring-and-what-would-a-u-s-export-ban-do-e453fd47",
-      "title": "Why Are Diesel Prices Soaring and What Would a U.S. Export Ban Do?",
-      "content_text": "Why Are Diesel Prices Soaring and What Would a U.S. Export Ban Do?",
-      "summary": "",
-      "date_published": "2026-10-01T19:51:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "c769a7540d688ab1",
-      "url": "https://www.wsj.com/arts-culture/film/atonement-review-an-iraq-war-story-sensitively-told-389d69d6",
-      "title": "‘Atonement’ Review: An Iraq War Story, Sensitively Told",
-      "content_text": "‘Atonement’ Review: An Iraq War Story, Sensitively Told",
-      "summary": "",
-      "date_published": "2026-10-01T19:23:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "8fe665226b26527e",
-      "url": "https://www.wsj.com/business/media/disney-planning-tv-restructuring-as-streamlining-continues-2454ac0a",
-      "title": "Disney Planning TV Restructuring as Streamlining Continues",
-      "content_text": "Disney Planning TV Restructuring as Streamlining Continues",
-      "summary": "",
-      "date_published": "2026-10-01T19:22:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "9f9061ec13f5958b",
-      "url": "https://www.wsj.com/tech/can-ai-run-in-space-google-is-about-to-find-out-59c4e062",
-      "title": "Can AI Run in Space? Google Is About to Find Out",
-      "content_text": "Can AI Run in Space? Google Is About to Find Out",
-      "summary": "",
-      "date_published": "2026-10-01T19:19:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "d15ccef6137cab90",
-      "url": "https://www.wsj.com/world/europe/ukraine-fires-hard-to-stop-ballistic-missile-for-first-time-d93138b4",
-      "title": "Ukraine Fires Hard-to-Stop Ballistic Missile for First Time",
-      "content_text": "Ukraine Fires Hard-to-Stop Ballistic Missile for First Time",
-      "summary": "",
-      "date_published": "2026-10-01T19:07:00+00:00",
-      "tags": [
-        "World"
       ]
     }
   ]

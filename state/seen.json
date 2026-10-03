@@ -312,19 +312,6 @@
       "title": "The GOP’s Missing Turkey",
       "url": "https://www.wsj.com/opinion/the-gops-missing-turkey-c488b5d2"
     },
-    "20710e52696f33e6": {
-      "dek": "",
-      "first_seen": "2026-10-01T20:27:43.492925+00:00",
-      "guid": "20710e52696f33e6",
-      "published": "2026-10-01T20:00:00+00:00",
-      "section": "Health",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Should You Keep Your Employer Insurance or Go on Medicare?",
-      "title": "Should You Keep Your Employer Insurance or Go on Medicare?",
-      "url": "https://www.wsj.com/health/healthcare/health-insurance-employer-vs-medicare-f15cf6dc"
-    },
     "21d0daec3db2459f": {
       "dek": "",
       "first_seen": "2026-10-02T12:25:22.474249+00:00",
@@ -338,18 +325,18 @@
       "title": "Eurozone Inflation Jumps to Three-Year High",
       "url": "https://www.wsj.com/livecoverage/jobs-report-september-stock-market-10-02-2026/card/eurozone-inflation-jumps-to-three-year-high-IdIBGgZebaLX4u06UjgO"
     },
-    "230c52d8c659f8a5": {
+    "24abfc22e1610905": {
       "dek": "",
-      "first_seen": "2026-10-01T20:27:43.492925+00:00",
-      "guid": "230c52d8c659f8a5",
-      "published": "2026-10-01T19:51:00+00:00",
-      "section": "Finance",
+      "first_seen": "2026-10-03T16:39:06.165774+00:00",
+      "guid": "24abfc22e1610905",
+      "published": "2026-10-03T14:00:00+00:00",
+      "section": "Health",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Why Are Diesel Prices Soaring and What Would a U.S. Export Ban Do?",
-      "title": "Why Are Diesel Prices Soaring and What Would a U.S. Export Ban Do?",
-      "url": "https://www.wsj.com/finance/commodities-futures/why-are-diesel-prices-soaring-and-what-would-a-u-s-export-ban-do-e453fd47"
+      "summary": "Botched Tennessee Execution Draws Scrutiny of Lethal Injection Drugs",
+      "title": "Botched Tennessee Execution Draws Scrutiny of Lethal Injection Drugs",
+      "url": "https://www.wsj.com/health/pharma/botched-tennessee-execution-draws-scrutiny-of-lethal-injection-drugs-55cb4bc6"
     },
     "24c26ac05be7ae56": {
       "dek": "",
@@ -598,6 +585,19 @@
       "title": "The Global Bond Rout Is Getting Messy",
       "url": "https://www.wsj.com/finance/investing/the-global-bond-rout-is-getting-messy-1c120a5b"
     },
+    "41f26e7a7699c497": {
+      "dek": "",
+      "first_seen": "2026-10-03T16:39:06.165774+00:00",
+      "guid": "41f26e7a7699c497",
+      "published": "2026-10-03T16:00:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Africa’s Richest Man Wants to Turn a Pristine Coastline Into an Oil Hub",
+      "title": "Africa’s Richest Man Wants to Turn a Pristine Coastline Into an Oil Hub",
+      "url": "https://www.wsj.com/world/africa/africas-richest-man-wants-to-turn-a-pristine-coastline-into-an-oil-hub-5ce1e62e"
+    },
     "45936cf9e89ef824": {
       "dek": "",
       "first_seen": "2026-10-02T22:06:42.479879+00:00",
@@ -701,6 +701,19 @@
       "summary": "French-German Bond Spread Creeps Wider, a Sign the Distress Isn’t Over",
       "title": "French-German Bond Spread Creeps Wider, a Sign the Distress Isn’t Over",
       "url": "https://www.wsj.com/livecoverage/jobs-report-september-stock-market-10-02-2026/card/french-german-bond-spread-creeps-wider-a-sign-the-distress-isn-t-over-VWncc7M4hqtjCO2PwoVn"
+    },
+    "56cc96a7da4ba893": {
+      "dek": "",
+      "first_seen": "2026-10-03T16:39:06.165774+00:00",
+      "guid": "56cc96a7da4ba893",
+      "published": "2026-10-03T13:00:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Teens Who Can’t Put Down TikTok and Instagram Are Losing Their Sense of Time",
+      "title": "Teens Who Can’t Put Down TikTok and Instagram Are Losing Their Sense of Time",
+      "url": "https://www.wsj.com/tech/personal-tech/tiktok-instgram-reels-youtube-shorts-future-time-perspective-395d055a"
     },
     "5723befb58463d7a": {
       "dek": "",
@@ -1222,19 +1235,6 @@
       "title": "Justice Samuel Alito: Even Originalists Make Mistakes",
       "url": "https://www.wsj.com/opinion/justice-samuel-alito-even-originalists-make-mistakes-02cedb8c"
     },
-    "8fe665226b26527e": {
-      "dek": "",
-      "first_seen": "2026-10-01T20:27:43.492925+00:00",
-      "guid": "8fe665226b26527e",
-      "published": "2026-10-01T19:22:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Disney Planning TV Restructuring as Streamlining Continues",
-      "title": "Disney Planning TV Restructuring as Streamlining Continues",
-      "url": "https://www.wsj.com/business/media/disney-planning-tv-restructuring-as-streamlining-continues-2454ac0a"
-    },
     "9400ac5f79ebe902": {
       "dek": "",
       "first_seen": "2026-10-02T06:06:00.939101+00:00",
@@ -1339,6 +1339,32 @@
       "title": "What Democratic Voters Actually Think of the Party, the DSA and the Midterms",
       "url": "https://www.wsj.com/politics/elections/what-democratic-voters-actually-think-of-the-party-the-dsa-and-the-midterms-25633257"
     },
+    "98c9e8dc864008b5": {
+      "dek": "",
+      "first_seen": "2026-10-03T16:39:06.165774+00:00",
+      "guid": "98c9e8dc864008b5",
+      "published": "2026-10-03T15:00:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Latest Battlefield Essential for U.S. Soldiers: Smartphones",
+      "title": "The Latest Battlefield Essential for U.S. Soldiers: Smartphones",
+      "url": "https://www.wsj.com/politics/national-security/the-latest-battlefield-essential-for-u-s-soldiers-smartphones-ad143d97"
+    },
+    "99829a3447fabc09": {
+      "dek": "",
+      "first_seen": "2026-10-03T16:39:06.165774+00:00",
+      "guid": "99829a3447fabc09",
+      "published": "2026-10-03T15:55:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "IRS Employees Looked at Celebrities’ Tax Records, Report Says",
+      "title": "IRS Employees Looked at Celebrities’ Tax Records, Report Says",
+      "url": "https://www.wsj.com/politics/policy/irs-employees-looked-at-celebrities-tax-records-report-says-8eb8bc22"
+    },
     "99f4cbc0c00ad2d1": {
       "dek": "",
       "first_seen": "2026-10-02T12:25:22.474249+00:00",
@@ -1377,19 +1403,6 @@
       "summary": "Financial Services Roundup: Market Talk",
       "title": "Financial Services Roundup: Market Talk",
       "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-af649f54"
-    },
-    "9f9061ec13f5958b": {
-      "dek": "",
-      "first_seen": "2026-10-01T20:27:43.492925+00:00",
-      "guid": "9f9061ec13f5958b",
-      "published": "2026-10-01T19:19:00+00:00",
-      "section": "Tech",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Can AI Run in Space? Google Is About to Find Out",
-      "title": "Can AI Run in Space? Google Is About to Find Out",
-      "url": "https://www.wsj.com/tech/can-ai-run-in-space-google-is-about-to-find-out-59c4e062"
     },
     "a1157343c0b23b7e": {
       "dek": "",
@@ -1572,19 +1585,6 @@
       "summary": "The Real Battle of the MLB Playoffs: Does Baseball Need a Salary Cap?",
       "title": "The Real Battle of the MLB Playoffs: Does Baseball Need a Salary Cap?",
       "url": "https://www.wsj.com/sports/baseball/brewers-rays-dodgers-mlb-salary-cap-d5bd47f8"
-    },
-    "b2cdcbfde942d298": {
-      "dek": "",
-      "first_seen": "2026-10-01T20:27:43.492925+00:00",
-      "guid": "b2cdcbfde942d298",
-      "published": "2026-10-01T19:53:00+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "‘Infirmary’ Review: Found-Footage Horror at a Derelict Hospital",
-      "title": "‘Infirmary’ Review: Found-Footage Horror at a Derelict Hospital",
-      "url": "https://www.wsj.com/arts-culture/television/infirmary-review-found-footage-horror-at-a-derelict-hospital-93218e06"
     },
     "b4eb30e42010a3d1": {
       "dek": "",
@@ -1794,6 +1794,19 @@
       "title": "The Amazing Stat That’s a Red Flag for Investors",
       "url": "https://www.wsj.com/finance/stocks/the-amazing-stat-thats-a-red-flag-for-investors-342b70b7"
     },
+    "c50285b379ba61d0": {
+      "dek": "",
+      "first_seen": "2026-10-03T16:39:06.165774+00:00",
+      "guid": "c50285b379ba61d0",
+      "published": "2026-10-03T14:00:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Five Things I Learned in Hiring a Financial Adviser",
+      "title": "Five Things I Learned in Hiring a Financial Adviser",
+      "url": "https://www.wsj.com/finance/investing/hiring-financial-advisor-tips-02056b3e"
+    },
     "c533ddebd53ab1d5": {
       "dek": "",
       "first_seen": "2026-10-02T22:06:42.479879+00:00",
@@ -1845,19 +1858,6 @@
       "summary": "Emily Dickinson’s ‘Death sets a Thing significant’: Mourning and Meaning",
       "title": "Emily Dickinson’s ‘Death sets a Thing significant’: Mourning and Meaning",
       "url": "https://www.wsj.com/arts-culture/books/emily-dickinsons-death-sets-a-thing-significant-mourning-and-meaning-9066900c"
-    },
-    "c769a7540d688ab1": {
-      "dek": "",
-      "first_seen": "2026-10-01T20:27:43.492925+00:00",
-      "guid": "c769a7540d688ab1",
-      "published": "2026-10-01T19:23:00+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "‘Atonement’ Review: An Iraq War Story, Sensitively Told",
-      "title": "‘Atonement’ Review: An Iraq War Story, Sensitively Told",
-      "url": "https://www.wsj.com/arts-culture/film/atonement-review-an-iraq-war-story-sensitively-told-389d69d6"
     },
     "c7e480583f8ad0fd": {
       "dek": "",
@@ -1988,19 +1988,6 @@
       "summary": "What’s News: Business & Finance",
       "title": "What’s News: Business & Finance",
       "url": "https://www.wsj.com/articles/whats-news-business-finance-cc734e21"
-    },
-    "d15ccef6137cab90": {
-      "dek": "",
-      "first_seen": "2026-10-01T20:27:43.492925+00:00",
-      "guid": "d15ccef6137cab90",
-      "published": "2026-10-01T19:07:00+00:00",
-      "section": "World",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Ukraine Fires Hard-to-Stop Ballistic Missile for First Time",
-      "title": "Ukraine Fires Hard-to-Stop Ballistic Missile for First Time",
-      "url": "https://www.wsj.com/world/europe/ukraine-fires-hard-to-stop-ballistic-missile-for-first-time-d93138b4"
     },
     "d3090fbbf32e1a39": {
       "dek": "",
@@ -2235,6 +2222,19 @@
       "summary": "Gianandrea Noseda’s Diplomatic Musical Leadership",
       "title": "Gianandrea Noseda’s Diplomatic Musical Leadership",
       "url": "https://www.wsj.com/arts-culture/music/gianandrea-nosedas-diplomatic-musical-leadership-04492d4c"
+    },
+    "e514441d791aed37": {
+      "dek": "",
+      "first_seen": "2026-10-03T16:39:06.165774+00:00",
+      "guid": "e514441d791aed37",
+      "published": "2026-10-03T12:25:00+00:00",
+      "section": "Style",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Women’s Biceps Have the Starring Role",
+      "title": "Women’s Biceps Have the Starring Role",
+      "url": "https://www.wsj.com/style/womens-biceps-have-the-starring-role-8b80efcb"
     },
     "e517556c57bf41bc": {
       "dek": "",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/livecoverage/jobs-report-september-stock-market-10-02-2026/card/what-the-recent-adp-report-said-0VYYeyRvr6IaQQ9CqWJm"
     }
   },
-  "updated": "2026-10-03T12:27:17.114881+00:00"
+  "updated": "2026-10-03T16:39:06.189227+00:00"
 }
