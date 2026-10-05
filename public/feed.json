@@ -6,6 +6,149 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "1f87847d5c0d5867",
+      "url": "https://www.wsj.com/business/deals/schneider-electric-to-buy-software-maker-ptc-for-22-6-billion-7a23a60c",
+      "title": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion",
+      "content_text": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion",
+      "summary": "",
+      "date_published": "2026-10-05T06:49:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "e89ff0de8163722a",
+      "url": "https://www.wsj.com/business/energy-oil/ithaca-energy-to-buy-offshore-canada-oil-assets-from-suncor-energy-for-up-to-1-1-billion-dc0195fe",
+      "title": "Ithaca Energy to Buy Offshore Canada Oil Assets From Suncor Energy for Up to $1.1 Billion",
+      "content_text": "Ithaca Energy to Buy Offshore Canada Oil Assets From Suncor Energy for Up to $1.1 Billion",
+      "summary": "",
+      "date_published": "2026-10-05T06:47:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "bca4f30b9a29e859",
+      "url": "https://www.wsj.com/tech/ai/deutsche-telekom-bets-on-ai-to-cut-costs-boost-revenue-22a289b8",
+      "title": "Deutsche Telekom Bets on AI to Cut Costs, Boost Revenue",
+      "content_text": "Deutsche Telekom Bets on AI to Cut Costs, Boost Revenue",
+      "summary": "",
+      "date_published": "2026-10-05T06:38:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "4982e8656343050e",
+      "url": "https://www.wsj.com/world/middle-east/hormuz-gridlock-risks-global-food-crisis-international-chamber-of-commerce-chief-says-667781c8",
+      "title": "Hormuz Gridlock Risks Global Food Crisis, International Chamber of Commerce Chief Says",
+      "content_text": "Hormuz Gridlock Risks Global Food Crisis, International Chamber of Commerce Chief Says",
+      "summary": "",
+      "date_published": "2026-10-05T04:35:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "c2ebcd490886f269",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-211343f2",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-10-05T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "2870012d666a5676",
+      "url": "https://www.wsj.com/articles/whats-news-business-finance-45a68902",
+      "title": "What’s News: Business & Finance",
+      "content_text": "What’s News: Business & Finance",
+      "summary": "",
+      "date_published": "2026-10-05T03:46:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "22d2d18ab68f3c4f",
+      "url": "https://www.wsj.com/articles/whats-news-worldwide-9ab09c09",
+      "title": "What’s News: Worldwide",
+      "content_text": "What’s News: Worldwide",
+      "summary": "",
+      "date_published": "2026-10-05T03:45:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "3e8b7b995eb60e4b",
+      "url": "https://www.wsj.com/business/akzo-nobel-to-sell-southeast-asia-decorative-paints-business-for-1-35-billion-4e39be48",
+      "title": "Akzo Nobel to Sell Southeast Asia Decorative Paints Business for $1.35 Billion",
+      "content_text": "Akzo Nobel to Sell Southeast Asia Decorative Paints Business for $1.35 Billion",
+      "summary": "",
+      "date_published": "2026-10-05T02:26:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "34307a6aeeefd9c8",
+      "url": "https://www.wsj.com/us-news/law/supreme-court-cases-fall-2026-a9708504",
+      "title": "The Supreme Court Is Returning for a New Term. Here’s What to Know.",
+      "content_text": "The Supreme Court Is Returning for a New Term. Here’s What to Know.",
+      "summary": "",
+      "date_published": "2026-10-05T02:00:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "11524d3562dd3590",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-as-softer-than-expected-inflation-data-tempers-rate-hike-bets-adcd6783",
+      "title": "Gold Rises as Softer-Than-Expected Inflation Data Tempers Rate-Hike Bets",
+      "content_text": "Gold Rises as Softer-Than-Expected Inflation Data Tempers Rate-Hike Bets",
+      "summary": "",
+      "date_published": "2026-10-05T01:51:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "ac73ccb446328fbe",
+      "url": "https://www.wsj.com/economy/consumers/american-economy-consumer-profile-33903de1",
+      "title": "The Mighty American Consumer Is Crashing Through Inflation and Driving Growth",
+      "content_text": "The Mighty American Consumer Is Crashing Through Inflation and Driving Growth",
+      "summary": "",
+      "date_published": "2026-10-05T01:00:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "03c698e335f019ad",
+      "url": "https://www.wsj.com/world/middle-east/security-failures-flydubai-pilot-israel-e400e8f6",
+      "title": "Multiple Security Failures Allowed FlyDubai Pilot Into Cockpit",
+      "content_text": "Multiple Security Failures Allowed FlyDubai Pilot Into Cockpit",
+      "summary": "",
+      "date_published": "2026-10-05T01:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "5cd7d41a24c3d5d2",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-mixed-amid-signs-of-attacks-around-strait-of-hormuz-g-7-release-plan-179d43e6",
+      "title": "Oil Prices Mixed Amid Signs of Attacks Around Strait of Hormuz, G-7 Release Plan",
+      "content_text": "Oil Prices Mixed Amid Signs of Attacks Around Strait of Hormuz, G-7 Release Plan",
+      "summary": "",
+      "date_published": "2026-10-05T00:53:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "5b58bf0cd2a72945",
       "url": "https://www.wsj.com/finance/jgbs-mixed-ahead-of-expected-extraordinary-diet-session-in-japan-91edd376",
       "title": "JGBs Mixed Ahead of Expected Extraordinary Diet Session in Japan",
@@ -2060,149 +2203,6 @@
       "date_published": "2026-10-02T11:53:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "9e9b3c6c61c80817",
-      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-af649f54",
-      "title": "Financial Services Roundup: Market Talk",
-      "content_text": "Financial Services Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-10-02T11:48:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "c8326be2b85c248c",
-      "url": "https://www.wsj.com/economy/central-banking/swiss-franc-rises-as-dollar-eases-and-french-german-yield-spreads-widen-sharply-59b3a50e",
-      "title": "Swiss Franc Rises as Dollar Eases and French-German Yield Spreads Widen Sharply",
-      "content_text": "Swiss Franc Rises as Dollar Eases and French-German Yield Spreads Widen Sharply",
-      "summary": "",
-      "date_published": "2026-10-02T11:41:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "a61287b169ed6bda",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3b70ce24",
-      "title": "Auto & Transport Roundup: Market Talk",
-      "content_text": "Auto & Transport Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-10-02T11:36:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "06dc252a0006947b",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-15d3031c",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "content_text": "Energy & Utilities Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-10-02T11:29:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "a420102a41cb1cd5",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-openai-fires-researchers-after-alleged-information-sharing-c03639be",
-      "title": "The Morning Risk Report: OpenAI Fires Researchers After Alleged Information-Sharing",
-      "content_text": "The Morning Risk Report: OpenAI Fires Researchers After Alleged Information-Sharing",
-      "summary": "",
-      "date_published": "2026-10-02T11:28:00+00:00",
-      "tags": [
-        "Risk Compliance Journal"
-      ]
-    },
-    {
-      "id": "591954cbdb1fcfb2",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-7bcf02cb",
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-10-02T11:20:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "eb9d9715b57236b1",
-      "url": "https://www.wsj.com/livecoverage/jobs-report-september-stock-market-10-02-2026/card/diesel-prices-retreat-on-talk-of-european-reserve-release-bjULJWXbbvLrIEDONDco",
-      "title": "Diesel Prices Retreat on Talk of European Reserve Release",
-      "content_text": "Diesel Prices Retreat on Talk of European Reserve Release",
-      "summary": "",
-      "date_published": "2026-10-02T11:12:31+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "006101d608ae9f7d",
-      "url": "https://www.wsj.com/logistics-report/why-diesel-prices-are-so-high-and-what-would-bring-them-down-c4df29c9",
-      "title": "Why Diesel Prices Are So High and What Would Bring Them Down",
-      "content_text": "Why Diesel Prices Are So High and What Would Bring Them Down",
-      "summary": "",
-      "date_published": "2026-10-02T11:08:00+00:00",
-      "tags": [
-        "Logistics Report"
-      ]
-    },
-    {
-      "id": "f8aca960afe6f753",
-      "url": "https://www.wsj.com/business/sk-groups-chey-to-sell-stake-to-fund-divorce-settlement-e70a911c",
-      "title": "SK Group’s Chey to Sell Stake to Fund Divorce Settlement",
-      "content_text": "SK Group’s Chey to Sell Stake to Fund Divorce Settlement",
-      "summary": "",
-      "date_published": "2026-10-02T11:01:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "63936b1f4255a365",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/larry-ellison-north-palm-beach-home-cd79492b",
-      "title": "Larry Ellison Wants $165 Million for His Oceanfront Estate in Florida",
-      "content_text": "Larry Ellison Wants $165 Million for His Oceanfront Estate in Florida",
-      "summary": "",
-      "date_published": "2026-10-02T11:00:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "99f4cbc0c00ad2d1",
-      "url": "https://www.wsj.com/politics/heres-what-our-ai-tool-has-taught-us-about-political-winds-bad89866",
-      "title": "Here’s What Our AI Tool Has Taught Us About Political Winds",
-      "content_text": "Here’s What Our AI Tool Has Taught Us About Political Winds",
-      "summary": "",
-      "date_published": "2026-10-02T11:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "cbafb290fc7326e1",
-      "url": "https://www.wsj.com/sports/football/klint-kubiak-raiders-6cee4b83",
-      "title": "Just Wait, Baby: The Hiring Lesson From the NFL’s Biggest Turnaround",
-      "content_text": "Just Wait, Baby: The Hiring Lesson From the NFL’s Biggest Turnaround",
-      "summary": "",
-      "date_published": "2026-10-02T11:00:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "5467b018b098d5f8",
-      "url": "https://www.wsj.com/livecoverage/jobs-report-september-stock-market-10-02-2026/card/french-german-bond-spread-creeps-wider-a-sign-the-distress-isn-t-over-VWncc7M4hqtjCO2PwoVn",
-      "title": "French-German Bond Spread Creeps Wider, a Sign the Distress Isn’t Over",
-      "content_text": "French-German Bond Spread Creeps Wider, a Sign the Distress Isn’t Over",
-      "summary": "",
-      "date_published": "2026-10-02T10:56:43+00:00",
-      "tags": [
-        "Front Page"
       ]
     }
   ]
