@@ -1,5 +1,18 @@
 {
   "items": {
+    "0038b06dd019061e": {
+      "dek": "",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "0038b06dd019061e",
+      "published": "2026-10-06T02:00:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Elizabeth anne bernstein",
+      "title": "Elizabeth anne bernstein",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein"
+    },
     "017fd4c2b7d65708": {
       "dek": "",
       "first_seen": "2026-10-05T22:32:36.561349+00:00",
@@ -117,19 +130,6 @@
       "title": "Nasdaq Hits New Record as Bond Yields March Higher",
       "url": "https://www.wsj.com/finance/investing/stocks-keep-climbingand-so-do-bond-yields-c91d7d75"
     },
-    "05ea7fb932ddcf5c": {
-      "dek": "",
-      "first_seen": "2026-10-03T01:08:51.731012+00:00",
-      "guid": "05ea7fb932ddcf5c",
-      "published": "2026-10-03T01:00:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Sneaker Taking Over America Was Inspired by iPhones and a Vacuum Cleaner",
-      "title": "The Sneaker Taking Over America Was Inspired by iPhones and a Vacuum Cleaner",
-      "url": "https://www.wsj.com/business/on-running-shoes-sneakers-mbappe-a74ed595"
-    },
     "09677343334577e0": {
       "dek": "",
       "first_seen": "2026-10-05T22:32:36.561349+00:00",
@@ -169,19 +169,6 @@
       "title": "Treasury Yields Creep Higher Again",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026/card/treasury-yields-creep-higher-again-nCKi0gD2YfjotBJdN0pN"
     },
-    "0d944383b1ee14ae": {
-      "dek": "",
-      "first_seen": "2026-10-02T22:06:42.479879+00:00",
-      "guid": "0d944383b1ee14ae",
-      "published": "2026-10-02T21:39:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "A Big Moment for Federalism at the Supreme Court",
-      "title": "A Big Moment for Federalism at the Supreme Court",
-      "url": "https://www.wsj.com/opinion/suncor-energy-v-boulder-county-supreme-court-climate-case-federalism-201279e6"
-    },
     "0d96c9b88507fc65": {
       "dek": "",
       "first_seen": "2026-10-05T22:32:36.561349+00:00",
@@ -194,19 +181,6 @@
       "summary": "‘So Ordered’ Review: A Practical Originalist",
       "title": "‘So Ordered’ Review: A Practical Originalist",
       "url": "https://www.wsj.com/arts-culture/books/so-ordered-review-a-practical-originalist-d488744c"
-    },
-    "0dd3d9f7a748dde6": {
-      "dek": "",
-      "first_seen": "2026-10-03T01:08:51.731012+00:00",
-      "guid": "0dd3d9f7a748dde6",
-      "published": "2026-10-03T00:00:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Brothers Dominating the $211 Billion Car Repair Market",
-      "title": "The Brothers Dominating the $211 Billion Car Repair Market",
-      "url": "https://www.wsj.com/business/retail/mavis-tire-business-expansion-7c1b1222"
     },
     "0e52bea20e25c92c": {
       "dek": "",
@@ -338,6 +312,19 @@
       "title": "FlyDubai Co-Pilot Used Crash Ax in Attack, Says U.A.E.",
       "url": "https://www.wsj.com/us-news/flydubai-co-pilot-used-crash-ax-in-attack-says-u-a-e-88554e9a"
     },
+    "1bcfa2c0c46d827c": {
+      "dek": "",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "1bcfa2c0c46d827c",
+      "published": "2026-10-06T02:00:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "How the Bolsonaro Family Made a Warp Speed Political Comeback in Brazil",
+      "title": "How the Bolsonaro Family Made a Warp Speed Political Comeback in Brazil",
+      "url": "https://www.wsj.com/world/americas/how-the-bolsonaro-family-made-a-warp-speed-political-comeback-in-brazil-3e2e1d4b"
+    },
     "1bda75dc20efb872": {
       "dek": "",
       "first_seen": "2026-10-05T15:53:37.272344+00:00",
@@ -350,19 +337,6 @@
       "summary": "Natural Gas Inches Higher Even With Mild Weather Outlook",
       "title": "Natural Gas Inches Higher Even With Mild Weather Outlook",
       "url": "https://www.wsj.com/finance/commodities-futures/natural-gas-inches-higher-even-with-mild-weather-outlook-f8fbb5a4"
-    },
-    "1c45642797551ff9": {
-      "dek": "",
-      "first_seen": "2026-10-02T22:06:42.479879+00:00",
-      "guid": "1c45642797551ff9",
-      "published": "2026-10-02T21:39:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "A Burst of New Workers in September",
-      "title": "A Burst of New Workers in September",
-      "url": "https://www.wsj.com/opinion/jobs-report-labor-department-labor-force-37fc91cc"
     },
     "1f611a944906a390": {
       "dek": "",
@@ -468,19 +442,6 @@
       "title": "Botched Tennessee Execution Draws Scrutiny of Lethal Injection Drugs",
       "url": "https://www.wsj.com/health/pharma/botched-tennessee-execution-draws-scrutiny-of-lethal-injection-drugs-55cb4bc6"
     },
-    "24c26ac05be7ae56": {
-      "dek": "",
-      "first_seen": "2026-10-03T01:08:51.731012+00:00",
-      "guid": "24c26ac05be7ae56",
-      "published": "2026-10-03T01:00:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "David Ellison Won Warner Bros. Now he Has to Make the $81 Billion Deal Work.",
-      "title": "David Ellison Won Warner Bros. Now he Has to Make the $81 Billion Deal Work.",
-      "url": "https://www.wsj.com/business/media/david-ellison-won-warner-bros-now-he-has-to-make-the-81-billion-deal-work-2724e9e0"
-    },
     "273bbec9dd34dbfc": {
       "dek": "",
       "first_seen": "2026-10-05T15:53:37.272344+00:00",
@@ -585,19 +546,6 @@
       "title": "How Polymarket’s ‘Growth at All Costs’ Strategy Opened the Door to Fraud",
       "url": "https://www.wsj.com/finance/investing/how-polymarkets-growth-at-all-costs-strategy-opened-the-door-to-fraud-994f7c25"
     },
-    "2c6f3ca7a139ac46": {
-      "dek": "",
-      "first_seen": "2026-10-03T01:08:51.731012+00:00",
-      "guid": "2c6f3ca7a139ac46",
-      "published": "2026-10-02T23:00:00+00:00",
-      "section": "Tech",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App",
-      "title": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App",
-      "url": "https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659"
-    },
     "2d629c7893a96dbe": {
       "dek": "",
       "first_seen": "2026-10-04T14:45:02.068379+00:00",
@@ -701,6 +649,19 @@
       "summary": "Americans Can’t Stop Watching Videos of People Paying Down Their Debt",
       "title": "Americans Can’t Stop Watching Videos of People Paying Down Their Debt",
       "url": "https://www.wsj.com/articles/americans-cant-stop-watching-videos-of-people-paying-down-their-debt-acda4b22"
+    },
+    "362081088d5f4daf": {
+      "dek": "",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "362081088d5f4daf",
+      "published": "2026-10-05T16:15:00+00:00",
+      "section": "World",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Germany and France Are Proposing a New Weapon to Counter Flood of Chinese Goods",
+      "title": "Germany and France Are Proposing a New Weapon to Counter Flood of Chinese Goods",
+      "url": "https://www.wsj.com/world/europe/germany-and-france-are-proposing-a-new-weapon-to-counter-flood-of-chinese-goods-f723dfdf"
     },
     "378379d809620e84": {
       "dek": "",
@@ -845,6 +806,19 @@
       "title": "Japan Protests After U.S. Marine Accused of Murder",
       "url": "https://www.wsj.com/world/asia/japan-protests-after-u-s-marine-accused-of-murder-9363b4a5"
     },
+    "445429cf7f299d0e": {
+      "dek": "",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "445429cf7f299d0e",
+      "published": "2026-10-06T00:51:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Long-Term JGB Yield Higher Following Gains in U.S. Treasury Yields",
+      "title": "Long-Term JGB Yield Higher Following Gains in U.S. Treasury Yields",
+      "url": "https://www.wsj.com/finance/long-term-jgb-yield-higher-following-gains-in-u-s-treasury-yields-1e5941a3"
+    },
     "451632626442d1f2": {
       "dek": "",
       "first_seen": "2026-10-03T22:49:24.149124+00:00",
@@ -897,6 +871,32 @@
       "title": "Asian Currencies Consolidate, But May be Aided by Reduced Fed Rate-Hike Prospects",
       "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-reduced-fed-rate-hike-prospects-e8316bd2"
     },
+    "52ccf3ab3a51e3eb": {
+      "dek": "",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "52ccf3ab3a51e3eb",
+      "published": "2026-10-05T16:35:14+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "U.S. Treasury Yields Climb After Early Softness",
+      "title": "U.S. Treasury Yields Climb After Early Softness",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026/card/u-s-treasury-yields-climb-after-early-softness-5J951K7855hVaUHHiXsa"
+    },
+    "533007bcb15336e3": {
+      "dek": "",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "533007bcb15336e3",
+      "published": "2026-10-05T16:24:00+00:00",
+      "section": "Health",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Texas AG Paxton Launches Investigation Into UnitedHealth Group",
+      "title": "Texas AG Paxton Launches Investigation Into UnitedHealth Group",
+      "url": "https://www.wsj.com/health/healthcare/texas-ag-paxton-launches-investigation-into-unitedhealth-group-bc6ce142"
+    },
     "543e154a032628f7": {
       "dek": "",
       "first_seen": "2026-10-04T18:36:16.051492+00:00",
@@ -922,6 +922,19 @@
       "summary": "Teens Who Can’t Put Down TikTok and Instagram Are Losing Their Sense of Time",
       "title": "Teens Who Can’t Put Down TikTok and Instagram Are Losing Their Sense of Time",
       "url": "https://www.wsj.com/tech/personal-tech/tiktok-instgram-reels-youtube-shorts-future-time-perspective-395d055a"
+    },
+    "576f65d83a7ef64e": {
+      "dek": "",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "576f65d83a7ef64e",
+      "published": "2026-10-06T01:33:00+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Corrections & Amplifications",
+      "title": "Corrections & Amplifications",
+      "url": "https://www.wsj.com/articles/corrections-amplifications-263250f5"
     },
     "58de53bb52a72457": {
       "dek": "",
@@ -961,6 +974,19 @@
       "summary": "The Cost of Insuring Against a French Default Is Rising",
       "title": "The Cost of Insuring Against a French Default Is Rising",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026/card/the-cost-of-insuring-against-a-french-default-is-rising-1IZElZgQseNV3nZqquRt"
+    },
+    "5a885d497fa8a917": {
+      "dek": "",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "5a885d497fa8a917",
+      "published": "2026-10-06T02:00:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The saturday interview",
+      "title": "The saturday interview",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview"
     },
     "5b58bf0cd2a72945": {
       "dek": "",
@@ -1039,19 +1065,6 @@
       "summary": "Oil Prices Mixed Amid Signs of Attacks Around Strait of Hormuz, G-7 Release Plan",
       "title": "Oil Prices Mixed Amid Signs of Attacks Around Strait of Hormuz, G-7 Release Plan",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-mixed-amid-signs-of-attacks-around-strait-of-hormuz-g-7-release-plan-179d43e6"
-    },
-    "5d6fce3860d049da": {
-      "dek": "",
-      "first_seen": "2026-10-03T07:02:44.255657+00:00",
-      "guid": "5d6fce3860d049da",
-      "published": "2026-10-03T02:25:00+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Corrections & Amplifications",
-      "title": "Corrections & Amplifications",
-      "url": "https://www.wsj.com/articles/corrections-amplifications-aa9175e2"
     },
     "5e795b3c796a8807": {
       "dek": "",
@@ -1287,6 +1300,19 @@
       "title": "Threat of Iranian Drone Attack Prompted U.S. to Pull Bombers From U.K. Base",
       "url": "https://www.wsj.com/politics/national-security/uk-us-bomber-move-iran-drone-threat-5097f827"
     },
+    "70c7d1f08f2bc25d": {
+      "dek": "",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "70c7d1f08f2bc25d",
+      "published": "2026-10-06T00:58:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Gold Muted as Traders Weigh Yields Against Concerns Driving Them",
+      "title": "Gold Muted as Traders Weigh Yields Against Concerns Driving Them",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-muted-as-traders-weigh-yields-against-concerns-driving-them-a60d8709"
+    },
     "7175fcb15d636a54": {
       "dek": "",
       "first_seen": "2026-10-05T15:53:37.272344+00:00",
@@ -1313,19 +1339,6 @@
       "title": "We Have to Fix ‘Perpetual Postdoc Syndrome’",
       "url": "https://www.wsj.com/opinion/we-have-to-fix-perpetual-postdoc-syndrome-72d80d30"
     },
-    "74416c7d3b4135be": {
-      "dek": "",
-      "first_seen": "2026-10-03T01:08:51.731012+00:00",
-      "guid": "74416c7d3b4135be",
-      "published": "2026-10-03T00:00:00+00:00",
-      "section": "Politics",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "These ‘Double Haters’ Have Lost Faith in Both Parties—and Could Decide the Midterms",
-      "title": "These ‘Double Haters’ Have Lost Faith in Both Parties—and Could Decide the Midterms",
-      "url": "https://www.wsj.com/politics/elections/these-double-haters-have-lost-faith-in-both-partiesand-could-decide-the-midterms-7efa284e"
-    },
     "753d2884ea0dab28": {
       "dek": "",
       "first_seen": "2026-10-05T15:53:37.272344+00:00",
@@ -1338,19 +1351,6 @@
       "summary": "U.S. Services-Sector Activity Continued to Expand in September",
       "title": "U.S. Services-Sector Activity Continued to Expand in September",
       "url": "https://www.wsj.com/economy/central-banking/u-s-services-sector-activity-continued-to-expand-in-september-ecfd842f"
-    },
-    "7771651a2728da47": {
-      "dek": "",
-      "first_seen": "2026-10-02T22:06:42.479879+00:00",
-      "guid": "7771651a2728da47",
-      "published": "2026-10-02T21:36:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Don Jr.’s Star Turn Is Coming",
-      "title": "Don Jr.’s Star Turn Is Coming",
-      "url": "https://www.wsj.com/opinion/donald-trump-jr-private-island-wedding-john-curtis-senate-eeb6fcf8"
     },
     "77c8f5373fbf0a9c": {
       "dek": "",
@@ -1365,6 +1365,19 @@
       "title": "Chevron Taps CFO to Lead Sprawling Oil, Gas Operations",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026/card/chevron-taps-cfo-to-lead-sprawling-oil-gas-operations-N8riMc0mKMl1UlgjSl9Q"
     },
+    "79fda0b57b6baa8e": {
+      "dek": "",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "79fda0b57b6baa8e",
+      "published": "2026-10-05T16:28:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Centalion, Fresh From Rebrand, Does Deal for U.S. Gas Fields",
+      "title": "Centalion, Fresh From Rebrand, Does Deal for U.S. Gas Fields",
+      "url": "https://www.wsj.com/business/energy-oil/centalion-fresh-from-rebrand-does-deal-for-u-s-gas-fields-78285d21"
+    },
     "7afe7855d7432674": {
       "dek": "",
       "first_seen": "2026-10-05T22:32:36.561349+00:00",
@@ -1377,32 +1390,6 @@
       "summary": "The Fraud of White Guilt",
       "title": "The Fraud of White Guilt",
       "url": "https://www.wsj.com/opinion/the-fraud-of-white-guilt-2baa634b"
-    },
-    "7b154d01a02d099b": {
-      "dek": "",
-      "first_seen": "2026-10-03T01:08:51.731012+00:00",
-      "guid": "7b154d01a02d099b",
-      "published": "2026-10-02T22:45:00+00:00",
-      "section": "Us News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Cornell Rape Allegations Reignite Furor Over Title IX",
-      "title": "Cornell Rape Allegations Reignite Furor Over Title IX",
-      "url": "https://www.wsj.com/us-news/law/cornell-rape-allegations-reignite-furor-over-title-ix-337785cc"
-    },
-    "7c5769d66484917c": {
-      "dek": "",
-      "first_seen": "2026-10-03T07:02:44.255657+00:00",
-      "guid": "7c5769d66484917c",
-      "published": "2026-10-03T01:35:00+00:00",
-      "section": "World",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Unusual Rest Breaks for Xi Jinping Sucked Hours Out of Summit With Trump",
-      "title": "Unusual Rest Breaks for Xi Jinping Sucked Hours Out of Summit With Trump",
-      "url": "https://www.wsj.com/world/china/xi-jinping-health-caf250f1"
     },
     "7cfbab5a8337e440": {
       "dek": "",
@@ -1547,18 +1534,18 @@
       "title": "C.H. Robinson to Buy RXO for About $5.3 Billion",
       "url": "https://www.wsj.com/business/deals/c-h-robinson-to-buy-rxo-for-about-5-billion-80a73ba1"
     },
-    "8a38555423ef792a": {
+    "88ff4cc1bd56c843": {
       "dek": "",
-      "first_seen": "2026-10-02T22:06:42.479879+00:00",
-      "guid": "8a38555423ef792a",
-      "published": "2026-10-02T21:47:00+00:00",
-      "section": "Finance",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "88ff4cc1bd56c843",
+      "published": "2026-10-06T02:00:00+00:00",
+      "section": "Us News",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Community Banks Swing Back at Trump Regulators Over Crypto Charters",
-      "title": "Community Banks Swing Back at Trump Regulators Over Crypto Charters",
-      "url": "https://www.wsj.com/finance/regulation/community-banks-swing-back-at-trump-regulators-over-crypto-charters-7007902f"
+      "summary": "Trump Approves Plan to Put Fort Hood Shooter to Death by Firing Squad",
+      "title": "Trump Approves Plan to Put Fort Hood Shooter to Death by Firing Squad",
+      "url": "https://www.wsj.com/us-news/trump-approves-plan-to-put-fort-hood-shooter-to-death-by-firing-squad-c72e5488"
     },
     "8b11c18a4b02ce02": {
       "dek": "",
@@ -1624,19 +1611,6 @@
       "summary": "Lula Is the Brazilian Left’s Last Hope—And Its Biggest Problem",
       "title": "Lula Is the Brazilian Left’s Last Hope—And Its Biggest Problem",
       "url": "https://www.wsj.com/world/americas/lula-is-the-brazilian-lefts-last-hopeand-its-biggest-problem-68c2fb12"
-    },
-    "94c2e2c3c6f921ab": {
-      "dek": "",
-      "first_seen": "2026-10-03T07:02:44.255657+00:00",
-      "guid": "94c2e2c3c6f921ab",
-      "published": "2026-10-03T03:02:00+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "What’s News: Worldwide",
-      "title": "What’s News: Worldwide",
-      "url": "https://www.wsj.com/articles/whats-news-worldwide-3eb0f4bb"
     },
     "973caa23ad3b3702": {
       "dek": "",
@@ -1755,6 +1729,19 @@
       "title": "Inside the McConnell Watch",
       "url": "https://www.wsj.com/opinion/inside-the-mcconnell-watch-52557981"
     },
+    "9fbb86dcf75116d4": {
+      "dek": "",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "9fbb86dcf75116d4",
+      "published": "2026-10-06T01:00:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Oil Is Flowing From Hormuz Again—Just Not the Kind the World Needs Most",
+      "title": "Oil Is Flowing From Hormuz Again—Just Not the Kind the World Needs Most",
+      "url": "https://www.wsj.com/business/energy-oil/diesel-strait-of-hormuz-e1940e50"
+    },
     "a164dd270d8de3e8": {
       "dek": "",
       "first_seen": "2026-10-05T15:53:37.272344+00:00",
@@ -1871,6 +1858,19 @@
       "summary": "Replenishing Oil Stockpiles Will Boost Oil Demand for Years, Aramco CEO Says",
       "title": "Replenishing Oil Stockpiles Will Boost Oil Demand for Years, Aramco CEO Says",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026/card/replenishing-oil-stockpiles-will-boost-oil-demand-for-years-aramco-ceo-says-8EHasrci8zOfSHShmnBd"
+    },
+    "abfce85a26112036": {
+      "dek": "",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "abfce85a26112036",
+      "published": "2026-10-06T00:00:00+00:00",
+      "section": "Real Estate",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Surge in Rates Is Blowing Up Commercial Real-Estate Deals",
+      "title": "The Surge in Rates Is Blowing Up Commercial Real-Estate Deals",
+      "url": "https://www.wsj.com/real-estate/commercial-real-estate-interest-rates-22d04b1b"
     },
     "ac73ccb446328fbe": {
       "dek": "",
@@ -2002,6 +2002,19 @@
       "title": "🔎 Under the Radar: Vaxcyte Stock Jumps After Pneumonia Vaccine Holds Up in Study",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026/card/-under-the-radar-vaxcyte-stock-jumps-after-pneumonia-vaccine-holds-up-in-study-IT6RW8wPF4Ckc6CNDOgj"
     },
+    "b64d0021bc6c7282": {
+      "dek": "",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "b64d0021bc6c7282",
+      "published": "2026-10-05T23:00:00+00:00",
+      "section": "Lifestyle",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Reply-All Email After Oct. 7 That Tore a Business Apart",
+      "title": "The Reply-All Email After Oct. 7 That Tore a Business Apart",
+      "url": "https://www.wsj.com/lifestyle/workplace/the-reply-all-email-after-oct-7-that-tore-a-business-apart-28c20a3a"
+    },
     "b7b9f8c29817074f": {
       "dek": "",
       "first_seen": "2026-10-05T00:47:16.203140+00:00",
@@ -2041,19 +2054,6 @@
       "title": "Tom Cruise’s Big-Budget ‘Digger’ Bombs at the Box Office",
       "url": "https://www.wsj.com/business/media/tom-cruises-big-budget-digger-bombs-at-the-box-office-9709703a"
     },
-    "bc0c1f03514e94f8": {
-      "dek": "",
-      "first_seen": "2026-10-02T22:06:42.479879+00:00",
-      "guid": "bc0c1f03514e94f8",
-      "published": "2026-10-02T21:48:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "When Blue States Chase Away Their Billionaires",
-      "title": "When Blue States Chase Away Their Billionaires",
-      "url": "https://www.wsj.com/opinion/when-blue-states-chase-away-their-billionaires-d7a65d7b"
-    },
     "bca4f30b9a29e859": {
       "dek": "",
       "first_seen": "2026-10-05T06:53:30.454117+00:00",
@@ -2066,6 +2066,19 @@
       "summary": "Deutsche Telekom Bets on AI to Cut Costs, Boost Revenue",
       "title": "Deutsche Telekom Bets on AI to Cut Costs, Boost Revenue",
       "url": "https://www.wsj.com/tech/ai/deutsche-telekom-bets-on-ai-to-cut-costs-boost-revenue-22a289b8"
+    },
+    "bf24e9a5d039271c": {
+      "dek": "",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "bf24e9a5d039271c",
+      "published": "2026-10-06T00:24:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Trump Says His Super PAC Will Pay for Pro-Trump Ads Instead of Taxpayers",
+      "title": "Trump Says His Super PAC Will Pay for Pro-Trump Ads Instead of Taxpayers",
+      "url": "https://www.wsj.com/politics/policy/trump-says-his-super-pac-will-pay-for-pro-trump-ads-instead-of-taxpayers-5471f1b2"
     },
     "c1b9da441b7450d0": {
       "dek": "",
@@ -2132,19 +2145,6 @@
       "title": "Five Things I Learned in Hiring a Financial Adviser",
       "url": "https://www.wsj.com/finance/investing/hiring-financial-advisor-tips-02056b3e"
     },
-    "c5dcd5284a30137b": {
-      "dek": "",
-      "first_seen": "2026-10-02T22:06:42.479879+00:00",
-      "guid": "c5dcd5284a30137b",
-      "published": "2026-10-02T21:38:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Chill of Collectivism, Mamdani-Style",
-      "title": "The Chill of Collectivism, Mamdani-Style",
-      "url": "https://www.wsj.com/opinion/zohran-mamdani-pied-a-terre-tax-judge-wayne-ozzi-new-york-ba512d22"
-    },
     "c625ce74c281e4cd": {
       "dek": "",
       "first_seen": "2026-10-05T22:32:36.561349+00:00",
@@ -2184,18 +2184,31 @@
       "title": "Small business marketing",
       "url": "https://www.wsj.com/news/business/small-business-marketing"
     },
-    "ca3a11f5ddc103a2": {
+    "c8787c44a91be9d7": {
       "dek": "",
-      "first_seen": "2026-10-02T22:06:42.479879+00:00",
-      "guid": "ca3a11f5ddc103a2",
-      "published": "2026-10-02T21:51:00+00:00",
-      "section": "World",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "c8787c44a91be9d7",
+      "published": "2026-10-06T00:49:00+00:00",
+      "section": "Finance",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Oman Had Previously Banned the FlyDubai Attacker From Flying",
-      "title": "Oman Had Previously Banned the FlyDubai Attacker From Flying",
-      "url": "https://www.wsj.com/world/middle-east/oman-had-previously-banned-the-flydubai-attacker-from-flying-71c5fa18"
+      "summary": "Nikkei Rises 0.4%, Led by Electronics, Financial Stocks",
+      "title": "Nikkei Rises 0.4%, Led by Electronics, Financial Stocks",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-electronics-financial-stocks-5b6813b7"
+    },
+    "c9b1d237b340a7cb": {
+      "dek": "",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "c9b1d237b340a7cb",
+      "published": "2026-10-06T01:00:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Republicans Bind Their Senate Hopes to New Hampshire’s Sununu Dynasty",
+      "title": "Republicans Bind Their Senate Hopes to New Hampshire’s Sununu Dynasty",
+      "url": "https://www.wsj.com/politics/elections/rjohn-sununu-republican-new-hampshire-senate-election-f35f39eb"
     },
     "cac7b2a1af1ab3f1": {
       "dek": "",
@@ -2235,19 +2248,6 @@
       "summary": "House Hunters Face Dwindling Financing Options",
       "title": "House Hunters Face Dwindling Financing Options",
       "url": "https://www.wsj.com/personal-finance/house-hunters-face-dwindling-financing-options-5ed0ad9e"
-    },
-    "d10f43fc1f337a81": {
-      "dek": "",
-      "first_seen": "2026-10-03T07:02:44.255657+00:00",
-      "guid": "d10f43fc1f337a81",
-      "published": "2026-10-03T03:06:00+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "What’s News: Business & Finance",
-      "title": "What’s News: Business & Finance",
-      "url": "https://www.wsj.com/articles/whats-news-business-finance-cc734e21"
     },
     "d145d23b8fa65ac5": {
       "dek": "",
@@ -2327,19 +2327,6 @@
       "title": "Paramount Names Leadership Team for Combined Entity Post $81 Billion Warner Deal",
       "url": "https://www.wsj.com/business/media/paramount-names-leadership-team-for-combined-entity-post-81-billion-warner-deal-c37b9b0d"
     },
-    "dae0aa75e1c93ac1": {
-      "dek": "",
-      "first_seen": "2026-10-03T01:08:51.731012+00:00",
-      "guid": "dae0aa75e1c93ac1",
-      "published": "2026-10-02T23:00:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "AI Is Squeezing Out the Rest of the Stock Market",
-      "title": "AI Is Squeezing Out the Rest of the Stock Market",
-      "url": "https://www.wsj.com/finance/investing/ai-is-squeezing-out-the-rest-of-the-stock-market-60928dd3"
-    },
     "dae6a97fee8d049f": {
       "dek": "",
       "first_seen": "2026-10-05T15:53:37.272344+00:00",
@@ -2405,6 +2392,32 @@
       "title": "Permitting Reform at Last, Really?",
       "url": "https://www.wsj.com/opinion/permitting-reform-bill-senate-congress-5281130f"
     },
+    "e0bac08d5b6db87d": {
+      "dek": "",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "e0bac08d5b6db87d",
+      "published": "2026-10-05T23:37:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Why Hollywood’s Most Iconic Studio Is Being Sold—Again",
+      "title": "Why Hollywood’s Most Iconic Studio Is Being Sold—Again",
+      "url": "https://www.wsj.com/business/media/why-hollywoods-most-iconic-studio-is-being-soldagain-575fd885"
+    },
+    "e2e169237771b8ed": {
+      "dek": "",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "e2e169237771b8ed",
+      "published": "2026-10-06T00:55:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Oil Little Changed as Traders Weigh Mideast Crude Export Data",
+      "title": "Oil Little Changed as Traders Weigh Mideast Crude Export Data",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-little-changed-as-traders-weigh-mideast-crude-export-data-6785f907"
+    },
     "e46a009e5d65cc5b": {
       "dek": "",
       "first_seen": "2026-10-04T18:36:16.051492+00:00",
@@ -2430,19 +2443,6 @@
       "summary": "Women’s Biceps Have the Starring Role",
       "title": "Women’s Biceps Have the Starring Role",
       "url": "https://www.wsj.com/style/womens-biceps-have-the-starring-role-8b80efcb"
-    },
-    "e63f45fba983f734": {
-      "dek": "",
-      "first_seen": "2026-10-03T07:02:44.255657+00:00",
-      "guid": "e63f45fba983f734",
-      "published": "2026-10-03T02:00:00+00:00",
-      "section": "Us News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Cornell Rape Case Collides With Colleges’ Growing Embrace of Fraternities",
-      "title": "Cornell Rape Case Collides With Colleges’ Growing Embrace of Fraternities",
-      "url": "https://www.wsj.com/us-news/education/cornell-rape-case-collides-with-colleges-growing-embrace-of-fraternities-a8b2ef33"
     },
     "e89ff0de8163722a": {
       "dek": "",
@@ -2509,18 +2509,31 @@
       "title": "‘The Way We Live Now’: 24 Hours Under Fire in Kyiv",
       "url": "https://www.wsj.com/articles/the-way-we-live-now-24-hours-under-fire-in-kyiv-008ceea7"
     },
-    "f68d1f7777bb0986": {
+    "f5962b90a8fc21ec": {
       "dek": "",
-      "first_seen": "2026-10-03T07:02:44.255657+00:00",
-      "guid": "f68d1f7777bb0986",
-      "published": "2026-10-03T02:00:00+00:00",
-      "section": "Us News",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "f5962b90a8fc21ec",
+      "published": "2026-10-06T01:00:00+00:00",
+      "section": "World",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Seattle’s Mayor Ran as a Socialist. Then She Ran Into Reality.",
-      "title": "Seattle’s Mayor Ran as a Socialist. Then She Ran Into Reality.",
-      "url": "https://www.wsj.com/us-news/seattles-mayor-ran-as-a-socialist-then-she-ran-into-reality-132dd80d"
+      "summary": "France’s Appetite for ‘Magic Money’ Has Turned Into a Debt Bomb",
+      "title": "France’s Appetite for ‘Magic Money’ Has Turned Into a Debt Bomb",
+      "url": "https://www.wsj.com/world/europe/france-debt-bonds-spending-c7981557"
+    },
+    "f5e23c6375abb6ae": {
+      "dek": "",
+      "first_seen": "2026-10-06T02:28:09.216977+00:00",
+      "guid": "f5e23c6375abb6ae",
+      "published": "2026-10-05T16:34:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Tech, Media & Telecom Roundup: Market Talk",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "url": "https://www.wsj.com/finance/investing/tech-media-telecom-roundup-market-talk-d6dbac74"
     },
     "f8f2351051c191aa": {
       "dek": "",
@@ -2574,19 +2587,6 @@
       "title": "Think of Artificial Intelligence Like a Weapon",
       "url": "https://www.wsj.com/opinion/think-of-artificial-intelligence-like-a-weapon-0d541abc"
     },
-    "fd4158c5a75eed0c": {
-      "dek": "",
-      "first_seen": "2026-10-03T07:02:44.255657+00:00",
-      "guid": "fd4158c5a75eed0c",
-      "published": "2026-10-03T03:57:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "How a Boeing 737 MAX Survived a Nosedive Traveling at the Speed of Sound",
-      "title": "How a Boeing 737 MAX Survived a Nosedive Traveling at the Speed of Sound",
-      "url": "https://www.wsj.com/business/airlines/how-a-boeing-737-max-survived-a-nosedive-traveling-at-the-speed-of-sound-e8cae3b4"
-    },
     "fe2f4e569a33d592": {
       "dek": "",
       "first_seen": "2026-10-05T22:32:36.561349+00:00",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026/card/-money-quote-what-a-dragged-out-energy-crisis-means-for-asia-EcsPAj7AKSPCI4bNHmHL"
     }
   },
-  "updated": "2026-10-05T22:32:36.647435+00:00"
+  "updated": "2026-10-06T02:28:09.240853+00:00"
 }

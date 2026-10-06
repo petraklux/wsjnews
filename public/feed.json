@@ -6,36 +6,179 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "c7e480583f8ad0fd",
-      "url": "https://www.wsj.com/news/business/small-business-marketing",
-      "title": "Small business marketing",
-      "content_text": "Small business marketing",
+      "id": "5a885d497fa8a917",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview",
+      "title": "The saturday interview",
+      "content_text": "The saturday interview",
       "summary": "",
-      "date_published": "2026-10-05T22:30:19+00:00",
+      "date_published": "2026-10-06T02:00:19+00:00",
       "tags": [
         "News"
       ]
     },
     {
-      "id": "a2c51ea641c8e80c",
-      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
-      "title": "Economic forecasting survey archive",
-      "content_text": "Economic forecasting survey archive",
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
       "summary": "",
-      "date_published": "2026-10-05T22:30:19+00:00",
+      "date_published": "2026-10-06T02:00:19+00:00",
       "tags": [
-        "Economy"
+        "News"
       ]
     },
     {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
+      "id": "88ff4cc1bd56c843",
+      "url": "https://www.wsj.com/us-news/trump-approves-plan-to-put-fort-hood-shooter-to-death-by-firing-squad-c72e5488",
+      "title": "Trump Approves Plan to Put Fort Hood Shooter to Death by Firing Squad",
+      "content_text": "Trump Approves Plan to Put Fort Hood Shooter to Death by Firing Squad",
       "summary": "",
-      "date_published": "2026-10-05T22:30:19+00:00",
+      "date_published": "2026-10-06T02:00:00+00:00",
       "tags": [
-        "News"
+        "Us News"
+      ]
+    },
+    {
+      "id": "1bcfa2c0c46d827c",
+      "url": "https://www.wsj.com/world/americas/how-the-bolsonaro-family-made-a-warp-speed-political-comeback-in-brazil-3e2e1d4b",
+      "title": "How the Bolsonaro Family Made a Warp Speed Political Comeback in Brazil",
+      "content_text": "How the Bolsonaro Family Made a Warp Speed Political Comeback in Brazil",
+      "summary": "",
+      "date_published": "2026-10-06T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "576f65d83a7ef64e",
+      "url": "https://www.wsj.com/articles/corrections-amplifications-263250f5",
+      "title": "Corrections & Amplifications",
+      "content_text": "Corrections & Amplifications",
+      "summary": "",
+      "date_published": "2026-10-06T01:33:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "9fbb86dcf75116d4",
+      "url": "https://www.wsj.com/business/energy-oil/diesel-strait-of-hormuz-e1940e50",
+      "title": "Oil Is Flowing From Hormuz Again—Just Not the Kind the World Needs Most",
+      "content_text": "Oil Is Flowing From Hormuz Again—Just Not the Kind the World Needs Most",
+      "summary": "",
+      "date_published": "2026-10-06T01:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "f5962b90a8fc21ec",
+      "url": "https://www.wsj.com/world/europe/france-debt-bonds-spending-c7981557",
+      "title": "France’s Appetite for ‘Magic Money’ Has Turned Into a Debt Bomb",
+      "content_text": "France’s Appetite for ‘Magic Money’ Has Turned Into a Debt Bomb",
+      "summary": "",
+      "date_published": "2026-10-06T01:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "c9b1d237b340a7cb",
+      "url": "https://www.wsj.com/politics/elections/rjohn-sununu-republican-new-hampshire-senate-election-f35f39eb",
+      "title": "Republicans Bind Their Senate Hopes to New Hampshire’s Sununu Dynasty",
+      "content_text": "Republicans Bind Their Senate Hopes to New Hampshire’s Sununu Dynasty",
+      "summary": "",
+      "date_published": "2026-10-06T01:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "70c7d1f08f2bc25d",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-muted-as-traders-weigh-yields-against-concerns-driving-them-a60d8709",
+      "title": "Gold Muted as Traders Weigh Yields Against Concerns Driving Them",
+      "content_text": "Gold Muted as Traders Weigh Yields Against Concerns Driving Them",
+      "summary": "",
+      "date_published": "2026-10-06T00:58:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "e2e169237771b8ed",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-little-changed-as-traders-weigh-mideast-crude-export-data-6785f907",
+      "title": "Oil Little Changed as Traders Weigh Mideast Crude Export Data",
+      "content_text": "Oil Little Changed as Traders Weigh Mideast Crude Export Data",
+      "summary": "",
+      "date_published": "2026-10-06T00:55:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "445429cf7f299d0e",
+      "url": "https://www.wsj.com/finance/long-term-jgb-yield-higher-following-gains-in-u-s-treasury-yields-1e5941a3",
+      "title": "Long-Term JGB Yield Higher Following Gains in U.S. Treasury Yields",
+      "content_text": "Long-Term JGB Yield Higher Following Gains in U.S. Treasury Yields",
+      "summary": "",
+      "date_published": "2026-10-06T00:51:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "c8787c44a91be9d7",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-electronics-financial-stocks-5b6813b7",
+      "title": "Nikkei Rises 0.4%, Led by Electronics, Financial Stocks",
+      "content_text": "Nikkei Rises 0.4%, Led by Electronics, Financial Stocks",
+      "summary": "",
+      "date_published": "2026-10-06T00:49:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "bf24e9a5d039271c",
+      "url": "https://www.wsj.com/politics/policy/trump-says-his-super-pac-will-pay-for-pro-trump-ads-instead-of-taxpayers-5471f1b2",
+      "title": "Trump Says His Super PAC Will Pay for Pro-Trump Ads Instead of Taxpayers",
+      "content_text": "Trump Says His Super PAC Will Pay for Pro-Trump Ads Instead of Taxpayers",
+      "summary": "",
+      "date_published": "2026-10-06T00:24:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "abfce85a26112036",
+      "url": "https://www.wsj.com/real-estate/commercial-real-estate-interest-rates-22d04b1b",
+      "title": "The Surge in Rates Is Blowing Up Commercial Real-Estate Deals",
+      "content_text": "The Surge in Rates Is Blowing Up Commercial Real-Estate Deals",
+      "summary": "",
+      "date_published": "2026-10-06T00:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "e0bac08d5b6db87d",
+      "url": "https://www.wsj.com/business/media/why-hollywoods-most-iconic-studio-is-being-soldagain-575fd885",
+      "title": "Why Hollywood’s Most Iconic Studio Is Being Sold—Again",
+      "content_text": "Why Hollywood’s Most Iconic Studio Is Being Sold—Again",
+      "summary": "",
+      "date_published": "2026-10-05T23:37:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "b64d0021bc6c7282",
+      "url": "https://www.wsj.com/lifestyle/workplace/the-reply-all-email-after-oct-7-that-tore-a-business-apart-28c20a3a",
+      "title": "The Reply-All Email After Oct. 7 That Tore a Business Apart",
+      "content_text": "The Reply-All Email After Oct. 7 That Tore a Business Apart",
+      "summary": "",
+      "date_published": "2026-10-05T23:00:00+00:00",
+      "tags": [
+        "Lifestyle"
       ]
     },
     {
@@ -43,17 +186,6 @@
       "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
       "title": "Kimberley a strassel",
       "content_text": "Kimberley a strassel",
-      "summary": "",
-      "date_published": "2026-10-05T22:30:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "6cf8b3cf7c4b5fd3",
-      "url": "https://www.wsj.com/news/types/cultural-conversation",
-      "title": "Cultural conversation",
-      "content_text": "Cultural conversation",
       "summary": "",
       "date_published": "2026-10-05T22:30:19+00:00",
       "tags": [
@@ -72,14 +204,47 @@
       ]
     },
     {
-      "id": "df9bf0838344797c",
-      "url": "https://www.wsj.com/opinion/permitting-reform-bill-senate-congress-5281130f",
-      "title": "Permitting Reform at Last, Really?",
-      "content_text": "Permitting Reform at Last, Really?",
+      "id": "6cf8b3cf7c4b5fd3",
+      "url": "https://www.wsj.com/news/types/cultural-conversation",
+      "title": "Cultural conversation",
+      "content_text": "Cultural conversation",
       "summary": "",
-      "date_published": "2026-10-05T21:30:00+00:00",
+      "date_published": "2026-10-05T22:30:19+00:00",
       "tags": [
-        "Opinion"
+        "News"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-10-05T22:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-10-05T22:30:19+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
+      "summary": "",
+      "date_published": "2026-10-05T22:30:19+00:00",
+      "tags": [
+        "News"
       ]
     },
     {
@@ -91,6 +256,17 @@
       "date_published": "2026-10-05T21:30:00+00:00",
       "tags": [
         "Politics"
+      ]
+    },
+    {
+      "id": "df9bf0838344797c",
+      "url": "https://www.wsj.com/opinion/permitting-reform-bill-senate-congress-5281130f",
+      "title": "Permitting Reform at Last, Really?",
+      "content_text": "Permitting Reform at Last, Really?",
+      "summary": "",
+      "date_published": "2026-10-05T21:30:00+00:00",
+      "tags": [
+        "Opinion"
       ]
     },
     {
@@ -443,6 +619,61 @@
       "date_published": "2026-10-05T16:48:06+00:00",
       "tags": [
         "Front Page"
+      ]
+    },
+    {
+      "id": "52ccf3ab3a51e3eb",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026/card/u-s-treasury-yields-climb-after-early-softness-5J951K7855hVaUHHiXsa",
+      "title": "U.S. Treasury Yields Climb After Early Softness",
+      "content_text": "U.S. Treasury Yields Climb After Early Softness",
+      "summary": "",
+      "date_published": "2026-10-05T16:35:14+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "f5e23c6375abb6ae",
+      "url": "https://www.wsj.com/finance/investing/tech-media-telecom-roundup-market-talk-d6dbac74",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-10-05T16:34:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "79fda0b57b6baa8e",
+      "url": "https://www.wsj.com/business/energy-oil/centalion-fresh-from-rebrand-does-deal-for-u-s-gas-fields-78285d21",
+      "title": "Centalion, Fresh From Rebrand, Does Deal for U.S. Gas Fields",
+      "content_text": "Centalion, Fresh From Rebrand, Does Deal for U.S. Gas Fields",
+      "summary": "",
+      "date_published": "2026-10-05T16:28:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "533007bcb15336e3",
+      "url": "https://www.wsj.com/health/healthcare/texas-ag-paxton-launches-investigation-into-unitedhealth-group-bc6ce142",
+      "title": "Texas AG Paxton Launches Investigation Into UnitedHealth Group",
+      "content_text": "Texas AG Paxton Launches Investigation Into UnitedHealth Group",
+      "summary": "",
+      "date_published": "2026-10-05T16:24:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "362081088d5f4daf",
+      "url": "https://www.wsj.com/world/europe/germany-and-france-are-proposing-a-new-weapon-to-counter-flood-of-chinese-goods-f723dfdf",
+      "title": "Germany and France Are Proposing a New Weapon to Counter Flood of Chinese Goods",
+      "content_text": "Germany and France Are Proposing a New Weapon to Counter Flood of Chinese Goods",
+      "summary": "",
+      "date_published": "2026-10-05T16:15:00+00:00",
+      "tags": [
+        "World"
       ]
     },
     {
@@ -1970,237 +2201,6 @@
       "content_text": "Pepper…and Salt",
       "summary": "",
       "date_published": "2026-10-03T04:00:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "fd4158c5a75eed0c",
-      "url": "https://www.wsj.com/business/airlines/how-a-boeing-737-max-survived-a-nosedive-traveling-at-the-speed-of-sound-e8cae3b4",
-      "title": "How a Boeing 737 MAX Survived a Nosedive Traveling at the Speed of Sound",
-      "content_text": "How a Boeing 737 MAX Survived a Nosedive Traveling at the Speed of Sound",
-      "summary": "",
-      "date_published": "2026-10-03T03:57:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "d10f43fc1f337a81",
-      "url": "https://www.wsj.com/articles/whats-news-business-finance-cc734e21",
-      "title": "What’s News: Business & Finance",
-      "content_text": "What’s News: Business & Finance",
-      "summary": "",
-      "date_published": "2026-10-03T03:06:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "94c2e2c3c6f921ab",
-      "url": "https://www.wsj.com/articles/whats-news-worldwide-3eb0f4bb",
-      "title": "What’s News: Worldwide",
-      "content_text": "What’s News: Worldwide",
-      "summary": "",
-      "date_published": "2026-10-03T03:02:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "5d6fce3860d049da",
-      "url": "https://www.wsj.com/articles/corrections-amplifications-aa9175e2",
-      "title": "Corrections & Amplifications",
-      "content_text": "Corrections & Amplifications",
-      "summary": "",
-      "date_published": "2026-10-03T02:25:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "e63f45fba983f734",
-      "url": "https://www.wsj.com/us-news/education/cornell-rape-case-collides-with-colleges-growing-embrace-of-fraternities-a8b2ef33",
-      "title": "Cornell Rape Case Collides With Colleges’ Growing Embrace of Fraternities",
-      "content_text": "Cornell Rape Case Collides With Colleges’ Growing Embrace of Fraternities",
-      "summary": "",
-      "date_published": "2026-10-03T02:00:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "f68d1f7777bb0986",
-      "url": "https://www.wsj.com/us-news/seattles-mayor-ran-as-a-socialist-then-she-ran-into-reality-132dd80d",
-      "title": "Seattle’s Mayor Ran as a Socialist. Then She Ran Into Reality.",
-      "content_text": "Seattle’s Mayor Ran as a Socialist. Then She Ran Into Reality.",
-      "summary": "",
-      "date_published": "2026-10-03T02:00:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "7c5769d66484917c",
-      "url": "https://www.wsj.com/world/china/xi-jinping-health-caf250f1",
-      "title": "Unusual Rest Breaks for Xi Jinping Sucked Hours Out of Summit With Trump",
-      "content_text": "Unusual Rest Breaks for Xi Jinping Sucked Hours Out of Summit With Trump",
-      "summary": "",
-      "date_published": "2026-10-03T01:35:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "05ea7fb932ddcf5c",
-      "url": "https://www.wsj.com/business/on-running-shoes-sneakers-mbappe-a74ed595",
-      "title": "The Sneaker Taking Over America Was Inspired by iPhones and a Vacuum Cleaner",
-      "content_text": "The Sneaker Taking Over America Was Inspired by iPhones and a Vacuum Cleaner",
-      "summary": "",
-      "date_published": "2026-10-03T01:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "24c26ac05be7ae56",
-      "url": "https://www.wsj.com/business/media/david-ellison-won-warner-bros-now-he-has-to-make-the-81-billion-deal-work-2724e9e0",
-      "title": "David Ellison Won Warner Bros. Now he Has to Make the $81 Billion Deal Work.",
-      "content_text": "David Ellison Won Warner Bros. Now he Has to Make the $81 Billion Deal Work.",
-      "summary": "",
-      "date_published": "2026-10-03T01:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "0dd3d9f7a748dde6",
-      "url": "https://www.wsj.com/business/retail/mavis-tire-business-expansion-7c1b1222",
-      "title": "The Brothers Dominating the $211 Billion Car Repair Market",
-      "content_text": "The Brothers Dominating the $211 Billion Car Repair Market",
-      "summary": "",
-      "date_published": "2026-10-03T00:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "74416c7d3b4135be",
-      "url": "https://www.wsj.com/politics/elections/these-double-haters-have-lost-faith-in-both-partiesand-could-decide-the-midterms-7efa284e",
-      "title": "These ‘Double Haters’ Have Lost Faith in Both Parties—and Could Decide the Midterms",
-      "content_text": "These ‘Double Haters’ Have Lost Faith in Both Parties—and Could Decide the Midterms",
-      "summary": "",
-      "date_published": "2026-10-03T00:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "2c6f3ca7a139ac46",
-      "url": "https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659",
-      "title": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App",
-      "content_text": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App",
-      "summary": "",
-      "date_published": "2026-10-02T23:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "dae0aa75e1c93ac1",
-      "url": "https://www.wsj.com/finance/investing/ai-is-squeezing-out-the-rest-of-the-stock-market-60928dd3",
-      "title": "AI Is Squeezing Out the Rest of the Stock Market",
-      "content_text": "AI Is Squeezing Out the Rest of the Stock Market",
-      "summary": "",
-      "date_published": "2026-10-02T23:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "7b154d01a02d099b",
-      "url": "https://www.wsj.com/us-news/law/cornell-rape-allegations-reignite-furor-over-title-ix-337785cc",
-      "title": "Cornell Rape Allegations Reignite Furor Over Title IX",
-      "content_text": "Cornell Rape Allegations Reignite Furor Over Title IX",
-      "summary": "",
-      "date_published": "2026-10-02T22:45:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "ca3a11f5ddc103a2",
-      "url": "https://www.wsj.com/world/middle-east/oman-had-previously-banned-the-flydubai-attacker-from-flying-71c5fa18",
-      "title": "Oman Had Previously Banned the FlyDubai Attacker From Flying",
-      "content_text": "Oman Had Previously Banned the FlyDubai Attacker From Flying",
-      "summary": "",
-      "date_published": "2026-10-02T21:51:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "bc0c1f03514e94f8",
-      "url": "https://www.wsj.com/opinion/when-blue-states-chase-away-their-billionaires-d7a65d7b",
-      "title": "When Blue States Chase Away Their Billionaires",
-      "content_text": "When Blue States Chase Away Their Billionaires",
-      "summary": "",
-      "date_published": "2026-10-02T21:48:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "8a38555423ef792a",
-      "url": "https://www.wsj.com/finance/regulation/community-banks-swing-back-at-trump-regulators-over-crypto-charters-7007902f",
-      "title": "Community Banks Swing Back at Trump Regulators Over Crypto Charters",
-      "content_text": "Community Banks Swing Back at Trump Regulators Over Crypto Charters",
-      "summary": "",
-      "date_published": "2026-10-02T21:47:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "0d944383b1ee14ae",
-      "url": "https://www.wsj.com/opinion/suncor-energy-v-boulder-county-supreme-court-climate-case-federalism-201279e6",
-      "title": "A Big Moment for Federalism at the Supreme Court",
-      "content_text": "A Big Moment for Federalism at the Supreme Court",
-      "summary": "",
-      "date_published": "2026-10-02T21:39:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "1c45642797551ff9",
-      "url": "https://www.wsj.com/opinion/jobs-report-labor-department-labor-force-37fc91cc",
-      "title": "A Burst of New Workers in September",
-      "content_text": "A Burst of New Workers in September",
-      "summary": "",
-      "date_published": "2026-10-02T21:39:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "c5dcd5284a30137b",
-      "url": "https://www.wsj.com/opinion/zohran-mamdani-pied-a-terre-tax-judge-wayne-ozzi-new-york-ba512d22",
-      "title": "The Chill of Collectivism, Mamdani-Style",
-      "content_text": "The Chill of Collectivism, Mamdani-Style",
-      "summary": "",
-      "date_published": "2026-10-02T21:38:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "7771651a2728da47",
-      "url": "https://www.wsj.com/opinion/donald-trump-jr-private-island-wedding-john-curtis-senate-eeb6fcf8",
-      "title": "Don Jr.’s Star Turn Is Coming",
-      "content_text": "Don Jr.’s Star Turn Is Coming",
-      "summary": "",
-      "date_published": "2026-10-02T21:36:00+00:00",
       "tags": [
         "Opinion"
       ]
