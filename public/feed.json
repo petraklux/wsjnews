@@ -6,14 +6,190 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "5a885d497fa8a917",
-      "url": "https://www.wsj.com/news/types/the-saturday-interview",
-      "title": "The saturday interview",
-      "content_text": "The saturday interview",
+      "id": "f6d9bdc390e6ebca",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026/card/france-s-debt-bomb-9tAmtG2UfJbTX6NXs1jr",
+      "title": "France’s Debt Bomb",
+      "content_text": "France’s Debt Bomb",
       "summary": "",
-      "date_published": "2026-10-06T02:00:19+00:00",
+      "date_published": "2026-10-06T09:14:34+00:00",
       "tags": [
-        "News"
+        "Front Page"
+      ]
+    },
+    {
+      "id": "bbd68c8dd2dd63e8",
+      "url": "https://www.wsj.com/finance/commodities-futures/nyse-owner-launches-gold-futures-in-london-cff6c7db",
+      "title": "NYSE Owner Launches Gold Futures in London",
+      "content_text": "NYSE Owner Launches Gold Futures in London",
+      "summary": "",
+      "date_published": "2026-10-06T09:13:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "aa10fcd222e72534",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026/card/fed-minutes-pepsi-and-delta-earnings-what-to-watch-this-week-jhQItrmIRL5yzYOv6b1y",
+      "title": "Fed Minutes, Pepsi and Delta Earnings: What to Watch This Week",
+      "content_text": "Fed Minutes, Pepsi and Delta Earnings: What to Watch This Week",
+      "summary": "",
+      "date_published": "2026-10-06T08:45:16+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "da2d6a47f30acd16",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026/card/one-great-chart-the-diesel-dilemma-sR0nGLw5CcjL3IyUQF4A",
+      "title": "One Great Chart: The Diesel Dilemma",
+      "content_text": "One Great Chart: The Diesel Dilemma",
+      "summary": "",
+      "date_published": "2026-10-06T08:45:10+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "53a6a674f3d7e869",
+      "url": "https://www.wsj.com/health/pharma/genmab-shares-climb-after-positive-study-results-for-blood-cancer-drug-c444693f",
+      "title": "Genmab Shares Climb After Positive Study Results for Blood-Cancer Drug",
+      "content_text": "Genmab Shares Climb After Positive Study Results for Blood-Cancer Drug",
+      "summary": "",
+      "date_published": "2026-10-06T08:35:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "4310be21b3778b28",
+      "url": "https://www.wsj.com/finance/investing/companies-raise-more-than-1-trillion-in-equity-markets-but-ai-bond-yields-sour-mood-b34359a9",
+      "title": "Companies Raise More Than $1 Trillion in Equity Markets, But AI, Bond Yields Sour Mood",
+      "content_text": "Companies Raise More Than $1 Trillion in Equity Markets, But AI, Bond Yields Sour Mood",
+      "summary": "",
+      "date_published": "2026-10-06T08:29:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "0c6e5eaf86c0caf2",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-nudge-higher-as-oil-falls-below-100-0c7a5b1a",
+      "title": "U.S. Stock Futures Nudge Higher as Oil Falls Below $100",
+      "content_text": "U.S. Stock Futures Nudge Higher as Oil Falls Below $100",
+      "summary": "",
+      "date_published": "2026-10-06T08:11:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "1d0a984614509ee1",
+      "url": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-middle-east-exports-recover-shipping-risks-persist-0b179f03",
+      "title": "Oil Prices Fall as Middle East Exports Recover, Shipping Risks Persist",
+      "content_text": "Oil Prices Fall as Middle East Exports Recover, Shipping Risks Persist",
+      "summary": "",
+      "date_published": "2026-10-06T08:05:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "9afb63e68ade9899",
+      "url": "https://www.wsj.com/business/deals/informa-to-separate-academic-business-buys-clarion-events-for-2-96-billion-6afc9508",
+      "title": "Informa to Separate Academic Business; Buys Clarion Events for $2.96 Billion",
+      "content_text": "Informa to Separate Academic Business; Buys Clarion Events for $2.96 Billion",
+      "summary": "",
+      "date_published": "2026-10-06T06:56:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "79d12c6cd0f283f9",
+      "url": "https://www.wsj.com/finance/investing/u-s-long-end-treasury-yields-remain-elevated-three-year-auction-awaited-bf72da8d",
+      "title": "U.S. Long-End Treasury Yields Remain Elevated; Three-Year Auction Awaited",
+      "content_text": "U.S. Long-End Treasury Yields Remain Elevated; Three-Year Auction Awaited",
+      "summary": "",
+      "date_published": "2026-10-06T06:40:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "f4085fba941a9bc9",
+      "url": "https://www.wsj.com/finance/commodities-futures/german-factory-orders-tumbled-in-august-70212cb1",
+      "title": "German Factory Orders Tumbled in August",
+      "content_text": "German Factory Orders Tumbled in August",
+      "summary": "",
+      "date_published": "2026-10-06T06:21:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "2411b699f3f9ae77",
+      "url": "https://www.wsj.com/finance/commodities-futures/norsk-hydro-expects-further-hit-from-gas-supply-challenges-at-brazilian-alumina-plant-6e57d9e9",
+      "title": "Norsk Hydro Expects Further Hit From Gas Supply Challenges at Brazilian Alumina Plant",
+      "content_text": "Norsk Hydro Expects Further Hit From Gas Supply Challenges at Brazilian Alumina Plant",
+      "summary": "",
+      "date_published": "2026-10-06T06:11:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "369cf9d3c095fec0",
+      "url": "https://www.wsj.com/tech/softbank-backed-dayone-data-centers-plans-to-raise-up-to-5-0-bln-in-u-s-ipo-c568ead1",
+      "title": "SoftBank-Backed DayOne Data Centers Plans to Raise Up to $5.0 Bln in U.S. IPO",
+      "content_text": "SoftBank-Backed DayOne Data Centers Plans to Raise Up to $5.0 Bln in U.S. IPO",
+      "summary": "",
+      "date_published": "2026-10-06T05:45:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "3c681f2a5e7aa5b4",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-bf77d651",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-10-06T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "2f592d57edb5dddb",
+      "url": "https://www.wsj.com/articles/whats-news-business-finance-443214ca",
+      "title": "What’s News: Business & Finance",
+      "content_text": "What’s News: Business & Finance",
+      "summary": "",
+      "date_published": "2026-10-06T02:59:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "e18638f7d50a6336",
+      "url": "https://www.wsj.com/articles/whats-news-worldwide-d031bb5e",
+      "title": "What’s News: Worldwide",
+      "content_text": "What’s News: Worldwide",
+      "summary": "",
+      "date_published": "2026-10-06T02:55:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "cfd4eb0559faf18c",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-data-af9dfb71",
+      "title": "Sterling Could Rise Further Against Euro",
+      "content_text": "Sterling Could Rise Further Against Euro",
+      "summary": "",
+      "date_published": "2026-10-06T02:45:00+00:00",
+      "tags": [
+        "Finance"
       ]
     },
     {
@@ -28,14 +204,14 @@
       ]
     },
     {
-      "id": "88ff4cc1bd56c843",
-      "url": "https://www.wsj.com/us-news/trump-approves-plan-to-put-fort-hood-shooter-to-death-by-firing-squad-c72e5488",
-      "title": "Trump Approves Plan to Put Fort Hood Shooter to Death by Firing Squad",
-      "content_text": "Trump Approves Plan to Put Fort Hood Shooter to Death by Firing Squad",
+      "id": "5a885d497fa8a917",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview",
+      "title": "The saturday interview",
+      "content_text": "The saturday interview",
       "summary": "",
-      "date_published": "2026-10-06T02:00:00+00:00",
+      "date_published": "2026-10-06T02:00:19+00:00",
       "tags": [
-        "Us News"
+        "News"
       ]
     },
     {
@@ -47,6 +223,17 @@
       "date_published": "2026-10-06T02:00:00+00:00",
       "tags": [
         "World"
+      ]
+    },
+    {
+      "id": "88ff4cc1bd56c843",
+      "url": "https://www.wsj.com/us-news/trump-approves-plan-to-put-fort-hood-shooter-to-death-by-firing-squad-c72e5488",
+      "title": "Trump Approves Plan to Put Fort Hood Shooter to Death by Firing Squad",
+      "content_text": "Trump Approves Plan to Put Fort Hood Shooter to Death by Firing Squad",
+      "summary": "",
+      "date_published": "2026-10-06T02:00:00+00:00",
+      "tags": [
+        "Us News"
       ]
     },
     {
@@ -72,17 +259,6 @@
       ]
     },
     {
-      "id": "f5962b90a8fc21ec",
-      "url": "https://www.wsj.com/world/europe/france-debt-bonds-spending-c7981557",
-      "title": "France’s Appetite for ‘Magic Money’ Has Turned Into a Debt Bomb",
-      "content_text": "France’s Appetite for ‘Magic Money’ Has Turned Into a Debt Bomb",
-      "summary": "",
-      "date_published": "2026-10-06T01:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
       "id": "c9b1d237b340a7cb",
       "url": "https://www.wsj.com/politics/elections/rjohn-sununu-republican-new-hampshire-senate-election-f35f39eb",
       "title": "Republicans Bind Their Senate Hopes to New Hampshire’s Sununu Dynasty",
@@ -91,6 +267,17 @@
       "date_published": "2026-10-06T01:00:00+00:00",
       "tags": [
         "Politics"
+      ]
+    },
+    {
+      "id": "f5962b90a8fc21ec",
+      "url": "https://www.wsj.com/world/europe/france-debt-bonds-spending-c7981557",
+      "title": "France’s Appetite for ‘Magic Money’ Has Turned Into a Debt Bomb",
+      "content_text": "France’s Appetite for ‘Magic Money’ Has Turned Into a Debt Bomb",
+      "summary": "",
+      "date_published": "2026-10-06T01:00:00+00:00",
+      "tags": [
+        "World"
       ]
     },
     {
@@ -2016,193 +2203,6 @@
       "date_published": "2026-10-03T14:00:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "56cc96a7da4ba893",
-      "url": "https://www.wsj.com/tech/personal-tech/tiktok-instgram-reels-youtube-shorts-future-time-perspective-395d055a",
-      "title": "Teens Who Can’t Put Down TikTok and Instagram Are Losing Their Sense of Time",
-      "content_text": "Teens Who Can’t Put Down TikTok and Instagram Are Losing Their Sense of Time",
-      "summary": "",
-      "date_published": "2026-10-03T13:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "e514441d791aed37",
-      "url": "https://www.wsj.com/style/womens-biceps-have-the-starring-role-8b80efcb",
-      "title": "Women’s Biceps Have the Starring Role",
-      "content_text": "Women’s Biceps Have the Starring Role",
-      "summary": "",
-      "date_published": "2026-10-03T12:25:00+00:00",
-      "tags": [
-        "Style"
-      ]
-    },
-    {
-      "id": "80e5f66e2a7d0051",
-      "url": "https://www.wsj.com/style/fashion/southern-university-human-jukebox-marching-band-e125eeba",
-      "title": "Keeping Time With One of the Country’s Top Marching Bands",
-      "content_text": "Keeping Time With One of the Country’s Top Marching Bands",
-      "summary": "",
-      "date_published": "2026-10-03T12:00:00+00:00",
-      "tags": [
-        "Style"
-      ]
-    },
-    {
-      "id": "b182ad34b03c0673",
-      "url": "https://www.wsj.com/sports/baseball/brewers-rays-dodgers-mlb-salary-cap-d5bd47f8",
-      "title": "The Real Battle of the MLB Playoffs: Does Baseball Need a Salary Cap?",
-      "content_text": "The Real Battle of the MLB Playoffs: Does Baseball Need a Salary Cap?",
-      "summary": "",
-      "date_published": "2026-10-03T12:00:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "ae6f034f948f0381",
-      "url": "https://www.wsj.com/cio-journal/how-one-hacker-and-a-decade-of-investigations-blew-the-lid-off-manchester-city-d0f679e5",
-      "title": "How One Hacker and a Decade of Investigations Blew the Lid Off Manchester City",
-      "content_text": "How One Hacker and a Decade of Investigations Blew the Lid Off Manchester City",
-      "summary": "",
-      "date_published": "2026-10-03T11:55:00+00:00",
-      "tags": [
-        "Cio Journal"
-      ]
-    },
-    {
-      "id": "d04705f9f970aad5",
-      "url": "https://www.wsj.com/personal-finance/house-hunters-face-dwindling-financing-options-5ed0ad9e",
-      "title": "House Hunters Face Dwindling Financing Options",
-      "content_text": "House Hunters Face Dwindling Financing Options",
-      "summary": "",
-      "date_published": "2026-10-03T11:50:00+00:00",
-      "tags": [
-        "Personal Finance"
-      ]
-    },
-    {
-      "id": "2f001c7a89b2f5b0",
-      "url": "https://www.wsj.com/arts-culture/fine-art/krasner-and-pollock-past-continuous-review-abstract-paintings-power-couple-at-the-met-6041848d",
-      "title": "‘Krasner and Pollock: Past Continuous’ Review: Abstract Painting’s Power Couple at the Met",
-      "content_text": "‘Krasner and Pollock: Past Continuous’ Review: Abstract Painting’s Power Couple at the Met",
-      "summary": "",
-      "date_published": "2026-10-03T11:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "8323d3d92d022a13",
-      "url": "https://www.wsj.com/articles/xis-rest-breaks-cut-into-his-summit-with-trump-ed9f8d6c",
-      "title": "Xi’s Rest Breaks Cut Into His Summit With Trump",
-      "content_text": "Xi’s Rest Breaks Cut Into His Summit With Trump",
-      "summary": "",
-      "date_published": "2026-10-03T10:56:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "044f7791c7b1596c",
-      "url": "https://www.wsj.com/style/design/how-midcentury-modern-design-went-from-cool-to-cringey-0ac6a6a1",
-      "title": "How Midcentury Modern Design Went From Cool to Cringey",
-      "content_text": "How Midcentury Modern Design Went From Cool to Cringey",
-      "summary": "",
-      "date_published": "2026-10-03T10:00:00+00:00",
-      "tags": [
-        "Style"
-      ]
-    },
-    {
-      "id": "d5f5f4ba311392d0",
-      "url": "https://www.wsj.com/articles/news-quiz-for-october-3-2026-ad556461",
-      "title": "News Quiz for October 3, 2026",
-      "content_text": "News Quiz for October 3, 2026",
-      "summary": "",
-      "date_published": "2026-10-03T10:00:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "05a3e5c40a371214",
-      "url": "https://www.wsj.com/finance/kalshi-prediction-traders-profiles-2130f3b0",
-      "title": "Meet the Gen-Z High Rollers Dominating the Prediction Markets",
-      "content_text": "Meet the Gen-Z High Rollers Dominating the Prediction Markets",
-      "summary": "",
-      "date_published": "2026-10-03T09:30:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "a428782a603c69ca",
-      "url": "https://www.wsj.com/finance/investing/how-the-french-bond-trade-backfired-on-investors-4f2aba71",
-      "title": "How the French Bond Trade Backfired on Investors",
-      "content_text": "How the French Bond Trade Backfired on Investors",
-      "summary": "",
-      "date_published": "2026-10-03T09:30:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "bb280d6d827325f8",
-      "url": "https://www.wsj.com/business/retail/luxury-stocks-are-selling-at-fast-fashion-prices-691ae978",
-      "title": "Luxury Stocks Are Selling at Fast-Fashion Prices",
-      "content_text": "Luxury Stocks Are Selling at Fast-Fashion Prices",
-      "summary": "",
-      "date_published": "2026-10-03T09:30:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "f9d4880c1cc151df",
-      "url": "https://www.wsj.com/business/autos/the-carmaker-vying-with-tesla-to-conquer-the-robot-future-8ae76147",
-      "title": "The Carmaker Vying With Tesla to Conquer the Robot Future",
-      "content_text": "The Carmaker Vying With Tesla to Conquer the Robot Future",
-      "summary": "",
-      "date_published": "2026-10-03T09:30:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "1a2e83c227c381d6",
-      "url": "https://www.wsj.com/us-news/flydubai-co-pilot-used-crash-ax-in-attack-says-u-a-e-88554e9a",
-      "title": "FlyDubai Co-Pilot Used Crash Ax in Attack, Says U.A.E.",
-      "content_text": "FlyDubai Co-Pilot Used Crash Ax in Attack, Says U.A.E.",
-      "summary": "",
-      "date_published": "2026-10-03T06:52:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "ebdc5805d1f6a935",
-      "url": "https://www.wsj.com/world/flydubai-co-pilot-used-crash-ax-in-attack-says-u-a-e-88554e9a",
-      "title": "FlyDubai Co-Pilot Used Crash Ax in Attack, Says U.A.E.",
-      "content_text": "FlyDubai Co-Pilot Used Crash Ax in Attack, Says U.A.E.",
-      "summary": "",
-      "date_published": "2026-10-03T06:52:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "6c4ad90ab83472ff",
-      "url": "https://www.wsj.com/opinion/pepperand-salt-b952fd63",
-      "title": "Pepper…and Salt",
-      "content_text": "Pepper…and Salt",
-      "summary": "",
-      "date_published": "2026-10-03T04:00:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
