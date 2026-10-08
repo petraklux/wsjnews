@@ -6,6 +6,402 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
+      "summary": "",
+      "date_published": "2026-10-08T00:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-10-08T00:00:19+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-10-08T00:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
+      "summary": "",
+      "date_published": "2026-10-08T00:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "5a885d497fa8a917",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview",
+      "title": "The saturday interview",
+      "content_text": "The saturday interview",
+      "summary": "",
+      "date_published": "2026-10-08T00:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "6cf8b3cf7c4b5fd3",
+      "url": "https://www.wsj.com/news/types/cultural-conversation",
+      "title": "Cultural conversation",
+      "content_text": "Cultural conversation",
+      "summary": "",
+      "date_published": "2026-10-08T00:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
+      "summary": "",
+      "date_published": "2026-10-08T00:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "67a229f9726f9141",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial",
+      "title": "Real estate commercial",
+      "content_text": "Real estate commercial",
+      "summary": "",
+      "date_published": "2026-10-08T00:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "c1d3ce7f0f4e72fa",
+      "url": "https://www.wsj.com/economy/consumers/inflation-midterm-election-2026-0f809bec",
+      "title": "What Six Years of Inflation Mean for the Midterms",
+      "content_text": "What Six Years of Inflation Mean for the Midterms",
+      "summary": "",
+      "date_published": "2026-10-08T00:00:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "2995388bfa393170",
+      "url": "https://www.wsj.com/tech/ai/the-ai-price-war-is-heating-upand-openai-is-gaining-ground-on-anthropic-48b8525b",
+      "title": "The AI Price War Is Heating Up—and OpenAI Is Gaining Ground on Anthropic",
+      "content_text": "The AI Price War Is Heating Up—and OpenAI Is Gaining Ground on Anthropic",
+      "summary": "",
+      "date_published": "2026-10-08T00:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "b24fa6c78f4bb34a",
+      "url": "https://www.wsj.com/science/space-astronomy/margaret-hamilton-who-developed-software-for-first-moon-landing-dies-at-90-07b982a1",
+      "title": "Margaret Hamilton, Who Developed Software for First Moon Landing, Dies at 90",
+      "content_text": "Margaret Hamilton, Who Developed Software for First Moon Landing, Dies at 90",
+      "summary": "",
+      "date_published": "2026-10-07T23:44:00+00:00",
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "id": "240df81198a16457",
+      "url": "https://www.wsj.com/tech/samsung-sees-operating-profit-topping-80-billion-amid-ai-boom-1e00ca3f",
+      "title": "Samsung Sees Operating Profit Topping $80 Billion Amid AI Boom",
+      "content_text": "Samsung Sees Operating Profit Topping $80 Billion Amid AI Boom",
+      "summary": "",
+      "date_published": "2026-10-07T23:41:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "a508ba5154ee03ed",
+      "url": "https://www.wsj.com/opinion/marco-rubio-gets-to-the-heart-of-the-matter-e3ef6472",
+      "title": "Marco Rubio Gets to the Heart of the Matter",
+      "content_text": "Marco Rubio Gets to the Heart of the Matter",
+      "summary": "",
+      "date_published": "2026-10-07T23:40:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "36ed686dec12049d",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-07-2026/card/china-is-bucking-the-entire-global-trend-on-bond-yields-nhfZlR5lqG9W0FspPSvw",
+      "title": "China ‘Is Bucking the Entire Global Trend’ on Bond Yields",
+      "content_text": "China ‘Is Bucking the Entire Global Trend’ on Bond Yields",
+      "summary": "",
+      "date_published": "2026-10-07T23:16:46+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "c01bf9d623c8d75f",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-07-2026/card/ripple-becoming-a-player-in-financing-leveraged-etfs-UimJysJ743UstEDZjeqW",
+      "title": "Ripple Becoming a Player in Financing Leveraged ETFs",
+      "content_text": "Ripple Becoming a Player in Financing Leveraged ETFs",
+      "summary": "",
+      "date_published": "2026-10-07T23:04:56+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "13c31ead41346f7c",
+      "url": "https://www.wsj.com/world/europe/the-spy-crisis-that-threatens-to-defang-germanys-top-intelligence-agency-1ec4c58e",
+      "title": "The Spy Crisis That Threatens to Defang Germany’s Top Intelligence Agency",
+      "content_text": "The Spy Crisis That Threatens to Defang Germany’s Top Intelligence Agency",
+      "summary": "",
+      "date_published": "2026-10-07T23:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "e1d01a87300dfc49",
+      "url": "https://www.wsj.com/tech/ai/fired-openai-researchers-ask-company-to-preserve-visibility-into-ai-reasoning-987c8c94",
+      "title": "Fired OpenAI Researchers Ask Company to Preserve Visibility Into AI Reasoning",
+      "content_text": "Fired OpenAI Researchers Ask Company to Preserve Visibility Into AI Reasoning",
+      "summary": "",
+      "date_published": "2026-10-07T22:43:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "99284363388c8178",
+      "url": "https://www.wsj.com/politics/policy/new-cdc-director-is-eager-to-change-its-culture-7f2319be",
+      "title": "New CDC Director Is Eager to Change Its Culture",
+      "content_text": "New CDC Director Is Eager to Change Its Culture",
+      "summary": "",
+      "date_published": "2026-10-07T22:35:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "a3426fe7aefcf467",
+      "url": "https://www.wsj.com/economy/trade/trumps-tariffs-put-a-spotlight-on-forced-labor-it-isnt-going-away-b5f68fda",
+      "title": "Trump’s Tariffs Put a Spotlight on Forced Labor. It Isn’t Going Away.",
+      "content_text": "Trump’s Tariffs Put a Spotlight on Forced Labor. It Isn’t Going Away.",
+      "summary": "",
+      "date_published": "2026-10-07T22:00:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "f20a3fd67e4d370d",
+      "url": "https://www.wsj.com/world/middle-east/houthis-escalate-attacks-on-saudi-airports-killing-3-and-wounding-dozens-f81ee1ca",
+      "title": "Houthis Escalate Attacks on Saudi Airports, Killing 3 and Wounding Dozens",
+      "content_text": "Houthis Escalate Attacks on Saudi Airports, Killing 3 and Wounding Dozens",
+      "summary": "",
+      "date_published": "2026-10-07T21:48:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "4b566ae88d6cfcb3",
+      "url": "https://www.wsj.com/politics/policy/bipartisan-duo-asks-lawmakers-to-pledge-theyll-accept-midterm-results-1f209fea",
+      "title": "Bipartisan Duo Asks Lawmakers to Pledge They’ll Accept Midterm Results",
+      "content_text": "Bipartisan Duo Asks Lawmakers to Pledge They’ll Accept Midterm Results",
+      "summary": "",
+      "date_published": "2026-10-07T21:46:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "dffc4a1c9fc50762",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-07-2026/card/-earnings-snippet-levi-strauss-vALJxVgdMPXG0rimXsX5",
+      "title": "📈 Earnings Snippet: Levi Strauss",
+      "content_text": "📈 Earnings Snippet: Levi Strauss",
+      "summary": "",
+      "date_published": "2026-10-07T21:43:49+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "0fecb8080bf2f860",
+      "url": "https://www.wsj.com/opinion/oct-7-zohran-mamdani-hamas-israel-gaza-2af180c3",
+      "title": "Celebrating Hamas on Oct. 7",
+      "content_text": "Celebrating Hamas on Oct. 7",
+      "summary": "",
+      "date_published": "2026-10-07T21:43:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "9d445a01124d705f",
+      "url": "https://www.wsj.com/opinion/anduril-industries-submarines-defense-3daccb8e",
+      "title": "Anduril’s Bet on U.S. Submarines",
+      "content_text": "Anduril’s Bet on U.S. Submarines",
+      "summary": "",
+      "date_published": "2026-10-07T21:38:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "b20fb8161921d29d",
+      "url": "https://www.wsj.com/opinion/maura-healey-massachusetts-pipelines-chris-wright-c6083f46",
+      "title": "Climate Reality Hits Massachusetts",
+      "content_text": "Climate Reality Hits Massachusetts",
+      "summary": "",
+      "date_published": "2026-10-07T21:36:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "01be623e2f2a81ae",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-07-2026/card/russell-2000-index-s-slump-deepens-qahACWqbhUxEItC6IZMm",
+      "title": "Russell 2000 Index’s Slump Deepens",
+      "content_text": "Russell 2000 Index’s Slump Deepens",
+      "summary": "",
+      "date_published": "2026-10-07T21:22:44+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "bc39050da7c27a71",
+      "url": "https://www.wsj.com/opinion/south-carolina-could-go-blue-d83701da",
+      "title": "South Carolina Could Go Blue",
+      "content_text": "South Carolina Could Go Blue",
+      "summary": "",
+      "date_published": "2026-10-07T21:19:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "0e97c9d9a499de71",
+      "url": "https://www.wsj.com/opinion/republicans-pray-for-a-polling-failure-a3379951",
+      "title": "Republicans Pray for a Polling Failure",
+      "content_text": "Republicans Pray for a Polling Failure",
+      "summary": "",
+      "date_published": "2026-10-07T21:18:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "28287901311d2be7",
+      "url": "https://www.wsj.com/opinion/let-physics-regulate-the-ai-industry-e1ee9084",
+      "title": "Let Physics Regulate the AI Industry",
+      "content_text": "Let Physics Regulate the AI Industry",
+      "summary": "",
+      "date_published": "2026-10-07T21:17:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "cd7b56e982467f8d",
+      "url": "https://www.wsj.com/finance/stocks/rising-rates-are-eroding-the-value-of-even-the-most-high-flying-tech-stocks-fb420a5e",
+      "title": "Rising Rates Are Eroding the Value of Even the Most High-Flying Tech Stocks",
+      "content_text": "Rising Rates Are Eroding the Value of Even the Most High-Flying Tech Stocks",
+      "summary": "",
+      "date_published": "2026-10-07T21:10:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "f4938279edc05087",
+      "url": "https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032",
+      "title": "Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips",
+      "content_text": "Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips",
+      "summary": "",
+      "date_published": "2026-10-07T21:01:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "a2a7260125802b0f",
+      "url": "https://www.wsj.com/politics/policy/guilfoyle-amex-donor-100-000-0e02cdc3",
+      "title": "‘Honey Please’: Kimberly Guilfoyle Pushed Donor to Wire $100,000 to Her Amex Account",
+      "content_text": "‘Honey Please’: Kimberly Guilfoyle Pushed Donor to Wire $100,000 to Her Amex Account",
+      "summary": "",
+      "date_published": "2026-10-07T20:53:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "f5a75621eba6b3a9",
+      "url": "https://www.wsj.com/finance/investing/ripple-cryptos-payments-giant-breaks-into-wall-street-7b506aa5",
+      "title": "Ripple, Crypto’s Payments Giant, Breaks Into Wall Street",
+      "content_text": "Ripple, Crypto’s Payments Giant, Breaks Into Wall Street",
+      "summary": "",
+      "date_published": "2026-10-07T20:52:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "8bf79762e17e5000",
+      "url": "https://www.wsj.com/finance/stocks/auction-action-calms-treasurys-1a49b93c",
+      "title": "Auction Action Calms Treasurys",
+      "content_text": "Auction Action Calms Treasurys",
+      "summary": "",
+      "date_published": "2026-10-07T20:50:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "946f265cd4fa0f86",
+      "url": "https://www.wsj.com/business/earnings/levi-strauss-raises-earnings-outlook-boosted-by-tariff-refunds-c8aa32a0",
+      "title": "Levi Strauss Uses Tariff Refunds to Rekindle Consumer Business",
+      "content_text": "Levi Strauss Uses Tariff Refunds to Rekindle Consumer Business",
+      "summary": "",
+      "date_published": "2026-10-07T20:47:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "96a20a1af0a277da",
+      "url": "https://www.wsj.com/politics/policy/lawmakers-want-colleagues-to-promise-theyll-accept-midterm-election-results-d987796b",
+      "title": "Lawmakers Want Colleagues to Promise They Will Accept Midterm Election Results",
+      "content_text": "Lawmakers Want Colleagues to Promise They Will Accept Midterm Election Results",
+      "summary": "",
+      "date_published": "2026-10-07T20:47:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "4df2f48c81f7001b",
       "url": "https://www.wsj.com/politics/policy/rubio-turns-to-ancient-greece-to-make-the-case-for-america-first-dc4bbb06",
       "title": "Rubio Turns to Ancient Greece to Make the Case for ‘America First’",
@@ -50,17 +446,6 @@
       ]
     },
     {
-      "id": "d82bf89418509ed3",
-      "url": "https://www.wsj.com/opinion/most-recycling-is-a-waste-091924e1",
-      "title": "Most Recycling Is a Waste",
-      "content_text": "Most Recycling Is a Waste",
-      "summary": "",
-      "date_published": "2026-10-07T20:00:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
       "id": "96acc6938c30705b",
       "url": "https://www.wsj.com/arts-culture/food-cooking/israeli-food-restaurants-miznon-adec3c5c",
       "title": "What a Schnitzel Sandwich Teaches Us About Israeli Food",
@@ -69,6 +454,17 @@
       "date_published": "2026-10-07T20:00:00+00:00",
       "tags": [
         "Arts Culture"
+      ]
+    },
+    {
+      "id": "d82bf89418509ed3",
+      "url": "https://www.wsj.com/opinion/most-recycling-is-a-waste-091924e1",
+      "title": "Most Recycling Is a Waste",
+      "content_text": "Most Recycling Is a Waste",
+      "summary": "",
+      "date_published": "2026-10-07T20:00:00+00:00",
+      "tags": [
+        "Opinion"
       ]
     },
     {
@@ -443,6 +839,50 @@
       "date_published": "2026-10-07T15:25:00+00:00",
       "tags": [
         "World"
+      ]
+    },
+    {
+      "id": "c710122ca520f964",
+      "url": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-weekly-drop-948f4817",
+      "title": "U.S. Crude Oil Stockpiles Post Weekly Drop",
+      "content_text": "U.S. Crude Oil Stockpiles Post Weekly Drop",
+      "summary": "",
+      "date_published": "2026-10-07T15:21:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "9d20d3ab788409e2",
+      "url": "https://www.wsj.com/world/europe/france-considers-issuing-more-shorter-term-debt-amid-bond-market-turmoil-db2966fd",
+      "title": "France Considers Issuing More Shorter-Term Debt After Bond-Market Turmoil",
+      "content_text": "France Considers Issuing More Shorter-Term Debt After Bond-Market Turmoil",
+      "summary": "",
+      "date_published": "2026-10-07T15:13:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "77c22ab1c24e5608",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-07-2026/card/the-wine-industry-is-dealing-with-its-oversupply-problem-DYWQqRiBhAPbLxqnfIiK",
+      "title": "The Wine Industry Is Dealing With Its Oversupply Problem",
+      "content_text": "The Wine Industry Is Dealing With Its Oversupply Problem",
+      "summary": "",
+      "date_published": "2026-10-07T15:06:49+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "2ebd3e60a0d3018d",
+      "url": "https://www.wsj.com/lifestyle/careers/how-a-reply-all-email-after-oct-7-ripped-an-office-apart-defbf455",
+      "title": "How a Reply-All Email After Oct. 7 Ripped an Office Apart",
+      "content_text": "How a Reply-All Email After Oct. 7 Ripped an Office Apart",
+      "summary": "",
+      "date_published": "2026-10-07T14:55:00+00:00",
+      "tags": [
+        "Lifestyle"
       ]
     },
     {
@@ -1763,446 +2203,6 @@
       "date_published": "2026-10-06T15:40:00+00:00",
       "tags": [
         "World"
-      ]
-    },
-    {
-      "id": "5fa482029bd0483e",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026/card/one-great-chart-u-s-goods-deficit-surges-YfPPOG5YZoHvEgcDZ37W",
-      "title": "One Great Chart: U.S. Goods Deficit Surges",
-      "content_text": "One Great Chart: U.S. Goods Deficit Surges",
-      "summary": "",
-      "date_published": "2026-10-06T15:30:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "e872a8b44bd21ae7",
-      "url": "https://www.wsj.com/real-estate/alice-cooper-devil-on-my-shoulder-b6af1570",
-      "title": "Alice Cooper Found Comfort in Making People Uncomfortable",
-      "content_text": "Alice Cooper Found Comfort in Making People Uncomfortable",
-      "summary": "",
-      "date_published": "2026-10-06T15:07:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "1a36d665c6c6fdaf",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026/card/what-s-moving-markets-today--9HT9vkXc0tGLK2QqiXjt",
-      "title": "What’s Moving Markets Today?",
-      "content_text": "What’s Moving Markets Today?",
-      "summary": "",
-      "date_published": "2026-10-06T14:55:53+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "cc1e47df51e397d3",
-      "url": "https://www.wsj.com/economy/trade/canadas-august-trade-surplus-widens-sharply-ahead-of-fresh-tariffs-48955372",
-      "title": "Canada’s August Trade Surplus Widens Sharply Ahead of Fresh Tariffs",
-      "content_text": "Canada’s August Trade Surplus Widens Sharply Ahead of Fresh Tariffs",
-      "summary": "",
-      "date_published": "2026-10-06T14:49:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "81256464de8a47b7",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026/card/wall-street-gets-some-good-news-on-bonuses-EqIHu3kUSAH2zGwG9fkG",
-      "title": "Wall Street Gets Some Good News on Bonuses",
-      "content_text": "Wall Street Gets Some Good News on Bonuses",
-      "summary": "",
-      "date_published": "2026-10-06T14:30:46+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "7c29e6d8e5ffb3de",
-      "url": "https://www.wsj.com/finance/wall-street-bonuses-are-expected-to-hit-another-high-this-year-d7dd453f",
-      "title": "Wall Street Bonuses Are Expected to Hit Another High This Year",
-      "content_text": "Wall Street Bonuses Are Expected to Hit Another High This Year",
-      "summary": "",
-      "date_published": "2026-10-06T14:07:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "10943968ccd7a0ef",
-      "url": "https://www.wsj.com/business/entrepreneurship/entrepreneurship-quiz-36e25154",
-      "title": "What Percentage of Small Firms Fail? Take Our Quiz About Entrepreneurs",
-      "content_text": "What Percentage of Small Firms Fail? Take Our Quiz About Entrepreneurs",
-      "summary": "",
-      "date_published": "2026-10-06T14:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "ea5098b81ab642fb",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026/card/s-p-on-track-to-hit-new-record-high-z0FL7jDFYfMGYt4iWNGu",
-      "title": "S&P 500 Hits New Record High",
-      "content_text": "S&P 500 Hits New Record High",
-      "summary": "",
-      "date_published": "2026-10-06T13:47:12+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "f2ce5f5b72d39433",
-      "url": "https://www.wsj.com/economy/trade/u-s-trade-deficit-widens-to-largest-level-in-more-than-a-year-32618af7",
-      "title": "U.S. Trade Deficit Widens to Largest Level in More Than a Year",
-      "content_text": "U.S. Trade Deficit Widens to Largest Level in More Than a Year",
-      "summary": "",
-      "date_published": "2026-10-06T13:26:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "339b64fe276ec1f8",
-      "url": "https://www.wsj.com/tech/ai/mistral-to-release-new-ai-model-to-better-compete-with-u-s-rivals-3f7c8a3d",
-      "title": "Mistral to Release New AI Model to Better Compete With U.S. Rivals",
-      "content_text": "Mistral to Release New AI Model to Better Compete With U.S. Rivals",
-      "summary": "",
-      "date_published": "2026-10-06T13:13:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "8327bc4d34126100",
-      "url": "https://www.wsj.com/business/deals/cd-r-mckesson-to-acquire-at-home-infusion-therapy-provider-for-5-8-billion-1beddf40",
-      "title": "CD&R, McKesson to Acquire At-Home Infusion Therapy Provider for $5.8 Billion",
-      "content_text": "CD&R, McKesson to Acquire At-Home Infusion Therapy Provider for $5.8 Billion",
-      "summary": "",
-      "date_published": "2026-10-06T13:10:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "009b19fe5ceb0b3b",
-      "url": "https://www.wsj.com/cio-journal/ai-cyber-pressure-is-on-the-rise-3181325c",
-      "title": "AI Cyber Pressure Is on the Rise",
-      "content_text": "AI Cyber Pressure Is on the Rise",
-      "summary": "",
-      "date_published": "2026-10-06T13:07:00+00:00",
-      "tags": [
-        "Cio Journal"
-      ]
-    },
-    {
-      "id": "f4588a5e313cd546",
-      "url": "https://www.wsj.com/cmo-today/john-cena-pitches-wind-and-solar-power-in-new-consumer-ad-campaign-5c891aa4",
-      "title": "John Cena Pitches Wind and Solar Power in New Consumer Ad Campaign",
-      "content_text": "John Cena Pitches Wind and Solar Power in New Consumer Ad Campaign",
-      "summary": "",
-      "date_published": "2026-10-06T13:06:00+00:00",
-      "tags": [
-        "Cmo Today"
-      ]
-    },
-    {
-      "id": "c2ee92b8ec0cb221",
-      "url": "https://www.wsj.com/business/media/emmy-awards-will-leave-broadcast-tv-for-amazons-prime-video-0c92fad5",
-      "title": "Emmy Awards Will Leave Broadcast TV for Amazon’s Prime Video",
-      "content_text": "Emmy Awards Will Leave Broadcast TV for Amazon’s Prime Video",
-      "summary": "",
-      "date_published": "2026-10-06T13:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "eb640ba31c9daa13",
-      "url": "https://www.wsj.com/economy/central-banking/why-weaning-markets-off-fed-speak-is-harder-than-it-sounds-d202aefb",
-      "title": "Why Weaning Markets Off Fed Speak Is Harder Than It Sounds",
-      "content_text": "Why Weaning Markets Off Fed Speak Is Harder Than It Sounds",
-      "summary": "",
-      "date_published": "2026-10-06T13:00:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "4aabe5759574c967",
-      "url": "https://www.wsj.com/business/uber-to-acquire-business-catering-platform-ezcater-for-2-3-billion-9d501195",
-      "title": "Uber to Expand Uber Eats Service with $2.3 Billion Acquisition of Catering Platform",
-      "content_text": "Uber to Expand Uber Eats Service with $2.3 Billion Acquisition of Catering Platform",
-      "summary": "",
-      "date_published": "2026-10-06T12:47:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "55ab5cb178c1030c",
-      "url": "https://www.wsj.com/business/earnings/lamb-weston-lifts-fiscal-2027-outlook-6dcf3dcc",
-      "title": "Lamb Weston Says Cost-Saving Efforts Are Paying Off",
-      "content_text": "Lamb Weston Says Cost-Saving Efforts Are Paying Off",
-      "summary": "",
-      "date_published": "2026-10-06T12:45:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "449132d3178bcbef",
-      "url": "https://www.wsj.com/business/energy-oil/energy-transfer-to-acquire-vaquero-midstream-for-2-63-billion-79c90c47",
-      "title": "Energy Transfer to Acquire Vaquero Midstream for $2.63 Billion",
-      "content_text": "Energy Transfer to Acquire Vaquero Midstream for $2.63 Billion",
-      "summary": "",
-      "date_published": "2026-10-06T12:26:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "f9f9262c952f6cb7",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026/card/constellation-energy-google-strike-nuclear-deal-hIw5hpEQ5v0n9SkTZXMt",
-      "title": "Constellation Energy, Google Strike Nuclear Deal",
-      "content_text": "Constellation Energy, Google Strike Nuclear Deal",
-      "summary": "",
-      "date_published": "2026-10-06T11:46:22+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "3dde95e375916427",
-      "url": "https://www.wsj.com/cfo-journal/plaids-cfo-on-her-first-year-and-moving-past-onesie-twosie-ai-experiments-a561f2a8",
-      "title": "Plaid’s CFO on Her First Year, and Moving Past ‘Onesie-Twosie’ AI Experiments",
-      "content_text": "Plaid’s CFO on Her First Year, and Moving Past ‘Onesie-Twosie’ AI Experiments",
-      "summary": "",
-      "date_published": "2026-10-06T11:39:00+00:00",
-      "tags": [
-        "Cfo Journal"
-      ]
-    },
-    {
-      "id": "6c16627350b43e2e",
-      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-cea218bb",
-      "title": "Health Care Roundup: Market Talk",
-      "content_text": "Health Care Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-10-06T11:30:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "fb51b2701c52618a",
-      "url": "https://www.wsj.com/tech/becton-dickinson-to-invest-19-billion-in-u-s-in-exchange-for-tariff-relief-a7d3dd75",
-      "title": "Becton Dickinson to Invest $19 Billion in U.S. in Exchange for Tariff Relief",
-      "content_text": "Becton Dickinson to Invest $19 Billion in U.S. in Exchange for Tariff Relief",
-      "summary": "",
-      "date_published": "2026-10-06T11:28:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "34690631a3883d80",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-ai-risks-and-trade-tensions-in-focus-at-singapore-summit-c4acc8f0",
-      "title": "The Morning Risk Report: AI Risks and Trade Tensions in Focus at Singapore Summit",
-      "content_text": "The Morning Risk Report: AI Risks and Trade Tensions in Focus at Singapore Summit",
-      "summary": "",
-      "date_published": "2026-10-06T11:24:00+00:00",
-      "tags": [
-        "Risk Compliance Journal"
-      ]
-    },
-    {
-      "id": "cb806c521dc90f6c",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-77d30c0b",
-      "title": "Auto & Transport Roundup: Market Talk",
-      "content_text": "Auto & Transport Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-10-06T11:24:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "9a508811ff9f70da",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026/card/tech-powers-s-p-500-close-to-records-Gnu1l3QmT6Z3mdM92LJY",
-      "title": "Tech Powers S&P 500 Close to Records",
-      "content_text": "Tech Powers S&P 500 Close to Records",
-      "summary": "",
-      "date_published": "2026-10-06T11:21:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "d1b60175f13b95cc",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026/card/oil-prices-fall-as-middle-east-exports-recover-KSjLfsVNly7zofTiKE3B",
-      "title": "Oil Prices Fall as Middle East Exports Recover",
-      "content_text": "Oil Prices Fall as Middle East Exports Recover",
-      "summary": "",
-      "date_published": "2026-10-06T11:16:41+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "55e19f4aaf629405",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-ee3de59c",
-      "title": "Basic Materials Roundup: Market Talk",
-      "content_text": "Basic Materials Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-10-06T11:16:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "f90e717886c0b370",
-      "url": "https://www.wsj.com/logistics-report/freight-broker-c-h-robinson-to-buy-smaller-rival-rxo-33b9989d",
-      "title": "Freight Broker C.H. Robinson to Buy Smaller Rival RXO",
-      "content_text": "Freight Broker C.H. Robinson to Buy Smaller Rival RXO",
-      "summary": "",
-      "date_published": "2026-10-06T11:12:00+00:00",
-      "tags": [
-        "Logistics Report"
-      ]
-    },
-    {
-      "id": "d38d3eb291d1bfa2",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-6799c94c",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "content_text": "Energy & Utilities Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-10-06T11:09:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "87ea892bb8f106d4",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-ac617391",
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-10-06T11:03:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "430bacb261dec3d9",
-      "url": "https://www.wsj.com/sports/baseball/ray-kerr-braves-nlds-630885b5",
-      "title": "He Used to Stock Shelves at 7-Eleven. Now He’s Striking Out Shohei Ohtani.",
-      "content_text": "He Used to Stock Shelves at 7-Eleven. Now He’s Striking Out Shohei Ohtani.",
-      "summary": "",
-      "date_published": "2026-10-06T11:00:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "572db84265605e0e",
-      "url": "https://www.wsj.com/lifestyle/travel/aspen-airport-renovation-13bd5a7b",
-      "title": "Aspen’s Airport Renovation Has Become a Fight for the City’s Future",
-      "content_text": "Aspen’s Airport Renovation Has Become a Fight for the City’s Future",
-      "summary": "",
-      "date_published": "2026-10-06T11:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "e08e73ba233c9a33",
-      "url": "https://www.wsj.com/arts-culture/books/fiction-music-against-the-night-by-yiyun-li-0aab0b54",
-      "title": "Fiction: ‘Music Against the Night’ by Yiyun Li",
-      "content_text": "Fiction: ‘Music Against the Night’ by Yiyun Li",
-      "summary": "",
-      "date_published": "2026-10-06T11:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "759ab6f11f1606ea",
-      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-7d4470f5",
-      "title": "Financial Services Roundup: Market Talk",
-      "content_text": "Financial Services Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-10-06T10:56:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "3e85508e076f78e0",
-      "url": "https://www.wsj.com/world/china/chinas-burned-out-young-are-finding-something-unexpected-in-mao-eff59d4b",
-      "title": "China’s Burned-Out Young Are Finding Something Unexpected in Mao",
-      "content_text": "China’s Burned-Out Young Are Finding Something Unexpected in Mao",
-      "summary": "",
-      "date_published": "2026-10-06T10:55:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "f6d9bdc390e6ebca",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026/card/france-s-debt-bomb-9tAmtG2UfJbTX6NXs1jr",
-      "title": "France’s Debt Bomb",
-      "content_text": "France’s Debt Bomb",
-      "summary": "",
-      "date_published": "2026-10-06T09:14:34+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "bbd68c8dd2dd63e8",
-      "url": "https://www.wsj.com/finance/commodities-futures/nyse-owner-launches-gold-futures-in-london-cff6c7db",
-      "title": "NYSE Owner Launches Gold Futures in London",
-      "content_text": "NYSE Owner Launches Gold Futures in London",
-      "summary": "",
-      "date_published": "2026-10-06T09:13:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "aa10fcd222e72534",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026/card/fed-minutes-pepsi-and-delta-earnings-what-to-watch-this-week-jhQItrmIRL5yzYOv6b1y",
-      "title": "Fed Minutes, Pepsi and Delta Earnings: What to Watch This Week",
-      "content_text": "Fed Minutes, Pepsi and Delta Earnings: What to Watch This Week",
-      "summary": "",
-      "date_published": "2026-10-06T08:45:16+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "da2d6a47f30acd16",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026/card/one-great-chart-the-diesel-dilemma-sR0nGLw5CcjL3IyUQF4A",
-      "title": "One Great Chart: The Diesel Dilemma",
-      "content_text": "One Great Chart: The Diesel Dilemma",
-      "summary": "",
-      "date_published": "2026-10-06T08:45:10+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "53a6a674f3d7e869",
-      "url": "https://www.wsj.com/health/pharma/genmab-shares-climb-after-positive-study-results-for-blood-cancer-drug-c444693f",
-      "title": "Genmab Shares Climb After Positive Study Results for Blood-Cancer Drug",
-      "content_text": "Genmab Shares Climb After Positive Study Results for Blood-Cancer Drug",
-      "summary": "",
-      "date_published": "2026-10-06T08:35:00+00:00",
-      "tags": [
-        "Health"
       ]
     }
   ]
