@@ -6,43 +6,153 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "c7e480583f8ad0fd",
-      "url": "https://www.wsj.com/news/business/small-business-marketing",
-      "title": "Small business marketing",
-      "content_text": "Small business marketing",
+      "id": "0fc9393aa3530ae3",
+      "url": "https://www.wsj.com/economy/trade/german-exports-fall-further-651601c8",
+      "title": "German Exports Fall Further",
+      "content_text": "German Exports Fall Further",
       "summary": "",
-      "date_published": "2026-10-08T00:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "a2c51ea641c8e80c",
-      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
-      "title": "Economic forecasting survey archive",
-      "content_text": "Economic forecasting survey archive",
-      "summary": "",
-      "date_published": "2026-10-08T00:00:19+00:00",
+      "date_published": "2026-10-08T06:25:00+00:00",
       "tags": [
         "Economy"
       ]
     },
     {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
+      "id": "22e986f49feff20b",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-47cbe13d",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
       "summary": "",
-      "date_published": "2026-10-08T00:00:19+00:00",
+      "date_published": "2026-10-08T04:00:00+00:00",
       "tags": [
-        "News"
+        "Opinion"
       ]
     },
     {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
+      "id": "63da687f55a700be",
+      "url": "https://www.wsj.com/articles/whats-news-worldwide-1d313c6e",
+      "title": "What’s News: Worldwide",
+      "content_text": "What’s News: Worldwide",
+      "summary": "",
+      "date_published": "2026-10-08T03:16:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "259316cc4375e09a",
+      "url": "https://www.wsj.com/world/europe/spains-leader-pins-political-survival-on-public-anger-over-housing-crisis-91438a7a",
+      "title": "Spain’s Leader Pins Political Survival on Public Anger Over Housing Crisis",
+      "content_text": "Spain’s Leader Pins Political Survival on Public Anger Over Housing Crisis",
+      "summary": "",
+      "date_published": "2026-10-08T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "2133e3c5d5440049",
+      "url": "https://www.wsj.com/politics/elections/democrats-expect-to-win-the-house-heres-their-to-do-list-4e5976d8",
+      "title": "Democrats Expect to Win the House. Here’s Their To-Do List.",
+      "content_text": "Democrats Expect to Win the House. Here’s Their To-Do List.",
+      "summary": "",
+      "date_published": "2026-10-08T01:44:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "1fbf364dd4f5f1e3",
+      "url": "https://www.wsj.com/business/airlines/rogue-pilots-have-become-one-of-the-biggest-threats-to-airline-safety-d4932855",
+      "title": "Rogue Pilots Have Become One of the Biggest Threats to Airline Safety",
+      "content_text": "Rogue Pilots Have Become One of the Biggest Threats to Airline Safety",
+      "summary": "",
+      "date_published": "2026-10-08T01:33:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "76298a4dca04f527",
+      "url": "https://www.wsj.com/world/suspected-iranian-drone-plot-raises-security-questions-at-u-k-bases-8c979b1f",
+      "title": "Suspected Iranian Drone Plot Raises Security Questions at U.K. Bases",
+      "content_text": "Suspected Iranian Drone Plot Raises Security Questions at U.K. Bases",
+      "summary": "",
+      "date_published": "2026-10-08T01:15:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "ddf0704068731cac",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-safe-haven-demand-for-greenback-53e90b78",
+      "title": "Singapore Dollar Consolidates; Higher Oil Prices May Weigh",
+      "content_text": "Singapore Dollar Consolidates; Higher Oil Prices May Weigh",
+      "summary": "",
+      "date_published": "2026-10-08T01:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "bcdf00734e4d642c",
+      "url": "https://www.wsj.com/lifestyle/careers/the-race-is-already-on-for-next-summers-50-000-internships-3db6f96e",
+      "title": "The Race Is Already on for Next Summer’s $50,000 Internships",
+      "content_text": "The Race Is Already on for Next Summer’s $50,000 Internships",
+      "summary": "",
+      "date_published": "2026-10-08T01:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "deb4115a5b7b53f1",
+      "url": "https://www.wsj.com/finance/jgbs-rise-amid-possible-position-adjustments-f7c68bb1",
+      "title": "Yield Curves Aren’t Especially Steep",
+      "content_text": "Yield Curves Aren’t Especially Steep",
+      "summary": "",
+      "date_published": "2026-10-08T00:56:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "e940c76546121635",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-higher-yields-stronger-dollar-weigh-0759a7e8",
+      "title": "Gold Falls as Higher Yields, Stronger Dollar Weigh",
+      "content_text": "Gold Falls as Higher Yields, Stronger Dollar Weigh",
+      "summary": "",
+      "date_published": "2026-10-08T00:50:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "204ecc585bc59992",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-rising-mideast-tensions-3cd98941",
+      "title": "Oil Rises Amid Rising Mideast Tensions",
+      "content_text": "Oil Rises Amid Rising Mideast Tensions",
+      "summary": "",
+      "date_published": "2026-10-08T00:36:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "a0f500ed0c39e637",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-7-dragged-by-machinery-makers-trading-houses-934df698",
+      "title": "Nikkei Falls 0.7%, Dragged by Machinery Makers, Trading Houses",
+      "content_text": "Nikkei Falls 0.7%, Dragged by Machinery Makers, Trading Houses",
+      "summary": "",
+      "date_published": "2026-10-08T00:34:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
       "summary": "",
       "date_published": "2026-10-08T00:00:19+00:00",
       "tags": [
@@ -61,21 +171,10 @@
       ]
     },
     {
-      "id": "6cf8b3cf7c4b5fd3",
-      "url": "https://www.wsj.com/news/types/cultural-conversation",
-      "title": "Cultural conversation",
-      "content_text": "Cultural conversation",
-      "summary": "",
-      "date_published": "2026-10-08T00:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
       "summary": "",
       "date_published": "2026-10-08T00:00:19+00:00",
       "tags": [
@@ -94,14 +193,47 @@
       ]
     },
     {
-      "id": "c1d3ce7f0f4e72fa",
-      "url": "https://www.wsj.com/economy/consumers/inflation-midterm-election-2026-0f809bec",
-      "title": "What Six Years of Inflation Mean for the Midterms",
-      "content_text": "What Six Years of Inflation Mean for the Midterms",
+      "id": "6cf8b3cf7c4b5fd3",
+      "url": "https://www.wsj.com/news/types/cultural-conversation",
+      "title": "Cultural conversation",
+      "content_text": "Cultural conversation",
       "summary": "",
-      "date_published": "2026-10-08T00:00:00+00:00",
+      "date_published": "2026-10-08T00:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-10-08T00:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-10-08T00:00:19+00:00",
       "tags": [
         "Economy"
+      ]
+    },
+    {
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
+      "summary": "",
+      "date_published": "2026-10-08T00:00:19+00:00",
+      "tags": [
+        "News"
       ]
     },
     {
@@ -113,6 +245,17 @@
       "date_published": "2026-10-08T00:00:00+00:00",
       "tags": [
         "Tech"
+      ]
+    },
+    {
+      "id": "c1d3ce7f0f4e72fa",
+      "url": "https://www.wsj.com/economy/consumers/inflation-midterm-election-2026-0f809bec",
+      "title": "What Six Years of Inflation Mean for the Midterms",
+      "content_text": "What Six Years of Inflation Mean for the Midterms",
+      "summary": "",
+      "date_published": "2026-10-08T00:00:00+00:00",
+      "tags": [
+        "Economy"
       ]
     },
     {
@@ -883,6 +1026,17 @@
       "date_published": "2026-10-07T14:55:00+00:00",
       "tags": [
         "Lifestyle"
+      ]
+    },
+    {
+      "id": "0ea2cd75bc000b35",
+      "url": "https://www.wsj.com/opinion/a-campus-tilted-blue-0a4f1d4b",
+      "title": "‘A Campus Tilted Blue’",
+      "content_text": "‘A Campus Tilted Blue’",
+      "summary": "",
+      "date_published": "2026-10-07T14:54:00+00:00",
+      "tags": [
+        "Opinion"
       ]
     },
     {
@@ -2047,160 +2201,6 @@
       "content_text": "Inside the Albanian Village Fighting a Jared Kushner-Backed Luxury Resort",
       "summary": "",
       "date_published": "2026-10-06T18:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "81d00f7bbb535ca3",
-      "url": "https://www.wsj.com/politics/elections/embattled-rep-max-miller-tests-gop-loyalty-after-abuse-allegations-74bc3abe",
-      "title": "Embattled Congressman Gets GOP Lift After Abuse Allegations",
-      "content_text": "Embattled Congressman Gets GOP Lift After Abuse Allegations",
-      "summary": "",
-      "date_published": "2026-10-06T17:55:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "4c11ee89f459e17f",
-      "url": "https://www.wsj.com/business/energy-oil/google-and-constellation-energy-strike-a-sweeping-nuclear-power-deal-4287b372",
-      "title": "Google and Constellation Energy Strike a Sweeping Nuclear-Power Deal",
-      "content_text": "Google and Constellation Energy Strike a Sweeping Nuclear-Power Deal",
-      "summary": "",
-      "date_published": "2026-10-06T17:10:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "7ca5b64bdbad3f7e",
-      "url": "https://www.wsj.com/world/the-silent-electronic-battleground-shaping-the-future-of-warfare-c2da7abe",
-      "title": "The Silent Electronic Battleground Shaping the Future of Warfare",
-      "content_text": "The Silent Electronic Battleground Shaping the Future of Warfare",
-      "summary": "",
-      "date_published": "2026-10-06T16:59:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "a938dde8ffa24179",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026/card/jamie-dimon-says-anthropic-s-mythos-model-raises-cyber-risks-4A8jNl4JvOE8GlUHVkT7",
-      "title": "Jamie Dimon Says Anthropic’s Mythos Model Raises Cyber Risks",
-      "content_text": "Jamie Dimon Says Anthropic’s Mythos Model Raises Cyber Risks",
-      "summary": "",
-      "date_published": "2026-10-06T16:55:42+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "02203fbe83f9272e",
-      "url": "https://www.wsj.com/health/russia-plague-lab-death-risk-76f6de11",
-      "title": "What We Know About the Death of the Russian Plague-Lab Worker",
-      "content_text": "What We Know About the Death of the Russian Plague-Lab Worker",
-      "summary": "",
-      "date_published": "2026-10-06T16:52:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "7e46b15b42b2ecd1",
-      "url": "https://www.wsj.com/world/u-s-looks-to-iceland-as-it-expands-military-footprint-in-arctic-aa6420e6",
-      "title": "U.S. Looks to Iceland as It Expands Military Footprint in Arctic",
-      "content_text": "U.S. Looks to Iceland as It Expands Military Footprint in Arctic",
-      "summary": "",
-      "date_published": "2026-10-06T16:51:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "75d0f1bec25dc87d",
-      "url": "https://www.wsj.com/tech/ai/ai-neocloud-lambda-is-raising-4-billion-in-final-round-before-planned-ipo-568182f9",
-      "title": "AI-Computing Startup Lambda Is Raising $4 Billion in Final Round Before Planned IPO",
-      "content_text": "AI-Computing Startup Lambda Is Raising $4 Billion in Final Round Before Planned IPO",
-      "summary": "",
-      "date_published": "2026-10-06T16:45:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "3268132453e41730",
-      "url": "https://www.wsj.com/world/india/india-voter-list-purge-draws-growing-backlash-e54ec306",
-      "title": "India Voter-List Purge Draws Growing Backlash",
-      "content_text": "India Voter-List Purge Draws Growing Backlash",
-      "summary": "",
-      "date_published": "2026-10-06T16:44:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "e63cef0864d94772",
-      "url": "https://www.wsj.com/opinion/how-big-a-midterm-win-for-the-democrats-dc5b1388",
-      "title": "How Big a Midterm Win for the Democrats?",
-      "content_text": "How Big a Midterm Win for the Democrats?",
-      "summary": "",
-      "date_published": "2026-10-06T16:11:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "534d749df7e0c05a",
-      "url": "https://www.wsj.com/opinion/what-i-saw-on-oct-7-leadership-and-israels-greatest-generation-cf3b7e3b",
-      "title": "What I Saw on Oct. 7: Leadership and Israel’s Greatest Generation",
-      "content_text": "What I Saw on Oct. 7: Leadership and Israel’s Greatest Generation",
-      "summary": "",
-      "date_published": "2026-10-06T16:02:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "d280191fc416f87a",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026/card/treasury-selloff-eases-as-investors-await-auctions-1OjN0HSknoHUHV6UR7cv",
-      "title": "Treasury Selloff Eases as Investors Await Auctions",
-      "content_text": "Treasury Selloff Eases as Investors Await Auctions",
-      "summary": "",
-      "date_published": "2026-10-06T16:00:59+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "2dda7b393e73f67d",
-      "url": "https://www.wsj.com/tech/ai/a-data-center-crunch-is-coming-58fcad64",
-      "title": "A Data-Center Crunch is Coming",
-      "content_text": "A Data-Center Crunch is Coming",
-      "summary": "",
-      "date_published": "2026-10-06T16:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "6bf584b525b9846f",
-      "url": "https://www.wsj.com/sports/football/harvard-coach-andrew-aurich-hail-mary-0fa0e3a9",
-      "title": "The Harvard Football Coach Who Hacked the Hail Mary",
-      "content_text": "The Harvard Football Coach Who Hacked the Hail Mary",
-      "summary": "",
-      "date_published": "2026-10-06T16:00:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "e0327b63422636d8",
-      "url": "https://www.wsj.com/world/africa/ebola-patient-boarded-commercial-flight-died-shortly-after-arrival-81690b60",
-      "title": "Ebola Patient Boarded Commercial Flight, Died Shortly After Arrival",
-      "content_text": "Ebola Patient Boarded Commercial Flight, Died Shortly After Arrival",
-      "summary": "",
-      "date_published": "2026-10-06T15:40:00+00:00",
       "tags": [
         "World"
       ]
