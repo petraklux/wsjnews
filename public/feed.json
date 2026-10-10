@@ -6,6 +6,61 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "80b8b697765a24e5",
+      "url": "https://www.wsj.com/us-news/christa-pike-discharged-from-hospital-after-surviving-execution-attempt-a72f02d7",
+      "title": "Christa Pike Discharged From Hospital After Surviving Execution Attempt",
+      "content_text": "Christa Pike Discharged From Hospital After Surviving Execution Attempt",
+      "summary": "",
+      "date_published": "2026-10-10T18:16:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "f5d830907aaa8184",
+      "url": "https://www.wsj.com/politics/policy/national-security-conspiracy-trump-doj-53593ef9",
+      "title": "The Conspiracy Probe of Trump Foes Is Faltering",
+      "content_text": "The Conspiracy Probe of Trump Foes Is Faltering",
+      "summary": "",
+      "date_published": "2026-10-10T18:10:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "ad9e30f354c8c941",
+      "url": "https://www.wsj.com/politics/policy/at-davos-kimberly-guilfoyle-boasted-of-private-jet-trips-luxury-stays-d6602442",
+      "title": "At Davos, Kimberly Guilfoyle Boasted of Private Jet Trips, Luxury Stays",
+      "content_text": "At Davos, Kimberly Guilfoyle Boasted of Private Jet Trips, Luxury Stays",
+      "summary": "",
+      "date_published": "2026-10-10T18:08:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "3a3c8607837b0cba",
+      "url": "https://www.wsj.com/business/retail/how-a-western-consumer-giant-is-thriving-on-chinas-social-media-shoppers-386dccc3",
+      "title": "How a Western Consumer Giant Is Thriving on China’s Social-Media Shoppers",
+      "content_text": "How a Western Consumer Giant Is Thriving on China’s Social-Media Shoppers",
+      "summary": "",
+      "date_published": "2026-10-10T18:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "f19895093d1434ff",
+      "url": "https://www.wsj.com/us-news/americas-gig-workers-turn-to-an-old-school-union-6003e38d",
+      "title": "America’s Gig Workers Turn to an Old-School Union",
+      "content_text": "America’s Gig Workers Turn to an Old-School Union",
+      "summary": "",
+      "date_published": "2026-10-10T17:00:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
       "id": "743bbaae247a221c",
       "url": "https://www.wsj.com/world/middle-east/iran-backed-houthis-hit-saudi-capitals-airport-in-damaging-new-attack-d4c12236",
       "title": "Iran-Backed Houthis Hit Saudi Capital’s Airport in Damaging New Attack",
@@ -116,6 +171,17 @@
       ]
     },
     {
+      "id": "1d753bfdf23e2c96",
+      "url": "https://www.wsj.com/articles/the-wall-street-journal-guide-to-theater-airdigital-8fa6c6a9",
+      "title": "The Wall Street Journal Guide to Theater",
+      "content_text": "The Wall Street Journal Guide to Theater",
+      "summary": "",
+      "date_published": "2026-10-10T11:00:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "408484e1b575b10a",
       "url": "https://www.wsj.com/lifestyle/relationships/is-your-grown-child-pulling-away-these-are-the-early-signs-of-estrangement-3b610bce",
       "title": "Is Your Grown Child Pulling Away? These Are the Early Signs of Estrangement",
@@ -124,17 +190,6 @@
       "date_published": "2026-10-10T11:00:00+00:00",
       "tags": [
         "Lifestyle"
-      ]
-    },
-    {
-      "id": "bcae3f98790d6b36",
-      "url": "https://www.wsj.com/sports/the-breakout-marathon-star-who-trains-on-a-planet-fitness-treadmill-6f422543",
-      "title": "The Breakout Marathon Star Who Trains on a Planet Fitness Treadmill",
-      "content_text": "The Breakout Marathon Star Who Trains on a Planet Fitness Treadmill",
-      "summary": "",
-      "date_published": "2026-10-10T11:00:00+00:00",
-      "tags": [
-        "Sports"
       ]
     },
     {
@@ -149,14 +204,14 @@
       ]
     },
     {
-      "id": "1d753bfdf23e2c96",
-      "url": "https://www.wsj.com/articles/the-wall-street-journal-guide-to-theater-airdigital-8fa6c6a9",
-      "title": "The Wall Street Journal Guide to Theater",
-      "content_text": "The Wall Street Journal Guide to Theater",
+      "id": "bcae3f98790d6b36",
+      "url": "https://www.wsj.com/sports/the-breakout-marathon-star-who-trains-on-a-planet-fitness-treadmill-6f422543",
+      "title": "The Breakout Marathon Star Who Trains on a Planet Fitness Treadmill",
+      "content_text": "The Breakout Marathon Star Who Trains on a Planet Fitness Treadmill",
       "summary": "",
       "date_published": "2026-10-10T11:00:00+00:00",
       "tags": [
-        "Front Page"
+        "Sports"
       ]
     },
     {
@@ -2146,61 +2201,6 @@
       "content_text": "Preventing Hazing Requires Institutional Transformation",
       "summary": "",
       "date_published": "2026-10-08T19:25:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "1f26ac52350671dd",
-      "url": "https://www.wsj.com/opinion/price-controls-are-harmful-c3fc3c4d",
-      "title": "Price Controls Are Harmful",
-      "content_text": "Price Controls Are Harmful",
-      "summary": "",
-      "date_published": "2026-10-08T19:24:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "6a2f6cf8dc1bfeee",
-      "url": "https://www.wsj.com/opinion/buckle-up-for-a-democratic-house-73b89e07",
-      "title": "Buckle Up for a Democratic House",
-      "content_text": "Buckle Up for a Democratic House",
-      "summary": "",
-      "date_published": "2026-10-08T19:20:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "53c0e9f055a0975c",
-      "url": "https://www.wsj.com/opinion/the-jewish-way-of-grieving-981ee981",
-      "title": "The Jewish Way of Grieving",
-      "content_text": "The Jewish Way of Grieving",
-      "summary": "",
-      "date_published": "2026-10-08T19:16:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "d382e41660fb0760",
-      "url": "https://www.wsj.com/opinion/riots-in-france-they-could-happen-here-bb4ce01a",
-      "title": "Riots in France? They Could Happen Here",
-      "content_text": "Riots in France? They Could Happen Here",
-      "summary": "",
-      "date_published": "2026-10-08T19:16:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "77b03b4dd12aeb83",
-      "url": "https://www.wsj.com/opinion/politics-starts-with-growing-up-31739f48",
-      "title": "Politics Starts With Growing Up",
-      "content_text": "Politics Starts With Growing Up",
-      "summary": "",
-      "date_published": "2026-10-08T19:14:00+00:00",
       "tags": [
         "Opinion"
       ]
