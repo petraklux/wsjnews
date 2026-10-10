@@ -6,43 +6,76 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "c7e480583f8ad0fd",
-      "url": "https://www.wsj.com/news/business/small-business-marketing",
-      "title": "Small business marketing",
-      "content_text": "Small business marketing",
+      "id": "3d1e27a4086b118c",
+      "url": "https://www.wsj.com/finance/at-robinhoods-mecca-for-risk-loving-traders-everyone-has-a-tale-of-getting-rich-f960d8c2",
+      "title": "At Robinhood’s Mecca for Risk-Loving Traders, Everyone Has a Tale of Getting Rich",
+      "content_text": "At Robinhood’s Mecca for Risk-Loving Traders, Everyone Has a Tale of Getting Rich",
       "summary": "",
-      "date_published": "2026-10-09T23:00:19+00:00",
+      "date_published": "2026-10-10T02:00:00+00:00",
       "tags": [
-        "News"
+        "Finance"
       ]
     },
     {
-      "id": "a2c51ea641c8e80c",
-      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
-      "title": "Economic forecasting survey archive",
-      "content_text": "Economic forecasting survey archive",
+      "id": "44559c5f3d8e80cd",
+      "url": "https://www.wsj.com/world/middle-east/houthis-bombard-saudi-air-links-in-effort-to-cut-kingdom-off-from-rest-of-world-1f8f55f9",
+      "title": "Houthis Bombard Saudi Air Links in Effort to Cut Kingdom Off From Rest of World",
+      "content_text": "Houthis Bombard Saudi Air Links in Effort to Cut Kingdom Off From Rest of World",
       "summary": "",
-      "date_published": "2026-10-09T23:00:19+00:00",
+      "date_published": "2026-10-10T02:00:00+00:00",
       "tags": [
-        "Economy"
+        "World"
       ]
     },
     {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
+      "id": "8c4a47f1d11a5e51",
+      "url": "https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9",
+      "title": "The Desperate Hunt for AI Computing Power Is Upending Silicon Valley",
+      "content_text": "The Desperate Hunt for AI Computing Power Is Upending Silicon Valley",
       "summary": "",
-      "date_published": "2026-10-09T23:00:19+00:00",
+      "date_published": "2026-10-10T01:00:00+00:00",
       "tags": [
-        "News"
+        "Tech"
       ]
     },
     {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
+      "id": "9486a8db6e3f066d",
+      "url": "https://www.wsj.com/politics/elections/trump-midterm-election-strategy-e4cfea75",
+      "title": "Trump’s Hit-the-Road Strategy Aims to Stave Off Republican Midterm Losses",
+      "content_text": "Trump’s Hit-the-Road Strategy Aims to Stave Off Republican Midterm Losses",
+      "summary": "",
+      "date_published": "2026-10-10T01:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "06e3ad140361233a",
+      "url": "https://www.wsj.com/politics/elections/kamala-harriss-husband-privately-says-he-doesnt-want-her-to-run-for-president-again-4329fba6",
+      "title": "Kamala Harris’s Husband Privately Says He Doesn’t Want Her to Run for President Again",
+      "content_text": "Kamala Harris’s Husband Privately Says He Doesn’t Want Her to Run for President Again",
+      "summary": "",
+      "date_published": "2026-10-10T00:28:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "c0a3043e0255ceff",
+      "url": "https://www.wsj.com/arts-culture/film/tom-cruise-digger-oscar-d88eb58a",
+      "title": "Tom Cruise Was Going Full Tilt for His First Oscar. Then ‘Digger’ Flopped.",
+      "content_text": "Tom Cruise Was Going Full Tilt for His First Oscar. Then ‘Digger’ Flopped.",
+      "summary": "",
+      "date_published": "2026-10-10T00:00:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
       "summary": "",
       "date_published": "2026-10-09T23:00:19+00:00",
       "tags": [
@@ -61,21 +94,10 @@
       ]
     },
     {
-      "id": "6cf8b3cf7c4b5fd3",
-      "url": "https://www.wsj.com/news/types/cultural-conversation",
-      "title": "Cultural conversation",
-      "content_text": "Cultural conversation",
-      "summary": "",
-      "date_published": "2026-10-09T23:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
       "summary": "",
       "date_published": "2026-10-09T23:00:19+00:00",
       "tags": [
@@ -87,6 +109,50 @@
       "url": "https://www.wsj.com/news/markets/real-estate-commercial",
       "title": "Real estate commercial",
       "content_text": "Real estate commercial",
+      "summary": "",
+      "date_published": "2026-10-09T23:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "6cf8b3cf7c4b5fd3",
+      "url": "https://www.wsj.com/news/types/cultural-conversation",
+      "title": "Cultural conversation",
+      "content_text": "Cultural conversation",
+      "summary": "",
+      "date_published": "2026-10-09T23:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-10-09T23:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-10-09T23:00:19+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
       "summary": "",
       "date_published": "2026-10-09T23:00:19+00:00",
       "tags": [
@@ -270,10 +336,10 @@
       ]
     },
     {
-      "id": "f4bff945c7765099",
-      "url": "https://www.wsj.com/opinion/unintelligence-on-super-intelligence-dfb2f897",
-      "title": "Unintelligence on Super Intelligence",
-      "content_text": "Unintelligence on Super Intelligence",
+      "id": "13e3db766bd2c09b",
+      "url": "https://www.wsj.com/opinion/mike-ditka-goes-home-e068058b",
+      "title": "Mike Ditka Goes Home",
+      "content_text": "Mike Ditka Goes Home",
       "summary": "",
       "date_published": "2026-10-09T20:38:00+00:00",
       "tags": [
@@ -281,10 +347,10 @@
       ]
     },
     {
-      "id": "13e3db766bd2c09b",
-      "url": "https://www.wsj.com/opinion/mike-ditka-goes-home-e068058b",
-      "title": "Mike Ditka Goes Home",
-      "content_text": "Mike Ditka Goes Home",
+      "id": "f4bff945c7765099",
+      "url": "https://www.wsj.com/opinion/unintelligence-on-super-intelligence-dfb2f897",
+      "title": "Unintelligence on Super Intelligence",
+      "content_text": "Unintelligence on Super Intelligence",
       "summary": "",
       "date_published": "2026-10-09T20:38:00+00:00",
       "tags": [
@@ -622,6 +688,17 @@
       ]
     },
     {
+      "id": "8b1cbf0d788bb8b5",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-in-early-trading-31da69cb",
+      "title": "U s natural gas futures pick up in early trading",
+      "content_text": "U s natural gas futures pick up in early trading",
+      "summary": "",
+      "date_published": "2026-10-09T17:06:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "b39efbac3f9a6957",
       "url": "https://www.wsj.com/health/wellness/doctors-weigh-in-on-peptides-and-fertility-a8d33871",
       "title": "Doctors Weigh in on Peptides and Fertility",
@@ -644,6 +721,17 @@
       ]
     },
     {
+      "id": "9524da8b1b148899",
+      "url": "https://www.wsj.com/politics/elections/the-2026-races-that-could-determine-house-control-9500c90d",
+      "title": "The 2026 races that could determine house control",
+      "content_text": "The 2026 races that could determine house control",
+      "summary": "",
+      "date_published": "2026-10-09T16:42:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "b65b571c5c5f068a",
       "url": "https://www.wsj.com/us-news/law/trumps-focus-on-illegal-voting-spurs-surge-in-justice-department-prosecutions-1a03ab8c",
       "title": "Trump’s Focus on Illegal Voting Spurs Surge in Justice Department Prosecutions",
@@ -663,6 +751,17 @@
       "date_published": "2026-10-09T16:36:00+00:00",
       "tags": [
         "Tech"
+      ]
+    },
+    {
+      "id": "5b1ade3505634e80",
+      "url": "https://www.wsj.com/economy/central-banking/trump-announces-committee-to-investigate-fed-governor-lisa-cook-bcd509fa",
+      "title": "Trump announces committee to investigate fed governor lisa cook",
+      "content_text": "Trump announces committee to investigate fed governor lisa cook",
+      "summary": "",
+      "date_published": "2026-10-09T16:27:00+00:00",
+      "tags": [
+        "Economy"
       ]
     },
     {
@@ -2104,105 +2203,6 @@
       "date_published": "2026-10-08T16:00:00+00:00",
       "tags": [
         "Sports"
-      ]
-    },
-    {
-      "id": "eca6af4a1a9efabf",
-      "url": "https://www.wsj.com/tech/amazon-introduces-new-lineup-of-pricier-tablets-4d73c7f2",
-      "title": "Amazon Introduces New Lineup of Pricier Tablets",
-      "content_text": "Amazon Introduces New Lineup of Pricier Tablets",
-      "summary": "",
-      "date_published": "2026-10-08T15:58:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "208bd0d7a3115fe8",
-      "url": "https://www.wsj.com/opinion/marco-rubio-the-birth-and-rebirth-of-western-civilization-4b9a108b",
-      "title": "Marco Rubio: The Birth and Rebirth of Western Civilization",
-      "content_text": "Marco Rubio: The Birth and Rebirth of Western Civilization",
-      "summary": "",
-      "date_published": "2026-10-08T15:54:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "85d8743c62b14850",
-      "url": "https://www.wsj.com/opinion/pouring-money-into-the-ivy-league-wont-solve-its-problems-92a9883e",
-      "title": "Pouring Money Into the Ivy League Won’t Solve Its Problems",
-      "content_text": "Pouring Money Into the Ivy League Won’t Solve Its Problems",
-      "summary": "",
-      "date_published": "2026-10-08T15:53:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "f8ed791c2cc11987",
-      "url": "https://www.wsj.com/health/healthcare/michigan-files-antitrust-suit-against-blue-cross-blue-shield-over-rising-costs-b250ed15",
-      "title": "Michigan Files Antitrust Suit Against Blue Cross Blue Shield Over Rising Costs",
-      "content_text": "Michigan Files Antitrust Suit Against Blue Cross Blue Shield Over Rising Costs",
-      "summary": "",
-      "date_published": "2026-10-08T15:51:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "c7871b661d315213",
-      "url": "https://www.wsj.com/articles/the-hairy-ape-review-a-drama-of-dehumanization-at-irish-rep-c7bded03",
-      "title": "‘The Hairy Ape’ Review: A Drama of Dehumanization at Irish Rep",
-      "content_text": "‘The Hairy Ape’ Review: A Drama of Dehumanization at Irish Rep",
-      "summary": "",
-      "date_published": "2026-10-08T15:45:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "55075a606268d228",
-      "url": "https://www.wsj.com/world/europe/russian-airstrike-on-bus-stop-kills-at-least-30-in-ukraine-a2bfcce9",
-      "title": "Russian Airstrike on Bus Stop Kills at Least 30 in Ukraine",
-      "content_text": "Russian Airstrike on Bus Stop Kills at Least 30 in Ukraine",
-      "summary": "",
-      "date_published": "2026-10-08T15:42:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "49edff13055c8a00",
-      "url": "https://www.wsj.com/business/this-years-bad-harvest-is-good-news-for-california-winemakers-d53c7f53",
-      "title": "This Year’s Bad Harvest Is Good News for California Winemakers",
-      "content_text": "This Year’s Bad Harvest Is Good News for California Winemakers",
-      "summary": "",
-      "date_published": "2026-10-08T15:24:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "897cda57f819b701",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-08-2026/card/one-great-chart-france-s-bond-market-woes-3GXHLWb4HBHTgyKYaVvQ",
-      "title": "One Great Chart: France’s Bond-Market Woes",
-      "content_text": "One Great Chart: France’s Bond-Market Woes",
-      "summary": "",
-      "date_published": "2026-10-08T15:23:35+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "adc4a7e31bb35935",
-      "url": "https://www.wsj.com/world/europe/the-far-left-mayor-on-the-front-line-of-frances-student-protests-ec585cdc",
-      "title": "The Far-Left Mayor on the Front Line of France’s Student Protests",
-      "content_text": "The Far-Left Mayor on the Front Line of France’s Student Protests",
-      "summary": "",
-      "date_published": "2026-10-08T15:18:00+00:00",
-      "tags": [
-        "World"
       ]
     }
   ]
