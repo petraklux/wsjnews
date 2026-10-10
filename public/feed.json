@@ -6,6 +6,50 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "63c695d3d96a8065",
+      "url": "https://www.wsj.com/us-news/silicon-valleys-dream-city-has-crashed-into-small-town-politics-4521d1bd",
+      "title": "Silicon Valley’s Dream City Has Crashed Into Small-Town Politics",
+      "content_text": "Silicon Valley’s Dream City Has Crashed Into Small-Town Politics",
+      "summary": "",
+      "date_published": "2026-10-10T23:00:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "5e498cdedc2a0035",
+      "url": "https://www.wsj.com/politics/newsom-backs-measure-that-could-invalidate-billionaire-tax-2357a6b3",
+      "title": "Newsom Backs Measure That Could Invalidate Billionaire Tax",
+      "content_text": "Newsom Backs Measure That Could Invalidate Billionaire Tax",
+      "summary": "",
+      "date_published": "2026-10-10T21:15:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "979f76da370b727b",
+      "url": "https://www.wsj.com/lifestyle/fitness/shoes-cushion-feet-health-8f5d83a8",
+      "title": "Why Extra Cushioning in Your Shoes Might Actually Increase Stress on Your Feet",
+      "content_text": "Why Extra Cushioning in Your Shoes Might Actually Increase Stress on Your Feet",
+      "summary": "",
+      "date_published": "2026-10-10T20:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "d10b786de87c4e4e",
+      "url": "https://www.wsj.com/world/trump-calls-on-ukraine-to-stop-hitting-russian-refineriesand-replace-zelensky-cc9bada8",
+      "title": "Trump Calls On Ukraine to Stop Hitting Russian Refineries—and Replace Zelensky",
+      "content_text": "Trump Calls On Ukraine to Stop Hitting Russian Refineries—and Replace Zelensky",
+      "summary": "",
+      "date_published": "2026-10-10T20:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "80b8b697765a24e5",
       "url": "https://www.wsj.com/us-news/christa-pike-discharged-from-hospital-after-surviving-execution-attempt-a72f02d7",
       "title": "Christa Pike Discharged From Hospital After Surviving Execution Attempt",
@@ -2159,50 +2203,6 @@
       "date_published": "2026-10-08T19:30:19+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "58fb8d6aefa7996f",
-      "url": "https://www.wsj.com/opinion/federal-tax-credits-offer-true-school-choice-dfaaef85",
-      "title": "Federal Tax Credits Offer True School Choice",
-      "content_text": "Federal Tax Credits Offer True School Choice",
-      "summary": "",
-      "date_published": "2026-10-08T19:27:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "b6a61e99204bfbce",
-      "url": "https://www.wsj.com/opinion/the-real-transmission-bottlenecks-are-federal-904b3b13",
-      "title": "The Real Transmission Bottlenecks Are Federal",
-      "content_text": "The Real Transmission Bottlenecks Are Federal",
-      "summary": "",
-      "date_published": "2026-10-08T19:27:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "dcbda3e77f0d35a1",
-      "url": "https://www.wsj.com/opinion/rhetoric-is-an-ai-proof-skill-in-the-job-market-682ef45e",
-      "title": "Rhetoric Is an AI-Proof Skill in the Job Market",
-      "content_text": "Rhetoric Is an AI-Proof Skill in the Job Market",
-      "summary": "",
-      "date_published": "2026-10-08T19:26:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "1c1367a2fee3f324",
-      "url": "https://www.wsj.com/opinion/preventing-hazing-requires-institutional-transformation-7bef5cd8",
-      "title": "Preventing Hazing Requires Institutional Transformation",
-      "content_text": "Preventing Hazing Requires Institutional Transformation",
-      "summary": "",
-      "date_published": "2026-10-08T19:25:00+00:00",
-      "tags": [
-        "Opinion"
       ]
     }
   ]
