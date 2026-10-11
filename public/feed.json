@@ -6,6 +6,61 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "cb9bf2f53fadb643",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/custom-built-home-under-1-million-dollars-f1aa7dea",
+      "title": "How to Build a Custom, Architect-Designed Home for Under $1 Million",
+      "content_text": "How to Build a Custom, Architect-Designed Home for Under $1 Million",
+      "summary": "",
+      "date_published": "2026-10-11T23:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "57cc3c7cff7df23c",
+      "url": "https://www.wsj.com/opinion/trumps-diesel-insult-to-lindsey-graham-d502ac71",
+      "title": "Trump’s Diesel Insult to Lindsey Graham",
+      "content_text": "Trump’s Diesel Insult to Lindsey Graham",
+      "summary": "",
+      "date_published": "2026-10-11T20:50:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "6f0e7871df1cd58d",
+      "url": "https://www.wsj.com/opinion/how-to-make-a-jihadist-martyr-of-nidal-hasan-651da219",
+      "title": "How to Make a Jihadist Martyr of Nidal Hasan",
+      "content_text": "How to Make a Jihadist Martyr of Nidal Hasan",
+      "summary": "",
+      "date_published": "2026-10-11T20:46:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "ff977d11e3252507",
+      "url": "https://www.wsj.com/opinion/alaska-anwr-drilling-oil-democrats-dan-sullivan-mary-peltola-b9524031",
+      "title": "Democrats vs. Alaska, Again",
+      "content_text": "Democrats vs. Alaska, Again",
+      "summary": "",
+      "date_published": "2026-10-11T20:44:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "b3a9b30684de8c0f",
+      "url": "https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad",
+      "title": "Amazon in Talks to Buy AI Startup Decart for Around $7 Billion",
+      "content_text": "Amazon in Talks to Buy AI Startup Decart for Around $7 Billion",
+      "summary": "",
+      "date_published": "2026-10-11T20:26:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "9146f66a4fa2d7e6",
       "url": "https://www.wsj.com/opinion/health-savings-accounts-can-curb-rising-costs-90e537ed",
       "title": "Health Savings Accounts Can Curb Rising Costs",
@@ -28,10 +83,10 @@
       ]
     },
     {
-      "id": "7e58d88ea848faf3",
-      "url": "https://www.wsj.com/opinion/what-are-u-s-soldiers-doing-in-ecuador-3c332b40",
-      "title": "What Are U.S. Soldiers Doing in Ecuador?",
-      "content_text": "What Are U.S. Soldiers Doing in Ecuador?",
+      "id": "20d5268a114795e7",
+      "url": "https://www.wsj.com/opinion/will-the-ftc-protect-you-from-discounts-ca88d7f8",
+      "title": "Will the FTC Protect You From Discounts?",
+      "content_text": "Will the FTC Protect You From Discounts?",
       "summary": "",
       "date_published": "2026-10-11T18:58:00+00:00",
       "tags": [
@@ -39,10 +94,10 @@
       ]
     },
     {
-      "id": "20d5268a114795e7",
-      "url": "https://www.wsj.com/opinion/will-the-ftc-protect-you-from-discounts-ca88d7f8",
-      "title": "Will the FTC Protect You From Discounts?",
-      "content_text": "Will the FTC Protect You From Discounts?",
+      "id": "7e58d88ea848faf3",
+      "url": "https://www.wsj.com/opinion/what-are-u-s-soldiers-doing-in-ecuador-3c332b40",
+      "title": "What Are U.S. Soldiers Doing in Ecuador?",
+      "content_text": "What Are U.S. Soldiers Doing in Ecuador?",
       "summary": "",
       "date_published": "2026-10-11T18:58:00+00:00",
       "tags": [
@@ -2146,61 +2201,6 @@
       "content_text": "Stocks to Watch: SpaceX, AT&T, Delta, Humana",
       "summary": "",
       "date_published": "2026-10-09T09:38:36+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "9df1b5c28d6f6524",
-      "url": "https://www.wsj.com/personal-finance/mortgage-rate-lock-b0f6bca5",
-      "title": "If You’re Rushing to Lock In a Mortgage Rate, Here’s What You Need to Know",
-      "content_text": "If You’re Rushing to Lock In a Mortgage Rate, Here’s What You Need to Know",
-      "summary": "",
-      "date_published": "2026-10-09T09:30:00+00:00",
-      "tags": [
-        "Personal Finance"
-      ]
-    },
-    {
-      "id": "b281133cb6392893",
-      "url": "https://www.wsj.com/finance/investing/nvidias-subtle-change-to-how-it-counts-cash-flow-has-big-implications-for-buybacks-8fb1fc0e",
-      "title": "Nvidia’s Subtle Change to How It Counts Cash Flow Has Big Implications for Buybacks",
-      "content_text": "Nvidia’s Subtle Change to How It Counts Cash Flow Has Big Implications for Buybacks",
-      "summary": "",
-      "date_published": "2026-10-09T09:30:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "8314b1a8889c7baa",
-      "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-higher-eurozone-bond-yields-decline-62cfd8c8",
-      "title": "U.S. Treasury Yields Edge Higher, Eurozone Bond Yields Decline",
-      "content_text": "U.S. Treasury Yields Edge Higher, Eurozone Bond Yields Decline",
-      "summary": "",
-      "date_published": "2026-10-09T09:17:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "0232298910f94cc0",
-      "url": "https://www.wsj.com/world/nobel-peace-prize-winner-2026-39887f84",
-      "title": "Nobel Peace Prize Goes to Navi Pillay, Mandela Lawyer Who Led Human Rights at U.N.",
-      "content_text": "Nobel Peace Prize Goes to Navi Pillay, Mandela Lawyer Who Led Human Rights at U.N.",
-      "summary": "",
-      "date_published": "2026-10-09T09:08:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "56f8ef0d07398321",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-09-2026/card/are-bonds-about-to-get-a-break--pMIFYUIqGQ0eGgpJqqT6",
-      "title": "Are Bonds About to Get a Break?",
-      "content_text": "Are Bonds About to Get a Break?",
-      "summary": "",
-      "date_published": "2026-10-09T09:06:35+00:00",
       "tags": [
         "Front Page"
       ]
