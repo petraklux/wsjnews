@@ -6,6 +6,94 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "c9c0a2c6d7a73c20",
+      "url": "https://www.wsj.com/world/starving-ukrainians-are-risking-death-to-escape-their-front-line-town-69262dbb",
+      "title": "Starving Ukrainians Are Risking Death to Escape Their Front-Line Town",
+      "content_text": "Starving Ukrainians Are Risking Death to Escape Their Front-Line Town",
+      "summary": "",
+      "date_published": "2026-10-11T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "84315ffc93d11c99",
+      "url": "https://www.wsj.com/finance/the-sleepy-insurance-product-that-came-to-power-private-credits-ascent-e9586fa3",
+      "title": "The Sleepy Insurance Product That Came to Power Private Credit’s Ascent",
+      "content_text": "The Sleepy Insurance Product That Came to Power Private Credit’s Ascent",
+      "summary": "",
+      "date_published": "2026-10-11T01:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "9e06139720f0011a",
+      "url": "https://www.wsj.com/personal-finance/how-to-give-your-kids-money-for-a-house-without-things-getting-weird-47a48714",
+      "title": "How to Give Your Kids Money for a House Without Things Getting Weird",
+      "content_text": "How to Give Your Kids Money for a House Without Things Getting Weird",
+      "summary": "",
+      "date_published": "2026-10-11T01:00:00+00:00",
+      "tags": [
+        "Personal Finance"
+      ]
+    },
+    {
+      "id": "55b92ef46fcaa037",
+      "url": "https://www.wsj.com/tech/personal-tech/how-to-keep-your-webcam-safe-from-prying-eyes-20c05b74",
+      "title": "How to Keep Your Webcam Safe From Prying Eyes",
+      "content_text": "How to Keep Your Webcam Safe From Prying Eyes",
+      "summary": "",
+      "date_published": "2026-10-11T00:57:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "b2fb5a1f0a8edb03",
+      "url": "https://www.wsj.com/business/media/justice-department-probes-tv-networks-over-suspension-of-trump-press-pool-coverage-a8bc65ce",
+      "title": "Justice Department Probes TV Networks Over Suspension of Trump Press-Pool Coverage",
+      "content_text": "Justice Department Probes TV Networks Over Suspension of Trump Press-Pool Coverage",
+      "summary": "",
+      "date_published": "2026-10-11T00:54:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "1e82915362937097",
+      "url": "https://www.wsj.com/tech/cybersecurity/video-cameras-webcams-hacked-war-b00b8a24",
+      "title": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War",
+      "content_text": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War",
+      "summary": "",
+      "date_published": "2026-10-11T00:30:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "e5e2f1c8ce3cb035",
+      "url": "https://www.wsj.com/politics/elections/the-crew-of-virtually-unknown-donors-powering-the-rise-of-the-new-left-191fcc85",
+      "title": "The Crew of Virtually Unknown Donors Powering the Rise of the New Left",
+      "content_text": "The Crew of Virtually Unknown Donors Powering the Rise of the New Left",
+      "summary": "",
+      "date_published": "2026-10-11T00:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "6bc0ab6c812e4642",
+      "url": "https://www.wsj.com/business/autos/americas-ev-downturn-hides-a-silver-lining-charging-is-quietly-getting-better-8e44ef4d",
+      "title": "America’s EV Downturn Hides a Silver Lining: Charging Is Quietly Getting Better",
+      "content_text": "America’s EV Downturn Hides a Silver Lining: Charging Is Quietly Getting Better",
+      "summary": "",
+      "date_published": "2026-10-11T00:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "63c695d3d96a8065",
       "url": "https://www.wsj.com/us-news/silicon-valleys-dream-city-has-crashed-into-small-town-politics-4521d1bd",
       "title": "Silicon Valley’s Dream City Has Crashed Into Small-Town Politics",
@@ -2115,94 +2203,6 @@
       "date_published": "2026-10-08T20:38:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "e68f523a40321259",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-oil-spikes-ai-profit-doubts-hit-tech-79e35aaa",
-      "title": "U.S. Stocks Mixed as Oil Spikes, AI Profit Doubts Hit Tech",
-      "content_text": "U.S. Stocks Mixed as Oil Spikes, AI Profit Doubts Hit Tech",
-      "summary": "",
-      "date_published": "2026-10-08T20:26:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "85a5a4e789a0d89a",
-      "url": "https://www.wsj.com/sports/baseball/touching-all-the-bases-review-the-slugger-and-the-boss-995e5337",
-      "title": "‘Touching All the Bases’ Review: The Slugger and the Boss",
-      "content_text": "‘Touching All the Bases’ Review: The Slugger and the Boss",
-      "summary": "",
-      "date_published": "2026-10-08T20:14:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "32a9b87f3f096945",
-      "url": "https://www.wsj.com/lifestyle/travel/brooks-nader-nyc-new-york-marathon-99b05016",
-      "title": "A ‘Baywatch’ Star Shares Her NYC Marathon Day Spots",
-      "content_text": "A ‘Baywatch’ Star Shares Her NYC Marathon Day Spots",
-      "summary": "",
-      "date_published": "2026-10-08T20:06:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "d5ff858c9736f21e",
-      "url": "https://www.wsj.com/arts-culture/books/musk-review-alex-gibneys-portrait-of-a-tech-titan-6f8c8f49",
-      "title": "‘Musk’ Review: Alex Gibney’s Portrait of a Tech Titan",
-      "content_text": "‘Musk’ Review: Alex Gibney’s Portrait of a Tech Titan",
-      "summary": "",
-      "date_published": "2026-10-08T19:58:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "21ed2c8e4d775034",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-08-2026/card/starbucks-says-it-is-laser-focused-on-existing-strategy-following-chipotle-deal-chatter-u607b6jnb4KrZlscwmjz",
-      "title": "Starbucks Says It's ‘Laser-Focused’ on Existing Strategy Following Chipotle Deal Chatter",
-      "content_text": "Starbucks Says It's ‘Laser-Focused’ on Existing Strategy Following Chipotle Deal Chatter",
-      "summary": "",
-      "date_published": "2026-10-08T19:54:20+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "f0cea6860f68566b",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/lumber-liquidators-tom-sullivan-tennessee-ranch-999a06fb",
-      "title": "Lumber Liquidators Founder Asks $34.8 Million for His Ranch Near Nashville",
-      "content_text": "Lumber Liquidators Founder Asks $34.8 Million for His Ranch Near Nashville",
-      "summary": "",
-      "date_published": "2026-10-08T19:41:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "267447c34a3d123e",
-      "url": "https://www.wsj.com/world/europe/in-spain-grief-and-politics-mix-after-death-of-evicted-woman-5f56955d",
-      "title": "In Spain, Grief and Politics Mix After Death of Evicted Woman",
-      "content_text": "In Spain, Grief and Politics Mix After Death of Evicted Woman",
-      "summary": "",
-      "date_published": "2026-10-08T19:38:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "dea6ec2569a2d42b",
-      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
-      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "summary": "",
-      "date_published": "2026-10-08T19:30:19+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]
