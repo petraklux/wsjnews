@@ -6,6 +6,28 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "dea6ec2569a2d42b",
+      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
+      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
+      "summary": "",
+      "date_published": "2026-10-11T09:00:19+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "e76e12ac3319dd64",
+      "url": "https://www.wsj.com/arts-culture/fine-art/arts-calendar-happenings-for-the-week-of-october-11-airdigital-b23f8b3c",
+      "title": "Arts Calendar: Happenings for the Week of October 11",
+      "content_text": "Arts Calendar: Happenings for the Week of October 11",
+      "summary": "",
+      "date_published": "2026-10-11T09:00:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
       "id": "c9c0a2c6d7a73c20",
       "url": "https://www.wsj.com/world/starving-ukrainians-are-risking-death-to-escape-their-front-line-town-69262dbb",
       "title": "Starving Ukrainians Are Risking Death to Escape Their Front-Line Town",
@@ -72,17 +94,6 @@
       ]
     },
     {
-      "id": "e5e2f1c8ce3cb035",
-      "url": "https://www.wsj.com/politics/elections/the-crew-of-virtually-unknown-donors-powering-the-rise-of-the-new-left-191fcc85",
-      "title": "The Crew of Virtually Unknown Donors Powering the Rise of the New Left",
-      "content_text": "The Crew of Virtually Unknown Donors Powering the Rise of the New Left",
-      "summary": "",
-      "date_published": "2026-10-11T00:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
       "id": "6bc0ab6c812e4642",
       "url": "https://www.wsj.com/business/autos/americas-ev-downturn-hides-a-silver-lining-charging-is-quietly-getting-better-8e44ef4d",
       "title": "America’s EV Downturn Hides a Silver Lining: Charging Is Quietly Getting Better",
@@ -91,6 +102,17 @@
       "date_published": "2026-10-11T00:00:00+00:00",
       "tags": [
         "Business"
+      ]
+    },
+    {
+      "id": "e5e2f1c8ce3cb035",
+      "url": "https://www.wsj.com/politics/elections/the-crew-of-virtually-unknown-donors-powering-the-rise-of-the-new-left-191fcc85",
+      "title": "The Crew of Virtually Unknown Donors Powering the Rise of the New Left",
+      "content_text": "The Crew of Virtually Unknown Donors Powering the Rise of the New Left",
+      "summary": "",
+      "date_published": "2026-10-11T00:00:00+00:00",
+      "tags": [
+        "Politics"
       ]
     },
     {
@@ -2181,28 +2203,6 @@
       "date_published": "2026-10-08T21:04:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "453108dd84bbf0ca",
-      "url": "https://www.wsj.com/business/retail/aritzia-lifts-guidance-as-u-s-sales-support-higher-profit-revenue-202583d7",
-      "title": "Aritzia Raises Sales Outlook as U.S. Growth Accelerates",
-      "content_text": "Aritzia Raises Sales Outlook as U.S. Growth Accelerates",
-      "summary": "",
-      "date_published": "2026-10-08T20:54:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "6e2fa35d700a7f21",
-      "url": "https://www.wsj.com/finance/stocks/winds-pick-up-yields-tick-down-5cb62df6",
-      "title": "Winds Pick Up, Yields Tick Down",
-      "content_text": "Winds Pick Up, Yields Tick Down",
-      "summary": "",
-      "date_published": "2026-10-08T20:38:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]
