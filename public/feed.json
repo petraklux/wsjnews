@@ -6,6 +6,446 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "de3ce226187397e7",
+      "url": "https://www.wsj.com/opinion/its-ok-if-markets-force-some-colleges-to-close-3487108b",
+      "title": "It’s OK if Markets Force Some Colleges to Close",
+      "content_text": "It’s OK if Markets Force Some Colleges to Close",
+      "summary": "",
+      "date_published": "2026-10-12T15:08:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "7e5aae2bd9018f34",
+      "url": "https://www.wsj.com/opinion/zohran-mamdanis-oct-7-response-fda2365a",
+      "title": "Zohran Mamdani’s Oct. 7 Response",
+      "content_text": "Zohran Mamdani’s Oct. 7 Response",
+      "summary": "",
+      "date_published": "2026-10-12T15:08:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "51376ff4c49c3d3b",
+      "url": "https://www.wsj.com/opinion/the-permitting-reform-bill-harms-historic-preservation-2a379649",
+      "title": "The Permitting Reform Bill Harms Historic Preservation",
+      "content_text": "The Permitting Reform Bill Harms Historic Preservation",
+      "summary": "",
+      "date_published": "2026-10-12T15:07:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "4540d85d9a165a4f",
+      "url": "https://www.wsj.com/opinion/france-keeps-digging-a-hole-8c52404f",
+      "title": "France Keeps Digging a Hole",
+      "content_text": "France Keeps Digging a Hole",
+      "summary": "",
+      "date_published": "2026-10-12T15:05:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "a4dd4aa1d1d7b6fe",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-12-2026/card/one-great-chart-diesel-trades-higher-than-before-trump-s-russia-deal-iPHprcjrFNSj6H4aHvRW",
+      "title": "One Great Chart: Diesel Trades Higher Than Before Trump’s Russia Deal",
+      "content_text": "One Great Chart: Diesel Trades Higher Than Before Trump’s Russia Deal",
+      "summary": "",
+      "date_published": "2026-10-12T15:03:56+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "7ac87653fed7bca3",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-12-2026/card/watch-why-cash-is-king-in-the-era-of-higher-interest-rates-YGsEsJQZ5CmvWwSpfzs5",
+      "title": "Watch: Why Cash Is King in the Era of Higher Interest Rates",
+      "content_text": "Watch: Why Cash Is King in the Era of Higher Interest Rates",
+      "summary": "",
+      "date_published": "2026-10-12T14:00:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "6b58324458306c64",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-give-back-some-gains-47941921",
+      "title": "U.S. Natural Gas Futures Give Back Some Gains",
+      "content_text": "U.S. Natural Gas Futures Give Back Some Gains",
+      "summary": "",
+      "date_published": "2026-10-12T13:45:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "3edb6dd901159ec1",
+      "url": "https://www.wsj.com/world/china/xis-superpower-ambitions-fuel-a-dangerous-debt-spiral-in-china-edad4f9f",
+      "title": "Xi’s Superpower Ambitions Fuel a Dangerous Debt Spiral in China",
+      "content_text": "Xi’s Superpower Ambitions Fuel a Dangerous Debt Spiral in China",
+      "summary": "",
+      "date_published": "2026-10-12T13:29:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "1a8d1596c3a9675a",
+      "url": "https://www.wsj.com/cmo-today/where-shoppertainment-turns-supermarket-staples-into-impulse-buys-e02fabf6",
+      "title": "Where Shoppertainment Turns Supermarket Staples Into Impulse Buys",
+      "content_text": "Where Shoppertainment Turns Supermarket Staples Into Impulse Buys",
+      "summary": "",
+      "date_published": "2026-10-12T13:28:00+00:00",
+      "tags": [
+        "Cmo Today"
+      ]
+    },
+    {
+      "id": "1bc447e6865af298",
+      "url": "https://www.wsj.com/politics/policy/ilhan-omars-home-is-searched-by-federal-agents-14a79871",
+      "title": "Ilhan Omar’s Home Is Searched by Federal Agents",
+      "content_text": "Ilhan Omar’s Home Is Searched by Federal Agents",
+      "summary": "",
+      "date_published": "2026-10-12T13:27:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "807afc2ad86bd75f",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-12-2026/card/hormuz-oil-flows-drop-amid-volatility-in-region-HmbmN8A78ctHy85dGOZy",
+      "title": "Hormuz Oil Flows Drop Amid Volatility in Region",
+      "content_text": "Hormuz Oil Flows Drop Amid Volatility in Region",
+      "summary": "",
+      "date_published": "2026-10-12T13:19:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "f3cfde68ec0115ec",
+      "url": "https://www.wsj.com/business/deals/steris-to-acquire-xodus-medical-for-2-1-billion-ea048437",
+      "title": "Steris to Acquire Xodus Medical for $2.1 Billion",
+      "content_text": "Steris to Acquire Xodus Medical for $2.1 Billion",
+      "summary": "",
+      "date_published": "2026-10-12T13:11:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "b7ac0c516ae779b7",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-12-2026/card/moderna-stock-has-been-on-a-winning-streak-ieQ6nw7njQ0d7mm6a0c9",
+      "title": "Moderna Stock Has Been on a Winning Streak",
+      "content_text": "Moderna Stock Has Been on a Winning Streak",
+      "summary": "",
+      "date_published": "2026-10-12T13:04:32+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "d6d644f3a4218431",
+      "url": "https://www.wsj.com/sports/football/daffy-nfl-teams-cant-stop-making-brainless-mistakes-0d57c726",
+      "title": "What Are They Thinking? Daffy NFL Teams Can’t Stop Making Brainless Mistakes",
+      "content_text": "What Are They Thinking? Daffy NFL Teams Can’t Stop Making Brainless Mistakes",
+      "summary": "",
+      "date_published": "2026-10-12T13:00:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "d704d5cc98726653",
+      "url": "https://www.wsj.com/cio-journal/ai-fuels-m-a-machine-282e1e04",
+      "title": "AI Fuels M&A Machine",
+      "content_text": "AI Fuels M&A Machine",
+      "summary": "",
+      "date_published": "2026-10-12T12:39:00+00:00",
+      "tags": [
+        "Cio Journal"
+      ]
+    },
+    {
+      "id": "8b147654027a4eb9",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-12-2026/card/spencer-jakab-when-to-worry-about-bad-breadth-53FpD3a0SVH37H2wzRek",
+      "title": "Spencer Jakab | When to Worry About Bad Breadth",
+      "content_text": "Spencer Jakab | When to Worry About Bad Breadth",
+      "summary": "",
+      "date_published": "2026-10-12T12:19:13+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "00c85cee02106925",
+      "url": "https://www.wsj.com/style/the-odyssey-ludwig-goransson-c79daed0",
+      "title": "‘The Odyssey’ Composer Ludwig Göransson Still Takes Swedish Coffee Breaks",
+      "content_text": "‘The Odyssey’ Composer Ludwig Göransson Still Takes Swedish Coffee Breaks",
+      "summary": "",
+      "date_published": "2026-10-12T12:00:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
+      "id": "48acd9f63ed4be1b",
+      "url": "https://www.wsj.com/finance/regulation/a-credit-score-shift-at-fannie-and-freddie-is-shaking-up-the-mortgage-market-85b41d3f",
+      "title": "A Credit-Score Shift at Fannie and Freddie Is Shaking Up the Mortgage Market",
+      "content_text": "A Credit-Score Shift at Fannie and Freddie Is Shaking Up the Mortgage Market",
+      "summary": "",
+      "date_published": "2026-10-12T12:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "4e09e2c6b0a6de77",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-12-2026/card/trump-said-russia-will-release-4-8-million-tons-of-diesel-is-it-enough-to-cool-prices--LUKMvgAok5XFlkJKS8Lp",
+      "title": "Trump Said Russia Will Release 4.8 Million Tons of Diesel. Is It Enough to Cool Prices?",
+      "content_text": "Trump Said Russia Will Release 4.8 Million Tons of Diesel. Is It Enough to Cool Prices?",
+      "summary": "",
+      "date_published": "2026-10-12T11:32:35+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "d86009b3fe0123d8",
+      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-courts-grapple-with-problem-of-people-betting-on-the-outcome-of-jury-cases-5ae06b30",
+      "title": "The Morning Risk Report: Courts Grapple With Problem of People Betting on the Outcome of Jury Cases",
+      "content_text": "The Morning Risk Report: Courts Grapple With Problem of People Betting on the Outcome of Jury Cases",
+      "summary": "",
+      "date_published": "2026-10-12T11:32:00+00:00",
+      "tags": [
+        "Risk Compliance Journal"
+      ]
+    },
+    {
+      "id": "e38fd42c89c1f3e6",
+      "url": "https://www.wsj.com/world/europe/natos-top-commander-lays-out-plan-to-thwart-a-russian-attack-on-the-alliance-96d57680",
+      "title": "NATO’s Top Commander Lays Out Plan to Thwart a Russian Attack on the Alliance",
+      "content_text": "NATO’s Top Commander Lays Out Plan to Thwart a Russian Attack on the Alliance",
+      "summary": "",
+      "date_published": "2026-10-12T11:27:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "e84f73d5c16724c8",
+      "url": "https://www.wsj.com/world/europe/russia-pounds-ukrainian-energy-despite-trumps-ceasefire-announcement-f5d4779d",
+      "title": "Russia Pounds Ukrainian Energy Despite Trump’s Ceasefire Announcement",
+      "content_text": "Russia Pounds Ukrainian Energy Despite Trump’s Ceasefire Announcement",
+      "summary": "",
+      "date_published": "2026-10-12T11:20:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "6d23e45eb2227893",
+      "url": "https://www.wsj.com/politics/elections/the-new-youth-vote-db0a61e4",
+      "title": "The New Youth Vote",
+      "content_text": "The New Youth Vote",
+      "summary": "",
+      "date_published": "2026-10-12T11:08:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "c1aeeb9fb9f32fa9",
+      "url": "https://www.wsj.com/cfo-journal/cfos-key-partners-for-ai-transformation-according-to-bcg-c189b480",
+      "title": "CFOs’ Key Partners For AI Transformation, According to BCG",
+      "content_text": "CFOs’ Key Partners For AI Transformation, According to BCG",
+      "summary": "",
+      "date_published": "2026-10-12T11:02:00+00:00",
+      "tags": [
+        "Cfo Journal"
+      ]
+    },
+    {
+      "id": "1006745fd2713486",
+      "url": "https://www.wsj.com/politics/policy/what-might-russ-voughts-tremendous-surprise-actually-be-79dd722a",
+      "title": "What Might Russ Vought’s ‘Tremendous’ Surprise Actually Be?",
+      "content_text": "What Might Russ Vought’s ‘Tremendous’ Surprise Actually Be?",
+      "summary": "",
+      "date_published": "2026-10-12T11:01:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "911639348a1f3e62",
+      "url": "https://www.wsj.com/business/deals/quantum-computing-company-ionq-to-buy-cybersecurity-firm-for-up-to-1-3-billion-65af65bd",
+      "title": "Quantum-Computing Company IonQ to Buy Cybersecurity Firm for Up to $1.3 Billion",
+      "content_text": "Quantum-Computing Company IonQ to Buy Cybersecurity Firm for Up to $1.3 Billion",
+      "summary": "",
+      "date_published": "2026-10-12T11:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "d8fbd2de1c8bb72e",
+      "url": "https://www.wsj.com/sports/football/the-strategic-blunder-that-nfl-teams-keep-making-again-and-again-746cc7af",
+      "title": "The Strategic Blunder That NFL Teams Keep Making Again and Again",
+      "content_text": "The Strategic Blunder That NFL Teams Keep Making Again and Again",
+      "summary": "",
+      "date_published": "2026-10-12T11:00:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "cc863e56c9c9f023",
+      "url": "https://www.wsj.com/logistics-report/trumps-russian-diesel-move-draws-pushback-skepticism-89a5e65e",
+      "title": "Trump’s Russian-Diesel Move Draws Pushback, Skepticism",
+      "content_text": "Trump’s Russian-Diesel Move Draws Pushback, Skepticism",
+      "summary": "",
+      "date_published": "2026-10-12T10:55:00+00:00",
+      "tags": [
+        "Logistics Report"
+      ]
+    },
+    {
+      "id": "97186d5c3ab1254b",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-12-2026/card/why-are-carmakers-getting-hammered-in-china--NXGBMOpfDrVAVqltuuyX",
+      "title": "Why Are Carmakers Getting Hammered in China?",
+      "content_text": "Why Are Carmakers Getting Hammered in China?",
+      "summary": "",
+      "date_published": "2026-10-12T10:53:32+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "59c7ab198e965d98",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9bc8764a",
+      "title": "Basic Materials Roundup: Market Talk",
+      "content_text": "Basic Materials Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-10-12T10:52:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "3c04ad5b96ffc663",
+      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-05ace3e9",
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "content_text": "Energy & Utilities Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-10-12T10:48:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "0e94bf7947f0b6ab",
+      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-cd92d1cc",
+      "title": "Auto & Transport Roundup: Market Talk",
+      "content_text": "Auto & Transport Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-10-12T10:46:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "e3028a1d81d29d62",
+      "url": "https://www.wsj.com/finance/stocks/narrow-stock-market-rallies-arent-unusual-when-to-start-worrying-d4dd127d",
+      "title": "Narrow Stock-Market Rallies Aren’t Unusual. When to Start Worrying.",
+      "content_text": "Narrow Stock-Market Rallies Aren’t Unusual. When to Start Worrying.",
+      "summary": "",
+      "date_published": "2026-10-12T10:44:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "9ab2270f7e28295f",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-5f292e92",
+      "title": "Financial Services Roundup: Market Talk",
+      "content_text": "Financial Services Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-10-12T10:41:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "d9f86e4553969398",
+      "url": "https://www.wsj.com/business/eu-to-cap-chinese-hybrid-vehicle-imports-at-350-000-units-annually-official-says-2198522f",
+      "title": "EU Aims to Put Brakes on Chinese Hybrid-Vehicle Market Share With Import Cap",
+      "content_text": "EU Aims to Put Brakes on Chinese Hybrid-Vehicle Market Share With Import Cap",
+      "summary": "",
+      "date_published": "2026-10-12T10:29:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "54017ca670bec477",
+      "url": "https://www.wsj.com/finance/investing/locking-in-a-mortgage-rate-50cec33e",
+      "title": "Locking In a Mortgage Rate",
+      "content_text": "Locking In a Mortgage Rate",
+      "summary": "",
+      "date_published": "2026-10-12T10:26:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "c0717dc07d33df42",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-af51bae6",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
+      "summary": "",
+      "date_published": "2026-10-12T10:17:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "b25d3986bca18889",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-12-2026/card/and-the-nobel-goes-to--dQR9WKBF0QDYPRoKLPDE",
+      "title": "And the Nobel Goes to...",
+      "content_text": "And the Nobel Goes to...",
+      "summary": "",
+      "date_published": "2026-10-12T10:11:08+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "0b54b24450eff67c",
+      "url": "https://www.wsj.com/articles/nascars-new-ceo-aims-to-take-big-swings-7d763ecb",
+      "title": "Nascar’s New CEO Aims to Take ‘Big Swings’",
+      "content_text": "Nascar’s New CEO Aims to Take ‘Big Swings’",
+      "summary": "",
+      "date_published": "2026-10-12T10:05:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "9a8de1331c3766a6",
+      "url": "https://www.wsj.com/articles/attacks-on-saudi-airports-threaten-the-kingdoms-ambitions-044d3e42",
+      "title": "Attacks on Saudi Airports Threaten the Kingdom’s Ambitions",
+      "content_text": "Attacks on Saudi Airports Threaten the Kingdom’s Ambitions",
+      "summary": "",
+      "date_published": "2026-10-12T10:01:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "bc8f0bc6c43138ac",
       "url": "https://www.wsj.com/finance/stocks/china-plays-critical-role-in-global-ai-supply-chain-domestic-ai-ecosystem-9de8dab7",
       "title": "China Plays Critical Role in Global AI Supply Chain, Domestic AI Ecosystem",
@@ -94,6 +534,17 @@
       ]
     },
     {
+      "id": "169583a033f1a019",
+      "url": "https://www.wsj.com/world/middle-east/iran-backed-militants-are-tightening-the-screws-on-saudi-arabias-crown-prince-e7b9e789",
+      "title": "Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince",
+      "content_text": "Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince",
+      "summary": "",
+      "date_published": "2026-10-12T01:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "2ad78aa5a2f5834a",
       "url": "https://www.wsj.com/world/uk/united-kingdom-welfare-disability-payouts-737d77a0",
       "title": "The Welfare State Is Crushing Britain",
@@ -113,17 +564,6 @@
       "date_published": "2026-10-12T01:00:00+00:00",
       "tags": [
         "Real Estate"
-      ]
-    },
-    {
-      "id": "169583a033f1a019",
-      "url": "https://www.wsj.com/world/middle-east/iran-backed-militants-are-tightening-the-screws-on-saudi-arabias-crown-prince-e7b9e789",
-      "title": "Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince",
-      "content_text": "Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince",
-      "summary": "",
-      "date_published": "2026-10-12T01:00:00+00:00",
-      "tags": [
-        "World"
       ]
     },
     {
@@ -1763,446 +2203,6 @@
       "date_published": "2026-10-09T16:38:00+00:00",
       "tags": [
         "Us News"
-      ]
-    },
-    {
-      "id": "c65c43e619876b61",
-      "url": "https://www.wsj.com/tech/ai/tom-brown-athropic-669005ad",
-      "title": "The Other Anthropic Founder Trying to Fix the Company’s ‘Woke’ Reputation",
-      "content_text": "The Other Anthropic Founder Trying to Fix the Company’s ‘Woke’ Reputation",
-      "summary": "",
-      "date_published": "2026-10-09T16:36:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "5b1ade3505634e80",
-      "url": "https://www.wsj.com/economy/central-banking/trump-announces-committee-to-investigate-fed-governor-lisa-cook-bcd509fa",
-      "title": "Trump announces committee to investigate fed governor lisa cook",
-      "content_text": "Trump announces committee to investigate fed governor lisa cook",
-      "summary": "",
-      "date_published": "2026-10-09T16:27:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "591e79a2378636b9",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-09-2026/card/trump-sets-nov-5-hearing-date-for-fed-governor-lisa-cook-kk2JlyCqoUgEVfEgNXOZ",
-      "title": "Trump Sets Nov. 5 Hearing Date for Fed Governor Lisa Cook",
-      "content_text": "Trump Sets Nov. 5 Hearing Date for Fed Governor Lisa Cook",
-      "summary": "",
-      "date_published": "2026-10-09T16:14:12+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "5d90b0574c5d2c1c",
-      "url": "https://www.wsj.com/world/europe/u-s-sanctions-and-threatens-to-dismantle-international-criminal-court-1d7417c8",
-      "title": "U.S. Sanctions and Threatens to Dismantle International Criminal Court",
-      "content_text": "U.S. Sanctions and Threatens to Dismantle International Criminal Court",
-      "summary": "",
-      "date_published": "2026-10-09T16:05:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "5dfc50545a2d05c0",
-      "url": "https://www.wsj.com/sports/football/mike-ditka-chicago-bears-644f1741",
-      "title": "Super Bowl Winner and Chicago Bears Legend Mike Ditka Dies at 86",
-      "content_text": "Super Bowl Winner and Chicago Bears Legend Mike Ditka Dies at 86",
-      "summary": "",
-      "date_published": "2026-10-09T16:03:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "96865535b74485d1",
-      "url": "https://www.wsj.com/us-news/climate-environment/the-100-year-old-math-miscalculation-that-broke-the-colorado-river-7608613d",
-      "title": "The 100-Year-Old Math Miscalculation That Broke the Colorado River",
-      "content_text": "The 100-Year-Old Math Miscalculation That Broke the Colorado River",
-      "summary": "",
-      "date_published": "2026-10-09T16:02:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "2544988506f515d1",
-      "url": "https://www.wsj.com/arts-culture/food-cooking/top-chefs-have-a-confession-they-love-taco-bell-00ba7ef0",
-      "title": "Top Chefs Have a Confession: They Love Taco Bell",
-      "content_text": "Top Chefs Have a Confession: They Love Taco Bell",
-      "summary": "",
-      "date_published": "2026-10-09T16:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "45efa9c46ce9f00e",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/morgan-stanley-john-mack-nyc-townhouse-1a8f6686",
-      "title": "Former Morgan Stanley CEO Lists Converted N.Y.C. Carriage House for $80 Million",
-      "content_text": "Former Morgan Stanley CEO Lists Converted N.Y.C. Carriage House for $80 Million",
-      "summary": "",
-      "date_published": "2026-10-09T16:00:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "54358daa9916f9a5",
-      "url": "https://www.wsj.com/arts-culture/television/treasure-island-review-a-narrative-mutiny-on-mgm-582c6be3",
-      "title": "‘Treasure Island’ Review: A Narrative Mutiny on MGM+",
-      "content_text": "‘Treasure Island’ Review: A Narrative Mutiny on MGM+",
-      "summary": "",
-      "date_published": "2026-10-09T16:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "37a5ba40e7687908",
-      "url": "https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-u-s-inflation-data-in-focus-2e3de315",
-      "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus",
-      "content_text": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus",
-      "summary": "",
-      "date_published": "2026-10-09T15:58:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "92a0a967f0db6997",
-      "url": "https://www.wsj.com/arts-culture/film/persona-ingmar-bergmans-impressionistic-cinema-c8dc5388",
-      "title": "‘Persona’: Ingmar Bergman’s Impressionistic Cinema",
-      "content_text": "‘Persona’: Ingmar Bergman’s Impressionistic Cinema",
-      "summary": "",
-      "date_published": "2026-10-09T15:55:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "cccf44251ca41e84",
-      "url": "https://www.wsj.com/tech/ai/extreme-weather-is-everywhere-nowhow-to-prepare-your-home-f5abcc52",
-      "title": "Extreme Weather Is Everywhere Now—How to Prepare Your Home",
-      "content_text": "Extreme Weather Is Everywhere Now—How to Prepare Your Home",
-      "summary": "",
-      "date_published": "2026-10-09T15:55:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "24173a5fde75cd1c",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-09-2026/card/spencer-jakab-the-u-s-economy-s-shock-absorbers-are-worn-W75qoxcTXiefzDiPYv3D",
-      "title": "Spencer Jakab | The U.S. Economy’s Shock Absorbers Are Worn",
-      "content_text": "Spencer Jakab | The U.S. Economy’s Shock Absorbers Are Worn",
-      "summary": "",
-      "date_published": "2026-10-09T15:45:01+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "e53c073d6fbda6d3",
-      "url": "https://www.wsj.com/finance/currencies/a-year-on-bitcoin-languishes-a-third-below-its-all-time-high-whats-next-for-the-cryptocurrency-046f2689",
-      "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
-      "content_text": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
-      "summary": "",
-      "date_published": "2026-10-09T15:45:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "e0c36be96c618991",
-      "url": "https://www.wsj.com/arts-culture/books/the-rush-review-californias-first-golden-age-2a509ab6",
-      "title": "‘The Rush’ Review: California’s First Golden Age",
-      "content_text": "‘The Rush’ Review: California’s First Golden Age",
-      "summary": "",
-      "date_published": "2026-10-09T15:40:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "62f07e305b133b29",
-      "url": "https://www.wsj.com/arts-culture/books/brady-review-a-gritty-path-to-greatness-57c530fa",
-      "title": "‘Brady’ Review: A Gritty Path to Greatness",
-      "content_text": "‘Brady’ Review: A Gritty Path to Greatness",
-      "summary": "",
-      "date_published": "2026-10-09T15:39:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "4b2da01676672eec",
-      "url": "https://www.wsj.com/arts-culture/books/swan-song-review-charles-spencers-royal-pain-cab3c460",
-      "title": "‘Swan Song’ Review: Charles Spencer’s Royal Pain",
-      "content_text": "‘Swan Song’ Review: Charles Spencer’s Royal Pain",
-      "summary": "",
-      "date_published": "2026-10-09T15:34:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "41d22bcf52388ed0",
-      "url": "https://www.wsj.com/arts-culture/books/american-socialist-review-the-rise-of-eugene-v-debs-27dec90f",
-      "title": "‘American Socialist’ Review: The Rise of Eugene V. Debs",
-      "content_text": "‘American Socialist’ Review: The Rise of Eugene V. Debs",
-      "summary": "",
-      "date_published": "2026-10-09T15:32:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "249154110d249b19",
-      "url": "https://www.wsj.com/arts-culture/books/vampire-tales-review-bad-blood-2dd9a596",
-      "title": "‘Vampire Tales’ Review: Bad Blood",
-      "content_text": "‘Vampire Tales’ Review: Bad Blood",
-      "summary": "",
-      "date_published": "2026-10-09T15:24:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "3106bc28ef05e04b",
-      "url": "https://www.wsj.com/arts-culture/books/emperor-of-nothing-review-ahead-of-the-curb-80119086",
-      "title": "‘Emperor of Nothing’ Review: Ahead of the ‘Curb’",
-      "content_text": "‘Emperor of Nothing’ Review: Ahead of the ‘Curb’",
-      "summary": "",
-      "date_published": "2026-10-09T15:23:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "66e1216b388005c2",
-      "url": "https://www.wsj.com/arts-culture/books/the-steps-and-one-helluva-ride-the-rocky-road-to-movie-stardom-d208da2e",
-      "title": "‘The Steps’ and ‘One Helluva Ride’: The Rocky Road to Movie Stardom",
-      "content_text": "‘The Steps’ and ‘One Helluva Ride’: The Rocky Road to Movie Stardom",
-      "summary": "",
-      "date_published": "2026-10-09T15:21:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "3471c52f3ddcb87b",
-      "url": "https://www.wsj.com/arts-culture/books/countertenor-review-singing-against-the-current-d61fc5f0",
-      "title": "‘Countertenor’ Review: Singing Against the Current",
-      "content_text": "‘Countertenor’ Review: Singing Against the Current",
-      "summary": "",
-      "date_published": "2026-10-09T15:18:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "e6c1ae9554e7ea01",
-      "url": "https://www.wsj.com/cmo-today/can-a-struggling-alt-meat-pioneer-just-go-beyond-d961de94",
-      "title": "Can a Struggling Alt-Meat Pioneer Just Go ‘Beyond’?",
-      "content_text": "Can a Struggling Alt-Meat Pioneer Just Go ‘Beyond’?",
-      "summary": "",
-      "date_published": "2026-10-09T13:21:00+00:00",
-      "tags": [
-        "Cmo Today"
-      ]
-    },
-    {
-      "id": "92df4c1280dd80a7",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-09-2026/card/bessent-hires-judy-shelton-trump-s-thwarted-fed-pick-at-treasury-fkG080PgSzXRPBV4fhmv",
-      "title": "Bessent Hires Judy Shelton, Trump’s Thwarted Fed Pick, at Treasury",
-      "content_text": "Bessent Hires Judy Shelton, Trump’s Thwarted Fed Pick, at Treasury",
-      "summary": "",
-      "date_published": "2026-10-09T13:09:45+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "d7781e8287338aac",
-      "url": "https://www.wsj.com/cio-journal/a-new-mobile-telecom-battle-may-be-brewing-2e61ef46",
-      "title": "A New Mobile Telecom Battle May Be Brewing",
-      "content_text": "A New Mobile Telecom Battle May Be Brewing",
-      "summary": "",
-      "date_published": "2026-10-09T13:03:00+00:00",
-      "tags": [
-        "Cio Journal"
-      ]
-    },
-    {
-      "id": "09d0033a8f8a9e38",
-      "url": "https://www.wsj.com/economy/jobs/canada-jobless-rate-edges-up-with-another-drop-in-employment-a58c642d",
-      "title": "Canada Jobless Rate Edges Up With Another Drop in Employment",
-      "content_text": "Canada Jobless Rate Edges Up With Another Drop in Employment",
-      "summary": "",
-      "date_published": "2026-10-09T12:52:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "31319363e735b4c2",
-      "url": "https://www.wsj.com/lifestyle/travel/the-popular-tool-united-is-using-to-woo-delta-loyalists-df44f5a6",
-      "title": "The Popular Tool United Is Using to Woo Delta Loyalists",
-      "content_text": "The Popular Tool United Is Using to Woo Delta Loyalists",
-      "summary": "",
-      "date_published": "2026-10-09T12:25:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "9b5dd072dccc4d2b",
-      "url": "https://www.wsj.com/sports/baseball/yankees-playoffs-aaron-judge-b38eb769",
-      "title": "The Yankees Aren’t Arrogant Jerks Anymore. That Might Be a Problem.",
-      "content_text": "The Yankees Aren’t Arrogant Jerks Anymore. That Might Be a Problem.",
-      "summary": "",
-      "date_published": "2026-10-09T12:00:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "29e6974418a566ec",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-977b8ed1",
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "content_text": "Tech, Media & Telecom Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-10-09T11:56:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "3725c4b0e8fb59e9",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-d7e2726d",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "content_text": "Energy & Utilities Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-10-09T11:55:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "598bfec838c5af52",
-      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-9fce20b3",
-      "title": "Health Care Roundup: Market Talk",
-      "content_text": "Health Care Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-10-09T11:53:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "41f54f21e3bd0b2b",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d3493e8c",
-      "title": "Basic Materials Roundup: Market Talk",
-      "content_text": "Basic Materials Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-10-09T11:49:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "939ff8d58db24380",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-dd92b6be",
-      "title": "Auto & Transport Roundup: Market Talk",
-      "content_text": "Auto & Transport Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-10-09T11:44:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "ec6c895086ee7465",
-      "url": "https://www.wsj.com/business/retail/7-eleven-inc-ceo-using-japan-playbook-for-north-america-growth-7eff93c9",
-      "title": "7-Eleven Inc. CEO Using Japan Playbook for North America Growth",
-      "content_text": "7-Eleven Inc. CEO Using Japan Playbook for North America Growth",
-      "summary": "",
-      "date_published": "2026-10-09T11:39:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "f57f91a042e62aa7",
-      "url": "https://www.wsj.com/world/middle-east/how-a-binance-high-value-customer-established-a-financial-lifeline-for-iran-43bdd88e",
-      "title": "How a Binance ‘High-Value Customer’ Established a Financial Lifeline for Iran",
-      "content_text": "How a Binance ‘High-Value Customer’ Established a Financial Lifeline for Iran",
-      "summary": "",
-      "date_published": "2026-10-09T11:36:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "300fada981632cc2",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-09-2026/card/delta-stock-drops-as-fuel-costs-bite-US1ppP7g03SJE8sGlgqj",
-      "title": "Delta Stock Drops as Fuel Costs Bite",
-      "content_text": "Delta Stock Drops as Fuel Costs Bite",
-      "summary": "",
-      "date_published": "2026-10-09T11:34:56+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "2426faa7ba4dfe7d",
-      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-09f8a35f",
-      "title": "Financial Services Roundup: Market Talk",
-      "content_text": "Financial Services Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-10-09T11:33:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "71668382e811fedf",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-09-2026/card/u-s-refiner-stocks-make-hay-y5wmeCfeuisUAJmF9DZ7",
-      "title": "U.S. Refiner Stocks Make Hay",
-      "content_text": "U.S. Refiner Stocks Make Hay",
-      "summary": "",
-      "date_published": "2026-10-09T11:30:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "05a0f572a5667a03",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-credit-card-bill-that-banks-fear-most-has-gained-trump-as-an-ally-ae8807db",
-      "title": "The Morning Risk Report: The Credit-Card Bill That Banks Fear Most Has Gained Trump as an Ally",
-      "content_text": "The Morning Risk Report: The Credit-Card Bill That Banks Fear Most Has Gained Trump as an Ally",
-      "summary": "",
-      "date_published": "2026-10-09T11:26:00+00:00",
-      "tags": [
-        "Risk Compliance Journal"
-      ]
-    },
-    {
-      "id": "f85d77157dee2f04",
-      "url": "https://www.wsj.com/logistics-report/walmart-wrangles-with-complexities-of-warehouse-automation-ba60df89",
-      "title": "Walmart Wrangles With Complexities of Warehouse Automation",
-      "content_text": "Walmart Wrangles With Complexities of Warehouse Automation",
-      "summary": "",
-      "date_published": "2026-10-09T11:10:00+00:00",
-      "tags": [
-        "Logistics Report"
       ]
     }
   ]
