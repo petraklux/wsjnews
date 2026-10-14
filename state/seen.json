@@ -1,31 +1,5 @@
 {
   "items": {
-    "0038b06dd019061e": {
-      "dek": "",
-      "first_seen": "2026-10-13T11:00:55.480021+00:00",
-      "guid": "0038b06dd019061e",
-      "published": "2026-10-13T11:00:19+00:00",
-      "section": "News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Elizabeth anne bernstein",
-      "title": "Elizabeth anne bernstein",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein"
-    },
-    "0198770ed44fa72e": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "0198770ed44fa72e",
-      "published": "2026-10-13T14:00:00+00:00",
-      "section": "Economy",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Home Sales Rose in September for the First Time Since Spring",
-      "title": "Home Sales Rose in September for the First Time Since Spring",
-      "url": "https://www.wsj.com/economy/housing/home-sales-rose-in-september-for-the-first-time-since-spring-32a7d980"
-    },
     "02040dc77f5e2747": {
       "dek": "",
       "first_seen": "2026-10-13T18:08:46.374047+00:00",
@@ -143,6 +117,19 @@
       "title": "Morgan Stanley Profit Rises 7% in Third Quarter",
       "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026/card/morgan-stanley-profit-rises-7-in-third-quarter-LLuTym4rxAHzCWqIPNHT"
     },
+    "0fa3313653815bba": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "0fa3313653815bba",
+      "published": "2026-10-14T21:13:00+00:00",
+      "section": "Finance",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "AI Jitters and Rate-Hike Fears Combine for Worst Day for Stocks Since July",
+      "title": "AI Jitters and Rate-Hike Fears Combine for Worst Day for Stocks Since July",
+      "url": "https://www.wsj.com/finance/stocks/ai-jitters-and-rate-hike-fears-combine-for-worst-day-for-stocks-since-july-6abd3a0f"
+    },
     "10786b3576b8fcfb": {
       "dek": "",
       "first_seen": "2026-10-13T23:04:45.921205+00:00",
@@ -194,6 +181,19 @@
       "summary": "Prosecutors Seek Life in Prison for Real Estate Brothers in Sex-Trafficking Case",
       "title": "Prosecutors Seek Life in Prison for Real Estate Brothers in Sex-Trafficking Case",
       "url": "https://www.wsj.com/us-news/law/prosecutors-seek-life-in-prison-for-real-estate-brothers-in-sex-trafficking-case-467728c9"
+    },
+    "1401fd4c51ab5cf5": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "1401fd4c51ab5cf5",
+      "published": "2026-10-14T20:06:00+00:00",
+      "section": "Us News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Woman Accused of Extorting Fortress Co-Founder Pleads Guilty to Fraud",
+      "title": "Woman Accused of Extorting Fortress Co-Founder Pleads Guilty to Fraud",
+      "url": "https://www.wsj.com/us-news/law/woman-accused-of-extorting-fortress-co-founder-pleads-guilty-to-fraud-879b3a02"
     },
     "146549d340bb33b9": {
       "dek": "",
@@ -273,6 +273,19 @@
       "title": "Germany’s Lufthansa Beats Air France-KLM to Take $1.3 Billion Stake in Portugal’s Flag Carrier",
       "url": "https://www.wsj.com/business/airlines/germanys-lufthansa-beats-air-france-klm-to-take-1-3-billion-stake-in-portugals-flag-carrier-3fe9ccfb"
     },
+    "170ceb6e8fcb2594": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "170ceb6e8fcb2594",
+      "published": "2026-10-14T13:10:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "American Electric Power to Invest $4 Billion in Fuel Cell Project to Meet Energy Demand From Google",
+      "title": "American Electric Power to Invest $4 Billion in Fuel Cell Project to Meet Energy Demand From Google",
+      "url": "https://www.wsj.com/business/energy-oil/american-electric-power-to-invest-4-billion-in-fuel-cell-project-to-meet-energy-demand-from-google-c946aa2f"
+    },
     "170eee58058aba46": {
       "dek": "",
       "first_seen": "2026-10-14T07:28:38.555687+00:00",
@@ -298,6 +311,19 @@
       "summary": "🔎 Under the Radar: Liquidia Stock Soars After Settling Patent Fight",
       "title": "🔎 Under the Radar: Liquidia Stock Soars After Settling Patent Fight",
       "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026/card/-under-the-radar-liquidia-stock-soars-after-settling-patent-fight-NQrKW0HmiVWkmhLRbTXZ"
+    },
+    "177cff9983aff6a0": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "177cff9983aff6a0",
+      "published": "2026-10-14T20:30:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "A Deadly Letter, a Warning About Biological Warfare",
+      "title": "A Deadly Letter, a Warning About Biological Warfare",
+      "url": "https://www.wsj.com/opinion/a-deadly-letter-a-warning-about-biological-warfare-b9d787bc"
     },
     "18c1d03b35092b92": {
       "dek": "",
@@ -338,18 +364,18 @@
       "title": "Milton Friedman’s Courageous Candor",
       "url": "https://www.wsj.com/opinion/milton-friedmans-courageous-candor-ac2a9fe3"
     },
-    "1f0253836ed9523a": {
+    "1f44e4168e249f32": {
       "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "1f0253836ed9523a",
-      "published": "2026-10-13T15:00:00+00:00",
-      "section": "Real Estate",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "1f44e4168e249f32",
+      "published": "2026-10-14T20:21:00+00:00",
+      "section": "Finance",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Before His Oscars and Emmy, Michael Douglas Was ‘Mobil Man of the Month’",
-      "title": "Before His Oscars and Emmy, Michael Douglas Was ‘Mobil Man of the Month’",
-      "url": "https://www.wsj.com/real-estate/michael-douglas-one-helluva-ride-a5b81839"
+      "summary": "U.S. Stocks Fall on Hot Inflation Report, AI Sell-Off",
+      "title": "U.S. Stocks Fall on Hot Inflation Report, AI Sell-Off",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-on-hot-inflation-report-ai-sell-off-6c98113d"
     },
     "1ff22658eada26ed": {
       "dek": "",
@@ -376,6 +402,19 @@
       "summary": "U.S. Defense Startups Flock to Taiwan to Build China-Free Drones",
       "title": "U.S. Defense Startups Flock to Taiwan to Build China-Free Drones",
       "url": "https://www.wsj.com/tech/u-s-defense-startups-flock-to-taiwan-to-build-china-free-drones-5c871c94"
+    },
+    "2317ea15b03751f8": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "2317ea15b03751f8",
+      "published": "2026-10-14T18:39:00+00:00",
+      "section": "Economy",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "With China Facing More Trade Barriers, It Can’t Afford to Lose Europe",
+      "title": "With China Facing More Trade Barriers, It Can’t Afford to Lose Europe",
+      "url": "https://www.wsj.com/economy/trade/with-china-facing-more-trade-barriers-it-cant-afford-to-lose-europe-d041ab25"
     },
     "2367c72278ff4e95": {
       "dek": "",
@@ -429,6 +468,19 @@
       "title": "Domino’s Pizza Sales Squeezed by Gas Costs",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/domino-s-pizza-sales-squeezed-by-gas-costs-TyxwKtJPeq1IDxNevigW"
     },
+    "281c8a177710b9eb": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "281c8a177710b9eb",
+      "published": "2026-10-14T20:55:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Seventh Time Is the Charm: Apple Closes Above $5 Trillion Market Capitalization",
+      "title": "Seventh Time Is the Charm: Apple Closes Above $5 Trillion Market Capitalization",
+      "url": "https://www.wsj.com/tech/seventh-time-is-the-charm-apple-closes-above-5-trillion-market-capitalization-88a5a056"
+    },
     "28cb58decfa88b74": {
       "dek": "",
       "first_seen": "2026-10-13T23:04:45.921205+00:00",
@@ -441,19 +493,6 @@
       "summary": "Diesel Futures Climb 4.5% Despite Trump’s Russian Fuel Deal",
       "title": "Diesel Futures Climb 4.5% Despite Trump’s Russian Fuel Deal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/diesel-futures-climb-4-5-despite-trump-s-russian-fuel-deal-Lep9dqLxtmwtwdonnIny"
-    },
-    "28f37ceae763b174": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "28f37ceae763b174",
-      "published": "2026-10-13T13:00:00+00:00",
-      "section": "Tech",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "My First Impressions of Apple’s New Smart Home Display",
-      "title": "My First Impressions of Apple’s New Smart Home Display",
-      "url": "https://www.wsj.com/tech/personal-tech/apple-homeview-first-impressions-615ac94c"
     },
     "2a00880f47048f35": {
       "dek": "",
@@ -585,19 +624,6 @@
       "title": "Barney Frank: Impeach ‘Woke’",
       "url": "https://www.wsj.com/opinion/barney-frank-impeach-woke-60633b1f"
     },
-    "336116a37fc7f1ca": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "336116a37fc7f1ca",
-      "published": "2026-10-13T14:30:00+00:00",
-      "section": "Sports",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "How Josh Allen and the Buffalo Bills Survived the NFL’s Game of the Year",
-      "title": "How Josh Allen and the Buffalo Bills Survived the NFL’s Game of the Year",
-      "url": "https://www.wsj.com/sports/football/bills-rams-josh-allen-matthew-stafford-080b74c7"
-    },
     "35c6717487f19f52": {
       "dek": "",
       "first_seen": "2026-10-14T13:02:53.476999+00:00",
@@ -715,19 +741,6 @@
       "title": "Immigrants Sue ICE for Allegedly Withholding Passports and Other Documents",
       "url": "https://www.wsj.com/us-news/law/immigrants-sue-ice-for-allegedly-withholding-passports-and-other-documents-269be813"
     },
-    "3d95a7df55a2e8e4": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "3d95a7df55a2e8e4",
-      "published": "2026-10-13T14:39:43+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "How Trading Performed for Wall Street",
-      "title": "How Trading Performed for Wall Street",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/how-trading-performed-for-wall-street-k5wUvCfaZyUvRjcy3DG2"
-    },
     "3f2051909072afad": {
       "dek": "",
       "first_seen": "2026-10-14T01:50:08.266463+00:00",
@@ -819,6 +832,19 @@
       "title": "Why Stuffy Law Firms Are Suddenly Acting Like Consumer Brands",
       "url": "https://www.wsj.com/cmo-today/why-stuffy-law-firms-are-suddenly-acting-like-consumer-brands-9a8cc397"
     },
+    "4396e9b2308348b8": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "4396e9b2308348b8",
+      "published": "2026-10-14T13:11:49+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "💬 Money Quote: Inflation Moving in the Wrong Direction",
+      "title": "💬 Money Quote: Inflation Moving in the Wrong Direction",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026/card/-money-quote-inflation-moving-in-the-wrong-direction-C2rMmrael5thPe1EYCIb"
+    },
     "43a192a7d2b266fb": {
       "dek": "",
       "first_seen": "2026-10-14T17:57:20.287458+00:00",
@@ -897,6 +923,19 @@
       "title": "U.S. Manufacturers Need Permitting Reform",
       "url": "https://www.wsj.com/opinion/u-s-manufacturers-need-permitting-reform-1e0cd65b"
     },
+    "47b3041f8d4bbd21": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "47b3041f8d4bbd21",
+      "published": "2026-10-14T18:23:00+00:00",
+      "section": "Style",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "You’ve Heard of Fashion Week. This Is Dog Week.",
+      "title": "You’ve Heard of Fashion Week. This Is Dog Week.",
+      "url": "https://www.wsj.com/style/fashion/youve-heard-of-fashion-week-this-is-dog-week-d91e655b"
+    },
     "47c411044e02890c": {
       "dek": "",
       "first_seen": "2026-10-14T07:28:38.555687+00:00",
@@ -923,19 +962,6 @@
       "title": "Traders Increase Bets on Rate Hikes",
       "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026/card/traders-increase-bets-on-rate-hikes-mdY1eQJD0qNDyMJGrZkl"
     },
-    "4b7b7f36faa6250c": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "4b7b7f36faa6250c",
-      "published": "2026-10-13T14:43:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Kimberly-Clark, Kenvue Win Conditional EU Approval for $40 Billion Tie-Up",
-      "title": "Kimberly-Clark, Kenvue Win Conditional EU Approval for $40 Billion Tie-Up",
-      "url": "https://www.wsj.com/business/deals/kimberly-clark-kenvue-win-conditional-eu-approval-for-40-billion-tie-up-1964639a"
-    },
     "4cd4f8ede99198af": {
       "dek": "",
       "first_seen": "2026-10-13T18:08:46.374047+00:00",
@@ -948,19 +974,6 @@
       "summary": "Spencer Jakab | Can You Handle This Investment Strategy?",
       "title": "Spencer Jakab | Can You Handle This Investment Strategy?",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/spencer-jakab-can-you-handle-this-investment-strategy--QIc9jTLtKF546nfvjGfU"
-    },
-    "4df3e3fde643b425": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "4df3e3fde643b425",
-      "published": "2026-10-13T13:29:00+00:00",
-      "section": "Cio Journal",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "AI Business Use Rises Despite Growing Concern",
-      "title": "AI Business Use Rises Despite Growing Concern",
-      "url": "https://www.wsj.com/cio-journal/ai-business-use-rises-despite-growing-concern-74f5e7d7"
     },
     "4f536593bde41f09": {
       "dek": "",
@@ -1027,19 +1040,6 @@
       "title": "Uber Freight CEO Targets Revenue Growth and Investment Ahead of Profit, for Now",
       "url": "https://www.wsj.com/logistics-report/uber-freight-ceo-targets-revenue-growth-and-investment-ahead-of-profit-for-now-21d01c59"
     },
-    "55c97cbf12f47bc7": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "55c97cbf12f47bc7",
-      "published": "2026-10-13T14:55:00+00:00",
-      "section": "Finance",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "For Stocks, the Future Ain’t What It Used to Be",
-      "title": "For Stocks, the Future Ain’t What It Used to Be",
-      "url": "https://www.wsj.com/finance/investing/for-stocks-the-future-aint-what-it-used-to-be-5b210467"
-    },
     "566e0442362ee0d2": {
       "dek": "",
       "first_seen": "2026-10-14T17:57:20.287458+00:00",
@@ -1105,19 +1105,6 @@
       "title": "Big Law’s Latest Weapon to Win Talent and Clients: Corporate Branding",
       "url": "https://www.wsj.com/cmo-today/big-laws-latest-weapon-to-win-talent-and-clients-corporate-branding-a6cbd47e"
     },
-    "5a885d497fa8a917": {
-      "dek": "",
-      "first_seen": "2026-10-13T11:00:55.480021+00:00",
-      "guid": "5a885d497fa8a917",
-      "published": "2026-10-13T11:00:19+00:00",
-      "section": "News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The saturday interview",
-      "title": "The saturday interview",
-      "url": "https://www.wsj.com/news/types/the-saturday-interview"
-    },
     "5bbf9cf58d28156e": {
       "dek": "",
       "first_seen": "2026-10-13T23:04:45.921205+00:00",
@@ -1130,19 +1117,6 @@
       "summary": "Navi Pillay and the Tainted Nobel Peace Prize’s History",
       "title": "Navi Pillay and the Tainted Nobel Peace Prize’s History",
       "url": "https://www.wsj.com/opinion/navi-pillay-and-the-tainted-nobel-peace-prizes-history-f8392072"
-    },
-    "5bde10fa9f9b2a36": {
-      "dek": "",
-      "first_seen": "2026-10-13T11:00:55.480021+00:00",
-      "guid": "5bde10fa9f9b2a36",
-      "published": "2026-10-13T11:00:19+00:00",
-      "section": "News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Kimberley a strassel",
-      "title": "Kimberley a strassel",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel"
     },
     "5ca15698cbb0870c": {
       "dek": "",
@@ -1183,6 +1157,32 @@
       "title": "Gov. Josh Shapiro’s Education Policies",
       "url": "https://www.wsj.com/opinion/gov-josh-shapiros-education-policies-f8f83158"
     },
+    "5fc3ac7fc96ae804": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "5fc3ac7fc96ae804",
+      "published": "2026-10-14T13:18:31+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Inflation Has Hovered Above the Fed’s Target For More Than Five Years",
+      "title": "Inflation Has Hovered Above the Fed’s Target For More Than Five Years",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026/card/inflation-has-hovered-above-the-fed-s-target-for-more-than-five-years-EhTva1QucAsHqRLSVIR2"
+    },
+    "5fd3f09716ae3d43": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "5fd3f09716ae3d43",
+      "published": "2026-10-14T21:19:00+00:00",
+      "section": "Arts Culture",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "‘Sacred Splendor: Jewish Ritual Art and Christian Treasures From St. Vitus Cathedral in Prague’ Review: A City’s Side-by-Side Cultures",
+      "title": "‘Sacred Splendor: Jewish Ritual Art and Christian Treasures From St. Vitus Cathedral in Prague’ Review: A City’s Side-by-Side Cultures",
+      "url": "https://www.wsj.com/arts-culture/fine-art/sacred-splendor-jewish-ritual-art-and-christian-treasures-from-st-vitus-cathedral-in-prague-review-a-citys-side-by-side-cultures-6f90bf02"
+    },
     "61a9d63cc0687981": {
       "dek": "",
       "first_seen": "2026-10-14T01:50:08.266463+00:00",
@@ -1209,19 +1209,6 @@
       "title": "Readers Revolt Against Trump’s Diesel Plan",
       "url": "https://www.wsj.com/opinion/readers-revolt-against-trumps-diesel-plan-67ddf899"
     },
-    "6388e7d1c17edca2": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "6388e7d1c17edca2",
-      "published": "2026-10-13T13:02:00+00:00",
-      "section": "Business",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Roche Licenses Obesity Therapy From China’s Rona in Up to $1.2 Billion Deal",
-      "title": "Roche Licenses Obesity Therapy From China’s Rona in Up to $1.2 Billion Deal",
-      "url": "https://www.wsj.com/business/roche-licenses-obesity-therapy-from-chinas-rona-in-up-to-1-2-billion-deal-da061682"
-    },
     "6569a80a1cd888bc": {
       "dek": "",
       "first_seen": "2026-10-13T18:08:46.374047+00:00",
@@ -1234,32 +1221,6 @@
       "summary": "Character.ai Maker Files for Chapter 11 Bankruptcy",
       "title": "Character.ai Maker Files for Chapter 11 Bankruptcy",
       "url": "https://www.wsj.com/tech/ai/character-ai-maker-files-for-chapter-11-bankruptcy-740e6fb1"
-    },
-    "67097825a391f27b": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "67097825a391f27b",
-      "published": "2026-10-13T14:41:07+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Albertsons Chair Says ‘Everything Should Be on the Table’ in Turnaround Push",
-      "title": "Albertsons Chair Says ‘Everything Should Be on the Table’ in Turnaround Push",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/albertsons-chair-says-everything-should-be-on-the-table-in-turnaround-push-i23CgqgXH2IPJSSIluby"
-    },
-    "67a229f9726f9141": {
-      "dek": "",
-      "first_seen": "2026-10-13T11:00:55.480021+00:00",
-      "guid": "67a229f9726f9141",
-      "published": "2026-10-13T11:00:19+00:00",
-      "section": "News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Real estate commercial",
-      "title": "Real estate commercial",
-      "url": "https://www.wsj.com/news/markets/real-estate-commercial"
     },
     "67cf29c0f81cb1dc": {
       "dek": "",
@@ -1313,32 +1274,6 @@
       "title": "Galderma to Buy ZO Skin Health for $1.5 Billion",
       "url": "https://www.wsj.com/business/deals/galderma-to-buy-zo-skin-health-for-1-5-billion-354ba9ff"
     },
-    "6cf8b3cf7c4b5fd3": {
-      "dek": "",
-      "first_seen": "2026-10-13T11:00:55.480021+00:00",
-      "guid": "6cf8b3cf7c4b5fd3",
-      "published": "2026-10-13T11:00:19+00:00",
-      "section": "News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Cultural conversation",
-      "title": "Cultural conversation",
-      "url": "https://www.wsj.com/news/types/cultural-conversation"
-    },
-    "6d70c64033d1c731": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "6d70c64033d1c731",
-      "published": "2026-10-13T15:06:11+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Johnson & Johnson Stock Slides After MedTech Miss",
-      "title": "Johnson & Johnson Stock Slides After MedTech Miss",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/johnson-johnson-stock-slides-after-medtech-miss-iFHWlD0qiF9mpWoFxNHC"
-    },
     "70495c86d808d623": {
       "dek": "",
       "first_seen": "2026-10-13T18:08:46.374047+00:00",
@@ -1390,19 +1325,6 @@
       "summary": "AI-Linked Inflation Kept Climbing in September",
       "title": "AI-Linked Inflation Kept Climbing in September",
       "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026/card/ai-linked-inflation-kept-climbing-in-september-J0dbwFsIFCajfJMAH3I8"
-    },
-    "756476cbcd0a6179": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "756476cbcd0a6179",
-      "published": "2026-10-13T14:00:47+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Six Flags Stock Sinks After Roller Coaster Death",
-      "title": "Six Flags Stock Sinks After Roller Coaster Death",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/six-flags-stock-sinks-after-roller-coaster-death-QETPUcknlSn88uYFaRFD"
     },
     "758ad72a91a1b787": {
       "dek": "",
@@ -1456,31 +1378,18 @@
       "title": "Livestreaming Nidal Hasan’s Execution Is a Bad Idea",
       "url": "https://www.wsj.com/opinion/livestreaming-nidal-hasans-execution-is-a-bad-idea-3a035cf0"
     },
-    "7edb4c1b3acfcc8a": {
+    "7e1a73afc90b9192": {
       "dek": "",
-      "first_seen": "2026-10-13T11:00:55.480021+00:00",
-      "guid": "7edb4c1b3acfcc8a",
-      "published": "2026-10-13T11:00:19+00:00",
-      "section": "News",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "7e1a73afc90b9192",
+      "published": "2026-10-14T13:07:00+00:00",
+      "section": "Business",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Mary anastasia ogrady",
-      "title": "Mary anastasia ogrady",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady"
-    },
-    "7f3979ea6dd38d93": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "7f3979ea6dd38d93",
-      "published": "2026-10-13T14:37:34+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Chart: Banks Report Higher Profits for the Third Quarter",
-      "title": "Chart: Banks Report Higher Profits for the Third Quarter",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/chart-banks-report-higher-profits-for-the-third-quarter-ehhnIVDwkBRAHXkBgGhh"
+      "summary": "Netflix Eliminates About 1,000 Jobs in Biggest Cuts Since 2022",
+      "title": "Netflix Eliminates About 1,000 Jobs in Biggest Cuts Since 2022",
+      "url": "https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3"
     },
     "804badae0ef10cdd": {
       "dek": "",
@@ -1495,18 +1404,31 @@
       "title": "Bond Market Extends Tentative Recovery",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/bond-market-extends-tentative-recovery-Pdwg3BCbr1VvipqOyLEp"
     },
-    "84e81d616d216e5c": {
+    "82aefd9171deceb2": {
       "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "84e81d616d216e5c",
-      "published": "2026-10-13T14:00:00+00:00",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "82aefd9171deceb2",
+      "published": "2026-10-14T20:29:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Notable & Quotable: Does Costco Cause Cancer?",
+      "title": "Notable & Quotable: Does Costco Cause Cancer?",
+      "url": "https://www.wsj.com/opinion/notable-quotable-does-costco-cause-cancer-84f4f8af"
+    },
+    "853102d45254da56": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "853102d45254da56",
+      "published": "2026-10-14T20:21:00+00:00",
       "section": "Finance",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Higher Rates Are Coming for Private Equity—and Smaller Firms Are Already Hurting",
-      "title": "Higher Rates Are Coming for Private Equity—and Smaller Firms Are Already Hurting",
-      "url": "https://www.wsj.com/finance/investing/higher-rates-are-coming-for-private-equityand-smaller-firms-are-already-hurting-754ada6c"
+      "summary": "Inflation Runs Hot, Stocks Go Cold",
+      "title": "Inflation Runs Hot, Stocks Go Cold",
+      "url": "https://www.wsj.com/finance/stocks/inflation-runs-hot-stocks-go-cold-eb83d91a"
     },
     "85ce7995988a1cb2": {
       "dek": "",
@@ -1520,6 +1442,19 @@
       "summary": "GlobalFoundries to Build Two Chip Plants With Up to $21 Billion Funding",
       "title": "GlobalFoundries to Build Two Chip Plants With Up to $21 Billion Funding",
       "url": "https://www.wsj.com/tech/globalfoundries-to-build-two-chip-fabs-with-up-to-21-billion-funding-e74083ac"
+    },
+    "86b49616b9d5239d": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "86b49616b9d5239d",
+      "published": "2026-10-14T21:10:22+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Apple Stock Soars to New Highs, Despite Tech Slump",
+      "title": "Apple Stock Soars to New Highs, Despite Tech Slump",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026/card/apple-stock-soars-to-new-highs-despite-tech-slump-thKgIOGbWQHcG1frj5Ri"
     },
     "8852277e747a075a": {
       "dek": "",
@@ -1677,19 +1612,6 @@
       "title": "Justice Department Threatens Probe of American Bar Association on Law School Rules",
       "url": "https://www.wsj.com/us-news/education/justice-department-threatens-probe-of-american-bar-association-on-law-school-rules-8bcafd7b"
     },
-    "9755a672cfb7109c": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "9755a672cfb7109c",
-      "published": "2026-10-13T13:01:00+00:00",
-      "section": "World",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "U.K. Spy Agency Confronts Escalating Hybrid War With Russia and Iran",
-      "title": "U.K. Spy Agency Confronts Escalating Hybrid War With Russia and Iran",
-      "url": "https://www.wsj.com/world/europe/u-k-spy-agency-confronts-escalating-hybrid-war-with-russia-and-iran-4c54f9ab"
-    },
     "978138abd90a16fc": {
       "dek": "",
       "first_seen": "2026-10-14T07:28:38.555687+00:00",
@@ -1755,19 +1677,6 @@
       "title": "Pope Leo Diagnosed With Lung Cancer After Surgery",
       "url": "https://www.wsj.com/world/pope-leo-xiv-lung-cancer-a465cbe8"
     },
-    "a2c51ea641c8e80c": {
-      "dek": "",
-      "first_seen": "2026-10-13T11:00:55.480021+00:00",
-      "guid": "a2c51ea641c8e80c",
-      "published": "2026-10-13T11:00:19+00:00",
-      "section": "Economy",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Economic forecasting survey archive",
-      "title": "Economic forecasting survey archive",
-      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998"
-    },
     "a352a291ee02599e": {
       "dek": "",
       "first_seen": "2026-10-13T23:04:45.921205+00:00",
@@ -1806,6 +1715,19 @@
       "summary": "Trump Can’t Reinstate White House Ban on CNN, Politico and MS NOW, Judge Rules",
       "title": "Trump Can’t Reinstate White House Ban on CNN, Politico and MS NOW, Judge Rules",
       "url": "https://www.wsj.com/us-news/law/trump-cant-reinstate-white-house-ban-on-cnn-politico-and-ms-now-judge-rules-de4882c0"
+    },
+    "a4e4aa98291a7a32": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "a4e4aa98291a7a32",
+      "published": "2026-10-14T21:20:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Apple Closes Above the $5 Trillion Mark",
+      "title": "Apple Closes Above the $5 Trillion Mark",
+      "url": "https://www.wsj.com/tech/apple-closes-above-the-5-trillion-mark-c72da719"
     },
     "a4ef3c4dd27c0435": {
       "dek": "",
@@ -1872,18 +1794,31 @@
       "title": "Corrections & Amplifications",
       "url": "https://www.wsj.com/articles/corrections-amplifications-2f128edb"
     },
-    "b07393ccdde38caa": {
+    "b0edacaa50e50197": {
       "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "b07393ccdde38caa",
-      "published": "2026-10-13T14:00:00+00:00",
-      "section": "Us News",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "b0edacaa50e50197",
+      "published": "2026-10-14T20:30:00+00:00",
+      "section": "Opinion",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Six Flags Closes Several Rides After Georgia Roller-Coaster Death",
-      "title": "Six Flags Closes Several Rides After Georgia Roller-Coaster Death",
-      "url": "https://www.wsj.com/us-news/six-flags-closes-several-rides-after-georgia-roller-coaster-death-abae883a"
+      "summary": "Steps Definitely Worth Taking",
+      "title": "Steps Definitely Worth Taking",
+      "url": "https://www.wsj.com/opinion/steps-definitely-worth-taking-c7847bf2"
+    },
+    "b0f7b50aecbc0365": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "b0f7b50aecbc0365",
+      "published": "2026-10-14T20:42:00+00:00",
+      "section": "Arts Culture",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "‘The Museum of Lost Things’ Review: A Revolution in Discovery",
+      "title": "‘The Museum of Lost Things’ Review: A Revolution in Discovery",
+      "url": "https://www.wsj.com/arts-culture/books/the-museum-of-lost-things-review-a-revolution-in-discovery-16cd5ee6"
     },
     "b3429637c85b5fe3": {
       "dek": "",
@@ -1962,19 +1897,6 @@
       "summary": "Kelly Ayotte, a Republican Bright Spot Pulling Ahead in a Battleground State",
       "title": "Kelly Ayotte, a Republican Bright Spot Pulling Ahead in a Battleground State",
       "url": "https://www.wsj.com/politics/elections/kelly-ayotte-a-republican-bright-spot-pulling-ahead-in-a-battleground-state-712515f1"
-    },
-    "bcf023de1c3bbd75": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "bcf023de1c3bbd75",
-      "published": "2026-10-13T13:06:09+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "JPMorgan 'Tightening Up' on Loan Underwriting",
-      "title": "JPMorgan 'Tightening Up' on Loan Underwriting",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/jpmorgan-tightening-up-on-loan-underwriting-WvNVoqpRhzOqpgs4yecT"
     },
     "bcfb0f5cc20ac84a": {
       "dek": "",
@@ -2080,6 +2002,32 @@
       "title": "Why Are So Many Adult Children Cutting Off Their Parents? Readers Weigh In",
       "url": "https://www.wsj.com/lifestyle/relationships/adult-children-cutting-off-parents-ba7d4095"
     },
+    "c7e480583f8ad0fd": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "c7e480583f8ad0fd",
+      "published": "2026-10-14T21:30:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Small business marketing",
+      "title": "Small business marketing",
+      "url": "https://www.wsj.com/news/business/small-business-marketing"
+    },
+    "c88f08df10b32412": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "c88f08df10b32412",
+      "published": "2026-10-14T18:31:00+00:00",
+      "section": "Tech",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "OpenAI Alleges Ex-Employee Took Confidential Files to Apple",
+      "title": "OpenAI Alleges Ex-Employee Took Confidential Files to Apple",
+      "url": "https://www.wsj.com/tech/openai-alleges-ex-employee-took-confidential-files-to-apple-71e9e4e3"
+    },
     "c9065f2cfce00a65": {
       "dek": "",
       "first_seen": "2026-10-13T23:04:45.921205+00:00",
@@ -2119,19 +2067,6 @@
       "title": "Spencer Jakab | Beware of Too Many Bulls 🚩",
       "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026/card/spencer-jakab-beware-of-too-many-bulls--WXUQNkyDo6Sp4auujFvV"
     },
-    "cef028fcd7677acf": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "cef028fcd7677acf",
-      "published": "2026-10-13T13:14:00+00:00",
-      "section": "Cmo Today",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Selling a Digital Detox: Brick Recruits Marketers to Battle the Endless Scroll",
-      "title": "Selling a Digital Detox: Brick Recruits Marketers to Battle the Endless Scroll",
-      "url": "https://www.wsj.com/cmo-today/selling-a-digital-detox-brick-recruits-marketers-to-battle-the-endless-scroll-a0a0f92c"
-    },
     "cf9311c03b59a1e1": {
       "dek": "",
       "first_seen": "2026-10-14T13:02:53.476999+00:00",
@@ -2157,6 +2092,19 @@
       "summary": "One More U.S. Interest-Rate Increase May Be Appropriate, Fed’s Williams Says",
       "title": "One More U.S. Interest-Rate Increase May Be Appropriate, Fed’s Williams Says",
       "url": "https://www.wsj.com/economy/central-banking/one-more-u-s-interest-rate-increase-may-be-appropriate-feds-williams-says-a5a7a1df"
+    },
+    "d0726609a60eb3ab": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "d0726609a60eb3ab",
+      "published": "2026-10-14T20:31:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Political Price of Democrats’ Anti-Zionism",
+      "title": "The Political Price of Democrats’ Anti-Zionism",
+      "url": "https://www.wsj.com/opinion/the-political-price-of-democrats-anti-zionism-807b89a2"
     },
     "d0bf751edd7f34e4": {
       "dek": "",
@@ -2353,6 +2301,19 @@
       "title": "Months of High Inflation Haven’t Dented Stocks So Far",
       "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026/card/months-of-high-inflation-haven-t-dented-stocks-so-far-HsFPH9RRZGumSC7HVtiB"
     },
+    "e018a5d4f9c7d2fa": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "e018a5d4f9c7d2fa",
+      "published": "2026-10-14T18:47:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Texas Sinkhole",
+      "title": "The Texas Sinkhole",
+      "url": "https://www.wsj.com/opinion/the-texas-sinkhole-206cd5ad"
+    },
     "e0e960b73464dc90": {
       "dek": "",
       "first_seen": "2026-10-13T23:04:45.921205+00:00",
@@ -2365,6 +2326,19 @@
       "summary": "The Death of Delta Tau Chi?",
       "title": "The Death of Delta Tau Chi?",
       "url": "https://www.wsj.com/opinion/the-death-of-delta-tau-chi-450be0bb"
+    },
+    "e2ca5ee4d2b342a1": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "e2ca5ee4d2b342a1",
+      "published": "2026-10-14T18:21:00+00:00",
+      "section": "Us News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "How a 72-Year-Old Pastor Became America’s Favorite Campus Evangelist",
+      "title": "How a 72-Year-Old Pastor Became America’s Favorite Campus Evangelist",
+      "url": "https://www.wsj.com/us-news/how-a-72-year-old-pastor-became-americas-favorite-campus-evangelist-d950633b"
     },
     "e3bab49083af477b": {
       "dek": "",
@@ -2404,19 +2378,6 @@
       "summary": "U.S. Natural Gas Futures Give Back Gains",
       "title": "U.S. Natural Gas Futures Give Back Gains",
       "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-give-back-gains-139a0acd"
-    },
-    "eac94b0d02feebd8": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "eac94b0d02feebd8",
-      "published": "2026-10-13T14:00:00+00:00",
-      "section": "Politics",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Kimberly Guilfoyle Resigns as U.S. Ambassador to Greece",
-      "title": "Kimberly Guilfoyle Resigns as U.S. Ambassador to Greece",
-      "url": "https://www.wsj.com/politics/policy/kimberly-guilfoyle-call-to-resign-103cc668"
     },
     "eb6f175931687a79": {
       "dek": "",
@@ -2509,6 +2470,19 @@
       "title": "BOE’s Pill ‘Skeptical’ Four Rate Rises Needed to Tame Inflation",
       "url": "https://www.wsj.com/world/uk/boes-pill-skeptical-four-rate-rises-needed-to-tame-inflation-a1b840a2"
     },
+    "f41a921211c797ee": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "f41a921211c797ee",
+      "published": "2026-10-14T19:51:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "What ‘Macbeth’ Can Teach Us About Avoiding Financial Fraud",
+      "title": "What ‘Macbeth’ Can Teach Us About Avoiding Financial Fraud",
+      "url": "https://www.wsj.com/business/macbeth-shakespeare-financial-fraud-lessons-021cc815"
+    },
     "f487d13477961e8c": {
       "dek": "",
       "first_seen": "2026-10-14T01:50:08.266463+00:00",
@@ -2535,6 +2509,19 @@
       "title": "Kimberly Guilfoyle Resigns as U.S. Ambassador at White House Request",
       "url": "https://www.wsj.com/politics/policy/kimberly-guilfoyle-resigns-as-u-s-ambassador-at-white-house-request-7cd6fce2"
     },
+    "f6b6d07681446926": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "f6b6d07681446926",
+      "published": "2026-10-14T19:58:57+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "💬 Money Quote: AI is a Main Street for Wall Street",
+      "title": "💬 Money Quote: AI is a Main Street for Wall Street",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026/card/-money-quote-ai-is-a-main-street-for-wall-street-ZLn3qYf44QZ3LgjdIG1M"
+    },
     "f748435879ee5489": {
       "dek": "",
       "first_seen": "2026-10-14T13:02:53.476999+00:00",
@@ -2560,6 +2547,19 @@
       "summary": "Man Who Orchestrated Tupac Shakur’s Killing Sentenced to 40 Years to Life",
       "title": "Man Who Orchestrated Tupac Shakur’s Killing Sentenced to 40 Years to Life",
       "url": "https://www.wsj.com/us-news/man-who-orchestrated-tupac-shakurs-killing-sentenced-to-40-years-to-life-f7918ad0"
+    },
+    "fb1d84a8b987af27": {
+      "dek": "",
+      "first_seen": "2026-10-14T21:34:56.492169+00:00",
+      "guid": "fb1d84a8b987af27",
+      "published": "2026-10-14T20:31:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "America Needs More Capital",
+      "title": "America Needs More Capital",
+      "url": "https://www.wsj.com/opinion/america-needs-more-capital-43428ee0"
     },
     "fc3648d3d5c708f5": {
       "dek": "",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-bank-of-america-to-pay-1-2-billion-to-settle-violations-of-money-laundering-sanctions-laws-56d72ccf"
     }
   },
-  "updated": "2026-10-14T17:57:20.311191+00:00"
+  "updated": "2026-10-14T21:34:56.516079+00:00"
 }
