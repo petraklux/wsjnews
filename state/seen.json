@@ -1,5 +1,31 @@
 {
   "items": {
+    "0038b06dd019061e": {
+      "dek": "",
+      "first_seen": "2026-10-15T00:04:06.487500+00:00",
+      "guid": "0038b06dd019061e",
+      "published": "2026-10-15T00:00:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Elizabeth anne bernstein",
+      "title": "Elizabeth anne bernstein",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein"
+    },
+    "004b3005df08c834": {
+      "dek": "",
+      "first_seen": "2026-10-15T00:04:06.487500+00:00",
+      "guid": "004b3005df08c834",
+      "published": "2026-10-14T21:56:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Inflation Keeps Biting Real Wages",
+      "title": "Inflation Keeps Biting Real Wages",
+      "url": "https://www.wsj.com/opinion/consumer-prices-inflation-wages-economy-jerome-powell-kevin-warsh-3692a6df"
+    },
     "02040dc77f5e2747": {
       "dek": "",
       "first_seen": "2026-10-13T18:08:46.374047+00:00",
@@ -52,19 +78,6 @@
       "title": "Dollar Strengthens on Hot Inflation Data, Higher Treasury Yields",
       "url": "https://www.wsj.com/finance/currencies/dollar-strengthens-on-hot-inflation-data-higher-treasury-yields-63c3afae"
     },
-    "09490a73a665b958": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "09490a73a665b958",
-      "published": "2026-10-13T16:50:18+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Berkshire Shares On Pace for Longest Winning Streak Since 2024",
-      "title": "Berkshire Shares On Pace for Longest Winning Streak Since 2024",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/berkshire-shares-on-pace-for-longest-winning-streak-since-2024-JyxQWpQeBlBW1w6kdxzo"
-    },
     "096cc7ce25af4456": {
       "dek": "",
       "first_seen": "2026-10-13T23:04:45.921205+00:00",
@@ -77,19 +90,6 @@
       "summary": "Uber Robotaxi Leader to Depart Next Month",
       "title": "Uber Robotaxi Leader to Depart Next Month",
       "url": "https://www.wsj.com/tech/uber-robotaxi-leader-to-depart-next-month-612295c2"
-    },
-    "0a899405899f6efc": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "0a899405899f6efc",
-      "published": "2026-10-13T15:19:00+00:00",
-      "section": "World",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Drone Attacks on Ships Sailing Near NATO Waters Present Fresh Test for the Alliance",
-      "title": "Drone Attacks on Ships Sailing Near NATO Waters Present Fresh Test for the Alliance",
-      "url": "https://www.wsj.com/world/europe/drone-attacks-on-ships-sailing-near-nato-waters-present-fresh-test-for-the-alliance-e36c333d"
     },
     "0afed0c1ad80e002": {
       "dek": "",
@@ -247,19 +247,6 @@
       "title": "McKinsey Is Putting AI Avatars in the Interview Room",
       "url": "https://www.wsj.com/lifestyle/careers/mckinsey-is-putting-ai-avatars-in-the-interview-room-c463ca73"
     },
-    "163d29f67a51fe57": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "163d29f67a51fe57",
-      "published": "2026-10-13T16:29:00+00:00",
-      "section": "World",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "While Trump Floats a Kim Meeting, North Korea Flaunts Its U.S.-Range Missiles",
-      "title": "While Trump Floats a Kim Meeting, North Korea Flaunts Its U.S.-Range Missiles",
-      "url": "https://www.wsj.com/world/asia/while-trump-floats-a-kim-meeting-north-korea-flaunts-its-u-s-range-missiles-840ea74b"
-    },
     "164b440f6fbfa299": {
       "dek": "",
       "first_seen": "2026-10-14T17:57:20.287458+00:00",
@@ -350,19 +337,6 @@
       "summary": "Déjà Vu: Apple Toe-Touches $5 Trillion Market Cap Yet Again",
       "title": "Déjà Vu: Apple Toe-Touches $5 Trillion Market Cap Yet Again",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/d-j-vu-apple-toe-touches-5-trillion-market-cap-yet-again-x93MdaFQUBV2VOjRsNKY"
-    },
-    "1b22db1d8096f671": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "1b22db1d8096f671",
-      "published": "2026-10-13T16:37:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Milton Friedman’s Courageous Candor",
-      "title": "Milton Friedman’s Courageous Candor",
-      "url": "https://www.wsj.com/opinion/milton-friedmans-courageous-candor-ac2a9fe3"
     },
     "1f44e4168e249f32": {
       "dek": "",
@@ -455,19 +429,6 @@
       "title": "Health Care Roundup: Market Talk",
       "url": "https://www.wsj.com/business/health-care-roundup-market-talk-1d895b75"
     },
-    "274f48a3690c994d": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "274f48a3690c994d",
-      "published": "2026-10-13T16:16:59+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Domino’s Pizza Sales Squeezed by Gas Costs",
-      "title": "Domino’s Pizza Sales Squeezed by Gas Costs",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/domino-s-pizza-sales-squeezed-by-gas-costs-TyxwKtJPeq1IDxNevigW"
-    },
     "281c8a177710b9eb": {
       "dek": "",
       "first_seen": "2026-10-14T21:34:56.492169+00:00",
@@ -546,19 +507,6 @@
       "title": "Bank of America Stock Slide Deepens After Earnings Miss",
       "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026/card/bank-of-america-stock-slide-deepens-after-earnings-miss-aqNtBVj7hz6s4lXf6DVt"
     },
-    "2e7a20c3a0a9c418": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "2e7a20c3a0a9c418",
-      "published": "2026-10-13T16:36:00+00:00",
-      "section": "Opinion",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "The Pagan Nationalism of Marco Rubio’s Athens Speech",
-      "title": "The Pagan Nationalism of Marco Rubio’s Athens Speech",
-      "url": "https://www.wsj.com/opinion/the-pagan-nationalism-of-marco-rubios-athens-speech-dc530f58"
-    },
     "2e839e7c0f7e1096": {
       "dek": "",
       "first_seen": "2026-10-14T01:50:08.266463+00:00",
@@ -571,19 +519,6 @@
       "summary": "Lawyer for Fed’s Lisa Cook Cites Scheduling Conflict with White House Hearing",
       "title": "Lawyer for Fed’s Lisa Cook Cites Scheduling Conflict with White House Hearing",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/lawyer-for-fed-s-lisa-cook-cites-scheduling-conflict-with-white-house-hearing-oLZ54SMQb5XYMy4HX9cx"
-    },
-    "2ec69cc6d985fe51": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "2ec69cc6d985fe51",
-      "published": "2026-10-13T16:00:00+00:00",
-      "section": "Tech",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "AI Chips’ New Secret Sauce Is Packaging",
-      "title": "AI Chips’ New Secret Sauce Is Packaging",
-      "url": "https://www.wsj.com/tech/ai/ai-chips-new-secret-sauce-is-packaging-a144a348"
     },
     "30496f8ed58084c8": {
       "dek": "",
@@ -650,19 +585,6 @@
       "title": "Nord Stream Trial Tests Germany’s Alliance With Ukraine",
       "url": "https://www.wsj.com/world/europe/nord-stream-trial-tests-germanys-alliance-with-ukraine-c8e0acdd"
     },
-    "36ce4df70da4f6aa": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "36ce4df70da4f6aa",
-      "published": "2026-10-13T16:00:01+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Goldman’s Solomon: No Succession Timeline Under Way",
-      "title": "Goldman’s Solomon: No Succession Timeline Under Way",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/goldman-s-solomon-no-succession-timeline-under-way-BdhvhlLRghC5KqrxZ0VS"
-    },
     "38c14053a75650d6": {
       "dek": "",
       "first_seen": "2026-10-14T17:57:20.287458+00:00",
@@ -728,19 +650,6 @@
       "title": "Bank of America to Pay $1.2 Billion to Settle Violations of Money Laundering, Sanctions Laws",
       "url": "https://www.wsj.com/finance/regulation/bank-of-america-to-pay-1-21-billion-to-settle-violations-of-money-laundering-sanctions-laws-203b5fdf"
     },
-    "3c66e95144abf57a": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "3c66e95144abf57a",
-      "published": "2026-10-13T15:36:00+00:00",
-      "section": "Us News",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Immigrants Sue ICE for Allegedly Withholding Passports and Other Documents",
-      "title": "Immigrants Sue ICE for Allegedly Withholding Passports and Other Documents",
-      "url": "https://www.wsj.com/us-news/law/immigrants-sue-ice-for-allegedly-withholding-passports-and-other-documents-269be813"
-    },
     "3f2051909072afad": {
       "dek": "",
       "first_seen": "2026-10-14T01:50:08.266463+00:00",
@@ -753,19 +662,6 @@
       "summary": "Trump’s New Press Secretary Makes a Rocky Debut at the White House Podium",
       "title": "Trump’s New Press Secretary Makes a Rocky Debut at the White House Podium",
       "url": "https://www.wsj.com/politics/policy/trumps-new-press-secretary-makes-a-rocky-debut-behind-the-white-house-podium-81b5204a"
-    },
-    "4028505c9c1f9de5": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "4028505c9c1f9de5",
-      "published": "2026-10-13T16:30:27+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Goldman’s Solomon Is Cautiously Bullish on AI Supercycle",
-      "title": "Goldman’s Solomon Is Cautiously Bullish on AI Supercycle",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/goldman-s-solomon-is-cautiously-bullish-on-ai-supercycle-fwxnYrhqKVUj6hQJKRqf"
     },
     "4079dd8fcaee369d": {
       "dek": "",
@@ -962,19 +858,6 @@
       "title": "Traders Increase Bets on Rate Hikes",
       "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026/card/traders-increase-bets-on-rate-hikes-mdY1eQJD0qNDyMJGrZkl"
     },
-    "4cd4f8ede99198af": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "4cd4f8ede99198af",
-      "published": "2026-10-13T16:15:02+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Spencer Jakab | Can You Handle This Investment Strategy?",
-      "title": "Spencer Jakab | Can You Handle This Investment Strategy?",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/spencer-jakab-can-you-handle-this-investment-strategy--QIc9jTLtKF546nfvjGfU"
-    },
     "4f536593bde41f09": {
       "dek": "",
       "first_seen": "2026-10-14T17:57:20.287458+00:00",
@@ -1105,6 +988,19 @@
       "title": "Big Law’s Latest Weapon to Win Talent and Clients: Corporate Branding",
       "url": "https://www.wsj.com/cmo-today/big-laws-latest-weapon-to-win-talent-and-clients-corporate-branding-a6cbd47e"
     },
+    "5a885d497fa8a917": {
+      "dek": "",
+      "first_seen": "2026-10-15T00:04:06.487500+00:00",
+      "guid": "5a885d497fa8a917",
+      "published": "2026-10-15T00:00:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The saturday interview",
+      "title": "The saturday interview",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview"
+    },
     "5bbf9cf58d28156e": {
       "dek": "",
       "first_seen": "2026-10-13T23:04:45.921205+00:00",
@@ -1118,6 +1014,19 @@
       "title": "Navi Pillay and the Tainted Nobel Peace Prize’s History",
       "url": "https://www.wsj.com/opinion/navi-pillay-and-the-tainted-nobel-peace-prizes-history-f8392072"
     },
+    "5bde10fa9f9b2a36": {
+      "dek": "",
+      "first_seen": "2026-10-15T00:04:06.487500+00:00",
+      "guid": "5bde10fa9f9b2a36",
+      "published": "2026-10-15T00:00:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Kimberley a strassel",
+      "title": "Kimberley a strassel",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel"
+    },
     "5ca15698cbb0870c": {
       "dek": "",
       "first_seen": "2026-10-14T13:02:53.476999+00:00",
@@ -1130,6 +1039,19 @@
       "summary": "BlackRock Grows Assets to Record $15.5 Trillion",
       "title": "BlackRock Grows Assets to Record $15.5 Trillion",
       "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026/card/blackrock-grows-assets-to-record-15-5-trillion-710MoUmzekfK2Lnf7u96"
+    },
+    "5ccc874d98d2c823": {
+      "dek": "",
+      "first_seen": "2026-10-15T00:04:06.487500+00:00",
+      "guid": "5ccc874d98d2c823",
+      "published": "2026-10-14T21:55:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "When Democrats Hate Health Experts",
+      "title": "When Democrats Hate Health Experts",
+      "url": "https://www.wsj.com/opinion/u-s-preventive-services-task-force-healthcare-screening-hhs-democrats-cf107ec4"
     },
     "5db5005f4c451946": {
       "dek": "",
@@ -1209,18 +1131,18 @@
       "title": "Readers Revolt Against Trump’s Diesel Plan",
       "url": "https://www.wsj.com/opinion/readers-revolt-against-trumps-diesel-plan-67ddf899"
     },
-    "6569a80a1cd888bc": {
+    "67a229f9726f9141": {
       "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "6569a80a1cd888bc",
-      "published": "2026-10-13T17:07:00+00:00",
-      "section": "Tech",
+      "first_seen": "2026-10-15T00:04:06.487500+00:00",
+      "guid": "67a229f9726f9141",
+      "published": "2026-10-15T00:00:19+00:00",
+      "section": "News",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "Character.ai Maker Files for Chapter 11 Bankruptcy",
-      "title": "Character.ai Maker Files for Chapter 11 Bankruptcy",
-      "url": "https://www.wsj.com/tech/ai/character-ai-maker-files-for-chapter-11-bankruptcy-740e6fb1"
+      "summary": "Real estate commercial",
+      "title": "Real estate commercial",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial"
     },
     "67cf29c0f81cb1dc": {
       "dek": "",
@@ -1274,18 +1196,18 @@
       "title": "Galderma to Buy ZO Skin Health for $1.5 Billion",
       "url": "https://www.wsj.com/business/deals/galderma-to-buy-zo-skin-health-for-1-5-billion-354ba9ff"
     },
-    "70495c86d808d623": {
+    "6cf8b3cf7c4b5fd3": {
       "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "70495c86d808d623",
-      "published": "2026-10-13T15:45:02+00:00",
-      "section": "Front Page",
+      "first_seen": "2026-10-15T00:04:06.487500+00:00",
+      "guid": "6cf8b3cf7c4b5fd3",
+      "published": "2026-10-15T00:00:19+00:00",
+      "section": "News",
       "sources": [
         "sitemap-news"
       ],
-      "summary": "What’s Moving Markets Today?",
-      "title": "What’s Moving Markets Today?",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/what-s-moving-markets-today--eWWc72pIWNLOgGKIYQoI"
+      "summary": "Cultural conversation",
+      "title": "Cultural conversation",
+      "url": "https://www.wsj.com/news/types/cultural-conversation"
     },
     "70ac037a525d283b": {
       "dek": "",
@@ -1326,6 +1248,19 @@
       "title": "AI-Linked Inflation Kept Climbing in September",
       "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026/card/ai-linked-inflation-kept-climbing-in-september-J0dbwFsIFCajfJMAH3I8"
     },
+    "73f649027762c80a": {
+      "dek": "",
+      "first_seen": "2026-10-15T00:04:06.487500+00:00",
+      "guid": "73f649027762c80a",
+      "published": "2026-10-14T22:35:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Ilhan Omar Investigation Aims to Build Case for Stripping Her Citizenship",
+      "title": "Ilhan Omar Investigation Aims to Build Case for Stripping Her Citizenship",
+      "url": "https://www.wsj.com/politics/policy/ilhan-omar-investigation-aims-to-build-case-for-stripping-her-citizenship-6adf1edc"
+    },
     "758ad72a91a1b787": {
       "dek": "",
       "first_seen": "2026-10-14T01:50:08.266463+00:00",
@@ -1351,19 +1286,6 @@
       "summary": "Why U.S. Airstrikes Are Failing to Stop the Global Cocaine Boom",
       "title": "Why U.S. Airstrikes Are Failing to Stop the Global Cocaine Boom",
       "url": "https://www.wsj.com/world/americas/cocaine-trade-is-booming-despite-airstrikes-72ec0826"
-    },
-    "77a6e67824f8a62c": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "77a6e67824f8a62c",
-      "published": "2026-10-13T15:17:37+00:00",
-      "section": "Front Page",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Goldman’s Solomon: 10-Year Treasury Yield ‘Doesn’t Scare Me’",
-      "title": "Goldman’s Solomon: 10-Year Treasury Yield ‘Doesn’t Scare Me’",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/goldman-s-solomon-10-year-treasury-yield-doesn-t-scare-me--b91dBkanKtetdL9iqfJT"
     },
     "7cf8d96dee63919d": {
       "dek": "",
@@ -1391,6 +1313,32 @@
       "title": "Netflix Eliminates About 1,000 Jobs in Biggest Cuts Since 2022",
       "url": "https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3"
     },
+    "7ec8a381286c8f0b": {
+      "dek": "",
+      "first_seen": "2026-10-15T00:04:06.487500+00:00",
+      "guid": "7ec8a381286c8f0b",
+      "published": "2026-10-14T23:05:00+00:00",
+      "section": "Business",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "YouTube is Looking to Expand Into Audiobooks",
+      "title": "YouTube is Looking to Expand Into Audiobooks",
+      "url": "https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876"
+    },
+    "7edb4c1b3acfcc8a": {
+      "dek": "",
+      "first_seen": "2026-10-15T00:04:06.487500+00:00",
+      "guid": "7edb4c1b3acfcc8a",
+      "published": "2026-10-15T00:00:19+00:00",
+      "section": "News",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Mary anastasia ogrady",
+      "title": "Mary anastasia ogrady",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady"
+    },
     "804badae0ef10cdd": {
       "dek": "",
       "first_seen": "2026-10-13T23:04:45.921205+00:00",
@@ -1416,6 +1364,19 @@
       "summary": "Notable & Quotable: Does Costco Cause Cancer?",
       "title": "Notable & Quotable: Does Costco Cause Cancer?",
       "url": "https://www.wsj.com/opinion/notable-quotable-does-costco-cause-cancer-84f4f8af"
+    },
+    "84fa58b78479c62c": {
+      "dek": "",
+      "first_seen": "2026-10-15T00:04:06.487500+00:00",
+      "guid": "84fa58b78479c62c",
+      "published": "2026-10-14T21:58:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The End of the Libor Fraud Persecution",
+      "title": "The End of the Libor Fraud Persecution",
+      "url": "https://www.wsj.com/opinion/libor-fraud-convictions-overturned-banks-finance-5674196d"
     },
     "853102d45254da56": {
       "dek": "",
@@ -1534,19 +1495,6 @@
       "title": "War-Caused Oil Price Spikes Don’t Help the U.S. Economy",
       "url": "https://www.wsj.com/opinion/war-caused-oil-price-spikes-dont-help-the-u-s-economy-d4f03c68"
     },
-    "8c7324b2b175fe11": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "8c7324b2b175fe11",
-      "published": "2026-10-13T16:32:00+00:00",
-      "section": "Health",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "Health Care Roundup: Market Talk",
-      "title": "Health Care Roundup: Market Talk",
-      "url": "https://www.wsj.com/health/healthcare/health-care-roundup-market-talk-86542959"
-    },
     "8e53fb41f4d8668b": {
       "dek": "",
       "first_seen": "2026-10-14T17:57:20.287458+00:00",
@@ -1625,6 +1573,19 @@
       "title": "Bank of France Making Rates Decisions Meeting by Meeting, Says Gov",
       "url": "https://www.wsj.com/economy/central-banking/bank-of-france-making-rates-decisions-meeting-by-meeting-says-gov-1acdb6dd"
     },
+    "9b4f4f0b3095bbe6": {
+      "dek": "",
+      "first_seen": "2026-10-15T00:04:06.487500+00:00",
+      "guid": "9b4f4f0b3095bbe6",
+      "published": "2026-10-14T21:54:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "What’s Going on With Starlink in Ukraine?",
+      "title": "What’s Going on With Starlink in Ukraine?",
+      "url": "https://www.wsj.com/opinion/ukraine-starlink-elon-musk-white-house-russia-e95ff7e6"
+    },
     "9c7ce358f171abbb": {
       "dek": "",
       "first_seen": "2026-10-14T07:28:38.555687+00:00",
@@ -1664,6 +1625,19 @@
       "title": "Wall Street Worries Bank of America’s Problems Will Linger",
       "url": "https://www.wsj.com/finance/banking/wall-street-worries-bank-of-americas-problems-will-linger-a564492f"
     },
+    "a23e1189acf070d0": {
+      "dek": "",
+      "first_seen": "2026-10-15T00:04:06.487500+00:00",
+      "guid": "a23e1189acf070d0",
+      "published": "2026-10-15T00:00:00+00:00",
+      "section": "Politics",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Starlink Suspicions and a Frantic Warning: Inside Trump’s Turn on Zelensky",
+      "title": "Starlink Suspicions and a Frantic Warning: Inside Trump’s Turn on Zelensky",
+      "url": "https://www.wsj.com/politics/policy/starlink-suspicions-and-a-frantic-warning-inside-trumps-turn-on-zelensky-595502f1"
+    },
     "a26f424bb23c5b5f": {
       "dek": "",
       "first_seen": "2026-10-13T23:04:45.921205+00:00",
@@ -1676,6 +1650,19 @@
       "summary": "Pope Leo Diagnosed With Lung Cancer After Surgery",
       "title": "Pope Leo Diagnosed With Lung Cancer After Surgery",
       "url": "https://www.wsj.com/world/pope-leo-xiv-lung-cancer-a465cbe8"
+    },
+    "a2c51ea641c8e80c": {
+      "dek": "",
+      "first_seen": "2026-10-15T00:04:06.487500+00:00",
+      "guid": "a2c51ea641c8e80c",
+      "published": "2026-10-15T00:00:19+00:00",
+      "section": "Economy",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Economic forecasting survey archive",
+      "title": "Economic forecasting survey archive",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998"
     },
     "a352a291ee02599e": {
       "dek": "",
@@ -1898,19 +1885,6 @@
       "title": "Kelly Ayotte, a Republican Bright Spot Pulling Ahead in a Battleground State",
       "url": "https://www.wsj.com/politics/elections/kelly-ayotte-a-republican-bright-spot-pulling-ahead-in-a-battleground-state-712515f1"
     },
-    "bcfb0f5cc20ac84a": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "bcfb0f5cc20ac84a",
-      "published": "2026-10-13T17:04:00+00:00",
-      "section": "Arts Culture",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "How ‘The Traitors’ Created a Generation of Murder-Mystery Fanatics",
-      "title": "How ‘The Traitors’ Created a Generation of Murder-Mystery Fanatics",
-      "url": "https://www.wsj.com/arts-culture/television/traitors-alan-cumming-reality-show-7efe3c9e"
-    },
     "bdb2b461c456312b": {
       "dek": "",
       "first_seen": "2026-10-13T23:04:45.921205+00:00",
@@ -1950,6 +1924,19 @@
       "title": "Rising Interest Rates Threaten to Spoil the Party for Big Banks",
       "url": "https://www.wsj.com/finance/banking/rising-interest-rates-threaten-to-spoil-the-party-for-big-banks-0ef3e7c0"
     },
+    "c1710c55194e3a3c": {
+      "dek": "",
+      "first_seen": "2026-10-15T00:04:06.487500+00:00",
+      "guid": "c1710c55194e3a3c",
+      "published": "2026-10-14T22:57:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "How Many Government Rules Are Really Necessary?",
+      "title": "How Many Government Rules Are Really Necessary?",
+      "url": "https://www.wsj.com/opinion/how-many-government-rules-are-really-necessary-aa2dc619"
+    },
     "c1a6107567890a84": {
       "dek": "",
       "first_seen": "2026-10-14T13:02:53.476999+00:00",
@@ -1962,6 +1949,19 @@
       "summary": "Bank of America Settlement Charge Hits Profit, Morgan Stanley Profit Climbs",
       "title": "Bank of America Settlement Charge Hits Profit, Morgan Stanley Profit Climbs",
       "url": "https://www.wsj.com/business/earnings/bank-of-america-settlement-charge-hits-profit-morgan-stanley-profit-climbs-d9cde716"
+    },
+    "c242714ea98f85fc": {
+      "dek": "",
+      "first_seen": "2026-10-15T00:04:06.487500+00:00",
+      "guid": "c242714ea98f85fc",
+      "published": "2026-10-14T22:00:02+00:00",
+      "section": "Front Page",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "Stocks Hit by Investors’ Twin Anxieties",
+      "title": "Stocks Hit by Investors’ Twin Anxieties",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026/card/stocks-hit-by-investors-twin-anxieties-uxBJGLUN7Nvrag2FA0Hg"
     },
     "c319264a48b8d633": {
       "dek": "",
@@ -2066,6 +2066,19 @@
       "summary": "Spencer Jakab | Beware of Too Many Bulls 🚩",
       "title": "Spencer Jakab | Beware of Too Many Bulls 🚩",
       "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026/card/spencer-jakab-beware-of-too-many-bulls--WXUQNkyDo6Sp4auujFvV"
+    },
+    "cf3591f2004fa2a2": {
+      "dek": "",
+      "first_seen": "2026-10-15T00:04:06.487500+00:00",
+      "guid": "cf3591f2004fa2a2",
+      "published": "2026-10-14T21:51:00+00:00",
+      "section": "Opinion",
+      "sources": [
+        "sitemap-news"
+      ],
+      "summary": "The Pentagon’s New ‘Distinguished Military Colleges’",
+      "title": "The Pentagon’s New ‘Distinguished Military Colleges’",
+      "url": "https://www.wsj.com/opinion/the-pentagons-new-distinguished-military-colleges-ad2f5b7f"
     },
     "cf9311c03b59a1e1": {
       "dek": "",
@@ -2340,19 +2353,6 @@
       "title": "How a 72-Year-Old Pastor Became America’s Favorite Campus Evangelist",
       "url": "https://www.wsj.com/us-news/how-a-72-year-old-pastor-became-americas-favorite-campus-evangelist-d950633b"
     },
-    "e3bab49083af477b": {
-      "dek": "",
-      "first_seen": "2026-10-13T18:08:46.374047+00:00",
-      "guid": "e3bab49083af477b",
-      "published": "2026-10-13T17:02:00+00:00",
-      "section": "Health",
-      "sources": [
-        "sitemap-news"
-      ],
-      "summary": "FTC, States Ask Court to Hold ‘Pharma Bro’ Shkreli in Contempt for Trading Drug Stocks",
-      "title": "FTC, States Ask Court to Hold ‘Pharma Bro’ Shkreli in Contempt for Trading Drug Stocks",
-      "url": "https://www.wsj.com/health/pharma/ftc-states-ask-court-to-hold-pharma-bro-shkreli-in-contempt-for-trading-drug-stocks-152dbc30"
-    },
     "e7c134188381cab3": {
       "dek": "",
       "first_seen": "2026-10-14T17:57:20.287458+00:00",
@@ -2601,5 +2601,5 @@
       "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-bank-of-america-to-pay-1-2-billion-to-settle-violations-of-money-laundering-sanctions-laws-56d72ccf"
     }
   },
-  "updated": "2026-10-14T21:34:56.516079+00:00"
+  "updated": "2026-10-15T00:04:06.512371+00:00"
 }
