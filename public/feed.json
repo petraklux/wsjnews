@@ -6,32 +6,208 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "a2c51ea641c8e80c",
-      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
-      "title": "Economic forecasting survey archive",
-      "content_text": "Economic forecasting survey archive",
+      "id": "a2194e2012854f30",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-7a497ba2",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
       "summary": "",
-      "date_published": "2026-10-15T00:00:19+00:00",
+      "date_published": "2026-10-15T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "9c91faae76d5e66d",
+      "url": "https://www.wsj.com/politics/elections/five-takeaways-from-james-talaricos-cnn-town-hall-with-texas-voters-971ae916",
+      "title": "Five Takeaways From James Talarico’s CNN Town Hall With Texas Voters",
+      "content_text": "Five Takeaways From James Talarico’s CNN Town Hall With Texas Voters",
+      "summary": "",
+      "date_published": "2026-10-15T03:25:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "901106da61987f3b",
+      "url": "https://www.wsj.com/economy/asias-uneven-economic-resilience-faces-stress-tests-imf-says-1a158927",
+      "title": "Asia’s Uneven Economic Resilience Faces Stress Tests, IMF Says",
+      "content_text": "Asia’s Uneven Economic Resilience Faces Stress Tests, IMF Says",
+      "summary": "",
+      "date_published": "2026-10-15T02:35:00+00:00",
       "tags": [
         "Economy"
       ]
     },
     {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
+      "id": "29d58d4d83210ce5",
+      "url": "https://www.wsj.com/finance/banking/a-swiss-banking-giant-thinks-the-unthinkable-moving-out-of-switzerland-ecc82d50",
+      "title": "A Swiss Banking Giant Thinks the Unthinkable: Moving Out of Switzerland",
+      "content_text": "A Swiss Banking Giant Thinks the Unthinkable: Moving Out of Switzerland",
       "summary": "",
-      "date_published": "2026-10-15T00:00:19+00:00",
+      "date_published": "2026-10-15T02:00:00+00:00",
       "tags": [
-        "News"
+        "Finance"
       ]
     },
     {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
+      "id": "55eb7c44d56c9921",
+      "url": "https://www.wsj.com/world/europe/the-far-left-firebrand-who-wants-to-upend-frances-politicsand-cancel-its-debt-a50025ea",
+      "title": "The Far-Left Firebrand Who Wants to Upend France’s Politics—and Cancel Its Debt",
+      "content_text": "The Far-Left Firebrand Who Wants to Upend France’s Politics—and Cancel Its Debt",
+      "summary": "",
+      "date_published": "2026-10-15T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "704ce9faff08fa8c",
+      "url": "https://www.wsj.com/business/telecom/ambanis-jio-seeks-108-billion-valuation-in-landmark-india-ipo-29e18192",
+      "title": "Ambani’s Jio Seeks $108 Billion Valuation in Landmark India IPO",
+      "content_text": "Ambani’s Jio Seeks $108 Billion Valuation in Landmark India IPO",
+      "summary": "",
+      "date_published": "2026-10-15T02:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "c19e50778e6d3c6b",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-but-may-be-weighed-by-higher-prospects-of-fed-rate-hikes-31f584a1",
+      "title": "Won-Yen Divergence May Likely Be Due to Chip Demand Boom",
+      "content_text": "Won-Yen Divergence May Likely Be Due to Chip Demand Boom",
+      "summary": "",
+      "date_published": "2026-10-15T01:56:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "4d9ff29697c839b8",
+      "url": "https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b",
+      "title": "AI Companies Play Cat-and-Mouse With Secret-Stealing Spies",
+      "content_text": "AI Companies Play Cat-and-Mouse With Secret-Stealing Spies",
+      "summary": "",
+      "date_published": "2026-10-15T01:52:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "6ff14987e0ae4741",
+      "url": "https://www.wsj.com/finance/jgbs-rise-amid-risk-off-sentiment-a81b6d36",
+      "title": "AI Borrowing Adds Pressure to Asia’s Bond Markets",
+      "content_text": "AI Borrowing Adds Pressure to Asia’s Bond Markets",
+      "summary": "",
+      "date_published": "2026-10-15T01:42:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "633143dd9cb6cfb1",
+      "url": "https://www.wsj.com/cio-journal/bloomberg-doubles-down-on-conversational-ai-55f47c94",
+      "title": "Bloomberg Doubles Down on Conversational AI",
+      "content_text": "Bloomberg Doubles Down on Conversational AI",
+      "summary": "",
+      "date_published": "2026-10-15T01:41:00+00:00",
+      "tags": [
+        "Cio Journal"
+      ]
+    },
+    {
+      "id": "bb00ee7d46f0682b",
+      "url": "https://www.wsj.com/opinion/gold-rises-on-possible-technical-correction-28090dcd",
+      "title": "Gold Rises on Possible Technical Correction",
+      "content_text": "Gold Rises on Possible Technical Correction",
+      "summary": "",
+      "date_published": "2026-10-15T01:39:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "8c64841a57d62444",
+      "url": "https://www.wsj.com/business/media/white-house-press-secretary-katie-zacharia-didnt-pass-bar-exam-714a484e",
+      "title": "White House Press Secretary Katie Zacharia Didn’t Pass Bar Exam",
+      "content_text": "White House Press Secretary Katie Zacharia Didn’t Pass Bar Exam",
+      "summary": "",
+      "date_published": "2026-10-15T01:17:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "059e0785bdac80cb",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-possible-position-adjustments-728cc0b6",
+      "title": "Oil Futures Fall on Possible Position Adjustments",
+      "content_text": "Oil Futures Fall on Possible Position Adjustments",
+      "summary": "",
+      "date_published": "2026-10-15T01:02:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "d8457ea4d980d2cf",
+      "url": "https://www.wsj.com/politics/policy/crypto-law-trump-tether-bo-hines-45bcd95d",
+      "title": "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
+      "content_text": "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
+      "summary": "",
+      "date_published": "2026-10-15T01:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "426f92e9ccc8621d",
+      "url": "https://www.wsj.com/politics/elections/midterm-anxiety-mounts-for-gop-as-democrats-try-to-expand-battleground-04c31f0b",
+      "title": "Midterm Anxiety Mounts for GOP as Democrats Try to Expand Battleground",
+      "content_text": "Midterm Anxiety Mounts for GOP as Democrats Try to Expand Battleground",
+      "summary": "",
+      "date_published": "2026-10-15T01:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "398ddd37da451bef",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-tracking-wall-streets-losses-c1844121",
+      "title": "Nikkei Falls 2.9%, Tracking Wall Street’s Losses",
+      "content_text": "Nikkei Falls 2.9%, Tracking Wall Street’s Losses",
+      "summary": "",
+      "date_published": "2026-10-15T00:21:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "8bc3c3531625ca7f",
+      "url": "https://www.wsj.com/tech/ai/anthropics-quarterly-revenue-jumped-45-to-nearly-17-billion-1c7e28b8",
+      "title": "Anthropic’s Quarterly Revenue Jumped 45% to Nearly $17 Billion",
+      "content_text": "Anthropic’s Quarterly Revenue Jumped 45% to Nearly $17 Billion",
+      "summary": "",
+      "date_published": "2026-10-15T00:17:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "1ffd767304edf5d6",
+      "url": "https://www.wsj.com/lifestyle/travel/my-mother-got-a-new-hip-so-we-went-to-remote-iceland-to-road-test-it-0263a8c7",
+      "title": "My Mother Got a New Hip. So We Went to Remote Iceland to Road Test It.",
+      "content_text": "My Mother Got a New Hip. So We Went to Remote Iceland to Road Test It.",
+      "summary": "",
+      "date_published": "2026-10-15T00:15:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
       "summary": "",
       "date_published": "2026-10-15T00:00:19+00:00",
       "tags": [
@@ -50,21 +226,10 @@
       ]
     },
     {
-      "id": "6cf8b3cf7c4b5fd3",
-      "url": "https://www.wsj.com/news/types/cultural-conversation",
-      "title": "Cultural conversation",
-      "content_text": "Cultural conversation",
-      "summary": "",
-      "date_published": "2026-10-15T00:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
       "summary": "",
       "date_published": "2026-10-15T00:00:19+00:00",
       "tags": [
@@ -80,6 +245,39 @@
       "date_published": "2026-10-15T00:00:19+00:00",
       "tags": [
         "News"
+      ]
+    },
+    {
+      "id": "6cf8b3cf7c4b5fd3",
+      "url": "https://www.wsj.com/news/types/cultural-conversation",
+      "title": "Cultural conversation",
+      "content_text": "Cultural conversation",
+      "summary": "",
+      "date_published": "2026-10-15T00:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-10-15T00:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-10-15T00:00:19+00:00",
+      "tags": [
+        "Economy"
       ]
     },
     {
@@ -2005,204 +2203,6 @@
       "date_published": "2026-10-13T20:34:37+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "a26f424bb23c5b5f",
-      "url": "https://www.wsj.com/world/pope-leo-xiv-lung-cancer-a465cbe8",
-      "title": "Pope Leo Diagnosed With Lung Cancer After Surgery",
-      "content_text": "Pope Leo Diagnosed With Lung Cancer After Surgery",
-      "summary": "",
-      "date_published": "2026-10-13T20:31:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "0afed0c1ad80e002",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-tick-down-as-bank-earnings-dont-excite-40b1934e",
-      "title": "U.S. Stocks Tick Down as Bank Earnings Don’t Excite",
-      "content_text": "U.S. Stocks Tick Down as Bank Earnings Don’t Excite",
-      "summary": "",
-      "date_published": "2026-10-13T20:29:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "146549d340bb33b9",
-      "url": "https://www.wsj.com/arts-culture/food-cooking/best-unique-halloween-candy-41b77a05",
-      "title": "These Candies Will Make Yours the Best House on the Block This Halloween",
-      "content_text": "These Candies Will Make Yours the Best House on the Block This Halloween",
-      "summary": "",
-      "date_published": "2026-10-13T20:24:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "dda5dc11ae36588b",
-      "url": "https://www.wsj.com/finance/stocks/bank-earnings-look-strong-but-markets-shrug-26533199",
-      "title": "Bank Earnings Look Strong, But Markets Shrug",
-      "content_text": "Bank Earnings Look Strong, But Markets Shrug",
-      "summary": "",
-      "date_published": "2026-10-13T20:15:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "d007307a638ef84e",
-      "url": "https://www.wsj.com/economy/central-banking/one-more-u-s-interest-rate-increase-may-be-appropriate-feds-williams-says-a5a7a1df",
-      "title": "One More U.S. Interest-Rate Increase May Be Appropriate, Fed’s Williams Says",
-      "content_text": "One More U.S. Interest-Rate Increase May Be Appropriate, Fed’s Williams Says",
-      "summary": "",
-      "date_published": "2026-10-13T20:07:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "2739cc7eb8ad5948",
-      "url": "https://www.wsj.com/arts-culture/books/the-invisible-hand-of-maria-edgeworth-review-a-light-on-the-dismal-science-8601c3a5",
-      "title": "‘The Invisible Hand of Maria Edgeworth’ Review: A Light on the Dismal Science",
-      "content_text": "‘The Invisible Hand of Maria Edgeworth’ Review: A Light on the Dismal Science",
-      "summary": "",
-      "date_published": "2026-10-13T20:06:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "93b0fe12c81716e8",
-      "url": "https://www.wsj.com/us-news/education/justice-department-threatens-probe-of-american-bar-association-on-law-school-rules-8bcafd7b",
-      "title": "Justice Department Threatens Probe of American Bar Association on Law School Rules",
-      "content_text": "Justice Department Threatens Probe of American Bar Association on Law School Rules",
-      "summary": "",
-      "date_published": "2026-10-13T19:41:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "f841c7e82745d08e",
-      "url": "https://www.wsj.com/us-news/man-who-orchestrated-tupac-shakurs-killing-sentenced-to-40-years-to-life-f7918ad0",
-      "title": "Man Who Orchestrated Tupac Shakur’s Killing Sentenced to 40 Years to Life",
-      "content_text": "Man Who Orchestrated Tupac Shakur’s Killing Sentenced to 40 Years to Life",
-      "summary": "",
-      "date_published": "2026-10-13T19:31:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "28cb58decfa88b74",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/diesel-futures-climb-4-5-despite-trump-s-russian-fuel-deal-Lep9dqLxtmwtwdonnIny",
-      "title": "Diesel Futures Climb 4.5% Despite Trump’s Russian Fuel Deal",
-      "content_text": "Diesel Futures Climb 4.5% Despite Trump’s Russian Fuel Deal",
-      "summary": "",
-      "date_published": "2026-10-13T19:02:47+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "8852277e747a075a",
-      "url": "https://www.wsj.com/arts-culture/television/evolution-brain-power-review-a-history-of-minds-on-pbs-80c13034",
-      "title": "‘Evolution: Brain Power’ Review: A History of Minds on PBS",
-      "content_text": "‘Evolution: Brain Power’ Review: A History of Minds on PBS",
-      "summary": "",
-      "date_published": "2026-10-13T18:56:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "53d89f44d9acedc5",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/-flash-heard-goldman-stands-out-in-equities-trading-Uu4OeY8rUq1TPjiexMP1",
-      "title": "⚡ Flash Heard: Goldman Stands Out in Equities Trading",
-      "content_text": "⚡ Flash Heard: Goldman Stands Out in Equities Trading",
-      "summary": "",
-      "date_published": "2026-10-13T18:42:38+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "61a9d63cc0687981",
-      "url": "https://www.wsj.com/health/healthcare/cvs-health-unit-to-pay-315-million-to-resolve-illegal-opioid-prescription-claims-47b83b92",
-      "title": "CVS Health Unit to Pay $315 Million to Resolve Illegal Opioid Prescription Claims",
-      "content_text": "CVS Health Unit to Pay $315 Million to Resolve Illegal Opioid Prescription Claims",
-      "summary": "",
-      "date_published": "2026-10-13T18:42:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "67cf29c0f81cb1dc",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/rivian-s-robotics-spinoff-gets-former-ford-ev-chief-tesla-exec-NxULz4c3VCFHq5zFaOIy",
-      "title": "Robotics Startup With Rivian Ties Gets Former Ford EV Chief, Tesla Exec",
-      "content_text": "Robotics Startup With Rivian Ties Gets Former Ford EV Chief, Tesla Exec",
-      "summary": "",
-      "date_published": "2026-10-13T18:30:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "b73c25d7940583db",
-      "url": "https://www.wsj.com/politics/policy/guilfoyles-collapse-comes-as-white-house-struggles-to-fend-off-allegations-of-excess-cfba11b0",
-      "title": "Guilfoyle’s Collapse Comes as White House Struggles to Fend Off Allegations of Excess",
-      "content_text": "Guilfoyle’s Collapse Comes as White House Struggles to Fend Off Allegations of Excess",
-      "summary": "",
-      "date_published": "2026-10-13T18:23:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "21a6a3b5c404e955",
-      "url": "https://www.wsj.com/tech/u-s-defense-startups-flock-to-taiwan-to-build-china-free-drones-5c871c94",
-      "title": "U.S. Defense Startups Flock to Taiwan to Build China-Free Drones",
-      "content_text": "U.S. Defense Startups Flock to Taiwan to Build China-Free Drones",
-      "summary": "",
-      "date_published": "2026-10-13T18:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "02040dc77f5e2747",
-      "url": "https://www.wsj.com/finance/investing/municipal-bond-investors-face-elevated-risks-from-rising-costs-of-natural-disasters-66404839",
-      "title": "Municipal Bond Investors Face Elevated Risks From Rising Costs of Natural Disasters",
-      "content_text": "Municipal Bond Investors Face Elevated Risks From Rising Costs of Natural Disasters",
-      "summary": "",
-      "date_published": "2026-10-13T17:58:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "bf321769f16ba7e2",
-      "url": "https://www.wsj.com/finance/banking/rising-interest-rates-threaten-to-spoil-the-party-for-big-banks-0ef3e7c0",
-      "title": "Rising Interest Rates Threaten to Spoil the Party for Big Banks",
-      "content_text": "Rising Interest Rates Threaten to Spoil the Party for Big Banks",
-      "summary": "",
-      "date_published": "2026-10-13T17:51:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "ec1ef6c4df2a8272",
-      "url": "https://www.wsj.com/us-news/education/cornell-suspends-fraternity-parties-in-wake-of-rape-allegations-3790938b",
-      "title": "Cornell Suspends Fraternity Parties in Wake of Rape Allegations",
-      "content_text": "Cornell Suspends Fraternity Parties in Wake of Rape Allegations",
-      "summary": "",
-      "date_published": "2026-10-13T17:27:00+00:00",
-      "tags": [
-        "Us News"
       ]
     }
   ]
