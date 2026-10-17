@@ -6,6 +6,39 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "d83ac3bda84b7d71",
+      "url": "https://www.wsj.com/politics/trump-white-house-physician-sean-barbabella-8debfed1",
+      "title": "The High-Stakes Job of Trump’s White House Physician",
+      "content_text": "The High-Stakes Job of Trump’s White House Physician",
+      "summary": "",
+      "date_published": "2026-10-17T23:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "4f361c6a455a7685",
+      "url": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c",
+      "title": "A Princeton Ph.D. Applied to 2,300 Jobs. He Still Can’t Get One.",
+      "content_text": "A Princeton Ph.D. Applied to 2,300 Jobs. He Still Can’t Get One.",
+      "summary": "",
+      "date_published": "2026-10-17T23:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "854e965462974873",
+      "url": "https://www.wsj.com/us-news/law/former-mit-scientist-wins-defamation-case-over-sexual-harassment-accusations-8587a1f5",
+      "title": "Former MIT Scientist Wins Defamation Case Over Sexual-Harassment Accusations",
+      "content_text": "Former MIT Scientist Wins Defamation Case Over Sexual-Harassment Accusations",
+      "summary": "",
+      "date_published": "2026-10-17T22:15:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
       "id": "f4f9ce62cf1e106e",
       "url": "https://www.wsj.com/politics/elections/kansas-senate-election-trump-roger-marshall-d17319e5",
       "title": "The Senate Race Republicans Never Expected to Sweat",
@@ -2168,39 +2201,6 @@
       "content_text": "Generation Gaps Are Seldom as Wide as They Seem",
       "summary": "",
       "date_published": "2026-10-15T21:30:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "6e10341552730f61",
-      "url": "https://www.wsj.com/politics/policy/ukraine-resumes-strikes-on-russian-refineries-516c0072",
-      "title": "Ukraine Resumes Strikes On Russian Refineries",
-      "content_text": "Ukraine Resumes Strikes On Russian Refineries",
-      "summary": "",
-      "date_published": "2026-10-15T21:29:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "d8b0b5a949504d2d",
-      "url": "https://www.wsj.com/opinion/the-best-defense-against-ai-is-ai-b8e41b8c",
-      "title": "The Best Defense Against AI Is AI",
-      "content_text": "The Best Defense Against AI Is AI",
-      "summary": "",
-      "date_published": "2026-10-15T21:28:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "0493f94035cf054b",
-      "url": "https://www.wsj.com/opinion/western-sahara-embraces-morocco-dff25f01",
-      "title": "Western Sahara Embraces Morocco",
-      "content_text": "Western Sahara Embraces Morocco",
-      "summary": "",
-      "date_published": "2026-10-15T21:27:00+00:00",
       "tags": [
         "Opinion"
       ]
