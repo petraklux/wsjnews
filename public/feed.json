@@ -6,6 +6,160 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "9dbea7de1288c1fe",
+      "url": "https://www.wsj.com/lifestyle/careers/how-to-ask-colleagues-agree-requests-72231479",
+      "title": "The Secret to Getting Colleagues to Say ‘Yes’ When You Ask for Something",
+      "content_text": "The Secret to Getting Colleagues to Say ‘Yes’ When You Ask for Something",
+      "summary": "",
+      "date_published": "2026-10-17T13:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "d9556f2acad547c5",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/building-a-home-during-divorce-51ad880c",
+      "title": "A Divorced Couple’s $10.7 Million Home Gave Their Family a Fresh Start",
+      "content_text": "A Divorced Couple’s $10.7 Million Home Gave Their Family a Fresh Start",
+      "summary": "",
+      "date_published": "2026-10-17T13:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "b9dcc6a5eef38f93",
+      "url": "https://www.wsj.com/style/the-elizabeth-holmes-documentary-and-the-partner-behind-the-scenes-a33b3ff6",
+      "title": "The Elizabeth Holmes Documentary and the Partner Behind the Scenes",
+      "content_text": "The Elizabeth Holmes Documentary and the Partner Behind the Scenes",
+      "summary": "",
+      "date_published": "2026-10-17T12:25:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
+      "id": "025e65290107bd6a",
+      "url": "https://www.wsj.com/sports/football/marvin-harrison-cj-stroud-houston-texans-ohio-state-dfeacd41",
+      "title": "The NFL Team Betting It Can Fix an Enormous Bust—by Reuniting Him With His QB",
+      "content_text": "The NFL Team Betting It Can Fix an Enormous Bust—by Reuniting Him With His QB",
+      "summary": "",
+      "date_published": "2026-10-17T12:01:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "14b408105dc3deaa",
+      "url": "https://www.wsj.com/sports/soccer/fifas-infantino-makes-his-latest-pitch-for-support-e8a76e00",
+      "title": "FIFA’s Infantino Makes His Latest Pitch for Support",
+      "content_text": "FIFA’s Infantino Makes His Latest Pitch for Support",
+      "summary": "",
+      "date_published": "2026-10-17T11:55:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "5d91f94fec681d33",
+      "url": "https://www.wsj.com/tech/personal-tech/a-five-day-tour-for-katie-zacharia-75b0107b",
+      "title": "A Five-Day Tour for Katie Zacharia",
+      "content_text": "A Five-Day Tour for Katie Zacharia",
+      "summary": "",
+      "date_published": "2026-10-17T11:50:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "fe0ed28db467c45e",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/the-holdouts-working-around-new-york-citys-airbnb-crackdown-e5eb27bd",
+      "title": "The Holdouts Working Around New York City’s Airbnb Crackdown",
+      "content_text": "The Holdouts Working Around New York City’s Airbnb Crackdown",
+      "summary": "",
+      "date_published": "2026-10-17T11:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "61762d8f1f6e831b",
+      "url": "https://www.wsj.com/lifestyle/careers/the-silicon-valley-job-that-demands-three-years-of-24-7-hustle-d335a7bc",
+      "title": "The Silicon Valley Job That Demands Three Years of 24/7 Hustle",
+      "content_text": "The Silicon Valley Job That Demands Three Years of 24/7 Hustle",
+      "summary": "",
+      "date_published": "2026-10-17T11:00:00+00:00",
+      "tags": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "id": "e5f4c4684b01409c",
+      "url": "https://www.wsj.com/arts-culture/fine-art/china-institute-gallery-at-60-19662026-review-a-self-reflective-survey-432e469a",
+      "title": "‘China Institute Gallery at 60, 1966–2026’ Review: A Self-Reflective Survey",
+      "content_text": "‘China Institute Gallery at 60, 1966–2026’ Review: A Self-Reflective Survey",
+      "summary": "",
+      "date_published": "2026-10-17T11:00:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "5838954d9127ee93",
+      "url": "https://www.wsj.com/arts-culture/books/katie-zacharia-projected-confidence-less-than-an-hour-later-she-was-out-28ff9d2c",
+      "title": "Katie Zacharia Projected Confidence. Less Than an Hour Later, She Was Out.",
+      "content_text": "Katie Zacharia Projected Confidence. Less Than an Hour Later, She Was Out.",
+      "summary": "",
+      "date_published": "2026-10-17T10:58:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "ffc827df6b76952f",
+      "url": "https://www.wsj.com/business/media/news-quiz-for-october-17-2026-06096c58",
+      "title": "News Quiz for October 17, 2026",
+      "content_text": "News Quiz for October 17, 2026",
+      "summary": "",
+      "date_published": "2026-10-17T10:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "656c09c35ee2ef8d",
+      "url": "https://www.wsj.com/politics/elections/europe-trump-right-wing-populists-d91734af",
+      "title": "Why Europe’s Right Is Breaking Up With MAGA",
+      "content_text": "Why Europe’s Right Is Breaking Up With MAGA",
+      "summary": "",
+      "date_published": "2026-10-17T09:30:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "791e4a9296581c92",
+      "url": "https://www.wsj.com/business/its-too-late-for-small-fixes-at-pepsi-aaf8563f",
+      "title": "It’s Too Late for Small Fixes at Pepsi",
+      "content_text": "It’s Too Late for Small Fixes at Pepsi",
+      "summary": "",
+      "date_published": "2026-10-17T09:30:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "aed2faa426bfc16e",
+      "url": "https://www.wsj.com/business/autos/what-teslas-flying-roadster-really-means-for-the-global-auto-race-0ede8702",
+      "title": "What Tesla’s Flying Roadster Really Means for the Global Auto Race",
+      "content_text": "What Tesla’s Flying Roadster Really Means for the Global Auto Race",
+      "summary": "",
+      "date_published": "2026-10-17T09:30:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "8b530ee4a706b273",
       "url": "https://www.wsj.com/opinion/pepperand-salt-1338be6c",
       "title": "Pepper…and Salt",
@@ -2047,160 +2201,6 @@
       "content_text": "‘You Can See Everything’ Review: Nathan Fielder’s Fascinating Portrait of Elizabeth Holmes",
       "summary": "",
       "date_published": "2026-10-15T20:14:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "e114183341d406a1",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-15-2026/card/tax-saving-strategy-is-powering-wall-street-s-borrowing-binge-Nxtlu2i09c1NgZZCH1ob",
-      "title": "Tax-Saving Strategy Is Powering Wall Street’s Borrowing Binge",
-      "content_text": "Tax-Saving Strategy Is Powering Wall Street’s Borrowing Binge",
-      "summary": "",
-      "date_published": "2026-10-15T20:07:45+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "8ed0d80debfd28f5",
-      "url": "https://www.wsj.com/arts-culture/books/20-over-60-review-short-stories-with-a-long-view-4e70d47a",
-      "title": "‘20 Over 60’ Review: Short Stories With a Long View",
-      "content_text": "‘20 Over 60’ Review: Short Stories With a Long View",
-      "summary": "",
-      "date_published": "2026-10-15T20:00:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "7a94817825eaf536",
-      "url": "https://www.wsj.com/articles/anon-and-a-ghost-in-your-ear-review-minds-unraveling-off-broadway-77d2284f",
-      "title": "‘Anon’ and ‘A Ghost in Your Ear’ Review: Minds Unraveling Off-Broadway",
-      "content_text": "‘Anon’ and ‘A Ghost in Your Ear’ Review: Minds Unraveling Off-Broadway",
-      "summary": "",
-      "date_published": "2026-10-15T19:50:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "88bb5b5c47594a15",
-      "url": "https://www.wsj.com/arts-culture/television/best-streaming-services-criterion-channel-mubi-britbox-c9936074",
-      "title": "6 Streaming Services to Try if You’re Tired of the Usual Suspects",
-      "content_text": "6 Streaming Services to Try if You’re Tired of the Usual Suspects",
-      "summary": "",
-      "date_published": "2026-10-15T19:30:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "ad51894cd7579e20",
-      "url": "https://www.wsj.com/business/kfc-is-moving-to-ditch-pepsi-for-coke-in-thousands-of-restaurants-cb44611d",
-      "title": "KFC to Ditch Pepsi for Coke in Thousands of Restaurants",
-      "content_text": "KFC to Ditch Pepsi for Coke in Thousands of Restaurants",
-      "summary": "",
-      "date_published": "2026-10-15T19:16:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "1edb956b6f6b1a7d",
-      "url": "https://www.wsj.com/finance/investing/a-popular-tax-minimizing-trade-is-juicing-wall-streets-borrowing-binge-6d81eac2",
-      "title": "A Popular Tax-Saving Trade is Juicing Wall Street’s Borrowing Binge",
-      "content_text": "A Popular Tax-Saving Trade is Juicing Wall Street’s Borrowing Binge",
-      "summary": "",
-      "date_published": "2026-10-15T19:08:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "ef63b1a7f544318d",
-      "url": "https://www.wsj.com/arts-culture/film/sense-and-sensibility-review-austen-adapted-again-a6d49cb7",
-      "title": "‘Sense and Sensibility’ Review: Austen Adapted Again",
-      "content_text": "‘Sense and Sensibility’ Review: Austen Adapted Again",
-      "summary": "",
-      "date_published": "2026-10-15T19:07:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "d1c4a35bf412bfae",
-      "url": "https://www.wsj.com/tech/big-tech-is-soft-launching-data-centers-early-bracing-for-scrutiny-7a656287",
-      "title": "Big Tech Is Soft-Launching Data Centers Early, Bracing for Scrutiny",
-      "content_text": "Big Tech Is Soft-Launching Data Centers Early, Bracing for Scrutiny",
-      "summary": "",
-      "date_published": "2026-10-15T19:00:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "138a10de8b60ba29",
-      "url": "https://www.wsj.com/opinion/is-public-execution-really-the-american-way-a65f10da",
-      "title": "Is Public Execution Really the American Way?",
-      "content_text": "Is Public Execution Really the American Way?",
-      "summary": "",
-      "date_published": "2026-10-15T18:39:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "e0781080c3f6b1e8",
-      "url": "https://www.wsj.com/opinion/this-isnt-the-age-of-illiteracy-not-even-close-54982d3c",
-      "title": "This Isn’t the Age of Illiteracy. Not Even Close",
-      "content_text": "This Isn’t the Age of Illiteracy. Not Even Close",
-      "summary": "",
-      "date_published": "2026-10-15T18:38:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "0435e07329d956cb",
-      "url": "https://www.wsj.com/opinion/recycling-strengthens-the-american-economy-5932e26e",
-      "title": "Recycling Strengthens the American Economy",
-      "content_text": "Recycling Strengthens the American Economy",
-      "summary": "",
-      "date_published": "2026-10-15T18:36:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "4e74ca87b689f783",
-      "url": "https://www.wsj.com/opinion/higher-education-is-failing-to-provide-sufficient-value-5b45f3b3",
-      "title": "Higher Education Is Failing to Provide Sufficient Value",
-      "content_text": "Higher Education Is Failing to Provide Sufficient Value",
-      "summary": "",
-      "date_published": "2026-10-15T18:32:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "1f13103286774614",
-      "url": "https://www.wsj.com/opinion/finding-real-solace-in-grief-d9c3ab37",
-      "title": "Finding Real Solace in Grief",
-      "content_text": "Finding Real Solace in Grief",
-      "summary": "",
-      "date_published": "2026-10-15T18:31:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "dea6ec2569a2d42b",
-      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
-      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "summary": "",
-      "date_published": "2026-10-15T18:30:19+00:00",
       "tags": [
         "Arts Culture"
       ]
