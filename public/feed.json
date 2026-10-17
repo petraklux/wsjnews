@@ -6,6 +6,17 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "f4f9ce62cf1e106e",
+      "url": "https://www.wsj.com/politics/elections/kansas-senate-election-trump-roger-marshall-d17319e5",
+      "title": "The Senate Race Republicans Never Expected to Sweat",
+      "content_text": "The Senate Race Republicans Never Expected to Sweat",
+      "summary": "",
+      "date_published": "2026-10-17T19:53:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "b0c831104230ca37",
       "url": "https://www.wsj.com/world/middle-east/masked-israeli-settlers-attack-european-diplomats-in-west-bank-f60dedd1",
       "title": "Masked Israeli Settlers Attack European Diplomats in West Bank",
@@ -2192,17 +2203,6 @@
       "date_published": "2026-10-15T21:27:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "96eddb84c6efcefd",
-      "url": "https://www.wsj.com/finance/stocks/the-riskiest-corner-of-the-ai-trade-is-crashing-into-higher-rates-fcdaad37",
-      "title": "The Riskiest Corner of the AI Trade Is Crashing Into Higher Rates",
-      "content_text": "The Riskiest Corner of the AI Trade Is Crashing Into Higher Rates",
-      "summary": "",
-      "date_published": "2026-10-15T21:00:00+00:00",
-      "tags": [
-        "Finance"
       ]
     }
   ]
