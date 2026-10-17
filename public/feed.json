@@ -6,6 +6,39 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "b0c831104230ca37",
+      "url": "https://www.wsj.com/world/middle-east/masked-israeli-settlers-attack-european-diplomats-in-west-bank-f60dedd1",
+      "title": "Masked Israeli Settlers Attack European Diplomats in West Bank",
+      "content_text": "Masked Israeli Settlers Attack European Diplomats in West Bank",
+      "summary": "",
+      "date_published": "2026-10-17T19:03:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "4a84b126fef2bb9c",
+      "url": "https://www.wsj.com/business/deals/softbank-in-early-talks-to-buy-allied-universal-2d582a66",
+      "title": "SoftBank in Early Talks to Buy Allied Universal",
+      "content_text": "SoftBank in Early Talks to Buy Allied Universal",
+      "summary": "",
+      "date_published": "2026-10-17T18:14:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "85d3fda8b2859aa7",
+      "url": "https://www.wsj.com/style/design/midcentury-modern-design-833ca0d8",
+      "title": "Cool or Cringe? Readers Sound Off on the State of Midcentury Modern Design",
+      "content_text": "Cool or Cringe? Readers Sound Off on the State of Midcentury Modern Design",
+      "summary": "",
+      "date_published": "2026-10-17T17:04:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
       "id": "dea6ec2569a2d42b",
       "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
       "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
@@ -28,10 +61,10 @@
       ]
     },
     {
-      "id": "ed71bc01b26913f0",
-      "url": "https://www.wsj.com/finance/investing/father-daughter-family-business-workplace-c68630aa",
-      "title": "My Daughter and I Went Into Business Together. It Has Been an Adjustment.",
-      "content_text": "My Daughter and I Went Into Business Together. It Has Been an Adjustment.",
+      "id": "a606d71f6ff4e43b",
+      "url": "https://www.wsj.com/finance/nearly-all-volume-on-fifa-linked-prediction-market-is-circular-trading-549393f3",
+      "title": "Nearly All Volume on FIFA-Linked Prediction Market Is Circular Trading",
+      "content_text": "Nearly All Volume on FIFA-Linked Prediction Market Is Circular Trading",
       "summary": "",
       "date_published": "2026-10-17T16:02:00+00:00",
       "tags": [
@@ -39,10 +72,10 @@
       ]
     },
     {
-      "id": "a606d71f6ff4e43b",
-      "url": "https://www.wsj.com/finance/nearly-all-volume-on-fifa-linked-prediction-market-is-circular-trading-549393f3",
-      "title": "Nearly All Volume on FIFA-Linked Prediction Market Is Circular Trading",
-      "content_text": "Nearly All Volume on FIFA-Linked Prediction Market Is Circular Trading",
+      "id": "ed71bc01b26913f0",
+      "url": "https://www.wsj.com/finance/investing/father-daughter-family-business-workplace-c68630aa",
+      "title": "My Daughter and I Went Into Business Together. It Has Been an Adjustment.",
+      "content_text": "My Daughter and I Went Into Business Together. It Has Been an Adjustment.",
       "summary": "",
       "date_published": "2026-10-17T16:02:00+00:00",
       "tags": [
@@ -2170,39 +2203,6 @@
       "date_published": "2026-10-15T21:00:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "6310b6a294c16825",
-      "url": "https://www.wsj.com/arts-culture/television/maigret-and-professor-t-review-multiplying-mysteries-on-pbs-289ea096",
-      "title": "‘Maigret’ and ‘Professor T’ Review: Multiplying Mysteries on PBS",
-      "content_text": "‘Maigret’ and ‘Professor T’ Review: Multiplying Mysteries on PBS",
-      "summary": "",
-      "date_published": "2026-10-15T20:45:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "ddba42a9be796343",
-      "url": "https://www.wsj.com/business/earnings/alcoa-posts-higher-third-quarter-profit-sales-on-increased-production-06d2fd90",
-      "title": "Alcoa Posts Higher Third-Quarter Profit, Sales on Increased Production",
-      "content_text": "Alcoa Posts Higher Third-Quarter Profit, Sales on Increased Production",
-      "summary": "",
-      "date_published": "2026-10-15T20:43:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "7322046c872c4aa1",
-      "url": "https://www.wsj.com/business/earnings/j-b-hunt-reports-higher-profit-steeper-operating-expenses-f6aa69e4",
-      "title": "J.B. Hunt Reports Higher Profit, Steeper Operating Expenses",
-      "content_text": "J.B. Hunt Reports Higher Profit, Steeper Operating Expenses",
-      "summary": "",
-      "date_published": "2026-10-15T20:33:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
