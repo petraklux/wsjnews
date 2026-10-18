@@ -6,14 +6,58 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "d83ac3bda84b7d71",
-      "url": "https://www.wsj.com/politics/trump-white-house-physician-sean-barbabella-8debfed1",
-      "title": "The High-Stakes Job of Trump’s White House Physician",
-      "content_text": "The High-Stakes Job of Trump’s White House Physician",
+      "id": "6262323099d3ca57",
+      "url": "https://www.wsj.com/politics/elections/republican-midterm-election-strategy-culture-war-8a128efa",
+      "title": "Republicans Zero In on Cultural Issues in Campaign’s Final Stretch",
+      "content_text": "Republicans Zero In on Cultural Issues in Campaign’s Final Stretch",
       "summary": "",
-      "date_published": "2026-10-17T23:00:00+00:00",
+      "date_published": "2026-10-18T02:00:00+00:00",
       "tags": [
         "Politics"
+      ]
+    },
+    {
+      "id": "f6e66818535f3197",
+      "url": "https://www.wsj.com/world/africa/wagner-mercenary-prigozhin-guns-b1f4cdf3",
+      "title": "The Playboy Who Inherited the World’s Most Notorious Mercenary Force",
+      "content_text": "The Playboy Who Inherited the World’s Most Notorious Mercenary Force",
+      "summary": "",
+      "date_published": "2026-10-18T01:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "c081bc242f0e2061",
+      "url": "https://www.wsj.com/world/how-zelensky-decided-to-take-the-risk-and-publicly-confront-trump-570046ac",
+      "title": "How Zelensky Decided to Take the Risk and Publicly Confront Trump",
+      "content_text": "How Zelensky Decided to Take the Risk and Publicly Confront Trump",
+      "summary": "",
+      "date_published": "2026-10-18T01:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "1d8af950e0d6bf53",
+      "url": "https://www.wsj.com/economy/the-five-charts-that-show-how-your-wallet-will-shape-the-midterms-7f0c4451",
+      "title": "The Five Charts That Show How Your Wallet Will Shape the Midterms",
+      "content_text": "The Five Charts That Show How Your Wallet Will Shape the Midterms",
+      "summary": "",
+      "date_published": "2026-10-18T00:00:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "d9adaf880d72a95b",
+      "url": "https://www.wsj.com/us-news/education/socializing-at-college-is-so-fraught-it-requires-paperwork-before-partying-454c01aa",
+      "title": "Socializing at College Is So Fraught It Requires Paperwork Before Partying",
+      "content_text": "Socializing at College Is So Fraught It Requires Paperwork Before Partying",
+      "summary": "",
+      "date_published": "2026-10-18T00:00:00+00:00",
+      "tags": [
+        "Us News"
       ]
     },
     {
@@ -25,6 +69,17 @@
       "date_published": "2026-10-17T23:00:00+00:00",
       "tags": [
         "Lifestyle"
+      ]
+    },
+    {
+      "id": "d83ac3bda84b7d71",
+      "url": "https://www.wsj.com/politics/trump-white-house-physician-sean-barbabella-8debfed1",
+      "title": "The High-Stakes Job of Trump’s White House Physician",
+      "content_text": "The High-Stakes Job of Trump’s White House Physician",
+      "summary": "",
+      "date_published": "2026-10-17T23:00:00+00:00",
+      "tags": [
+        "Politics"
       ]
     },
     {
@@ -2146,61 +2201,6 @@
       "content_text": "The Democratic Hormuz Alternative",
       "summary": "",
       "date_published": "2026-10-15T21:41:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "61601d10001d6b75",
-      "url": "https://www.wsj.com/opinion/fcc-supreme-court-fourth-circuit-election-advertising-628b4a82",
-      "title": "Slapping Down an Insubordinate Court",
-      "content_text": "Slapping Down an Insubordinate Court",
-      "summary": "",
-      "date_published": "2026-10-15T21:38:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "47cff078efb74d12",
-      "url": "https://www.wsj.com/opinion/volodymyr-zelensky-starlink-deal-energy-targets-donald-trump-russia-ukraine-e313399d",
-      "title": "Zelensky Is Open to a Starlink Deal",
-      "content_text": "Zelensky Is Open to a Starlink Deal",
-      "summary": "",
-      "date_published": "2026-10-15T21:36:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "fc035908d6d601dc",
-      "url": "https://www.wsj.com/opinion/alaska-considers-economic-suicide-79073197",
-      "title": "Alaska Considers Economic Suicide",
-      "content_text": "Alaska Considers Economic Suicide",
-      "summary": "",
-      "date_published": "2026-10-15T21:32:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "4f5dd519d1bacd11",
-      "url": "https://www.wsj.com/opinion/history-raises-its-eyebrows-at-the-week-in-ai-e70a3913",
-      "title": "History Raises Its Eyebrows at the Week in AI",
-      "content_text": "History Raises Its Eyebrows at the Week in AI",
-      "summary": "",
-      "date_published": "2026-10-15T21:30:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "ecf8fbd8766aec1c",
-      "url": "https://www.wsj.com/opinion/generation-gaps-are-seldom-as-wide-as-they-seem-7778ce7f",
-      "title": "Generation Gaps Are Seldom as Wide as They Seem",
-      "content_text": "Generation Gaps Are Seldom as Wide as They Seem",
-      "summary": "",
-      "date_published": "2026-10-15T21:30:00+00:00",
       "tags": [
         "Opinion"
       ]
