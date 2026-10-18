@@ -6,12 +6,67 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "f9ce94846ae493ae",
-      "url": "https://www.wsj.com/business/retail/lego-adult-sets-gaming-formula-one-d7ccbc9d",
-      "title": "How Lego Is Getting More Adults to Tinker With Their Toy Bricks",
-      "content_text": "How Lego Is Getting More Adults to Tinker With Their Toy Bricks",
+      "id": "41b3b8a750934754",
+      "url": "https://www.wsj.com/opinion/for-investors-and-savers-tina-is-giving-way-to-tara-3cfc0714",
+      "title": "For Investors and Savers, TINA Is Giving Way to TARA",
+      "content_text": "For Investors and Savers, TINA Is Giving Way to TARA",
       "summary": "",
-      "date_published": "2026-10-18T16:00:00+00:00",
+      "date_published": "2026-10-18T19:20:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "8b6118eab181b43a",
+      "url": "https://www.wsj.com/world/europe/french-leaders-trade-blame-after-rioting-sweeps-the-nation-ac02a5b6",
+      "title": "French Leaders Trade Blame After Rioting Sweeps the Nation",
+      "content_text": "French Leaders Trade Blame After Rioting Sweeps the Nation",
+      "summary": "",
+      "date_published": "2026-10-18T19:12:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "2dac6c3b6efa577f",
+      "url": "https://www.wsj.com/world/middle-east/trump-endorses-israels-netanyahu-for-re-election-aaad0b98",
+      "title": "Trump Endorses Israel’s Netanyahu for Re-Election",
+      "content_text": "Trump Endorses Israel’s Netanyahu for Re-Election",
+      "summary": "",
+      "date_published": "2026-10-18T17:38:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "28b74637ffd8d098",
+      "url": "https://www.wsj.com/world/europe/ukrainian-drone-strike-hits-putins-hometown-striking-oil-terminal-cec1ce9c",
+      "title": "Ukrainian Drone Strike Hits Putin’s Hometown, Striking Oil Terminal",
+      "content_text": "Ukrainian Drone Strike Hits Putin’s Hometown, Striking Oil Terminal",
+      "summary": "",
+      "date_published": "2026-10-18T17:23:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "62a0a9445d0e9aea",
+      "url": "https://www.wsj.com/us-news/trump-presses-ahead-with-plans-to-remake-washington-golf-course-27a26ba9",
+      "title": "Trump Presses Ahead With Plans to Remake Washington Golf Course",
+      "content_text": "Trump Presses Ahead With Plans to Remake Washington Golf Course",
+      "summary": "",
+      "date_published": "2026-10-18T17:17:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "34483a62db00b525",
+      "url": "https://www.wsj.com/business/autos/ford-wants-to-make-fun-cars-again-in-europeif-drivers-can-wait-until-2028-d2c9e50b",
+      "title": "Ford Wants to Make Fun Cars Again in Europe—if Drivers Can Wait Until 2028",
+      "content_text": "Ford Wants to Make Fun Cars Again in Europe—if Drivers Can Wait Until 2028",
+      "summary": "",
+      "date_published": "2026-10-18T17:00:00+00:00",
       "tags": [
         "Business"
       ]
@@ -25,6 +80,17 @@
       "date_published": "2026-10-18T16:00:00+00:00",
       "tags": [
         "Politics"
+      ]
+    },
+    {
+      "id": "f9ce94846ae493ae",
+      "url": "https://www.wsj.com/business/retail/lego-adult-sets-gaming-formula-one-d7ccbc9d",
+      "title": "How Lego Is Getting More Adults to Tinker With Their Toy Bricks",
+      "content_text": "How Lego Is Getting More Adults to Tinker With Their Toy Bricks",
+      "summary": "",
+      "date_published": "2026-10-18T16:00:00+00:00",
+      "tags": [
+        "Business"
       ]
     },
     {
@@ -2137,72 +2203,6 @@
       "date_published": "2026-10-16T05:50:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "38d010ce5d07c0c5",
-      "url": "https://www.wsj.com/finance/stocks/asia-stocks-recover-some-ground-after-tech-rout-c0735307",
-      "title": "Asia Stocks Recover Some Ground After Tech Rout",
-      "content_text": "Asia Stocks Recover Some Ground After Tech Rout",
-      "summary": "",
-      "date_published": "2026-10-16T05:28:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "ebf18048af2844dd",
-      "url": "https://www.wsj.com/finance/investing/indonesian-stocks-dive-as-msci-weighs-downgrade-to-standalone-market-406133fc",
-      "title": "Indonesian Stocks Dive as MSCI Weighs Downgrade to Standalone Market",
-      "content_text": "Indonesian Stocks Dive as MSCI Weighs Downgrade to Standalone Market",
-      "summary": "",
-      "date_published": "2026-10-16T05:17:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "0b8e7f1828047f20",
-      "url": "https://www.wsj.com/opinion/pepperand-salt-14557a75",
-      "title": "Pepper…and Salt",
-      "content_text": "Pepper…and Salt",
-      "summary": "",
-      "date_published": "2026-10-16T04:00:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "35652294cfb58aaf",
-      "url": "https://www.wsj.com/economy/central-banking/warsh-avoids-signal-on-october-rate-move-a176b0d5",
-      "title": "Warsh Avoids Signal on October Rate Move",
-      "content_text": "Warsh Avoids Signal on October Rate Move",
-      "summary": "",
-      "date_published": "2026-10-16T03:59:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "ca4cacf712afc0e9",
-      "url": "https://www.wsj.com/articles/corrections-amplifications-9a0cc5d3",
-      "title": "Corrections & Amplifications",
-      "content_text": "Corrections & Amplifications",
-      "summary": "",
-      "date_published": "2026-10-16T03:20:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "2e85e26a45a8004a",
-      "url": "https://www.wsj.com/us-news/cornell-fraternity-university-response-bd02ef54",
-      "title": "A Long History of Reining In Fraternities at Cornell Has Come Up Short",
-      "content_text": "A Long History of Reining In Fraternities at Cornell Has Come Up Short",
-      "summary": "",
-      "date_published": "2026-10-16T02:00:00+00:00",
-      "tags": [
-        "Us News"
       ]
     }
   ]
