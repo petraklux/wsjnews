@@ -6,6 +6,314 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "3bd8f266d35bbd4d",
+      "url": "https://www.wsj.com/business/earnings/cleveland-cliffs-revenue-rises-on-higher-volumes-selling-price-bcf7fc17",
+      "title": "Cleveland-Cliffs Revenue Rises on Higher Volumes, Selling Price",
+      "content_text": "Cleveland-Cliffs Revenue Rises on Higher Volumes, Selling Price",
+      "summary": "",
+      "date_published": "2026-10-19T11:04:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "785e3ef5a4d54455",
+      "url": "https://www.wsj.com/logistics-report/self-driving-big-rigs-rack-up-miles-just-dont-tell-them-to-back-upyet-5b81408c",
+      "title": "Self-Driving Big Rigs Rack Up Miles, Just Don’t Tell Them to Back Up…Yet",
+      "content_text": "Self-Driving Big Rigs Rack Up Miles, Just Don’t Tell Them to Back Up…Yet",
+      "summary": "",
+      "date_published": "2026-10-19T11:02:00+00:00",
+      "tags": [
+        "Logistics Report"
+      ]
+    },
+    {
+      "id": "a975dea638cee32e",
+      "url": "https://www.wsj.com/sports/football/los-angeles-rams-kicker-arizona-cardinals-78bc5996",
+      "title": "The Fatal Flaw Sinking the NFL’s Superteam",
+      "content_text": "The Fatal Flaw Sinking the NFL’s Superteam",
+      "summary": "",
+      "date_published": "2026-10-19T11:00:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "af0bd9a1e5366181",
+      "url": "https://www.wsj.com/politics/policy/after-a-week-of-turmoil-can-the-white-house-lock-it-down-9b890823",
+      "title": "After a Week of Turmoil, Can the White House Lock It Down?",
+      "content_text": "After a Week of Turmoil, Can the White House Lock It Down?",
+      "summary": "",
+      "date_published": "2026-10-19T10:59:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "3091abaaa489c5a8",
+      "url": "https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c",
+      "title": "Musk Vows to Give Each U.S. Child a SpaceX Share",
+      "content_text": "Musk Vows to Give Each U.S. Child a SpaceX Share",
+      "summary": "",
+      "date_published": "2026-10-19T10:58:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "b53b6c81eb693788",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-19-2026/card/french-bonds-sell-off-again-after-violent-protests-GE3OWIqjtPB74Mjb1J7B",
+      "title": "French Bonds Sell Off Again After Violent Protests",
+      "content_text": "French Bonds Sell Off Again After Violent Protests",
+      "summary": "",
+      "date_published": "2026-10-19T10:57:13+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "cb004f97fc8061f1",
+      "url": "https://www.wsj.com/tech/quantinuum-sees-path-to-fault-tolerant-quantum-computing-by-2029-with-new-milestone-9daa6b07",
+      "title": "Quantinuum Sees Path to Fault-Tolerant Quantum Computing by 2029 With New Milestone",
+      "content_text": "Quantinuum Sees Path to Fault-Tolerant Quantum Computing by 2029 With New Milestone",
+      "summary": "",
+      "date_published": "2026-10-19T10:51:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "125d6ffbbacc2d25",
+      "url": "https://www.wsj.com/finance/stocks/netflix-stock-might-be-a-sleeper-hit-fd4bd2b1",
+      "title": "Netflix Stock Might be a Sleeper Hit",
+      "content_text": "Netflix Stock Might be a Sleeper Hit",
+      "summary": "",
+      "date_published": "2026-10-19T10:33:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "70b461c2b05d7269",
+      "url": "https://www.wsj.com/finance/investing/etfs-often-cost-more-than-they-should-eb20145c",
+      "title": "ETFs Often Cost More Than They Should",
+      "content_text": "ETFs Often Cost More Than They Should",
+      "summary": "",
+      "date_published": "2026-10-19T10:25:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "ea17a02510f023bd",
+      "url": "https://www.wsj.com/business/how-patriotism-shapes-jamie-dimons-leadership-6c7be063",
+      "title": "How Patriotism Shapes Jamie Dimon’s Leadership",
+      "content_text": "How Patriotism Shapes Jamie Dimon’s Leadership",
+      "summary": "",
+      "date_published": "2026-10-19T10:05:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "6c526c75ab5d34b0",
+      "url": "https://www.wsj.com/business/kkr-sent-formal-objection-by-eu-over-information-provided-in-26-billion-netco-deal-5848d196",
+      "title": "KKR Sent Formal Objection by EU Over Information Provided in €22 Billion NetCo Deal",
+      "content_text": "KKR Sent Formal Objection by EU Over Information Provided in €22 Billion NetCo Deal",
+      "summary": "",
+      "date_published": "2026-10-19T10:05:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "89dad74bec8bd32c",
+      "url": "https://www.wsj.com/articles/putins-bid-to-end-the-war-in-ukraine-on-moscows-terms-3e09dfec",
+      "title": "Putin’s Bid to End the War in Ukraine on Moscow’s Terms",
+      "content_text": "Putin’s Bid to End the War in Ukraine on Moscow’s Terms",
+      "summary": "",
+      "date_published": "2026-10-19T10:02:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "929602a67305629c",
+      "url": "https://www.wsj.com/finance/banking/jamie-dimons-national-security-pledge-finances-230-billion-in-first-year-c757faf2",
+      "title": "Jamie Dimon’s National-Security Pledge Finances $230 Billion in First Year",
+      "content_text": "Jamie Dimon’s National-Security Pledge Finances $230 Billion in First Year",
+      "summary": "",
+      "date_published": "2026-10-19T10:01:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "231a4199143ffe7b",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-19-2026/card/stocks-to-watch-intel-cxmt-french-banks-EEArMscySni9CXncwOKX",
+      "title": "Stocks to Watch: Intel, CXMT, French Banks",
+      "content_text": "Stocks to Watch: Intel, CXMT, French Banks",
+      "summary": "",
+      "date_published": "2026-10-19T09:41:37+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "22681cad67036de5",
+      "url": "https://www.wsj.com/business/the-internet-told-them-owning-a-laundromat-was-easy-money-it-was-anything-but-2ca220c7",
+      "title": "The Internet Told Them Owning a Laundromat Was Easy Money. It Was Anything But.",
+      "content_text": "The Internet Told Them Owning a Laundromat Was Easy Money. It Was Anything But.",
+      "summary": "",
+      "date_published": "2026-10-19T09:30:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "45a406e89a7f9921",
+      "url": "https://www.wsj.com/economy/housing/americas-new-housing-market-is-all-about-luxuryand-it-runs-on-cash-8a5fcb8e",
+      "title": "America’s New Housing Market Is All About Luxury—and It Runs on Cash",
+      "content_text": "America’s New Housing Market Is All About Luxury—and It Runs on Cash",
+      "summary": "",
+      "date_published": "2026-10-19T09:30:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "2cb420c5f2a59e89",
+      "url": "https://www.wsj.com/finance/investing/the-weak-points-in-ai-bonds-are-becoming-clearer-12f09cc6",
+      "title": "The Weak Points in AI Bonds Are Becoming Clearer",
+      "content_text": "The Weak Points in AI Bonds Are Becoming Clearer",
+      "summary": "",
+      "date_published": "2026-10-19T09:30:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "3e4570164d5c2470",
+      "url": "https://www.wsj.com/economy/chinas-export-boom-masks-deep-economic-problems-at-home-945833ac",
+      "title": "China’s Export Boom Masks Deep Economic Problems at Home",
+      "content_text": "China’s Export Boom Masks Deep Economic Problems at Home",
+      "summary": "",
+      "date_published": "2026-10-19T09:30:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "26075220b6565b72",
+      "url": "https://www.wsj.com/politics/policy/the-greenwich-billionaire-couple-spending-big-to-reinvent-the-democratic-party-6ea2ba99",
+      "title": "The Greenwich Billionaire Couple Spending Big to Reinvent the Democratic Party",
+      "content_text": "The Greenwich Billionaire Couple Spending Big to Reinvent the Democratic Party",
+      "summary": "",
+      "date_published": "2026-10-19T09:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "fdebad4483144073",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-19-2026/card/-earnings-snippet-cmxt-MVGyqAKUZ1w5EZrYBmsn",
+      "title": "📈 Earnings Snippet: CMXT",
+      "content_text": "📈 Earnings Snippet: CMXT",
+      "summary": "",
+      "date_published": "2026-10-19T08:57:16+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "7b24aad5e6c356ee",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-19-2026/card/meta-tesla-earnings-housing-data-what-to-watch-this-week-elljmosDw4UbIiOjCOvj",
+      "title": "Meta, Tesla Earnings, Housing Data: What to Watch This Week",
+      "content_text": "Meta, Tesla Earnings, Housing Data: What to Watch This Week",
+      "summary": "",
+      "date_published": "2026-10-19T08:35:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "789de794ebfd1ab7",
+      "url": "https://www.wsj.com/finance/stocks/stock-futures-rise-as-investors-make-cautious-return-to-risk-cd3b0e6a",
+      "title": "Stock Futures Rise as Investors Make Cautious Return to Risk",
+      "content_text": "Stock Futures Rise as Investors Make Cautious Return to Risk",
+      "summary": "",
+      "date_published": "2026-10-19T08:34:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "4d50eb6602b31589",
+      "url": "https://www.wsj.com/world/europe/french-contagion-less-virulent-than-in-previous-eurozone-crisis-cefd8692",
+      "title": "French Contagion Less Virulent Than in Previous Eurozone Crisis",
+      "content_text": "French Contagion Less Virulent Than in Previous Eurozone Crisis",
+      "summary": "",
+      "date_published": "2026-10-19T08:13:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "c3baa9eb4efb3b19",
+      "url": "https://www.wsj.com/articles/european-gas-prices-high-on-storage-concerns-a0e18745",
+      "title": "European Gas Prices High on Storage Concerns",
+      "content_text": "European Gas Prices High on Storage Concerns",
+      "summary": "",
+      "date_published": "2026-10-19T08:01:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "a5b1048e3f1fcbec",
+      "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russia-sanctions-waiver-middle-east-risks-05053c4f",
+      "title": "Oil Prices Fall as Traders Weigh Russia Sanctions Waiver, Middle East Risks",
+      "content_text": "Oil Prices Fall as Traders Weigh Russia Sanctions Waiver, Middle East Risks",
+      "summary": "",
+      "date_published": "2026-10-19T07:42:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "d2953fc92143b484",
+      "url": "https://www.wsj.com/style/gayle-king-cbs-mornings-1767589f",
+      "title": "Gayle King Wakes Up at 3:24 a.m. and Takes a Bubble Bath",
+      "content_text": "Gayle King Wakes Up at 3:24 a.m. and Takes a Bubble Bath",
+      "summary": "",
+      "date_published": "2026-10-19T07:24:00+00:00",
+      "tags": [
+        "Style"
+      ]
+    },
+    {
+      "id": "8c94137006b5c180",
+      "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-in-asian-trade-e5171539",
+      "title": "French Government-Bond Yields Rise on Protests, Budget Concerns; Treasury Yields Fall",
+      "content_text": "French Government-Bond Yields Rise on Protests, Budget Concerns; Treasury Yields Fall",
+      "summary": "",
+      "date_published": "2026-10-19T06:19:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "0af4f11e0f613f4b",
+      "url": "https://www.wsj.com/business/lindt-boss-to-depart-former-ceo-takes-role-in-interim-fb86584c",
+      "title": "Lindt Replaces CEO With Former Boss in Bid to Revive Growth",
+      "content_text": "Lindt Replaces CEO With Former Boss in Bid to Revive Growth",
+      "summary": "",
+      "date_published": "2026-10-19T05:40:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "16ce115a401d862b",
       "url": "https://www.wsj.com/business/earnings/chinas-cxmt-expects-over-eightfold-revenue-jump-amid-memory-squeeze-93d24f98",
       "title": "China’s CXMT Expects Over Eightfold Revenue Jump Amid Memory Squeeze",
@@ -17,17 +325,6 @@
       ]
     },
     {
-      "id": "6cb68b02ce2a8927",
-      "url": "https://www.wsj.com/articles/other-desert-cities-review-julia-louis-dreyfuss-slashing-wit-on-broadway-d27e51fe",
-      "title": "‘Other Desert Cities’ Review: Julia Louis-Dreyfus’s Slashing Wit on Broadway",
-      "content_text": "‘Other Desert Cities’ Review: Julia Louis-Dreyfus’s Slashing Wit on Broadway",
-      "summary": "",
-      "date_published": "2026-10-19T04:00:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
       "id": "621bed0845ea4209",
       "url": "https://www.wsj.com/opinion/pepperand-salt-bf737204",
       "title": "Pepper…and Salt",
@@ -36,6 +333,17 @@
       "date_published": "2026-10-19T04:00:00+00:00",
       "tags": [
         "Opinion"
+      ]
+    },
+    {
+      "id": "6cb68b02ce2a8927",
+      "url": "https://www.wsj.com/articles/other-desert-cities-review-julia-louis-dreyfuss-slashing-wit-on-broadway-d27e51fe",
+      "title": "‘Other Desert Cities’ Review: Julia Louis-Dreyfus’s Slashing Wit on Broadway",
+      "content_text": "‘Other Desert Cities’ Review: Julia Louis-Dreyfus’s Slashing Wit on Broadway",
+      "summary": "",
+      "date_published": "2026-10-19T04:00:00+00:00",
+      "tags": [
+        "Front Page"
       ]
     },
     {
@@ -1895,314 +2203,6 @@
       "date_published": "2026-10-16T15:13:00+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "9b44f2aceeefc978",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2026/card/diesel-supply-remains-tight-GVKs4C3V9DwUh07zpQeO",
-      "title": "Diesel Supply Remains Tight",
-      "content_text": "Diesel Supply Remains Tight",
-      "summary": "",
-      "date_published": "2026-10-16T15:05:18+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "c1fb5a4c64c128f1",
-      "url": "https://www.wsj.com/articles/rows-garden-saturday-variety-puzzle-october-17-e32b22dd",
-      "title": "Rows Garden (Saturday Variety Puzzle, October 17)",
-      "content_text": "Rows Garden (Saturday Variety Puzzle, October 17)",
-      "summary": "",
-      "date_published": "2026-10-16T15:00:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "f65d90fb60e076bc",
-      "url": "https://www.wsj.com/business/autos/france-and-germany-reach-deal-to-protect-europes-car-industry-f829c51d",
-      "title": "France and Germany Reach Deal to Protect Europe’s Car Industry",
-      "content_text": "France and Germany Reach Deal to Protect Europe’s Car Industry",
-      "summary": "",
-      "date_published": "2026-10-16T14:34:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "82359e1500728080",
-      "url": "https://www.wsj.com/politics/elections/elon-musk-pours-a-fortune-into-saving-texas-for-republicans-170b27df",
-      "title": "Elon Musk Pours a Fortune Into Saving Texas for Republicans",
-      "content_text": "Elon Musk Pours a Fortune Into Saving Texas for Republicans",
-      "summary": "",
-      "date_published": "2026-10-16T14:21:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "fbf320f307006ad0",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2026/card/-flash-heard-chinese-memory-advances-aren-t-all-they-re-cracked-up-to-be-xeEIWPNzvDfAZ1alCZhc",
-      "title": "⚡Flash Heard: Chinese Memory Advances Aren’t All They’re Cracked Up to Be",
-      "content_text": "⚡Flash Heard: Chinese Memory Advances Aren’t All They’re Cracked Up to Be",
-      "summary": "",
-      "date_published": "2026-10-16T14:15:07+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "e7a44969beec7bd1",
-      "url": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-european-pmi-data-in-focus-b2ef9cd5",
-      "title": "Week Ahead for FX, Bonds: U.S., European PMI Data in Focus",
-      "content_text": "Week Ahead for FX, Bonds: U.S., European PMI Data in Focus",
-      "summary": "",
-      "date_published": "2026-10-16T14:15:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "6d3cf52803cecfb2",
-      "url": "https://www.wsj.com/business/energy-oil/diesel-prices-hold-high-despite-efforts-to-boost-global-supplies-5557b1d2",
-      "title": "Diesel Prices Hold High Despite Efforts to Boost Global Supplies",
-      "content_text": "Diesel Prices Hold High Despite Efforts to Boost Global Supplies",
-      "summary": "",
-      "date_published": "2026-10-16T14:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "b480212d7081deb2",
-      "url": "https://www.wsj.com/opinion/teaching-climate-science-to-judges-isnt-indoctrination-822134f9",
-      "title": "Teaching Climate Science to Judges Isn’t Indoctrination",
-      "content_text": "Teaching Climate Science to Judges Isn’t Indoctrination",
-      "summary": "",
-      "date_published": "2026-10-16T13:50:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "ecae46b2ea3fa401",
-      "url": "https://www.wsj.com/opinion/medicare-for-all-will-worsen-doctor-shortages-dfc7cb09",
-      "title": "Medicare for All Will Worsen Doctor Shortages",
-      "content_text": "Medicare for All Will Worsen Doctor Shortages",
-      "summary": "",
-      "date_published": "2026-10-16T13:49:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "aedeecb02a92aa43",
-      "url": "https://www.wsj.com/opinion/lethal-injection-hides-the-reality-of-execution-1b286636",
-      "title": "Lethal Injection Hides the Reality of Execution",
-      "content_text": "Lethal Injection Hides the Reality of Execution",
-      "summary": "",
-      "date_published": "2026-10-16T13:48:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "e4a809e39c7ab634",
-      "url": "https://www.wsj.com/opinion/to-modernize-welfare-states-need-better-tools-1318b415",
-      "title": "To Modernize Welfare, States Need Better Tools",
-      "content_text": "To Modernize Welfare, States Need Better Tools",
-      "summary": "",
-      "date_published": "2026-10-16T13:47:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "ba257c13909d212e",
-      "url": "https://www.wsj.com/opinion/being-adaptable-is-essential-to-being-a-responsible-voter-998f1f24",
-      "title": "Being Adaptable Is Essential to Being a Responsible Voter",
-      "content_text": "Being Adaptable Is Essential to Being a Responsible Voter",
-      "summary": "",
-      "date_published": "2026-10-16T13:46:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "9d3e50d1a4c9dc38",
-      "url": "https://www.wsj.com/opinion/protect-our-national-parks-01aa8381",
-      "title": "Protect Our National Parks",
-      "content_text": "Protect Our National Parks",
-      "summary": "",
-      "date_published": "2026-10-16T13:45:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "24f393776b6f4979",
-      "url": "https://www.wsj.com/opinion/beware-a-democratic-senate-14c96e2c",
-      "title": "Beware a Democratic Senate",
-      "content_text": "Beware a Democratic Senate",
-      "summary": "",
-      "date_published": "2026-10-16T13:44:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "7f61d2cf61ee09a6",
-      "url": "https://www.wsj.com/cmo-today/ai-hyperscalers-try-to-fix-their-storytelling-problem-4a73d3fc",
-      "title": "AI Hyperscalers Try to Fix Their ‘Storytelling Problem’",
-      "content_text": "AI Hyperscalers Try to Fix Their ‘Storytelling Problem’",
-      "summary": "",
-      "date_published": "2026-10-16T13:29:00+00:00",
-      "tags": [
-        "Cmo Today"
-      ]
-    },
-    {
-      "id": "f63ff04fc01eeef0",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-fall-in-early-trading-a3808b88",
-      "title": "U.S. Natural Gas Futures Fall in Early Trading",
-      "content_text": "U.S. Natural Gas Futures Fall in Early Trading",
-      "summary": "",
-      "date_published": "2026-10-16T13:13:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "f4ff94df272a7948",
-      "url": "https://www.wsj.com/world/middle-east/hezbollah-tells-the-lebanese-government-it-wants-its-explosives-back-45b8902e",
-      "title": "Hezbollah Tells the Lebanese Government It Wants Its Explosives Back",
-      "content_text": "Hezbollah Tells the Lebanese Government It Wants Its Explosives Back",
-      "summary": "",
-      "date_published": "2026-10-16T13:12:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "d933bba7ad06da4b",
-      "url": "https://www.wsj.com/economy/u-s-import-prices-rose-in-september-5ee51f36",
-      "title": "U.S. Import Prices Rose in September",
-      "content_text": "U.S. Import Prices Rose in September",
-      "summary": "",
-      "date_published": "2026-10-16T13:09:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "8212c11df2d28eb9",
-      "url": "https://www.wsj.com/economy/housing/canada-housing-starts-rise-in-september-though-market-faces-longer-term-supply-gap-8a0cde3f",
-      "title": "Canada Housing Starts Rise in September, Though Market Faces Longer-Term Supply Gap",
-      "content_text": "Canada Housing Starts Rise in September, Though Market Faces Longer-Term Supply Gap",
-      "summary": "",
-      "date_published": "2026-10-16T13:04:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "311984660d67a416",
-      "url": "https://www.wsj.com/us-news/the-immigration-crackdown-is-making-it-much-harder-to-build-houses-ec00f4da",
-      "title": "The Immigration Crackdown Is Making It Much Harder to Build Houses",
-      "content_text": "The Immigration Crackdown Is Making It Much Harder to Build Houses",
-      "summary": "",
-      "date_published": "2026-10-16T13:00:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "f9191e068ff944eb",
-      "url": "https://www.wsj.com/finance/investing/your-cheap-etf-costs-more-than-you-think-e7e34eea",
-      "title": "Your ‘Cheap’ ETF Costs More Than You Think",
-      "content_text": "Your ‘Cheap’ ETF Costs More Than You Think",
-      "summary": "",
-      "date_published": "2026-10-16T13:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "5a803b8b536018ee",
-      "url": "https://www.wsj.com/economy/central-banking/bank-of-japan-must-ensure-underlying-inflation-doesnt-go-above-2-ueda-says-0d94c2f0",
-      "title": "Bank of Japan Must Ensure Underlying Inflation Doesn’t Go Above 2%, Ueda Says",
-      "content_text": "Bank of Japan Must Ensure Underlying Inflation Doesn’t Go Above 2%, Ueda Says",
-      "summary": "",
-      "date_published": "2026-10-16T12:39:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "7d2e28b9d03390f9",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2026/card/benchmark-treasurys-are-having-their-best-week-since-february-BjK7I9a84OaGV81qHY2L",
-      "title": "Benchmark Treasurys Are Having Their Best Week Since February",
-      "content_text": "Benchmark Treasurys Are Having Their Best Week Since February",
-      "summary": "",
-      "date_published": "2026-10-16T12:27:10+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "be5f0161b603bff9",
-      "url": "https://www.wsj.com/lifestyle/travel/southwest-united-shake-up-their-frequent-flier-programs-435cde44",
-      "title": "Southwest, United Shake Up Their Frequent-Flier Programs",
-      "content_text": "Southwest, United Shake Up Their Frequent-Flier Programs",
-      "summary": "",
-      "date_published": "2026-10-16T12:25:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "d9bc1849a061df40",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2026/card/spencer-jakab-the-radical-plan-that-could-torch-your-portfolio-qzGX0P86Bs6QPfRBSpCy",
-      "title": "Spencer Jakab | The Radical Plan That Could Torch Your Portfolio",
-      "content_text": "Spencer Jakab | The Radical Plan That Could Torch Your Portfolio",
-      "summary": "",
-      "date_published": "2026-10-16T11:55:52+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "b76c2c3825dcba4f",
-      "url": "https://www.wsj.com/cio-journal/nvidia-meta-and-apple-unveil-new-open-models-501d4173",
-      "title": "Nvidia, Meta and Apple Unveil New Open Models",
-      "content_text": "Nvidia, Meta and Apple Unveil New Open Models",
-      "summary": "",
-      "date_published": "2026-10-16T11:52:00+00:00",
-      "tags": [
-        "Cio Journal"
-      ]
-    },
-    {
-      "id": "622b0e5a12b4aa76",
-      "url": "https://www.wsj.com/business/earnings/travelers-profit-ticks-up-on-investment-gains-b91f6ea7",
-      "title": "Travelers Profit Ticks Up on Investment Gains",
-      "content_text": "Travelers Profit Ticks Up on Investment Gains",
-      "summary": "",
-      "date_published": "2026-10-16T11:44:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "41e25c34d2eb19bf",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-a9b213cd",
-      "title": "Auto & Transport Roundup: Market Talk",
-      "content_text": "Auto & Transport Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-10-16T11:39:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
