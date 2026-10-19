@@ -6,6 +6,61 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "8a81e384b580bafd",
+      "url": "https://www.wsj.com/politics/policy/trump-administration-democrat-investigation-caa25bf7",
+      "title": "The Race Is On for Trump Staffers to Hire Lawyers in Case Democrats Win Midterms",
+      "content_text": "The Race Is On for Trump Staffers to Hire Lawyers in Case Democrats Win Midterms",
+      "summary": "",
+      "date_published": "2026-10-19T00:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "0fec032c1bad1de9",
+      "url": "https://www.wsj.com/tech/ai/anthropic-to-commit-5-of-its-shares-to-new-public-benefit-fund-3332ef75",
+      "title": "Anthropic to Commit 5% of Its Shares to New ‘Public Benefit’ Fund",
+      "content_text": "Anthropic to Commit 5% of Its Shares to New ‘Public Benefit’ Fund",
+      "summary": "",
+      "date_published": "2026-10-18T23:23:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "6de71bbce2b4167b",
+      "url": "https://www.wsj.com/finance/some-wall-street-leaders-are-weighing-bailing-on-davos-in-the-desert-after-attacks-on-riyadh-f0be73b4",
+      "title": "Some Wall Street Leaders are Weighing Bailing on ‘Davos in the Desert’ After Attacks on Riyadh",
+      "content_text": "Some Wall Street Leaders are Weighing Bailing on ‘Davos in the Desert’ After Attacks on Riyadh",
+      "summary": "",
+      "date_published": "2026-10-18T23:01:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "d7e623eeaf81d082",
+      "url": "https://www.wsj.com/us-news/the-deadly-1-5-mile-corridor-that-shows-the-fatal-flaw-in-americas-road-design-8f424579",
+      "title": "The Deadly 1.5-Mile Corridor That Shows the Fatal Flaw in America’s Road Design",
+      "content_text": "The Deadly 1.5-Mile Corridor That Shows the Fatal Flaw in America’s Road Design",
+      "summary": "",
+      "date_published": "2026-10-18T23:00:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "ded6ea1c79cb4bd9",
+      "url": "https://www.wsj.com/world/russia/putin-floats-a-summit-with-trump-and-xi-to-decide-ukraines-fate-1cf6acc1",
+      "title": "Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal",
+      "content_text": "Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal",
+      "summary": "",
+      "date_published": "2026-10-18T23:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
       "id": "58ae8b602426d9b0",
       "url": "https://www.wsj.com/politics/policy/trumps-overtures-to-putin-put-republican-candidates-in-hot-seat-3ac6ffc8",
       "title": "Trump’s Overtures to Putin Put Republican Candidates in Hot Seat",
@@ -2148,61 +2203,6 @@
       "date_published": "2026-10-16T10:39:00+00:00",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "421734ff602408c4",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2026/card/dollar-falls-after-warsh-comments-2dxhNRmXgdpKt7WRPfZt",
-      "title": "Dollar Falls After Warsh Comments",
-      "content_text": "Dollar Falls After Warsh Comments",
-      "summary": "",
-      "date_published": "2026-10-16T10:28:14+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "749ee3bc19f6417e",
-      "url": "https://www.wsj.com/economy/trade/eurozone-swung-to-trade-deficit-in-august-699c6b31",
-      "title": "Eurozone Swung to Trade Deficit in August",
-      "content_text": "Eurozone Swung to Trade Deficit in August",
-      "summary": "",
-      "date_published": "2026-10-16T09:32:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "8c5b48d087744d87",
-      "url": "https://www.wsj.com/business/ai-agents-bring-new-headaches-to-online-sellers-d2dc84b4",
-      "title": "AI Agents Bring New Headaches to Online Sellers",
-      "content_text": "AI Agents Bring New Headaches to Online Sellers",
-      "summary": "",
-      "date_published": "2026-10-16T09:30:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "cf55b5cc56c682b3",
-      "url": "https://www.wsj.com/personal-finance/taxes/how-to-get-all-the-tax-benefits-from-your-health-savings-account-42b4ded6",
-      "title": "How to Get All the Tax Benefits From Your Health-Savings Account",
-      "content_text": "How to Get All the Tax Benefits From Your Health-Savings Account",
-      "summary": "",
-      "date_published": "2026-10-16T09:30:00+00:00",
-      "tags": [
-        "Personal Finance"
-      ]
-    },
-    {
-      "id": "d2dfd4c97e5ff19e",
-      "url": "https://www.wsj.com/lifestyle/travel/the-mystery-of-the-disappearing-airplane-barf-bag-23bdeb3f",
-      "title": "The Mystery of the Disappearing Airplane Barf Bag",
-      "content_text": "The Mystery of the Disappearing Airplane Barf Bag",
-      "summary": "",
-      "date_published": "2026-10-16T09:30:00+00:00",
-      "tags": [
-        "Lifestyle"
       ]
     }
   ]
