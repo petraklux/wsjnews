@@ -6,6 +6,149 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "d6859e8bd918bf60",
+      "url": "https://www.wsj.com/tech/biotech/astrazeneca-partners-with-oracle-to-refine-clinical-research-with-ai-55cab932",
+      "title": "AstraZeneca Partners With Oracle to Refine Clinical Research With AI",
+      "content_text": "AstraZeneca Partners With Oracle to Refine Clinical Research With AI",
+      "summary": "",
+      "date_published": "2026-10-20T06:10:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "44bf97b3e90eeb68",
+      "url": "https://www.wsj.com/business/earnings/abb-to-pay-495-million-for-controlling-stake-in-mitsubishi-electric-unit-6c4e7554",
+      "title": "ABB to Pay $495 Million for Controlling Stake in Mitsubishi Electric Unit",
+      "content_text": "ABB to Pay $495 Million for Controlling Stake in Mitsubishi Electric Unit",
+      "summary": "",
+      "date_published": "2026-10-20T05:37:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "5dec61d058efa7f1",
+      "url": "https://www.wsj.com/tech/ant-backed-fintech-mynt-rises-in-debut-after-philippines-largest-ipo-de6a772d",
+      "title": "Ant-Backed Fintech Mynt Rises in Debut After Philippines’ Largest IPO",
+      "content_text": "Ant-Backed Fintech Mynt Rises in Debut After Philippines’ Largest IPO",
+      "summary": "",
+      "date_published": "2026-10-20T05:31:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "7e0522508e0bb1a9",
+      "url": "https://www.wsj.com/world/americas/albertans-vote-to-stay-in-canada-in-historic-referendum-79f86086",
+      "title": "Albertans Vote to Stay in Canada in Historic Referendum",
+      "content_text": "Albertans Vote to Stay in Canada in Historic Referendum",
+      "summary": "",
+      "date_published": "2026-10-20T05:28:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "4c79640500e5318b",
+      "url": "https://www.wsj.com/business/retail/fashion-brand-me-em-worn-by-british-royals-posts-sales-growth-on-u-s-expansion-ae0083a2",
+      "title": "Fashion Brand ME+EM, Worn by British Royals, Posts Sales Growth on U.S. Expansion",
+      "content_text": "Fashion Brand ME+EM, Worn by British Royals, Posts Sales Growth on U.S. Expansion",
+      "summary": "",
+      "date_published": "2026-10-20T05:27:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "140cec626bd5c27a",
+      "url": "https://www.wsj.com/tech/ai/elice-slides-in-korea-debut-amid-caution-toward-ai-stocks-912be1ea",
+      "title": "Elice Slides in Korea Debut Amid Caution Toward AI Stocks",
+      "content_text": "Elice Slides in Korea Debut Amid Caution Toward AI Stocks",
+      "summary": "",
+      "date_published": "2026-10-20T05:26:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "03fa7d7342630fec",
+      "url": "https://www.wsj.com/business/seas-ceo-says-financial-services-arm-could-go-public-4a7e265d",
+      "title": "Sea’s CEO Says Financial Services Arm Could Go Public",
+      "content_text": "Sea’s CEO Says Financial Services Arm Could Go Public",
+      "summary": "",
+      "date_published": "2026-10-20T04:13:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "1bcd386880dac0d0",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-8594d221",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-10-20T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "fe5eb7e641a68d16",
+      "url": "https://www.wsj.com/articles/whats-news-business-finance-518a6400",
+      "title": "What’s News: Business & Finance",
+      "content_text": "What’s News: Business & Finance",
+      "summary": "",
+      "date_published": "2026-10-20T03:28:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "b008770e6c389a8a",
+      "url": "https://www.wsj.com/articles/whats-news-worldwide-a0b12a69",
+      "title": "What’s News: Worldwide",
+      "content_text": "What’s News: Worldwide",
+      "summary": "",
+      "date_published": "2026-10-20T03:22:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "7a67d4271ebef05d",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-higher-yields-weigh-ebc91ac4",
+      "title": "Gold Edges Lower as Higher Yields Weigh",
+      "content_text": "Gold Edges Lower as Higher Yields Weigh",
+      "summary": "",
+      "date_published": "2026-10-20T02:29:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "ad9afa396d3257f3",
+      "url": "https://www.wsj.com/finance/stocks/asian-stocks-fall-bucking-u-s-tech-rebound-d5c7aa96",
+      "title": "Asian Stocks Fall, Bucking U.S. Tech Rebound",
+      "content_text": "Asian Stocks Fall, Bucking U.S. Tech Rebound",
+      "summary": "",
+      "date_published": "2026-10-20T02:09:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "2c4bd088e14a6cc7",
+      "url": "https://www.wsj.com/finance/stocks/stock-pickers-burned-by-the-ai-boom-think-their-moment-has-finally-arrived-07878da7",
+      "title": "Stock Pickers Burned by the AI Boom Think Their Moment Has Finally Arrived",
+      "content_text": "Stock Pickers Burned by the AI Boom Think Their Moment Has Finally Arrived",
+      "summary": "",
+      "date_published": "2026-10-20T02:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "a129d6272b644b49",
       "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-mixed-signals-6b3593e6",
       "title": "Asian Currencies Consolidate Amid Mixed Signals",
@@ -28,17 +171,6 @@
       ]
     },
     {
-      "id": "89664e12b9bef996",
-      "url": "https://www.wsj.com/health/healthcare/nurses-are-in-high-demandbut-theyre-quitting-in-droves-d8ead94f",
-      "title": "Nurses Are in High Demand—but They’re Quitting in Droves",
-      "content_text": "Nurses Are in High Demand—but They’re Quitting in Droves",
-      "summary": "",
-      "date_published": "2026-10-20T01:00:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
       "id": "0e4b751956b8cde0",
       "url": "https://www.wsj.com/world/europe/marine-le-pen-seizes-on-french-chaos-to-present-herself-as-leader-in-waiting-80549c0a",
       "title": "Marine Le Pen Seizes on French Chaos to Present Herself as Leader in Waiting",
@@ -47,6 +179,17 @@
       "date_published": "2026-10-20T01:00:00+00:00",
       "tags": [
         "World"
+      ]
+    },
+    {
+      "id": "89664e12b9bef996",
+      "url": "https://www.wsj.com/health/healthcare/nurses-are-in-high-demandbut-theyre-quitting-in-droves-d8ead94f",
+      "title": "Nurses Are in High Demand—but They’re Quitting in Droves",
+      "content_text": "Nurses Are in High Demand—but They’re Quitting in Droves",
+      "summary": "",
+      "date_published": "2026-10-20T01:00:00+00:00",
+      "tags": [
+        "Health"
       ]
     },
     {
@@ -2060,149 +2203,6 @@
       "date_published": "2026-10-18T09:00:00+00:00",
       "tags": [
         "Politics"
-      ]
-    },
-    {
-      "id": "6262323099d3ca57",
-      "url": "https://www.wsj.com/politics/elections/republican-midterm-election-strategy-culture-war-8a128efa",
-      "title": "Republicans Zero In on Cultural Issues in Campaign’s Final Stretch",
-      "content_text": "Republicans Zero In on Cultural Issues in Campaign’s Final Stretch",
-      "summary": "",
-      "date_published": "2026-10-18T02:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "c081bc242f0e2061",
-      "url": "https://www.wsj.com/world/how-zelensky-decided-to-take-the-risk-and-publicly-confront-trump-570046ac",
-      "title": "How Zelensky Decided to Take the Risk and Publicly Confront Trump",
-      "content_text": "How Zelensky Decided to Take the Risk and Publicly Confront Trump",
-      "summary": "",
-      "date_published": "2026-10-18T01:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "f6e66818535f3197",
-      "url": "https://www.wsj.com/world/africa/wagner-mercenary-prigozhin-guns-b1f4cdf3",
-      "title": "The Playboy Who Inherited the World’s Most Notorious Mercenary Force",
-      "content_text": "The Playboy Who Inherited the World’s Most Notorious Mercenary Force",
-      "summary": "",
-      "date_published": "2026-10-18T01:00:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "1d8af950e0d6bf53",
-      "url": "https://www.wsj.com/economy/the-five-charts-that-show-how-your-wallet-will-shape-the-midterms-7f0c4451",
-      "title": "The Five Charts That Show How Your Wallet Will Shape the Midterms",
-      "content_text": "The Five Charts That Show How Your Wallet Will Shape the Midterms",
-      "summary": "",
-      "date_published": "2026-10-18T00:00:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "d9adaf880d72a95b",
-      "url": "https://www.wsj.com/us-news/education/socializing-at-college-is-so-fraught-it-requires-paperwork-before-partying-454c01aa",
-      "title": "Socializing at College Is So Fraught It Requires Paperwork Before Partying",
-      "content_text": "Socializing at College Is So Fraught It Requires Paperwork Before Partying",
-      "summary": "",
-      "date_published": "2026-10-18T00:00:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "4f361c6a455a7685",
-      "url": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c",
-      "title": "A Princeton Ph.D. Applied to 2,300 Jobs. He Still Can’t Get One.",
-      "content_text": "A Princeton Ph.D. Applied to 2,300 Jobs. He Still Can’t Get One.",
-      "summary": "",
-      "date_published": "2026-10-17T23:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "d83ac3bda84b7d71",
-      "url": "https://www.wsj.com/politics/trump-white-house-physician-sean-barbabella-8debfed1",
-      "title": "The High-Stakes Job of Trump’s White House Physician",
-      "content_text": "The High-Stakes Job of Trump’s White House Physician",
-      "summary": "",
-      "date_published": "2026-10-17T23:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "854e965462974873",
-      "url": "https://www.wsj.com/us-news/law/former-mit-scientist-wins-defamation-case-over-sexual-harassment-accusations-8587a1f5",
-      "title": "Former MIT Scientist Wins Defamation Case Over Sexual-Harassment Accusations",
-      "content_text": "Former MIT Scientist Wins Defamation Case Over Sexual-Harassment Accusations",
-      "summary": "",
-      "date_published": "2026-10-17T22:15:00+00:00",
-      "tags": [
-        "Us News"
-      ]
-    },
-    {
-      "id": "f4f9ce62cf1e106e",
-      "url": "https://www.wsj.com/politics/elections/kansas-senate-election-trump-roger-marshall-d17319e5",
-      "title": "The Senate Race Republicans Never Expected to Sweat",
-      "content_text": "The Senate Race Republicans Never Expected to Sweat",
-      "summary": "",
-      "date_published": "2026-10-17T19:53:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "b0c831104230ca37",
-      "url": "https://www.wsj.com/world/middle-east/masked-israeli-settlers-attack-european-diplomats-in-west-bank-f60dedd1",
-      "title": "Masked Israeli Settlers Attack European Diplomats in West Bank",
-      "content_text": "Masked Israeli Settlers Attack European Diplomats in West Bank",
-      "summary": "",
-      "date_published": "2026-10-17T19:03:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "4a84b126fef2bb9c",
-      "url": "https://www.wsj.com/business/deals/softbank-in-early-talks-to-buy-allied-universal-2d582a66",
-      "title": "SoftBank in Early Talks to Buy Allied Universal",
-      "content_text": "SoftBank in Early Talks to Buy Allied Universal",
-      "summary": "",
-      "date_published": "2026-10-17T18:14:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "85d3fda8b2859aa7",
-      "url": "https://www.wsj.com/style/design/midcentury-modern-design-833ca0d8",
-      "title": "Cool or Cringe? Readers Sound Off on the State of Midcentury Modern Design",
-      "content_text": "Cool or Cringe? Readers Sound Off on the State of Midcentury Modern Design",
-      "summary": "",
-      "date_published": "2026-10-17T17:04:00+00:00",
-      "tags": [
-        "Style"
-      ]
-    },
-    {
-      "id": "dea6ec2569a2d42b",
-      "url": "https://www.wsj.com/arts-culture/fine-art/america-250-calendar-ways-to-celebrate-the-nation-across-the-nation-airdigital-df7ecb23",
-      "title": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "content_text": "America 250 calendar ways to celebrate the nation across the nation airdigital",
-      "summary": "",
-      "date_published": "2026-10-17T16:30:19+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]
