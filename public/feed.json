@@ -6,6 +6,138 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "e0994694cc6010a4",
+      "url": "https://www.wsj.com/economy/central-banking/bank-indonesia-holds-key-rate-as-msci-downgrade-threat-weighs-on-markets-6045f668",
+      "title": "Bank Indonesia Holds Key Rate as MSCI Downgrade Threat Weighs on Markets",
+      "content_text": "Bank Indonesia Holds Key Rate as MSCI Downgrade Threat Weighs on Markets",
+      "summary": "",
+      "date_published": "2026-10-21T07:16:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "c7e480583f8ad0fd",
+      "url": "https://www.wsj.com/news/business/small-business-marketing",
+      "title": "Small business marketing",
+      "content_text": "Small business marketing",
+      "summary": "",
+      "date_published": "2026-10-21T07:00:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "44fbd8002a436cf7",
+      "url": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-hormuz-shipping-risks-persist-7df58bc8",
+      "title": "Oil Prices Rise as Hormuz Shipping Risks Persist",
+      "content_text": "Oil Prices Rise as Hormuz Shipping Risks Persist",
+      "summary": "",
+      "date_published": "2026-10-21T06:52:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "af743a3862820e4d",
+      "url": "https://www.wsj.com/world/uk/uk-government-on-track-to-cut-borrowing-ahead-of-budget-361f51ee",
+      "title": "U.K. Government on Track to Cut Borrowing Ahead of Budget",
+      "content_text": "U.K. Government on Track to Cut Borrowing Ahead of Budget",
+      "summary": "",
+      "date_published": "2026-10-21T06:40:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "97f9195cdaaac596",
+      "url": "https://www.wsj.com/tech/nextdcs-darkened-outlook-deals-another-blow-to-ai-sentiment-7c3eb00b",
+      "title": "NextDC’s Darkened Outlook Deals Another Blow to AI Sentiment",
+      "content_text": "NextDC’s Darkened Outlook Deals Another Blow to AI Sentiment",
+      "summary": "",
+      "date_published": "2026-10-21T06:34:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "a31b021835bf2ea6",
+      "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-higher-in-asian-trade-0c544484",
+      "title": "U.S. Treasury Yields Edge Higher in Asian Trade",
+      "content_text": "U.S. Treasury Yields Edge Higher in Asian Trade",
+      "summary": "",
+      "date_published": "2026-10-21T06:28:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "6ea945f2a784aa73",
+      "url": "https://www.wsj.com/economy/central-banking/u-k-inflation-jumps-again-on-energy-costs-e2bd9d85",
+      "title": "U.K. Inflation Jumps Again on Rising Energy Costs",
+      "content_text": "U.K. Inflation Jumps Again on Rising Energy Costs",
+      "summary": "",
+      "date_published": "2026-10-21T06:18:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "fc2ddf51898e5d12",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-82f91638",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-10-21T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "a2a16c71a945f6d0",
+      "url": "https://www.wsj.com/articles/corrections-amplifications-d3ed78c1",
+      "title": "Corrections & Amplifications",
+      "content_text": "Corrections & Amplifications",
+      "summary": "",
+      "date_published": "2026-10-21T03:01:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "55d95c44e6928fad",
+      "url": "https://www.wsj.com/finance/stocks/asian-equities-rebound-as-risk-sentiment-improves-70443e4d",
+      "title": "Asian Stocks Mixed as AI Spending Concerns Linger",
+      "content_text": "Asian Stocks Mixed as AI Spending Concerns Linger",
+      "summary": "",
+      "date_published": "2026-10-21T02:32:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "ca26ca1b77dcbc75",
+      "url": "https://www.wsj.com/finance/stocks/nyse-is-getting-trounced-in-the-battle-for-wall-streets-biggest-ipos-048e3b94",
+      "title": "NYSE Is Getting Trounced in the Battle for Wall Street’s Biggest IPOs",
+      "content_text": "NYSE Is Getting Trounced in the Battle for Wall Street’s Biggest IPOs",
+      "summary": "",
+      "date_published": "2026-10-21T02:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "32b35370eba4e14a",
+      "url": "https://www.wsj.com/business/autos/how-toyotas-top-selling-suv-suddenly-became-so-hard-to-find-c2889dfb",
+      "title": "How Toyota’s Top-Selling SUV Suddenly Became So Hard to Find",
+      "content_text": "How Toyota’s Top-Selling SUV Suddenly Became So Hard to Find",
+      "summary": "",
+      "date_published": "2026-10-21T02:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
       "id": "79edb3a5af46009c",
       "url": "https://www.wsj.com/style/design/molly-the-bird-bliss-kolb-kelly-clarkson-39ce6a61",
       "title": "Kelly Clarkson, Molly the Bird and Our Obsession With Objects That Come Alive",
@@ -72,17 +204,6 @@
       ]
     },
     {
-      "id": "8f6dc2739819d197",
-      "url": "https://www.wsj.com/politics/elections/trump-midterm-election-strategy-cash-f5f1e9fc",
-      "title": "Trump Promises Cash and Bailouts to Woo Midterm Voters Worried About High Prices",
-      "content_text": "Trump Promises Cash and Bailouts to Woo Midterm Voters Worried About High Prices",
-      "summary": "",
-      "date_published": "2026-10-21T01:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
       "id": "8d4bd9ad12fcf725",
       "url": "https://www.wsj.com/health/healthcare/autism-therapy-treatment-hours-private-equity-5781f2ca",
       "title": "Autism-Therapy Workers Say Big Chains Pressured Them to Boost Treatment Hours",
@@ -91,6 +212,17 @@
       "date_published": "2026-10-21T01:00:00+00:00",
       "tags": [
         "Health"
+      ]
+    },
+    {
+      "id": "8f6dc2739819d197",
+      "url": "https://www.wsj.com/politics/elections/trump-midterm-election-strategy-cash-f5f1e9fc",
+      "title": "Trump Promises Cash and Bailouts to Woo Midterm Voters Worried About High Prices",
+      "content_text": "Trump Promises Cash and Bailouts to Woo Midterm Voters Worried About High Prices",
+      "summary": "",
+      "date_published": "2026-10-21T01:00:00+00:00",
+      "tags": [
+        "Politics"
       ]
     },
     {
@@ -2071,138 +2203,6 @@
       "date_published": "2026-10-19T23:50:00+00:00",
       "tags": [
         "World"
-      ]
-    },
-    {
-      "id": "4404623d87c45168",
-      "url": "https://www.wsj.com/business/media/netflix-americas-dominant-streaming-service-has-hit-a-wall-13660401",
-      "title": "Netflix, America’s Dominant Streaming Service, Has Hit a Wall",
-      "content_text": "Netflix, America’s Dominant Streaming Service, Has Hit a Wall",
-      "summary": "",
-      "date_published": "2026-10-19T23:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "91df92a430bc67ae",
-      "url": "https://www.wsj.com/lifestyle/travel/carnival-jubilee-cruise-director-kyndall-fire-magyar-49047157",
-      "title": "100 Selfies, Zero Sleep: A Day in the Life of Carnival’s Star Cruise Director",
-      "content_text": "100 Selfies, Zero Sleep: A Day in the Life of Carnival’s Star Cruise Director",
-      "summary": "",
-      "date_published": "2026-10-19T23:00:00+00:00",
-      "tags": [
-        "Lifestyle"
-      ]
-    },
-    {
-      "id": "55d12ae46db44937",
-      "url": "https://www.wsj.com/articles/corrections-amplifications-432c42a0",
-      "title": "Corrections & Amplifications",
-      "content_text": "Corrections & Amplifications",
-      "summary": "",
-      "date_published": "2026-10-19T22:52:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "18f5e2c580aae0c6",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-19-2026/card/3m-shares-rise-on-amazon-data-center-deal-72Xn01Lusb8yxi9qiDjz",
-      "title": "3M Shares Rise on Amazon Data-Center Deal",
-      "content_text": "3M Shares Rise on Amazon Data-Center Deal",
-      "summary": "",
-      "date_published": "2026-10-19T22:29:20+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "dc10ff6f1865a96c",
-      "url": "https://www.wsj.com/politics/elections/a-dead-womans-apparent-donation-adds-to-scrutiny-of-nevada-house-candidate-dbd4fb2e",
-      "title": "A Dead Woman’s Apparent Donation Adds to Scrutiny of Nevada House Candidate",
-      "content_text": "A Dead Woman’s Apparent Donation Adds to Scrutiny of Nevada House Candidate",
-      "summary": "",
-      "date_published": "2026-10-19T22:04:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
-      "summary": "",
-      "date_published": "2026-10-19T22:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "5a885d497fa8a917",
-      "url": "https://www.wsj.com/news/types/the-saturday-interview",
-      "title": "The saturday interview",
-      "content_text": "The saturday interview",
-      "summary": "",
-      "date_published": "2026-10-19T22:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
-      "summary": "",
-      "date_published": "2026-10-19T22:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "67a229f9726f9141",
-      "url": "https://www.wsj.com/news/markets/real-estate-commercial",
-      "title": "Real estate commercial",
-      "content_text": "Real estate commercial",
-      "summary": "",
-      "date_published": "2026-10-19T22:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "6cf8b3cf7c4b5fd3",
-      "url": "https://www.wsj.com/news/types/cultural-conversation",
-      "title": "Cultural conversation",
-      "content_text": "Cultural conversation",
-      "summary": "",
-      "date_published": "2026-10-19T22:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
-      "summary": "",
-      "date_published": "2026-10-19T22:00:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "a2c51ea641c8e80c",
-      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
-      "title": "Economic forecasting survey archive",
-      "content_text": "Economic forecasting survey archive",
-      "summary": "",
-      "date_published": "2026-10-19T22:00:19+00:00",
-      "tags": [
-        "Economy"
       ]
     }
   ]
