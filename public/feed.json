@@ -6,6 +6,83 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "f48c502eff7449b2",
+      "url": "https://www.wsj.com/business/media/he-self-funded-a-45-million-nicolas-cage-movie-then-it-was-stolen-4aa75bd6",
+      "title": "He Self-Funded a $45-Million Nicolas Cage Movie. Then It Was Stolen.",
+      "content_text": "He Self-Funded a $45-Million Nicolas Cage Movie. Then It Was Stolen.",
+      "summary": "",
+      "date_published": "2026-10-22T00:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "d1939bcfaada3357",
+      "url": "https://www.wsj.com/business/mark-zuckerberg-discussed-leaving-california-over-wealth-tax-21b0b522",
+      "title": "Mark Zuckerberg Discussed Leaving California Over Wealth Tax",
+      "content_text": "Mark Zuckerberg Discussed Leaving California Over Wealth Tax",
+      "summary": "",
+      "date_published": "2026-10-21T23:55:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "fe7c6953e8a963c2",
+      "url": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b",
+      "title": "How Does the Ukrainian Military Use Starlink?",
+      "content_text": "How Does the Ukrainian Military Use Starlink?",
+      "summary": "",
+      "date_published": "2026-10-21T23:49:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "98d3c752177e3a77",
+      "url": "https://www.wsj.com/personal-finance/splitting-bills-reimbursement-young-adults-a8a33405",
+      "title": "The Financial—and Psychological—Cost of Being the Friend Who Picks Up the Tab",
+      "content_text": "The Financial—and Psychological—Cost of Being the Friend Who Picks Up the Tab",
+      "summary": "",
+      "date_published": "2026-10-21T23:04:00+00:00",
+      "tags": [
+        "Personal Finance"
+      ]
+    },
+    {
+      "id": "e4b667d22c79b789",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/luxury-home-teardowns-370427b9",
+      "title": "The Superrich Are Buying $100 Million Mansions Just to Tear Them Down",
+      "content_text": "The Superrich Are Buying $100 Million Mansions Just to Tear Them Down",
+      "summary": "",
+      "date_published": "2026-10-21T23:00:00+00:00",
+      "tags": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "801702a7335e13ec",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026/card/meta-will-split-stock-create-new-class-to-fund-ai-spending-73FHz7h3BqOg89xNBamn",
+      "title": "Meta Will Split Stock, Create New Class to Fund AI Spending",
+      "content_text": "Meta Will Split Stock, Create New Class to Fund AI Spending",
+      "summary": "",
+      "date_published": "2026-10-21T22:05:44+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "2bc7ec9eba955235",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026/card/tesla-says-it-has-started-early-optimus-robot-production-ToY7AAUqZdVUhKmpmeou",
+      "title": "Tesla Says It Has Started Early Optimus Robot Production",
+      "content_text": "Tesla Says It Has Started Early Optimus Robot Production",
+      "summary": "",
+      "date_published": "2026-10-21T21:58:22+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
       "id": "60e30326a466d005",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026/card/musk-declines-to-comment-further-on-spacex-tesla-discussions-7ofjpANEYoFH0K526gjx",
       "title": "Musk Declines to Comment Further on SpaceX-Tesla Discussions",
@@ -443,6 +520,61 @@
       "date_published": "2026-10-21T19:15:28+00:00",
       "tags": [
         "Front Page"
+      ]
+    },
+    {
+      "id": "151cdf21b953da2f",
+      "url": "https://www.wsj.com/world/russia/witkoffs-praise-of-putin-as-humanitarian-tracks-with-u-s-approach-to-russia-2e5dc6a3",
+      "title": "Witkoff’s Praise of Putin as ‘Humanitarian’ Tracks With U.S. Approach to Russia",
+      "content_text": "Witkoff’s Praise of Putin as ‘Humanitarian’ Tracks With U.S. Approach to Russia",
+      "summary": "",
+      "date_published": "2026-10-21T19:07:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "4a4f627c38ad7411",
+      "url": "https://www.wsj.com/politics/policy/the-trump-administration-wants-more-tax-charges-its-going-to-be-tough-2d1afa3d",
+      "title": "The Trump Administration Wants More Tax Charges. It’s Going to Be Tough.",
+      "content_text": "The Trump Administration Wants More Tax Charges. It’s Going to Be Tough.",
+      "summary": "",
+      "date_published": "2026-10-21T19:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "aca1cd7b188de865",
+      "url": "https://www.wsj.com/world/americas/canada-to-provide-steel-auto-sectors-with-billions-to-ease-trade-crunch-c4b5ae1a",
+      "title": "Canada to Provide Steel, Auto Sectors With Billions to Ease Trade Crunch",
+      "content_text": "Canada to Provide Steel, Auto Sectors With Billions to Ease Trade Crunch",
+      "summary": "",
+      "date_published": "2026-10-21T18:54:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "33153a26b2fa1803",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026/card/watch-spacex-s-16-4b-ai-spending-forces-investors-into-another-bet-on-elon-musk-rWNnalZ9fRSCPiwBdrLl",
+      "title": "Watch: SpaceX’s $16.4 Billion AI Spending Forces Investors Into Another Bet on Musk",
+      "content_text": "Watch: SpaceX’s $16.4 Billion AI Spending Forces Investors Into Another Bet on Musk",
+      "summary": "",
+      "date_published": "2026-10-21T18:17:45+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "15a41f96afc9c944",
+      "url": "https://www.wsj.com/opinion/tough-days-for-the-ayatollah-11107e10",
+      "title": "Tough Days for the Ayatollah",
+      "content_text": "Tough Days for the Ayatollah",
+      "summary": "",
+      "date_published": "2026-10-21T18:17:00+00:00",
+      "tags": [
+        "Opinion"
       ]
     },
     {
@@ -2071,138 +2203,6 @@
       "date_published": "2026-10-20T20:38:00+00:00",
       "tags": [
         "Arts Culture"
-      ]
-    },
-    {
-      "id": "ea316910ed00d845",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026/card/earnings-snippet-spacex-spending-jumps-gHxmlMusm5kGBfzp0t1s",
-      "title": "Earnings Snippet: SpaceX Spending Jumps",
-      "content_text": "Earnings Snippet: SpaceX Spending Jumps",
-      "summary": "",
-      "date_published": "2026-10-20T20:37:16+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "e94eea9db8189c3b",
-      "url": "https://www.wsj.com/opinion/50-000-says-corn-pop-was-not-a-bad-dude-58bc1a6f",
-      "title": "$50,000 Says Corn Pop Was Not a Bad Dude",
-      "content_text": "$50,000 Says Corn Pop Was Not a Bad Dude",
-      "summary": "",
-      "date_published": "2026-10-20T20:35:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "76de201b58ffd881",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026/card/spacex-says-it-is-profitable-bgOIDrRn6tmYUT7wl1jk",
-      "title": "SpaceX Says It Is Profitable",
-      "content_text": "SpaceX Says It Is Profitable",
-      "summary": "",
-      "date_published": "2026-10-20T20:27:04+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "59edfd4566829154",
-      "url": "https://www.wsj.com/world/ukraine-starlink-elon-musk-trump-dbc49193",
-      "title": "Musk Ordered Starlink Slowdown That Blindsided Ukraine",
-      "content_text": "Musk Ordered Starlink Slowdown That Blindsided Ukraine",
-      "summary": "",
-      "date_published": "2026-10-20T20:25:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "eac91bd0dc8a99f8",
-      "url": "https://www.wsj.com/business/earnings/united-airlines-revenue-rises-as-fare-hikes-offset-fuel-costs-196ddf48",
-      "title": "United Airlines Revenue Rises as Fare Hikes Offset Fuel Costs",
-      "content_text": "United Airlines Revenue Rises as Fare Hikes Offset Fuel Costs",
-      "summary": "",
-      "date_published": "2026-10-20T20:24:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "22a47acb29732232",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-strong-earnings-offset-ai-credit-fears-d55414c3",
-      "title": "U.S. Stocks Mixed as Strong Earnings Offset AI Credit Fears",
-      "content_text": "U.S. Stocks Mixed as Strong Earnings Offset AI Credit Fears",
-      "summary": "",
-      "date_published": "2026-10-20T20:21:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "fc172d4770e09f86",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/stewart-butterfield-jen-rubio-aspen-home-27e9ea06",
-      "title": "A Power Couple’s Aspen Home Fetches $30 Million in Post-Split Sale",
-      "content_text": "A Power Couple’s Aspen Home Fetches $30 Million in Post-Split Sale",
-      "summary": "",
-      "date_published": "2026-10-20T20:20:00+00:00",
-      "tags": [
-        "Real Estate"
-      ]
-    },
-    {
-      "id": "15d2df650e6aceb1",
-      "url": "https://www.wsj.com/finance/stocks/stocks-make-a-u-turn-on-hopes-of-u-s-iran-diplomacy-39fb739b",
-      "title": "Stocks Make a U-Turn on Hopes of U.S.-Iran Diplomacy",
-      "content_text": "Stocks Make a U-Turn on Hopes of U.S.-Iran Diplomacy",
-      "summary": "",
-      "date_published": "2026-10-20T20:18:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "25861036e0fc9949",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026/card/spacex-reports-profit-as-revenue-doubles-Hl3u4ecrEsSuKPzdgTYZ",
-      "title": "SpaceX Reports Profit as Revenue Doubles",
-      "content_text": "SpaceX Reports Profit as Revenue Doubles",
-      "summary": "",
-      "date_published": "2026-10-20T20:14:08+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "72fbe4b72b708c7a",
-      "url": "https://www.wsj.com/business/earnings/spacex-spcx-q3-earnings-report-2026-stock-4138193d",
-      "title": "SpaceX Reports Profit as Revenue Doubles",
-      "content_text": "SpaceX Reports Profit as Revenue Doubles",
-      "summary": "",
-      "date_published": "2026-10-20T20:14:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "7a5ac771c5f0f74e",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026/card/netflix-stock-drops-after-earnings-report-KhNlzfr8Z22GhtpHDe5a",
-      "title": "Netflix Stock Drops After Earnings Report",
-      "content_text": "Netflix Stock Drops After Earnings Report",
-      "summary": "",
-      "date_published": "2026-10-20T20:04:53+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "780961f86c77a20d",
-      "url": "https://www.wsj.com/business/earnings/netflix-revenue-growth-slows-as-it-overhauls-programming-units-d6eac0b5",
-      "title": "Netflix Revenue Growth Slows as It Overhauls Programming Units",
-      "content_text": "Netflix Revenue Growth Slows as It Overhauls Programming Units",
-      "summary": "",
-      "date_published": "2026-10-20T20:01:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
