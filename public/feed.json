@@ -6,32 +6,175 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "a2c51ea641c8e80c",
-      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
-      "title": "Economic forecasting survey archive",
-      "content_text": "Economic forecasting survey archive",
+      "id": "06b3cc9259a347f6",
+      "url": "https://www.wsj.com/world/china/xinjiang-trade-energy-controversy-dff138df",
+      "title": "China’s Most Controversial Region Has Become a Showcase for Its Commercial Ambitions",
+      "content_text": "China’s Most Controversial Region Has Become a Showcase for Its Commercial Ambitions",
       "summary": "",
-      "date_published": "2026-10-22T22:30:19+00:00",
+      "date_published": "2026-10-23T01:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "9bb7e61843843f74",
+      "url": "https://www.wsj.com/business/autos/chevy-bolt-electric-vehicle-road-trip-e908d420",
+      "title": "I Took America’s Cheapest EV Into the Charging Desert of the Deep South",
+      "content_text": "I Took America’s Cheapest EV Into the Charging Desert of the Deep South",
+      "summary": "",
+      "date_published": "2026-10-23T01:00:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "6fe8310a2a56727f",
+      "url": "https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853",
+      "title": "The Signal Chats That Cost OpenAI Researchers Their Jobs",
+      "content_text": "The Signal Chats That Cost OpenAI Researchers Their Jobs",
+      "summary": "",
+      "date_published": "2026-10-23T01:00:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "a443ca73219b14a9",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-likely-technical-correction-after-earlier-gains-8de529db",
+      "title": "Oil Falls on Likely Technical Correction After Earlier Gains",
+      "content_text": "Oil Falls on Likely Technical Correction After Earlier Gains",
+      "summary": "",
+      "date_published": "2026-10-23T01:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "e6d556dd259b930d",
+      "url": "https://www.wsj.com/finance/jgb-yields-drop-as-stocks-decline-french-debt-woes-in-focus-21b7defa",
+      "title": "JGB Yields Drop as Stocks Decline; French Debt Woes in Focus",
+      "content_text": "JGB Yields Drop as Stocks Decline; French Debt Woes in Focus",
+      "summary": "",
+      "date_published": "2026-10-23T00:52:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "17f795e6d7411fc9",
+      "url": "https://www.wsj.com/articles/corrections-amplifications-27b1b1ac",
+      "title": "Corrections & Amplifications",
+      "content_text": "Corrections & Amplifications",
+      "summary": "",
+      "date_published": "2026-10-23T00:51:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "bbfbf11446102f6e",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-bank-stocks-762642bf",
+      "title": "Nikkei Falls 2.2%, Dragged by Chip, Bank Stocks",
+      "content_text": "Nikkei Falls 2.2%, Dragged by Chip, Bank Stocks",
+      "summary": "",
+      "date_published": "2026-10-23T00:15:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "0ef0ee1d353214f5",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-is-flat-likely-to-consolidate-in-near-term-1fb03f5c",
+      "title": "Gold is Flat, Likely to Consolidate in Near Term",
+      "content_text": "Gold is Flat, Likely to Consolidate in Near Term",
+      "summary": "",
+      "date_published": "2026-10-23T00:10:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "984f33843e46210d",
+      "url": "https://www.wsj.com/economy/consumers/u-k-consumer-confidence-suffers-biggest-drop-since-pandemic-e113231a",
+      "title": "U.K. Consumer Confidence Suffers Biggest Drop Since Pandemic",
+      "content_text": "U.K. Consumer Confidence Suffers Biggest Drop Since Pandemic",
+      "summary": "",
+      "date_published": "2026-10-23T00:06:00+00:00",
       "tags": [
         "Economy"
       ]
     },
     {
-      "id": "7edb4c1b3acfcc8a",
-      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
-      "title": "Mary anastasia ogrady",
-      "content_text": "Mary anastasia ogrady",
+      "id": "1b7e75d954da8ff7",
+      "url": "https://www.wsj.com/finance/investing/politicians-are-turning-against-ai-but-your-pension-is-riding-on-it-6764d852",
+      "title": "Politicians Are Turning Against AI, but Your Pension Is Riding on It",
+      "content_text": "Politicians Are Turning Against AI, but Your Pension Is Riding on It",
       "summary": "",
-      "date_published": "2026-10-22T22:30:19+00:00",
+      "date_published": "2026-10-23T00:00:00+00:00",
       "tags": [
-        "News"
+        "Finance"
       ]
     },
     {
-      "id": "5bde10fa9f9b2a36",
-      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
-      "title": "Kimberley a strassel",
-      "content_text": "Kimberley a strassel",
+      "id": "7a8ebf2ecace39c0",
+      "url": "https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b",
+      "title": "Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks",
+      "content_text": "Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks",
+      "summary": "",
+      "date_published": "2026-10-23T00:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "727a018fc16da55d",
+      "url": "https://www.wsj.com/economy/japan-consumer-inflation-uptick-offers-tailwind-for-boj-rate-hike-95d29b74",
+      "title": "Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike",
+      "content_text": "Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike",
+      "summary": "",
+      "date_published": "2026-10-22T23:58:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "17226285731b4c4d",
+      "url": "https://www.wsj.com/business/deals/weil-gotshal-bleeds-more-top-lawyers-as-it-holds-merger-talks-4d0388ad",
+      "title": "Weil Gotshal Bleeds More Top Lawyers as It Holds Merger Talks",
+      "content_text": "Weil Gotshal Bleeds More Top Lawyers as It Holds Merger Talks",
+      "summary": "",
+      "date_published": "2026-10-22T23:54:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "3955ba6fd71c973a",
+      "url": "https://www.wsj.com/tech/sk-hynix-shelves-plans-for-u-s-listing-of-memory-chip-unit-solidigm-e9670506",
+      "title": "SK Hynix Shelves Plans for U.S. Listing of Memory-Chip Unit Solidigm",
+      "content_text": "SK Hynix Shelves Plans for U.S. Listing of Memory-Chip Unit Solidigm",
+      "summary": "",
+      "date_published": "2026-10-22T23:39:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "87a954578ef52d65",
+      "url": "https://www.wsj.com/world/middle-east/israel-elections-mizrahi-jews-820f3182",
+      "title": "The Voters Who Could Decide Israel’s Election and Rewrite Its Future",
+      "content_text": "The Voters Who Could Decide Israel’s Election and Rewrite Its Future",
+      "summary": "",
+      "date_published": "2026-10-22T23:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "0038b06dd019061e",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
+      "title": "Elizabeth anne bernstein",
+      "content_text": "Elizabeth anne bernstein",
       "summary": "",
       "date_published": "2026-10-22T22:30:19+00:00",
       "tags": [
@@ -50,21 +193,10 @@
       ]
     },
     {
-      "id": "6cf8b3cf7c4b5fd3",
-      "url": "https://www.wsj.com/news/types/cultural-conversation",
-      "title": "Cultural conversation",
-      "content_text": "Cultural conversation",
-      "summary": "",
-      "date_published": "2026-10-22T22:30:19+00:00",
-      "tags": [
-        "News"
-      ]
-    },
-    {
-      "id": "0038b06dd019061e",
-      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein",
-      "title": "Elizabeth anne bernstein",
-      "content_text": "Elizabeth anne bernstein",
+      "id": "5bde10fa9f9b2a36",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel",
+      "title": "Kimberley a strassel",
+      "content_text": "Kimberley a strassel",
       "summary": "",
       "date_published": "2026-10-22T22:30:19+00:00",
       "tags": [
@@ -80,6 +212,39 @@
       "date_published": "2026-10-22T22:30:19+00:00",
       "tags": [
         "News"
+      ]
+    },
+    {
+      "id": "6cf8b3cf7c4b5fd3",
+      "url": "https://www.wsj.com/news/types/cultural-conversation",
+      "title": "Cultural conversation",
+      "content_text": "Cultural conversation",
+      "summary": "",
+      "date_published": "2026-10-22T22:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "7edb4c1b3acfcc8a",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady",
+      "title": "Mary anastasia ogrady",
+      "content_text": "Mary anastasia ogrady",
+      "summary": "",
+      "date_published": "2026-10-22T22:30:19+00:00",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "a2c51ea641c8e80c",
+      "url": "https://www.wsj.com/economy/economic-forecasting-survey-archive-11617814998",
+      "title": "Economic forecasting survey archive",
+      "content_text": "Economic forecasting survey archive",
+      "summary": "",
+      "date_published": "2026-10-22T22:30:19+00:00",
+      "tags": [
+        "Economy"
       ]
     },
     {
@@ -171,10 +336,10 @@
       ]
     },
     {
-      "id": "7171fe931606e7e4",
-      "url": "https://www.wsj.com/opinion/government-money-secular-strings-f0f7baee",
-      "title": "Government Money, Secular Strings",
-      "content_text": "Government Money, Secular Strings",
+      "id": "2e710550a0f8fcc3",
+      "url": "https://www.wsj.com/opinion/about-those-gop-gerrymanders-12fea836",
+      "title": "About Those GOP Gerrymanders",
+      "content_text": "About Those GOP Gerrymanders",
       "summary": "",
       "date_published": "2026-10-22T21:22:00+00:00",
       "tags": [
@@ -182,10 +347,10 @@
       ]
     },
     {
-      "id": "2e710550a0f8fcc3",
-      "url": "https://www.wsj.com/opinion/about-those-gop-gerrymanders-12fea836",
-      "title": "About Those GOP Gerrymanders",
-      "content_text": "About Those GOP Gerrymanders",
+      "id": "7171fe931606e7e4",
+      "url": "https://www.wsj.com/opinion/government-money-secular-strings-f0f7baee",
+      "title": "Government Money, Secular Strings",
+      "content_text": "Government Money, Secular Strings",
       "summary": "",
       "date_published": "2026-10-22T21:22:00+00:00",
       "tags": [
@@ -413,8 +578,8 @@
       ]
     },
     {
-      "id": "906197599c54388e",
-      "url": "https://www.wsj.com/politics/policy/justice-department-reviewing-allegations-against-corey-lewandowski-a6ccde19",
+      "id": "74366061f753211f",
+      "url": "https://www.wsj.com/politics/policy/corey-lewandowski-doj-investigation-a6ccde19",
       "title": "Justice Department Reviewing Allegations Against Corey Lewandowski",
       "content_text": "Justice Department Reviewing Allegations Against Corey Lewandowski",
       "summary": "",
@@ -424,8 +589,8 @@
       ]
     },
     {
-      "id": "74366061f753211f",
-      "url": "https://www.wsj.com/politics/policy/corey-lewandowski-doj-investigation-a6ccde19",
+      "id": "906197599c54388e",
+      "url": "https://www.wsj.com/politics/policy/justice-department-reviewing-allegations-against-corey-lewandowski-a6ccde19",
       "title": "Justice Department Reviewing Allegations Against Corey Lewandowski",
       "content_text": "Justice Department Reviewing Allegations Against Corey Lewandowski",
       "summary": "",
@@ -2038,171 +2203,6 @@
       "date_published": "2026-10-21T21:12:00+00:00",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "id": "d671a8a2b2f08ae9",
-      "url": "https://www.wsj.com/arts-culture/theater/lincoln-in-the-bardo-review-an-opera-of-presidential-grief-83cfed8b",
-      "title": "‘Lincoln in the Bardo’ Review: An Opera of Presidential Grief",
-      "content_text": "‘Lincoln in the Bardo’ Review: An Opera of Presidential Grief",
-      "summary": "",
-      "date_published": "2026-10-21T21:05:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "332949b1c4b403f0",
-      "url": "https://www.wsj.com/business/earnings/molina-healthcare-posts-lower-third-quarter-profit-revenue-12588ddc",
-      "title": "Molina Healthcare Posts Lower Third-Quarter Profit, Revenue",
-      "content_text": "Molina Healthcare Posts Lower Third-Quarter Profit, Revenue",
-      "summary": "",
-      "date_published": "2026-10-21T21:04:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "1fd8c9f7ed82ac3a",
-      "url": "https://www.wsj.com/finance/commodities-futures/one-of-your-fuel-bills-is-poised-to-be-lower-this-year-d127eb15",
-      "title": "One of Your Fuel Bills Is Poised to Be Lower This Year",
-      "content_text": "One of Your Fuel Bills Is Poised to Be Lower This Year",
-      "summary": "",
-      "date_published": "2026-10-21T21:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "061d8f6edebcaafe",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026/card/tesla-s-biggest-barrier-to-more-auto-production-batteries-uy0t09u3AXzPo5b6YuEp",
-      "title": "Tesla’s Biggest Barrier to More Auto Production: Batteries",
-      "content_text": "Tesla’s Biggest Barrier to More Auto Production: Batteries",
-      "summary": "",
-      "date_published": "2026-10-21T20:52:39+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "4da567f1e4e4dfee",
-      "url": "https://www.wsj.com/opinion/josh-turek-iowa-cancer-health-insurance-bd8289ee",
-      "title": "A False Campaign Cancer Scare",
-      "content_text": "A False Campaign Cancer Scare",
-      "summary": "",
-      "date_published": "2026-10-21T20:52:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "260249ef6bada620",
-      "url": "https://www.wsj.com/business/earnings/southwest-cuts-earnings-outlook-amid-rising-fuel-costs-729f0439",
-      "title": "Southwest Cuts Earnings Outlook Amid Rising Fuel Costs",
-      "content_text": "Southwest Cuts Earnings Outlook Amid Rising Fuel Costs",
-      "summary": "",
-      "date_published": "2026-10-21T20:50:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "68a2a0be7b5f8a42",
-      "url": "https://www.wsj.com/opinion/california-prop-40-wealth-tax-revenue-loss-study-hoover-institution-4b533b72",
-      "title": "California’s Wealth Tax Boomerang",
-      "content_text": "California’s Wealth Tax Boomerang",
-      "summary": "",
-      "date_published": "2026-10-21T20:48:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "b7cd3ab0a68c8ea8",
-      "url": "https://www.wsj.com/arts-culture/fine-art/rediscovering-della-robbia-at-the-met-review-generations-of-florentine-genius-938abde3",
-      "title": "‘Rediscovering Della Robbia at the Met’ Review: Generations of Florentine Genius",
-      "content_text": "‘Rediscovering Della Robbia at the Met’ Review: Generations of Florentine Genius",
-      "summary": "",
-      "date_published": "2026-10-21T20:48:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "656ab164dcba0b33",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026/card/tesla-says-75-of-deliveries-include-fsd-subscriptions-sam6O4FAWRIzHOkHDp97",
-      "title": "Tesla Says 75% of Deliveries Include FSD Subscriptions",
-      "content_text": "Tesla Says 75% of Deliveries Include FSD Subscriptions",
-      "summary": "",
-      "date_published": "2026-10-21T20:46:44+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "9e10797df3e2a27d",
-      "url": "https://www.wsj.com/opinion/stephen-hubbard-released-from-russia-vladimir-putin-donald-trump-b7ec3a1d",
-      "title": "Putin Plays Hostage Geopolitics",
-      "content_text": "Putin Plays Hostage Geopolitics",
-      "summary": "",
-      "date_published": "2026-10-21T20:46:00+00:00",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "id": "2b96bc819b817b40",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026/card/one-great-chart-how-spacex-tesla-market-caps-compare-KTdPKNrZ0Ro71t9CTbsx",
-      "title": "One Great Chart: How SpaceX, Tesla Market Caps Compare",
-      "content_text": "One Great Chart: How SpaceX, Tesla Market Caps Compare",
-      "summary": "",
-      "date_published": "2026-10-21T20:38:30+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "fa4989a6fc4524d9",
-      "url": "https://www.wsj.com/business/earnings/texas-instruments-posts-higher-profit-revenue-23a867a6",
-      "title": "Texas Instruments Posts Higher Profit, Revenue",
-      "content_text": "Texas Instruments Posts Higher Profit, Revenue",
-      "summary": "",
-      "date_published": "2026-10-21T20:28:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "dcd0101fc5a25e05",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-spacex-spurs-ai-relief-rally-9d3763e7",
-      "title": "U.S. Stocks Rise as SpaceX Spurs AI Relief Rally",
-      "content_text": "U.S. Stocks Rise as SpaceX Spurs AI Relief Rally",
-      "summary": "",
-      "date_published": "2026-10-21T20:27:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "227611f61df813f8",
-      "url": "https://www.wsj.com/finance/stocks/spacex-and-tesla-consider-merger-9a38832d",
-      "title": "SpaceX and Tesla Consider Merger",
-      "content_text": "SpaceX and Tesla Consider Merger",
-      "summary": "",
-      "date_published": "2026-10-21T20:26:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "a805cd84982ea0c0",
-      "url": "https://www.wsj.com/business/earnings/csx-logs-higher-profit-revenue-on-rising-freight-volumes-4db46671",
-      "title": "CSX Logs Higher Profit, Revenue on Rising Freight Volumes",
-      "content_text": "CSX Logs Higher Profit, Revenue on Rising Freight Volumes",
-      "summary": "",
-      "date_published": "2026-10-21T20:22:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
