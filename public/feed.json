@@ -6,12 +6,441 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "95bd6ade64613b86",
-      "url": "https://www.wsj.com/business/earnings/slb-logs-higher-revenue-as-business-in-the-middle-east-recovers-f1b81666",
-      "title": "SLB Logs Higher Revenue as Business in the Middle East Recovers",
-      "content_text": "SLB Logs Higher Revenue as Business in the Middle East Recovers",
+      "id": "46deb3d7f65d7f13",
+      "url": "https://www.wsj.com/world/middle-east/netanyahu-calls-for-west-bank-lockdown-after-deadly-attack-98d5e3e3",
+      "title": "Netanyahu Calls for West Bank Lockdown After Deadly Attack",
+      "content_text": "Netanyahu Calls for West Bank Lockdown After Deadly Attack",
       "summary": "",
-      "date_published": "2026-10-23T11:35:00+00:00",
+      "date_published": "2026-10-23T16:38:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "a3b6db0c4bdd70ff",
+      "url": "https://www.wsj.com/world/middle-east/gunmen-kill-seven-in-church-attack-in-jordan-c4ff80b6",
+      "title": "Gunmen Kill Seven in Church Attack in Jordan",
+      "content_text": "Gunmen Kill Seven in Church Attack in Jordan",
+      "summary": "",
+      "date_published": "2026-10-23T16:36:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "1a2dd9815f551e9a",
+      "url": "https://www.wsj.com/business/logistics/the-ups-man-review-the-secrets-of-moving-goods-162c43fb",
+      "title": "‘The UPS Man’ Review: The Secrets of Moving Goods",
+      "content_text": "‘The UPS Man’ Review: The Secrets of Moving Goods",
+      "summary": "",
+      "date_published": "2026-10-23T16:34:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "badf1cf4c4d168af",
+      "url": "https://www.wsj.com/us-news/education/inside-the-school-board-brawl-rocking-beverly-hills-0a799115",
+      "title": "Inside the School Board Brawl Rocking Beverly Hills",
+      "content_text": "Inside the School Board Brawl Rocking Beverly Hills",
+      "summary": "",
+      "date_published": "2026-10-23T16:27:00+00:00",
+      "tags": [
+        "Us News"
+      ]
+    },
+    {
+      "id": "6240284aa78128bb",
+      "url": "https://www.wsj.com/politics/elections/justice-department-sues-to-block-alaska-senate-results-if-gop-candidate-loses-c2597f6c",
+      "title": "Justice Department Sues to Block Alaska Senate Results If GOP Candidate Loses",
+      "content_text": "Justice Department Sues to Block Alaska Senate Results If GOP Candidate Loses",
+      "summary": "",
+      "date_published": "2026-10-23T16:27:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "22a2efbbae6233e9",
+      "url": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-decisions-from-fed-other-central-banks-in-focus-92a52730",
+      "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+      "content_text": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+      "summary": "",
+      "date_published": "2026-10-23T16:23:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "8ef02c8819abd5f5",
+      "url": "https://www.wsj.com/politics/elections/trump-consistently-touts-the-economy-the-internet-isnt-buying-it-84212bca",
+      "title": "Trump Consistently Touts the Economy. The Internet Isn’t Buying It.",
+      "content_text": "Trump Consistently Touts the Economy. The Internet Isn’t Buying It.",
+      "summary": "",
+      "date_published": "2026-10-23T16:02:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "196619544fe25798",
+      "url": "https://www.wsj.com/arts-culture/books/the-lost-founder-review-americas-first-great-jurist-9e53b298",
+      "title": "‘The Lost Founder’ Review: America’s First Great Jurist",
+      "content_text": "‘The Lost Founder’ Review: America’s First Great Jurist",
+      "summary": "",
+      "date_published": "2026-10-23T16:00:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "89bd14a0c07f9b30",
+      "url": "https://www.wsj.com/business/archer-aviation-launches-air-taxi-fleets-in-texas-38b697e6",
+      "title": "Archer Aviation Launches Air Taxi Fleets in Texas",
+      "content_text": "Archer Aviation Launches Air Taxi Fleets in Texas",
+      "summary": "",
+      "date_published": "2026-10-23T15:59:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "452bd54c1adb14d7",
+      "url": "https://www.wsj.com/articles/lasers-robots-and-ai-the-fight-to-save-salmon-goes-high-tech-52d8c6e4",
+      "title": "Lasers, Robots and AI: The Fight to Save Salmon Goes High-Tech",
+      "content_text": "Lasers, Robots and AI: The Fight to Save Salmon Goes High-Tech",
+      "summary": "",
+      "date_published": "2026-10-23T15:55:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "925aec99cbe78b90",
+      "url": "https://www.wsj.com/tech/personal-tech/apple-new-iphone-duo-552e425f",
+      "title": "Apple’s iPhone Duo Is on Sale. Good Luck Buying One.",
+      "content_text": "Apple’s iPhone Duo Is on Sale. Good Luck Buying One.",
+      "summary": "",
+      "date_published": "2026-10-23T15:53:00+00:00",
+      "tags": [
+        "Tech"
+      ]
+    },
+    {
+      "id": "0230ad0f44fe8ab7",
+      "url": "https://www.wsj.com/arts-culture/books/it-could-be-otherwise-and-on-the-equality-of-all-things-the-next-quantum-leap-d8118799",
+      "title": "‘It Could Be Otherwise’ and ‘On the Equality of All Things’: The Next Quantum Leap",
+      "content_text": "‘It Could Be Otherwise’ and ‘On the Equality of All Things’: The Next Quantum Leap",
+      "summary": "",
+      "date_published": "2026-10-23T15:48:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "467e32e733a86628",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026/card/what-s-moving-markets-today--uEkQtc4GdYE5adeQwVcd",
+      "title": "What’s Moving Markets Today?",
+      "content_text": "What’s Moving Markets Today?",
+      "summary": "",
+      "date_published": "2026-10-23T15:46:05+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "1b5da7949c8e6aaa",
+      "url": "https://www.wsj.com/arts-culture/books/mysteries-the-occidental-book-of-the-dead-by-t-geronimo-johnson-a6a9cb3b",
+      "title": "Mysteries: ‘The Occidental Book of the Dead’ by T. Geronimo Johnson",
+      "content_text": "Mysteries: ‘The Occidental Book of the Dead’ by T. Geronimo Johnson",
+      "summary": "",
+      "date_published": "2026-10-23T15:42:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "f739a8f5ca3e051f",
+      "url": "https://www.wsj.com/politics/policy/former-fbi-officials-charged-with-lying-to-congress-about-hunter-biden-probe-3974fdd1",
+      "title": "Former FBI Officials Charged With Lying to Congress About Hunter Biden Probe",
+      "content_text": "Former FBI Officials Charged With Lying to Congress About Hunter Biden Probe",
+      "summary": "",
+      "date_published": "2026-10-23T15:38:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "535058e8e549f337",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026/card/sec-to-increase-scrutiny-of-advisers-recommending-spv-investments-IERNys56G1nAaJH57TaP",
+      "title": "SEC To Increase Scrutiny of Advisers Recommending SPV Investments",
+      "content_text": "SEC To Increase Scrutiny of Advisers Recommending SPV Investments",
+      "summary": "",
+      "date_published": "2026-10-23T15:30:02+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "99815fc114e8cd77",
+      "url": "https://www.wsj.com/arts-culture/books/farewell-to-russia-review-imperial-hangover-87c44ed3",
+      "title": "‘Farewell to Russia’ Review: Imperial Hangover",
+      "content_text": "‘Farewell to Russia’ Review: Imperial Hangover",
+      "summary": "",
+      "date_published": "2026-10-23T15:27:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "0277debe2c5d6ea5",
+      "url": "https://www.wsj.com/arts-culture/books/the-girl-in-blue-and-the-renoir-girls-portraits-of-an-ill-fated-family-f2af2674",
+      "title": "‘The Girl in Blue’ and ‘The Renoir Girls’: Portraits of an Ill-Fated Family",
+      "content_text": "‘The Girl in Blue’ and ‘The Renoir Girls’: Portraits of an Ill-Fated Family",
+      "summary": "",
+      "date_published": "2026-10-23T15:17:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "068740174e5437e8",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026/card/oil-prices-near-iran-war-high-just-before-the-midterms-j3dLLzVmON1R89kF2yTg",
+      "title": "Oil Prices Near Iran War High Just Before the Midterms",
+      "content_text": "Oil Prices Near Iran War High Just Before the Midterms",
+      "summary": "",
+      "date_published": "2026-10-23T15:07:15+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "790cf57be0d9e49e",
+      "url": "https://www.wsj.com/business/energy-oil/eni-to-sign-up-to-1-8-billion-of-infrastructure-contracts-for-cyprus-gas-project-in-coming-days-sources-say-1a6fd498",
+      "title": "Eni to Sign up to $1.8 Billion of Infrastructure Contracts for Cyprus Gas Project in Coming Days, Sources Say",
+      "content_text": "Eni to Sign up to $1.8 Billion of Infrastructure Contracts for Cyprus Gas Project in Coming Days, Sources Say",
+      "summary": "",
+      "date_published": "2026-10-23T15:06:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "bf6e73e086415949",
+      "url": "https://www.wsj.com/arts-culture/books/dispatches-from-rural-america-review-wendell-berrys-country-4e7fcd98",
+      "title": "‘Dispatches From Rural America’ Review: Wendell Berry’s Country",
+      "content_text": "‘Dispatches From Rural America’ Review: Wendell Berry’s Country",
+      "summary": "",
+      "date_published": "2026-10-23T15:03:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "12ba787313b77254",
+      "url": "https://www.wsj.com/articles/vanished-saturday-variety-puzzle-october-24-87a9743c",
+      "title": "Vanished (Saturday Variety Puzzle, October 24)",
+      "content_text": "Vanished (Saturday Variety Puzzle, October 24)",
+      "summary": "",
+      "date_published": "2026-10-23T15:00:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "0b4986ae8c9d50b9",
+      "url": "https://www.wsj.com/arts-culture/books/lost-treasures-the-secret-of-platform-13-8fc40f5c",
+      "title": "Lost Treasures: ‘The Secret of Platform 13’",
+      "content_text": "Lost Treasures: ‘The Secret of Platform 13’",
+      "summary": "",
+      "date_published": "2026-10-23T14:56:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "eb1aa05424e9478f",
+      "url": "https://www.wsj.com/arts-culture/books/sleuth-hound-review-a-model-holmes-1ee1b117",
+      "title": "‘Sleuth-Hound’ Review: A Model Holmes",
+      "content_text": "‘Sleuth-Hound’ Review: A Model Holmes",
+      "summary": "",
+      "date_published": "2026-10-23T14:47:00+00:00",
+      "tags": [
+        "Arts Culture"
+      ]
+    },
+    {
+      "id": "6f3274c9e41a9e4b",
+      "url": "https://www.wsj.com/world/americas/venezuelas-shrimp-king-wanted-his-700-million-firm-back-now-hes-in-jail-1c7d0a47",
+      "title": "Venezuela’s Shrimp King Wanted His $700 Million Firm Back. Now He’s in Jail.",
+      "content_text": "Venezuela’s Shrimp King Wanted His $700 Million Firm Back. Now He’s in Jail.",
+      "summary": "",
+      "date_published": "2026-10-23T14:30:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "e5927f0c13593937",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026/card/americans-economic-mood-is-sour-ahead-of-midterms-TSwvWjxGfNRWWpVOe2Dz",
+      "title": "Americans’ Economic Mood Is Sour Ahead of Midterms",
+      "content_text": "Americans’ Economic Mood Is Sour Ahead of Midterms",
+      "summary": "",
+      "date_published": "2026-10-23T14:21:20+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "a240be091983d9e7",
+      "url": "https://www.wsj.com/economy/consumers/consumer-sentiment-declined-slightly-in-october-bae24944",
+      "title": "Consumer Sentiment Declined Slightly in October",
+      "content_text": "Consumer Sentiment Declined Slightly in October",
+      "summary": "",
+      "date_published": "2026-10-23T14:17:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "a30f832d30325c1a",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026/card/europe-is-low-on-natural-gas-and-winter-is-coming-how-bad-will-things-get--WdAQjYtUm6MiOSx3yd9v",
+      "title": "Europe Is Low on Natural Gas and Winter Is Coming. How Bad Will Things Get?",
+      "content_text": "Europe Is Low on Natural Gas and Winter Is Coming. How Bad Will Things Get?",
+      "summary": "",
+      "date_published": "2026-10-23T14:10:22+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "7a02e4e29f918530",
+      "url": "https://www.wsj.com/sports/football/dee-brock-dallas-cowboys-cheerleaders-b64c7334",
+      "title": "Dee Brock, Visionary Who Created the Dallas Cowboys Cheerleaders, Dies at 96",
+      "content_text": "Dee Brock, Visionary Who Created the Dallas Cowboys Cheerleaders, Dies at 96",
+      "summary": "",
+      "date_published": "2026-10-23T14:00:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "c647ed7026716c3a",
+      "url": "https://www.wsj.com/sports/baseball/world-series-brewers-rays-7fe74bf8",
+      "title": "This World Series Proves That There’s More to Winning Than Money",
+      "content_text": "This World Series Proves That There’s More to Winning Than Money",
+      "summary": "",
+      "date_published": "2026-10-23T14:00:00+00:00",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "14dea1ab9ed99dcd",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026/card/amex-joins-list-of-companies-cutting-jobs-this-week-8gh8Xt181lhiUXmbBVue",
+      "title": "Amex Joins List of Companies Cutting Jobs This Week",
+      "content_text": "Amex Joins List of Companies Cutting Jobs This Week",
+      "summary": "",
+      "date_published": "2026-10-23T13:53:34+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "f807c89481bd9092",
+      "url": "https://www.wsj.com/economy/jobs/american-express-to-cut-3-500-jobs-63955c6f",
+      "title": "American Express to Cut 3,500 Jobs",
+      "content_text": "American Express to Cut 3,500 Jobs",
+      "summary": "",
+      "date_published": "2026-10-23T13:42:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "2b0df76d85032434",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026/card/here-are-this-week-s-biggest-losers-after-the-tech-selloff-KsdS8dQpsahNcmaQTtUn",
+      "title": "Here Are This Week’s Biggest Losers After the Tech Selloff",
+      "content_text": "Here Are This Week’s Biggest Losers After the Tech Selloff",
+      "summary": "",
+      "date_published": "2026-10-23T13:36:17+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "9a8910aea247d9e8",
+      "url": "https://www.wsj.com/business/c-suite/lkq-ousts-ceo-warns-of-third-quarter-shortfall-95426635",
+      "title": "LKQ Ousts CEO, Warns of Third-Quarter Shortfall",
+      "content_text": "LKQ Ousts CEO, Warns of Third-Quarter Shortfall",
+      "summary": "",
+      "date_published": "2026-10-23T13:31:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "9522bb1febd66593",
+      "url": "https://www.wsj.com/cmo-today/country-clubs-beat-their-expiration-date-by-rebranding-exclusivity-1dbf6070",
+      "title": "Country Clubs Beat Their ‘Expiration Date’ by Rebranding Exclusivity",
+      "content_text": "Country Clubs Beat Their ‘Expiration Date’ by Rebranding Exclusivity",
+      "summary": "",
+      "date_published": "2026-10-23T13:29:00+00:00",
+      "tags": [
+        "Cmo Today"
+      ]
+    },
+    {
+      "id": "77b8332c724a6c53",
+      "url": "https://www.wsj.com/economy/consumers/canada-retail-sales-look-to-build-on-augusts-rebound-c80f8bec",
+      "title": "Canada Retail Sales Look to Build on August’s Rebound",
+      "content_text": "Canada Retail Sales Look to Build on August’s Rebound",
+      "summary": "",
+      "date_published": "2026-10-23T13:10:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "f6eeda6fe473f9dc",
+      "url": "https://www.wsj.com/finance/investing/brokerage-firms-want-to-yank-away-your-investor-protections-b9fddd88",
+      "title": "Brokerage Firms Want to Yank Away Your Investor Protections",
+      "content_text": "Brokerage Firms Want to Yank Away Your Investor Protections",
+      "summary": "",
+      "date_published": "2026-10-23T13:00:00+00:00",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "e8bcf1558b21badb",
+      "url": "https://www.wsj.com/health/wellness/a-no-no-during-pregnancy-weight-loss-drugs-may-be-ok-while-breast-feeding-d2e72baf",
+      "title": "A No-No During Pregnancy, Weight-Loss Drugs May Be OK While Breastfeeding",
+      "content_text": "A No-No During Pregnancy, Weight-Loss Drugs May Be OK While Breastfeeding",
+      "summary": "",
+      "date_published": "2026-10-23T13:00:00+00:00",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "id": "eb8db2e1f44678d6",
+      "url": "https://www.wsj.com/world/europe/gunman-kills-one-near-paris-in-suspected-attack-on-immigrant-communities-ed1ee830",
+      "title": "Gunman Kills One Near Paris in Suspected Attack on Immigrant Communities",
+      "content_text": "Gunman Kills One Near Paris in Suspected Attack on Immigrant Communities",
+      "summary": "",
+      "date_published": "2026-10-23T12:57:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "cb2339aae1d1afa2",
+      "url": "https://www.wsj.com/business/bombardier-to-invest-270-million-in-u-s-expansion-6d0c88cb",
+      "title": "Bombardier to Invest $270 Million in U.S. Expansion as Trump Softens Stance",
+      "content_text": "Bombardier to Invest $270 Million in U.S. Expansion as Trump Softens Stance",
+      "summary": "",
+      "date_published": "2026-10-23T12:55:00+00:00",
       "tags": [
         "Business"
       ]
@@ -21,6 +450,17 @@
       "url": "https://www.wsj.com/business/earnings/booz-allen-lifts-earnings-outlook-as-profit-climbs-76c7b284",
       "title": "Booz Allen Lifts Earnings Outlook as Profit Climbs",
       "content_text": "Booz Allen Lifts Earnings Outlook as Profit Climbs",
+      "summary": "",
+      "date_published": "2026-10-23T11:35:00+00:00",
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "id": "95bd6ade64613b86",
+      "url": "https://www.wsj.com/business/earnings/slb-logs-higher-revenue-as-business-in-the-middle-east-recovers-f1b81666",
+      "title": "SLB Logs Higher Revenue as Business in the Middle East Recovers",
+      "content_text": "SLB Logs Higher Revenue as Business in the Middle East Recovers",
       "summary": "",
       "date_published": "2026-10-23T11:35:00+00:00",
       "tags": [
@@ -281,17 +721,6 @@
       ]
     },
     {
-      "id": "b5ade20ed96e8b1f",
-      "url": "https://www.wsj.com/arts-culture/music/world-series-milwaukee-brewers-foenem-song-be307ae5",
-      "title": "How a Guy Who Doesn’t Know Baseball Wrote the Anthem of the Brewers’ Playoff Run",
-      "content_text": "How a Guy Who Doesn’t Know Baseball Wrote the Anthem of the Brewers’ Playoff Run",
-      "summary": "",
-      "date_published": "2026-10-23T09:30:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
       "id": "3619b60ed09551e7",
       "url": "https://www.wsj.com/finance/stocks/metas-muse-is-going-gangbusters-but-where-is-the-payoff-648d310d",
       "title": "Meta’s Muse Is Going Gangbusters. But Where Is the Payoff?",
@@ -300,6 +729,17 @@
       "date_published": "2026-10-23T09:30:00+00:00",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "b5ade20ed96e8b1f",
+      "url": "https://www.wsj.com/arts-culture/music/world-series-milwaukee-brewers-foenem-song-be307ae5",
+      "title": "How a Guy Who Doesn’t Know Baseball Wrote the Anthem of the Brewers’ Playoff Run",
+      "content_text": "How a Guy Who Doesn’t Know Baseball Wrote the Anthem of the Brewers’ Playoff Run",
+      "summary": "",
+      "date_published": "2026-10-23T09:30:00+00:00",
+      "tags": [
+        "Arts Culture"
       ]
     },
     {
@@ -347,17 +787,6 @@
       ]
     },
     {
-      "id": "4fafe0e3b083d4a0",
-      "url": "https://www.wsj.com/business/shares-in-gucci-parent-kering-plunge-as-hoped-for-recovery-keeps-receding-b08ebddc",
-      "title": "Shares in Gucci-Parent Kering Plunge as Hoped-For Recovery Keeps Receding",
-      "content_text": "Shares in Gucci-Parent Kering Plunge as Hoped-For Recovery Keeps Receding",
-      "summary": "",
-      "date_published": "2026-10-23T08:44:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
       "id": "04f9fd1a93fec3ec",
       "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-steady-as-ai-selloff-pauses-275c6454",
       "title": "Nasdaq Futures Steady as AI Selloff Pauses",
@@ -366,6 +795,17 @@
       "date_published": "2026-10-23T08:44:00+00:00",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "4fafe0e3b083d4a0",
+      "url": "https://www.wsj.com/business/shares-in-gucci-parent-kering-plunge-as-hoped-for-recovery-keeps-receding-b08ebddc",
+      "title": "Shares in Gucci-Parent Kering Plunge as Hoped-For Recovery Keeps Receding",
+      "content_text": "Shares in Gucci-Parent Kering Plunge as Hoped-For Recovery Keeps Receding",
+      "summary": "",
+      "date_published": "2026-10-23T08:44:00+00:00",
+      "tags": [
+        "Business"
       ]
     },
     {
@@ -1763,446 +2203,6 @@
       "date_published": "2026-10-22T13:00:00+00:00",
       "tags": [
         "Front Page"
-      ]
-    },
-    {
-      "id": "78af8127329fd66c",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026/card/meta-tesla-s-spending-fails-to-soothe-ai-jitters-TIPe1eXACJelSB45uopg",
-      "title": "Meta, Tesla’s Spending Fails to Soothe AI Jitters",
-      "content_text": "Meta, Tesla’s Spending Fails to Soothe AI Jitters",
-      "summary": "",
-      "date_published": "2026-10-22T12:41:40+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "e05fa4047df8cd94",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026/card/six-quick-takeaways-from-meta-s-q3-earnings-PwPdXZZoSRswS0GGBFQL",
-      "title": "Six Quick Takeaways From Meta’s Q3 Earnings",
-      "content_text": "Six Quick Takeaways From Meta’s Q3 Earnings",
-      "summary": "",
-      "date_published": "2026-10-22T12:40:07+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "9c817618c9b5e0ce",
-      "url": "https://www.wsj.com/tech/ai/1password-surpasses-500-million-in-revenue-as-ai-agents-drive-growth-903ccd4b",
-      "title": "1Password Surpasses $500 Million in Revenue as AI Agents Drive Growth",
-      "content_text": "1Password Surpasses $500 Million in Revenue as AI Agents Drive Growth",
-      "summary": "",
-      "date_published": "2026-10-22T12:36:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "e01a436494e20088",
-      "url": "https://www.wsj.com/business/earnings/union-pacific-posts-higher-profit-revenue-on-volume-growth-c6666acd",
-      "title": "Railroad Earnings Rise as More Cargo Moves From Trucks to Trains",
-      "content_text": "Railroad Earnings Rise as More Cargo Moves From Trucks to Trains",
-      "summary": "",
-      "date_published": "2026-10-22T12:22:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "a45995dcdd83aeae",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026/card/higher-rates-weigh-on-blackstone-e1zrhkjU2aMQUq9qcfWQ",
-      "title": "Higher Rates Weigh on Blackstone",
-      "content_text": "Higher Rates Weigh on Blackstone",
-      "summary": "",
-      "date_published": "2026-10-22T12:04:29+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "bd105bb3d8d80e41",
-      "url": "https://www.wsj.com/business/earnings/sap-weighs-new-metric-to-showcase-ai-impact-on-business-c485302f",
-      "title": "SAP Weighs New Metric to Showcase AI Impact on Business",
-      "content_text": "SAP Weighs New Metric to Showcase AI Impact on Business",
-      "summary": "",
-      "date_published": "2026-10-22T11:50:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "54a07f473774fec4",
-      "url": "https://www.wsj.com/business/earnings/american-airlines-forecasts-another-quarterly-loss-on-surging-fuel-costs-68307f23",
-      "title": "American Airlines Sees Another Quarterly Loss as Fuel Costs Rise",
-      "content_text": "American Airlines Sees Another Quarterly Loss as Fuel Costs Rise",
-      "summary": "",
-      "date_published": "2026-10-22T11:30:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "71413ad056c3c683",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026/card/french-yields-climb-as-foreign-investors-look-for-the-exit-MilvVRu4EtGAXNqffCDf",
-      "title": "French Yields Climb as Foreign Investors Look for the Exit",
-      "content_text": "French Yields Climb as Foreign Investors Look for the Exit",
-      "summary": "",
-      "date_published": "2026-10-22T11:24:58+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "d932f158a5442616",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-meta-ordered-to-pay-25-billion-to-new-mexico-in-data-privacy-case-01dd9197",
-      "title": "The Morning Risk Report: Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case",
-      "content_text": "The Morning Risk Report: Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case",
-      "summary": "",
-      "date_published": "2026-10-22T11:21:00+00:00",
-      "tags": [
-        "Risk Compliance Journal"
-      ]
-    },
-    {
-      "id": "b63282263dd69684",
-      "url": "https://www.wsj.com/politics/national-security/pentagons-f-35-deal-locks-in-10-years-of-jet-orders-1701353f",
-      "title": "Pentagon Plans 10 Years of F-35 Jet Orders",
-      "content_text": "Pentagon Plans 10 Years of F-35 Jet Orders",
-      "summary": "",
-      "date_published": "2026-10-22T11:18:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "86eaffbfbbe07fb9",
-      "url": "https://www.wsj.com/business/earnings/procter-gambles-sales-offset-rising-fuel-costs-463656a0",
-      "title": "Procter & Gamble’s Sales Offset Rising Fuel Costs",
-      "content_text": "Procter & Gamble’s Sales Offset Rising Fuel Costs",
-      "summary": "",
-      "date_published": "2026-10-22T11:13:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "908b238ea90957c4",
-      "url": "https://www.wsj.com/business/earnings/comcasts-domestic-broadband-subscriber-losses-continue-b8954ae6",
-      "title": "Comcast Plans Restructuring as Domestic Broadband-Subscriber Losses Continue",
-      "content_text": "Comcast Plans Restructuring as Domestic Broadband-Subscriber Losses Continue",
-      "summary": "",
-      "date_published": "2026-10-22T11:12:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "639e8acdc4d11b3a",
-      "url": "https://www.wsj.com/business/retail/prada-sales-cool-as-luxury-recovery-fades-046ac0ad",
-      "title": "Prada Sales Cool as Luxury Recovery Fades",
-      "content_text": "Prada Sales Cool as Luxury Recovery Fades",
-      "summary": "",
-      "date_published": "2026-10-22T11:08:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "da2dc3e801b888c4",
-      "url": "https://www.wsj.com/logistics-report/toyota-reckons-with-short-supply-of-its-most-popular-suv-226a0d91",
-      "title": "Toyota Reckons With Short Supply of Its Most Popular SUV",
-      "content_text": "Toyota Reckons With Short Supply of Its Most Popular SUV",
-      "summary": "",
-      "date_published": "2026-10-22T11:04:00+00:00",
-      "tags": [
-        "Logistics Report"
-      ]
-    },
-    {
-      "id": "142ad00c88907113",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026/card/oil-heads-for-highest-close-since-may-kMniiqGGZuW9w4kF6E72",
-      "title": "Oil Heads for Highest Close Since May",
-      "content_text": "Oil Heads for Highest Close Since May",
-      "summary": "",
-      "date_published": "2026-10-22T11:02:55+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "db083118cee7a15f",
-      "url": "https://www.wsj.com/business/earnings/lockheed-martin-bumps-up-yearly-outlook-as-backlog-hits-record-b2e58e35",
-      "title": "Lockheed Martin Bumps Up Yearly Outlook as Backlog Hits Record",
-      "content_text": "Lockheed Martin Bumps Up Yearly Outlook as Backlog Hits Record",
-      "summary": "",
-      "date_published": "2026-10-22T11:01:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "54967a13f3348632",
-      "url": "https://www.wsj.com/politics/as-vance-piles-on-ohio-governors-race-is-going-off-the-rails-c5d46880",
-      "title": "As Vance Piles On, Ohio Governor’s Race Is Going Off the Rails",
-      "content_text": "As Vance Piles On, Ohio Governor’s Race Is Going Off the Rails",
-      "summary": "",
-      "date_published": "2026-10-22T11:00:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "6eb28cb32a4f9764",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-1a1c35f5",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "content_text": "Energy & Utilities Roundup: Market Talk",
-      "summary": "",
-      "date_published": "2026-10-22T11:00:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "0dfc8066da7893f1",
-      "url": "https://www.wsj.com/business/earnings/dows-profit-rises-sharply-on-cost-cuts-sales-growth-08b5aa50",
-      "title": "Dow’s Profit Rises Sharply on Cost Cuts, Sales Growth",
-      "content_text": "Dow’s Profit Rises Sharply on Cost Cuts, Sales Growth",
-      "summary": "",
-      "date_published": "2026-10-22T10:29:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "9399240780b569af",
-      "url": "https://www.wsj.com/tech/ai/chinese-ai-startup-deekseek-raises-15-billion-ahead-of-potential-ipo-f7fe3a49",
-      "title": "Chinese AI Startup DeekSeek Raises $15 Billion Ahead of Potential IPO",
-      "content_text": "Chinese AI Startup DeekSeek Raises $15 Billion Ahead of Potential IPO",
-      "summary": "",
-      "date_published": "2026-10-22T10:28:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "698733227af0a3cf",
-      "url": "https://www.wsj.com/world/europe/the-subterranean-battle-playing-out-deep-in-ukraines-soviet-era-pipelines-49dcc260",
-      "title": "The Subterranean Battle Playing Out Deep in Ukraine’s Soviet-Era Pipelines",
-      "content_text": "The Subterranean Battle Playing Out Deep in Ukraine’s Soviet-Era Pipelines",
-      "summary": "",
-      "date_published": "2026-10-22T10:19:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "958fb3ca3c3be5b5",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026/card/spotify-reports-premium-subscriber-growth-higher-revenue-t5ChoPawSXXjNrT5JDr5",
-      "title": "Spotify Reports Premium Subscriber Growth, Higher Revenue",
-      "content_text": "Spotify Reports Premium Subscriber Growth, Higher Revenue",
-      "summary": "",
-      "date_published": "2026-10-22T10:01:02+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "5f96b3ab88780e34",
-      "url": "https://www.wsj.com/sports/football/nfl-game-length-average-666bec20",
-      "title": "Why NFL Games Are Dragging On Longer Than Ever",
-      "content_text": "Why NFL Games Are Dragging On Longer Than Ever",
-      "summary": "",
-      "date_published": "2026-10-22T10:00:00+00:00",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "ffb2c83ea16df964",
-      "url": "https://www.wsj.com/finance/commodities-futures/chinas-rising-aluminum-output-cushions-gulf-supply-shock-311b805e",
-      "title": "China’s Rising Aluminum Output Cushions Gulf Supply Shock",
-      "content_text": "China’s Rising Aluminum Output Cushions Gulf Supply Shock",
-      "summary": "",
-      "date_published": "2026-10-22T10:00:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "7b45f4724d42723f",
-      "url": "https://www.wsj.com/business/the-ceo-who-turns-touchy-feely-leadership-into-profits-f899ccd4",
-      "title": "The CEO Who Turns ‘Touchy-Feely’ Leadership Into Profits",
-      "content_text": "The CEO Who Turns ‘Touchy-Feely’ Leadership Into Profits",
-      "summary": "",
-      "date_published": "2026-10-22T09:57:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "bda34345d57affa2",
-      "url": "https://www.wsj.com/economy/a-food-crisis-could-follow-the-energy-crisis-4c28609b",
-      "title": "A Food Crisis Could Follow the Energy Crisis",
-      "content_text": "A Food Crisis Could Follow the Energy Crisis",
-      "summary": "",
-      "date_published": "2026-10-22T09:57:00+00:00",
-      "tags": [
-        "Economy"
-      ]
-    },
-    {
-      "id": "5bbcecbd5c5d0b75",
-      "url": "https://www.wsj.com/business/musks-tesla-spacex-merger-would-formalize-a-decadeslong-partnership-3b83e542",
-      "title": "Musk’s Tesla-SpaceX Merger Would Formalize a Decadeslong Partnership",
-      "content_text": "Musk’s Tesla-SpaceX Merger Would Formalize a Decadeslong Partnership",
-      "summary": "",
-      "date_published": "2026-10-22T09:56:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "c3237d6505c04115",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026/card/stocks-to-watch-tesla-meta-nvidia-blackstone-xdCn1oMa3xNK4U3yLr7p",
-      "title": "Stocks to Watch: Tesla, Meta, Nvidia, Blackstone",
-      "content_text": "Stocks to Watch: Tesla, Meta, Nvidia, Blackstone",
-      "summary": "",
-      "date_published": "2026-10-22T09:45:33+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "26a0dd8341f93b27",
-      "url": "https://www.wsj.com/politics/abdul-el-sayed-tests-whether-an-unapologetic-progressive-muslim-can-win-6a22338a",
-      "title": "Abdul El-Sayed Tests Whether an Unapologetic Progressive Muslim Can Win",
-      "content_text": "Abdul El-Sayed Tests Whether an Unapologetic Progressive Muslim Can Win",
-      "summary": "",
-      "date_published": "2026-10-22T09:30:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "6d69a41ea2545fde",
-      "url": "https://www.wsj.com/finance/investing/frances-debt-crisis-deepens-as-foreign-investors-look-for-the-exit-e6ef398c",
-      "title": "France’s Debt Crisis Deepens as Foreign Investors Look for the Exit",
-      "content_text": "France’s Debt Crisis Deepens as Foreign Investors Look for the Exit",
-      "summary": "",
-      "date_published": "2026-10-22T09:30:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "7c17a847c7f5b508",
-      "url": "https://www.wsj.com/business/carrier-plans-600-million-texas-plant-to-make-cooling-gear-for-ai-data-centers-01c1a1dc",
-      "title": "Carrier Plans $600 Million Texas Plant to Make Cooling Gear for AI Data Centers",
-      "content_text": "Carrier Plans $600 Million Texas Plant to Make Cooling Gear for AI Data Centers",
-      "summary": "",
-      "date_published": "2026-10-22T09:30:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "8036bcec44728149",
-      "url": "https://www.wsj.com/arts-culture/books/marlon-james-disappearers-172c69b5",
-      "title": "How Marlon James Wrote His Most Painful, Personal Book",
-      "content_text": "How Marlon James Wrote His Most Painful, Personal Book",
-      "summary": "",
-      "date_published": "2026-10-22T09:30:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "97d95340558b002e",
-      "url": "https://www.wsj.com/tech/spacex-takes-conglomerate-building-to-sci-fi-extremes-0dd612ab",
-      "title": "SpaceX Takes Conglomerate-Building to Sci-Fi Extremes",
-      "content_text": "SpaceX Takes Conglomerate-Building to Sci-Fi Extremes",
-      "summary": "",
-      "date_published": "2026-10-22T09:30:00+00:00",
-      "tags": [
-        "Tech"
-      ]
-    },
-    {
-      "id": "abc324f5755c5cd2",
-      "url": "https://www.wsj.com/business/bosses-want-the-secrets-of-the-family-firm-that-has-never-had-a-layoff-in-75-years-ac608165",
-      "title": "Bosses Want the Secrets of the Family Firm That Has Never Had a Layoff in 75 Years",
-      "content_text": "Bosses Want the Secrets of the Family Firm That Has Never Had a Layoff in 75 Years",
-      "summary": "",
-      "date_published": "2026-10-22T09:30:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "99c4427e530a8722",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026/card/-money-quote-ibm-s-arvind-krishna-qKm8tosYLs2M5Gr25PpN",
-      "title": "💬Money Quote: IBM’s Arvind Krishna",
-      "content_text": "💬Money Quote: IBM’s Arvind Krishna",
-      "summary": "",
-      "date_published": "2026-10-22T09:25:27+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "6045e0b6882a1fff",
-      "url": "https://www.wsj.com/business/energy-oil/aramco-ceo-says-east-west-pipeline-capacity-could-reach-10-million-barrels-a-day-d761c76e",
-      "title": "Aramco CEO Says East-West Pipeline Capacity Could Reach 10 Million Barrels a Day",
-      "content_text": "Aramco CEO Says East-West Pipeline Capacity Could Reach 10 Million Barrels a Day",
-      "summary": "",
-      "date_published": "2026-10-22T09:15:00+00:00",
-      "tags": [
-        "Business"
-      ]
-    },
-    {
-      "id": "8c0c79f4ba5dd3b1",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026/card/herm-s-stock-falls-as-chinese-demand-weakens-70gVMmibBHtQVHFChbMb",
-      "title": "Hermès Stock Falls as Chinese Demand Weakens",
-      "content_text": "Hermès Stock Falls as Chinese Demand Weakens",
-      "summary": "",
-      "date_published": "2026-10-22T09:13:00+00:00",
-      "tags": [
-        "Front Page"
-      ]
-    },
-    {
-      "id": "f557cd5740e0f39c",
-      "url": "https://www.wsj.com/health/healthcare/in-era-of-runaway-health-inflation-employers-scramble-to-keep-costs-in-check-fdae86df",
-      "title": "In Era of Runaway Health Inflation, Employers Scramble to Keep Costs in Check",
-      "content_text": "In Era of Runaway Health Inflation, Employers Scramble to Keep Costs in Check",
-      "summary": "",
-      "date_published": "2026-10-22T09:00:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "58e580aad5085546",
-      "url": "https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7",
-      "title": "AI Stocks Slide After Earnings Disappoint",
-      "content_text": "AI Stocks Slide After Earnings Disappoint",
-      "summary": "",
-      "date_published": "2026-10-22T08:34:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "de0686b598e99dbf",
-      "url": "https://www.wsj.com/business/retail/ucb-shares-jump-after-demand-for-immunology-drug-bimzelx-boosts-outlook-73a9ff8a",
-      "title": "UCB Shares Jump After Demand for Immunology Drug Bimzelx Boosts Outlook",
-      "content_text": "UCB Shares Jump After Demand for Immunology Drug Bimzelx Boosts Outlook",
-      "summary": "",
-      "date_published": "2026-10-22T08:23:00+00:00",
-      "tags": [
-        "Business"
       ]
     }
   ]
