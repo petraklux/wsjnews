@@ -6,6 +6,61 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
+      "id": "96cb27f006686fe4",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-f0ef5cf6",
+      "title": "Pepper…and Salt",
+      "content_text": "Pepper…and Salt",
+      "summary": "",
+      "date_published": "2026-10-24T04:00:00+00:00",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "id": "fdaa76602ca5faf6",
+      "url": "https://www.wsj.com/articles/whats-news-business-finance-9a7f22d2",
+      "title": "What’s News: Business & Finance",
+      "content_text": "What’s News: Business & Finance",
+      "summary": "",
+      "date_published": "2026-10-24T02:34:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "d814a223ef77aeb4",
+      "url": "https://www.wsj.com/articles/whats-news-worldwide-3c6b99cf",
+      "title": "What’s News: Worldwide",
+      "content_text": "What’s News: Worldwide",
+      "summary": "",
+      "date_published": "2026-10-24T02:33:00+00:00",
+      "tags": [
+        "Front Page"
+      ]
+    },
+    {
+      "id": "9149fa9568e01bc2",
+      "url": "https://www.wsj.com/world/americas/lula-a-giant-of-latin-americas-left-fights-for-one-last-shot-at-power-4e7a9cb3",
+      "title": "Lula, a Giant of Latin America’s Left, Fights for One Last Shot at Power",
+      "content_text": "Lula, a Giant of Latin America’s Left, Fights for One Last Shot at Power",
+      "summary": "",
+      "date_published": "2026-10-24T02:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "0146323dea9aa68d",
+      "url": "https://www.wsj.com/politics/elections/midterm-election-poll-government-graft-corruption-6493ed51",
+      "title": "Grift Becomes Bigger Issue for Voters in Final Days Before Midterms",
+      "content_text": "Grift Becomes Bigger Issue for Voters in Final Days Before Midterms",
+      "summary": "",
+      "date_published": "2026-10-24T01:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
       "id": "25221c76fa96a05b",
       "url": "https://www.wsj.com/tech/ai/ai-math-quiz-openai-anthropic-e776b8a9",
       "title": "You Were Once Smarter Than AI at Math. Yes, Even You.",
@@ -28,14 +83,14 @@
       ]
     },
     {
-      "id": "0146323dea9aa68d",
-      "url": "https://www.wsj.com/politics/elections/midterm-election-poll-government-graft-corruption-6493ed51",
-      "title": "Grift Becomes Bigger Issue for Voters in Final Days Before Midterms",
-      "content_text": "Grift Becomes Bigger Issue for Voters in Final Days Before Midterms",
+      "id": "ad7bcf678b06edb5",
+      "url": "https://www.wsj.com/tech/ai/ai-hacks-are-coming-thick-and-fast-and-overwhelming-the-internet-4529c26c",
+      "title": "AI Hacks Are Coming Thick and Fast and Overwhelming the Internet",
+      "content_text": "AI Hacks Are Coming Thick and Fast and Overwhelming the Internet",
       "summary": "",
-      "date_published": "2026-10-24T01:00:00+00:00",
+      "date_published": "2026-10-24T00:00:00+00:00",
       "tags": [
-        "Politics"
+        "Tech"
       ]
     },
     {
@@ -47,17 +102,6 @@
       "date_published": "2026-10-24T00:00:00+00:00",
       "tags": [
         "World"
-      ]
-    },
-    {
-      "id": "ad7bcf678b06edb5",
-      "url": "https://www.wsj.com/tech/ai/ai-hacks-are-coming-thick-and-fast-and-overwhelming-the-internet-4529c26c",
-      "title": "AI Hacks Are Coming Thick and Fast and Overwhelming the Internet",
-      "content_text": "AI Hacks Are Coming Thick and Fast and Overwhelming the Internet",
-      "summary": "",
-      "date_published": "2026-10-24T00:00:00+00:00",
-      "tags": [
-        "Tech"
       ]
     },
     {
@@ -2159,50 +2203,6 @@
       "date_published": "2026-10-22T18:35:00+00:00",
       "tags": [
         "Business"
-      ]
-    },
-    {
-      "id": "b74e8e117586688f",
-      "url": "https://www.wsj.com/finance/commodities-futures/silver-futures-fall-to-lowest-this-year-as-oil-prices-fuel-inflation-risks-f013e561",
-      "title": "Silver Futures Fall to Lowest This Year as Oil Prices Fuel Inflation Risks",
-      "content_text": "Silver Futures Fall to Lowest This Year as Oil Prices Fuel Inflation Risks",
-      "summary": "",
-      "date_published": "2026-10-22T18:34:00+00:00",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "74366061f753211f",
-      "url": "https://www.wsj.com/politics/policy/corey-lewandowski-doj-investigation-a6ccde19",
-      "title": "Justice Department Reviewing Allegations Against Corey Lewandowski",
-      "content_text": "Justice Department Reviewing Allegations Against Corey Lewandowski",
-      "summary": "",
-      "date_published": "2026-10-22T18:32:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "906197599c54388e",
-      "url": "https://www.wsj.com/politics/policy/justice-department-reviewing-allegations-against-corey-lewandowski-a6ccde19",
-      "title": "Justice Department Reviewing Allegations Against Corey Lewandowski",
-      "content_text": "Justice Department Reviewing Allegations Against Corey Lewandowski",
-      "summary": "",
-      "date_published": "2026-10-22T18:32:00+00:00",
-      "tags": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "6763377b5194b902",
-      "url": "https://www.wsj.com/arts-culture/music/tammy-wynette-forever-yours-review-a-song-stuffed-tribute-on-pbs-ff022f77",
-      "title": "‘Tammy Wynette: Forever Yours’ Review: A Song-Stuffed Tribute on PBS",
-      "content_text": "‘Tammy Wynette: Forever Yours’ Review: A Song-Stuffed Tribute on PBS",
-      "summary": "",
-      "date_published": "2026-10-22T18:25:00+00:00",
-      "tags": [
-        "Arts Culture"
       ]
     }
   ]
