@@ -6,14 +6,58 @@
   "feed_url": "https://petraklux.github.io/wsjnews/feed.json",
   "items": [
     {
-      "id": "932a154461e11340",
-      "url": "https://www.wsj.com/arts-culture/film/a24-you-can-see-everything-0c2f5b4a",
-      "title": "The Secret Playbook That Made the Elizabeth Holmes Movie a Smash Hit",
-      "content_text": "The Secret Playbook That Made the Elizabeth Holmes Movie a Smash Hit",
+      "id": "25221c76fa96a05b",
+      "url": "https://www.wsj.com/tech/ai/ai-math-quiz-openai-anthropic-e776b8a9",
+      "title": "You Were Once Smarter Than AI at Math. Yes, Even You.",
+      "content_text": "You Were Once Smarter Than AI at Math. Yes, Even You.",
       "summary": "",
-      "date_published": "2026-10-23T23:00:00+00:00",
+      "date_published": "2026-10-24T01:00:00+00:00",
       "tags": [
-        "Arts Culture"
+        "Tech"
+      ]
+    },
+    {
+      "id": "9a0c0cc4b4317d45",
+      "url": "https://www.wsj.com/economy/musk-trump-accounts-spacex-charity-dell-b9c37991",
+      "title": "Billionaires Stave off the Pitchforks With Payouts to One Kid at a Time",
+      "content_text": "Billionaires Stave off the Pitchforks With Payouts to One Kid at a Time",
+      "summary": "",
+      "date_published": "2026-10-24T01:00:00+00:00",
+      "tags": [
+        "Economy"
+      ]
+    },
+    {
+      "id": "0146323dea9aa68d",
+      "url": "https://www.wsj.com/politics/elections/midterm-election-poll-government-graft-corruption-6493ed51",
+      "title": "Grift Becomes Bigger Issue for Voters in Final Days Before Midterms",
+      "content_text": "Grift Becomes Bigger Issue for Voters in Final Days Before Midterms",
+      "summary": "",
+      "date_published": "2026-10-24T01:00:00+00:00",
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "b79c89c8f0fc1bb6",
+      "url": "https://www.wsj.com/world/europe/the-yellow-vests-are-back-on-the-streets-of-france-in-test-for-government-348714c2",
+      "title": "The Yellow Vests Are Back on the Streets of France in Test for Government",
+      "content_text": "The Yellow Vests Are Back on the Streets of France in Test for Government",
+      "summary": "",
+      "date_published": "2026-10-24T00:00:00+00:00",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "id": "ad7bcf678b06edb5",
+      "url": "https://www.wsj.com/tech/ai/ai-hacks-are-coming-thick-and-fast-and-overwhelming-the-internet-4529c26c",
+      "title": "AI Hacks Are Coming Thick and Fast and Overwhelming the Internet",
+      "content_text": "AI Hacks Are Coming Thick and Fast and Overwhelming the Internet",
+      "summary": "",
+      "date_published": "2026-10-24T00:00:00+00:00",
+      "tags": [
+        "Tech"
       ]
     },
     {
@@ -25,6 +69,17 @@
       "date_published": "2026-10-23T23:00:00+00:00",
       "tags": [
         "Health"
+      ]
+    },
+    {
+      "id": "932a154461e11340",
+      "url": "https://www.wsj.com/arts-culture/film/a24-you-can-see-everything-0c2f5b4a",
+      "title": "The Secret Playbook That Made the Elizabeth Holmes Movie a Smash Hit",
+      "content_text": "The Secret Playbook That Made the Elizabeth Holmes Movie a Smash Hit",
+      "summary": "",
+      "date_published": "2026-10-23T23:00:00+00:00",
+      "tags": [
+        "Arts Culture"
       ]
     },
     {
@@ -72,10 +127,10 @@
       ]
     },
     {
-      "id": "90192c4215f6e771",
-      "url": "https://www.wsj.com/opinion/elena-kagan-democracy-gerrymandering-district-maps-judges-d9e4adec",
-      "title": "Elena Kagan’s Idea of Democracy",
-      "content_text": "Elena Kagan’s Idea of Democracy",
+      "id": "1753ae58ca2b63b8",
+      "url": "https://www.wsj.com/opinion/trump-administration-lawsuit-alaska-senate-race-dan-sullivan-64bd9f90",
+      "title": "Exposing ‘Decoy Dan’ in Alaska",
+      "content_text": "Exposing ‘Decoy Dan’ in Alaska",
       "summary": "",
       "date_published": "2026-10-23T21:31:00+00:00",
       "tags": [
@@ -83,10 +138,10 @@
       ]
     },
     {
-      "id": "1753ae58ca2b63b8",
-      "url": "https://www.wsj.com/opinion/trump-administration-lawsuit-alaska-senate-race-dan-sullivan-64bd9f90",
-      "title": "Exposing ‘Decoy Dan’ in Alaska",
-      "content_text": "Exposing ‘Decoy Dan’ in Alaska",
+      "id": "90192c4215f6e771",
+      "url": "https://www.wsj.com/opinion/elena-kagan-democracy-gerrymandering-district-maps-judges-d9e4adec",
+      "title": "Elena Kagan’s Idea of Democracy",
+      "content_text": "Elena Kagan’s Idea of Democracy",
       "summary": "",
       "date_published": "2026-10-23T21:31:00+00:00",
       "tags": [
@@ -2146,61 +2201,6 @@
       "content_text": "‘Tammy Wynette: Forever Yours’ Review: A Song-Stuffed Tribute on PBS",
       "summary": "",
       "date_published": "2026-10-22T18:25:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "0955884f3f247212",
-      "url": "https://www.wsj.com/arts-culture/film/the-only-living-pickpocket-in-new-york-review-john-turturros-old-time-thief-14dcbc7d",
-      "title": "‘The Only Living Pickpocket in New York’ Review: John Turturro’s Old-Time Thief",
-      "content_text": "‘The Only Living Pickpocket in New York’ Review: John Turturro’s Old-Time Thief",
-      "summary": "",
-      "date_published": "2026-10-22T18:11:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "accad7be8c2d5fdb",
-      "url": "https://www.wsj.com/health/pharma/moderna-cancer-vaccine-data-leaks-early-shares-plummet-f6bc4b4f",
-      "title": "Moderna’s Stock Plummets After Cancer-Vaccine Data Shared on Social Media",
-      "content_text": "Moderna’s Stock Plummets After Cancer-Vaccine Data Shared on Social Media",
-      "summary": "",
-      "date_published": "2026-10-22T18:09:00+00:00",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "id": "6eefd4c3a309b78d",
-      "url": "https://www.wsj.com/arts-culture/film/fatherland-review-thomas-mann-comes-home-ambivalently-842ee498",
-      "title": "‘Fatherland’ Review: Thomas Mann Comes Home, Ambivalently",
-      "content_text": "‘Fatherland’ Review: Thomas Mann Comes Home, Ambivalently",
-      "summary": "",
-      "date_published": "2026-10-22T18:03:00+00:00",
-      "tags": [
-        "Arts Culture"
-      ]
-    },
-    {
-      "id": "dd9a244db3aa0069",
-      "url": "https://www.wsj.com/world/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-5aeebc6e",
-      "title": "Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions",
-      "content_text": "Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions",
-      "summary": "",
-      "date_published": "2026-10-22T17:59:00+00:00",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "id": "157bc5d58bbff0e3",
-      "url": "https://www.wsj.com/arts-culture/film/wicker-review-olivia-colman-in-a-creaky-feminist-fable-973b0592",
-      "title": "‘Wicker’ Review: Olivia Colman in a Creaky Feminist Fable",
-      "content_text": "‘Wicker’ Review: Olivia Colman in a Creaky Feminist Fable",
-      "summary": "",
-      "date_published": "2026-10-22T17:54:00+00:00",
       "tags": [
         "Arts Culture"
       ]
